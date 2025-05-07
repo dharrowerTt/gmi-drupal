@@ -1,47 +1,107 @@
-# Drupal CMS
+# GMI-Drupal
 
-Drupal CMS is a fast-moving open source product that enables site builders to easily create new Drupal sites and extend them with smart defaults, all using their browser.
+This repository contains a Drupal site configured for use with the **Drupal CMS Desktop Launcher** — a lightweight desktop application that lets you run Drupal locally without needing to install web servers or command-line tools.
 
-## Getting started
+---
 
-If you want to use [DDEV](https://ddev.com) to run Drupal CMS locally, follow these instructions:
+## 🚀 Quick Start (For Developers New to Git & Drupal)
 
-1. Install DDEV following the [documentation](https://ddev.com/get-started/)
-2. Open the command line and `cd` to the root directory of this project
-3. Run the following commands:
-```shell
-ddev config --project-type=drupal11 --docroot=web
-ddev start
-ddev composer install
-ddev launch
+These instructions assume you're working on a Windows PC and using the official [Drupal CMS Desktop Launcher](https://www.drupal.org/drupal-cms/launcher) for local development.
+
+### ✅ 1. Install Git (if not installed yet)
+
+Download and install Git from:
+[https://git-scm.com/download/win](https://git-scm.com/download/win)
+
+During setup, accept the defaults. Once installed, you can right-click in any folder and choose **"Git Bash Here"**.
+
+---
+
+### ✅ 2. Set Up the Project
+
+#### First-time setup:
+
+1. **Create a `drupal` folder** inside your `Documents` folder:
+
+   ```
+   C:\Users\YourName\Documents\drupal
+   ```
+
+2. **Clone this repository** into that folder using Git Bash or terminal:
+
+   ```bash
+   git clone https://github.com/dharrowerTt/gmi-drupal "%USERPROFILE%\Documents\drupal"
+   ```
+
+3. **Download the Drupal CMS Desktop app** from:
+   [https://www.drupal.org/drupal-cms/launcher](https://www.drupal.org/drupal-cms/launcher)
+
+4. Unzip the downloaded archive and **launch the `Drupal CMS.exe` file**.
+
+> The app should automatically detect your `Documents\drupal` site and open it in the browser.
+
+---
+
+### 🔀 Updating Your Code from GitHub
+
+Once you’ve cloned the repo, you can pull down any future updates by running:
+
+```bash
+cd ~/Documents/drupal
+git pull
 ```
 
-Drupal CMS has the same system requirements as Drupal core, so you can use your preferred setup to run it locally. [See the Drupal User Guide for more information](https://www.drupal.org/docs/user_guide/en/installation-chapter.html) on how to set up Drupal.
+---
 
-### Installation options
+## 👥 Git Basics for New Collaborators
 
-The Drupal CMS installer offers a list of features preconfigured with smart defaults. You will be able to customize whatever you choose, and add additional features, once you are logged in.
+Here’s a crash course on common Git commands you’ll use:
 
-After the installer is complete, you will land on the dashboard.
+### Ἑ5 To start working:
 
-## Documentation
+```bash
+git pull         # Make sure your code is up to date
+```
 
-Coming soon ... [We're working on Drupal CMS specific documentation](https://www.drupal.org/project/drupal_cms/issues/3454527).
+### 📂 To save and share your work:
 
-In the meantime, learn more about managing a Drupal-based application in the [Drupal User Guide](https://www.drupal.org/docs/user_guide/en/index.html).
+```bash
+git add .
+git commit -m "Describe what you changed"
+git push
+```
 
-## Contributing
+---
 
-Drupal CMS is developed in the open on [Drupal.org](https://www.drupal.org). We are grateful to the community for reporting bugs and contributing fixes and improvements.
+## 🧪 Optional: GitHub Actions (for CI/CD)
 
-[Report issues in the queue](https://drupal.org/node/add/project-issue/drupal_cms), providing as much detail as you can. You can also join the #drupal-cms-support channel in the [Drupal Slack community](https://www.drupal.org/slack).
+GitHub Actions is GitHub’s automation tool. You can use it to:
 
-Drupal CMS has adopted a [code of conduct](https://www.drupal.org/dcoc) that we expect all participants to adhere to.
+* Run tests automatically
+* Deploy site assets
+* Build reports or notifications
 
-To contribute to Drupal CMS development, see the [drupal_cms project](https://www.drupal.org/project/drupal_cms).
+This project **doesn't currently use GitHub Actions**, but we can add one if needed:
 
-## License
+* Example: auto-lint PHP code
+* Example: deploy configuration to a remote server
 
-Drupal CMS and all derivative works are licensed under the [GNU General Public License, version 2 or later](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+Let us know if you'd like to add GitHub Actions and we’ll set up a starter workflow.
 
-Learn about the [Drupal trademark and logo policy here](https://www.drupal.com/trademark).
+---
+
+## 📂 What’s in This Repo?
+
+This is a standard Composer-based Drupal project. Key directories:
+
+* `/web` – Drupal's root folder (contains core, modules, themes)
+* `/config` – Exported configuration (if using `drush config:export`)
+* `composer.json` – Manages dependencies
+
+> Note: Sensitive files like `settings.php` and user-uploaded files are **excluded** from the repo for security.
+
+---
+
+## 💡 Need Help?
+
+Reach out to the lead dev or submit a GitHub issue if you need assistance setting up or contributing.
