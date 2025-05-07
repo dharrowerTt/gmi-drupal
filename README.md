@@ -98,10 +98,8 @@ This is a standard Composer-based Drupal project. Key directories:
 * `/config` – Exported configuration (if using `drush config:export`)
 * `composer.json` – Manages dependencies
 
-> Note: Sensitive files like `settings.php` and user-uploaded files are **excluded** from the repo for security.
-
 ---
 
 ## 💡 Need Help?
 
-Reach out to the lead dev or submit a GitHub issue if you need assistance setting up or contributing.
+Reach out to the dougie.harrower@tetratech.com for assistance
