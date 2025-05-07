@@ -1,0 +1,31 @@
+name: Drupal CMS Installer
+type: profile
+core_version_requirement: ^11.1
+description: Provides install-time tweaks for Drupal CMS. Not to be used in production.
+distribution:
+  name: Drupal CMS
+  install:
+    finish_url: /admin/dashboard/welcome
+    theme: drupal_cms_installer_theme
+forms:
+  - \Drupal\RecipeKit\Installer\Form\RecipesForm
+  - \Drupal\RecipeKit\Installer\Form\SiteNameForm
+recipes:
+  required:
+    - drupal/drupal_cms_starter
+  optional:
+    Blog:
+      - drupal/drupal_cms_blog
+    Case Studies:
+      - drupal/drupal_cms_case_study
+    Events:
+      - drupal/drupal_cms_events
+    News:
+      - drupal/drupal_cms_news
+    Person Profiles:
+      - drupal/drupal_cms_person
+    Projects:
+      - drupal/drupal_cms_project
+themes: []
+install:
+  - live_update
