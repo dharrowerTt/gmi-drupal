@@ -1,105 +1,147 @@
-# GMI-Drupal
+# GMI Drupal (gmidev.org) — Backup & Restore
 
-This repository contains a Drupal site configured for use with the **Drupal CMS Desktop Launcher** — a lightweight desktop application that lets you run Drupal locally without needing to install web servers or command-line tools.
+Composer-based Drupal site backup for disaster recovery, local development, and hand‑offs.
 
----
-
-## 🚀 Quick Start (For Developers New to Git & Drupal)
-
-These instructions assume you're working on a Windows PC and using the official [Drupal CMS Desktop Launcher](https://www.drupal.org/drupal-cms/launcher) for local development.
-
-### ✅ 1. Install Git (if not installed yet)
-
-Download and install Git from:
-[https://git-scm.com/download/win](https://git-scm.com/download/win)
-
-During setup, accept the defaults. Once installed, you can right-click in any folder and choose **"Git Bash Here"**.
+> This repo **excludes** user uploads (`web/sites/*/files/`), Composer vendor code, and secrets (`settings.php`).
 
 ---
 
-### ✅ 2. Set Up the Project
+## Repository Layout
 
-#### First-time setup:
+```
+/
+├─ composer.json
+├─ composer.lock
+├─ web/                # Drupal docroot
+│  ├─ core/
+│  ├─ modules/
+│  ├─ themes/
+│  ├─ sites/
+│  │  └─ default/
+│  │     ├─ (settings.php NOT committed)
+│  │     └─ (files/ NOT committed)
+│  └─ index.php
+├─ database/           # optional DB dumps (.sql/.sql.gz)
+├─ .gitignore
+└─ .gitattributes
+```
 
-1. **Create a `drupal` folder** inside your `Documents` folder:
+**Ignored on purpose**
 
-   ```
-   C:\Users\YourName\Documents\drupal
-   ```
+- `web/sites/*/files/`, `web/sites/*/private/`
+- `web/sites/*/settings.php`, `settings.local.php`, other secrets
+- `vendor/` (recreated by Composer)
+- Large binaries (e.g., videos) unless explicitly handled
 
-2. **Clone this repository** into that folder using Git Bash or terminal:
+---
+
+## Requirements
+
+- PHP 8.x
+- Composer 2.x
+- MySQL/MariaDB
+- Apache or Nginx (docroot → `web/`)
+
+---
+
+## Quick Restore (Local)
+
+1. **Clone**
 
    ```bash
-   git clone https://github.com/dharrowerTt/gmi-drupal "%USERPROFILE%\Documents\drupal"
+   git clone https://github.com/dharrowerTt/gmi-drupal.git
+   cd gmi-drupal
    ```
 
-3. **Download the Drupal CMS Desktop app** from:
-   [https://www.drupal.org/drupal-cms/launcher](https://www.drupal.org/drupal-cms/launcher)
+2. **Install dependencies**
 
-4. Unzip the downloaded archive and **launch the `Drupal CMS.exe` file**.
+   ```bash
+   composer install
+   ```
 
-> The app should automatically detect your `Documents\drupal` site and open it in the browser.
+3. **Create `settings.php`**
+   Create `web/sites/default/settings.php` (example):
 
----
+   ```php
+   <?php
+   $databases['default']['default'] = [
+     'database' => 'gmi_local',
+     'username' => 'gmi_user',
+     'password' => 'REDACTED',
+     'host'     => '127.0.0.1',
+     'port'     => '3306',
+     'driver'   => 'mysql',
+     'prefix'   => 'dr1l_',
+     'collation'=> 'utf8mb4_general_ci',
+   ];
+   $settings['hash_salt'] = 'replace-with-random-string';
+   // Optional: move config sync outside the webroot.
+   // $settings['config_sync_directory'] = $app_root . '/../config/sync';
+   ```
 
-### 🔀 Updating Your Code from GitHub
+4. **Ensure files directory exists**
 
-Once you’ve cloned the repo, you can pull down any future updates by running:
+   ```bash
+   mkdir -p web/sites/default/files
+   ```
 
-```bash
-cd ~/Documents/drupal
-git pull
-```
+5. **Import the database**
 
----
+   ```bash
+   # Plain SQL
+   mysql -u gmi_user -p gmi_local < database/your_dump.sql
 
-## 👥 Git Basics for New Collaborators
+   # Gzipped
+   gunzip -c database/your_dump.sql.gz | mysql -u gmi_user -p gmi_local
+   ```
 
-Here’s a crash course on common Git commands you’ll use:
+6. **Post-restore**
 
-### Ἑ5 To start working:
-
-```bash
-git pull         # Make sure your code is up to date
-```
-
-### 📂 To save and share your work:
-
-```bash
-git add .
-git commit -m "Describe what you changed"
-git push
-```
-
----
-
-## 🧪 Optional: GitHub Actions (for CI/CD)
-
-GitHub Actions is GitHub’s automation tool. You can use it to:
-
-* Run tests automatically
-* Deploy site assets
-* Build reports or notifications
-
-This project **doesn't currently use GitHub Actions**, but we can add one if needed:
-
-* Example: auto-lint PHP code
-* Example: deploy configuration to a remote server
-
-Let us know if you'd like to add GitHub Actions and we’ll set up a starter workflow.
+   - Clear caches: visit `/core/rebuild.php` or run `drush cr` (if available).
+   - Run updates at `/update.php` if needed.
+   - Verify file permissions and base URL.
 
 ---
 
-## 📂 What’s in This Repo?
+## Backups (How this repo is maintained)
 
-This is a standard Composer-based Drupal project. Key directories:
-
-* `/web` – Drupal's root folder (contains core, modules, themes)
-* `/config` – Exported configuration (if using `drush config:export`)
-* `composer.json` – Manages dependencies
+- **Code:** `web/` (docroot) committed, excluding ignored paths.
+- **DB:** export to `database/` (prefer `.sql.gz`).
+- **Uploads:** backed up **outside Git** (zip/tar or object storage). For GitHub, consider attaching large assets as **Release** files.
 
 ---
 
-## 💡 Need Help?
+## Deployment / Restore to a New Host
 
-Reach out to the dougie.harrower@tetratech.com for assistance
+1. Provision PHP, MySQL, and a web server.
+2. Clone this repo and run `composer install`.
+3. Create a new DB and import the latest dump from `/database/`.
+4. Create/adjust `web/sites/default/settings.php` for the new DB and environment.
+5. Restore `web/sites/default/files/` from your off‑Git backup.
+6. Point the virtual host’s docroot to the `web/` folder.
+7. Clear caches; run database updates at `/update.php` if needed.
+
+---
+
+## Conventions & Tooling
+
+- **Line endings:** enforced via `.gitattributes` (`LF` for source; `CRLF` for Windows scripts).
+- **Secrets:** never commit real credentials. `settings.php` is **ignored** by Git.
+- **Size limits:** GitHub rejects any single file >100 MB. Very large assets should not live in Git history.
+
+---
+
+## Troubleshooting
+
+- **Push rejected (>100 MB file)**
+  Remove the file from the commit and add a rule to `.gitignore`, then recommit and push. If it’s already in history, use `git filter-repo` or BFG to purge.
+
+- **Can’t see DB in phpMyAdmin**
+  The site’s DB may be on a different MySQL host or not attached to your cPanel user. Use Adminer or ask the host to attach the DB so it appears in phpMyAdmin.
+
+---
+
+## Maintainer / Contact
+
+For questions about this repository or restores, contact:
+**[dougie.harrower@tetratech.com](mailto:dougie.harrower@tetratech.com)**
