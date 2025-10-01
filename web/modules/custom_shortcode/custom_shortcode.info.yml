@@ -1,0 +1,7 @@
+name: "Custom Shortcode"
+type: module
+description: "Allows embedding resource blocks with shortcodes like [resource_block:tid]"
+core_version_requirement: ^11
+package: Custom
+dependencies:
+  - views

@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x3891A7">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Lato" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Lato" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Lato" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Lato" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Lato" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Lato" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Basics of Coal Mine Methane" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" />
+              <option name="html5_logo_url" value="mobile/5vh43SxnB6c.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="References" />
+                  <property name="data" value="6fKzz1vZwMd" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDCDCDC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x214400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428E00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E5D00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C7C00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x373737" alpha="77" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="1" stop="89" />
+                <color rgb="0x000000" alpha="6" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3891A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3891A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x919191" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3891A7" alpha="30" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use your arrow keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_view_image">view image</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="Basics of Coal Mine Methane" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5fMwUARbQYZ" displaytext="Why is Methane Important?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5robsBj2RJs" displaytext="What is the Difference Between CMM and CBM?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6VfrHvfejpC" displaytext="Benefits of CMM Capture" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Basics of CMM: Course Sections" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Basics of CMM" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.6iW1nXvfPVH" displaytext="Section 1 Methane Gas in Coal" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.68ZqKy1fKhN" displaytext="Why is There Methane in Coal?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6PZb5ZFzcvv" displaytext="The Origin of Gas in Coal" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6b4InlWegyb" displaytext="What are the Types of Coal?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5wFx60EVzkB" displaytext="Methane in Mines" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6Na1L1NV1sw" displaytext="Section 2 Methods of Coal Production" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.68dAHdXp6LB" displaytext="Overview of Coal Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6IgSjMDzcOW" displaytext="Underground Mining Example" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C2MLPKbXH9" displaytext="Underground: Room and Pillar Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ycFPT7EJsd" displaytext="Underground: Longwall Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QFKQ8LGcvN" displaytext="Surface Mining Example" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dycYysBD7I" displaytext="Overview of Surface Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qgDJpE2FLK" displaytext="Surface: Strip Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6bj0VpsdCxz" displaytext="Forms of Strip Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BvNGucD9aq" displaytext="Surface: Open-Pit Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kWQt3F6AqQ" displaytext="Uses of Coal" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5sPA2fbdFcr" displaytext="How Use of Coal Affects Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6pA5aXHYsM7" displaytext="Summary of Coal Production" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5kdaJBJuY7w" displaytext="Section 3 CMM Emissions" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5gIb9JjhxAW" displaytext="Occurrence of Emissions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Release of Emissions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5d9sOiQVqwL" displaytext="Methane Emissions in Coal Mines" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6RTB7DQEFvN" displaytext="Global Estimated Methane Emissions in Coal Mines " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66afqeEJT5n" displaytext="2019 CMM Emissions in the United States" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6106EkNoHFG" displaytext="Section 4 Methane Capture" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5dseDF5Ji9z" displaytext="Sources of Coal Mine Methane" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.672w25Vf68G" displaytext="Components of Underground Coal Mines" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lcgoIvB7lj" displaytext="Ventilation Air Methane" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.5Y9XBB80fkT" displaytext="Mine Ventilation" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5w79hr75Y08" displaytext="Ventilation Air Methane" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5ba41FztNxd" displaytext="VAM Uses" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5b0NbvYLIkf" displaytext="Methane from Drainage Systems" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6P4VHofXcUS" displaytext="Methane from Drainage Systems Example" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5k7TbUDZy2C" displaytext="Drained Methane" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6EQiqCjAYIC" displaytext="Benefits of Methane Drainage Systems" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6px628QqiAS" displaytext="Benefits of Improving Mine Gas Drainage" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6EMiiVUpyaE" displaytext="Basic Principles of Methane Drainage" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6LTDxANJiFI" displaytext="Schematic of a Gas Drainage System" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.6oGZOzBdOkQ" displaytext="Pre-Mine Methane Drainage" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6e2d05Oi8vT" displaytext="Pre-Mine Methane Drainage: Surface Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6MQgbJwq6e5" displaytext="Horizontal Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5soQ9qGz94f" displaytext="Advantages of Horizontal Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5oxAb9uGRRo" displaytext="Disadvantages of Horizontal Boreholes" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5gLOkywhDgO" displaytext="Post-Mine Methane Drainage" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6V4O80sEFEr" displaytext="Post-Mine Methane Drainage Example" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5i35KxjubBp" displaytext="Post-Mine Methane Drainage Diagrams" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5aYO2FGi0vD" displaytext="Surface Gob Well Configuration" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5XTNr6Krlub" displaytext="Surface Gob Wells Example" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6AgZeXf79Sq" displaytext="Post-Mine Methane Drainage: From the Surface" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5vA8q5i2QWY" displaytext="Advantages of Post-Mine Drainage from the Surface" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6ei6Vh3uOTz" displaytext="Disadvantages of Post-Mine Drainage from the Surface" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6pXviUtZALA" displaytext="Post-Mine Methane Drainage: In-Mine Methods" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5fCeY8QgYtS" displaytext="In-Mine Horizontal Gob Drainage" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6HCadLGoCeG" displaytext="Directionally Drilled Gob Drainage Well Schematic" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6NiN0cVqbtb" displaytext="Advantages of In-Mine Horizontal Gob Drainage" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6VQAgyfNPRS" displaytext="Disadvantages of In-Mine Horizontal Gob Drainage" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6qEdKBRwnUK" displaytext="Cross-Measure Boreholes Gob Drainage " expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5gO1hobQKUW" displaytext="Advantages of Cross-Measure Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5Z1eqhU0ujx" displaytext="Disadvantages of Cross-Measure Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6nzQg1sRP2Y" displaytext="Roadways/Galleries" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6a0lxW9Mguu" displaytext="Advantages of Roadways/Galleries" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5h6dmX3zweX" displaytext="Disadvantages of Roadways/Galleries" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5VNe9TFinui" displaytext="Surface Mine Methane" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6Kez1L8pqCp" displaytext="What is Surface Mine Methane?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5lntFem07RP" displaytext="Degasifying Surface Mines" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6HsWhMh6SPl" displaytext="Lateral Wells in Advance of Mining" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.6HdBxqLGz0l" displaytext="Abandoned Mine Methane" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.5yfJqPIyNbX" displaytext="What is Abandoned Mine Methane (AMM)?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6jnnu4F6S0b" displaytext="AMM Diagram" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5ejTUxkWufm" displaytext="Why is AMM Important? " expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6IsEl5jOMGo" displaytext="AMM vs CMM: Purpose of Extraction" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6QDM3qJDbIB" displaytext="Section 5 Beneficial Uses of Captured Methane" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5X5r6Xs1MiU" displaytext="Benefits of Capturing and Using CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5lWiyn5sf1P" displaytext="Assessing Viability of CMM Use" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5VrT52WWSLQ" displaytext="CMM End Use Options" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eXWn06HCNA" displaytext="GMI International CMM Project Database" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gaCSnpRItM" displaytext="Uses of CMM Globally" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5d45PJxPHx4" displaytext="Example CMM Project: Duerping Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZB1YRtaA4N" displaytext="Example CMM Project: Bailey Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5qO3zjIAeRC" displaytext="Example CMM Project: Sangzhang Mine " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5wFwFVam8PC" displaytext="CMM End Use: Power Generation/CHP" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.64mJYsxtVau" displaytext="CMM End Use: Heating and Cooling" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.667dwT7ttVz" displaytext="CMM End Use: High-Quality Pipeline Gas" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xhTmIe5dDL" displaytext="CMM End Use: Regional and Export Gas Sales" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5uHtmY27PRK" displaytext="CMM End Use: Medium-Quality Industrial Gas" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6cB2XqVxqYr" displaytext="CMM End Use: Industrial Use" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qEGOpiCDbH" displaytext="CMM End Use: Chemical Feedstock" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TG7BwNfley" displaytext="CMM End Use: Chemical Feedstock" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5lXHYAMz2cZ" displaytext="CMM End Uses: Mine Site" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5yRJI384DvD" displaytext="CMM End Use: Transportation Fuel" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ZZdRbNW3U9" displaytext="CMM End Use: Transportation Fuel" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6NqOYqTyhzc" displaytext="CMM End Use: Flaring CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nKZQpm60rN" displaytext="CMM: Flaring" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6n2YHFxAtjH" displaytext="CMM End Use: VAM Oxidation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.64vJZW1cZzL" displaytext="Recent Trends in CMM Worldwide" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6hTYJqRB8b2" displaytext="Section 6 Additional Resources" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6dZxyOccQvm" displaytext="The Global Methane Initiative" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6HdQqo3aAbg" displaytext="International Documents and Tools" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Mbtf6eMXBl" displaytext="Best Practice Guidance for Effective Methane Drainage" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5W9NZRW5ifp" displaytext="Best Practice Guidance for Effective Methane Recovery" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5WNPhIJmnMb" displaytext="Coalbed Methane Outreach Program" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5YnVVSnX8pS" displaytext="CMOP Resources" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">basics of coal mine methane training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome this training was developed by united states environmental protection agency (usepa) in support of voluntary activities to reduce methane emissions under the coalbed methane outreach program (cmop) and the global methane initiative (gmi). what is the gmi? you will learn about the following topics in this course: why is there methane in coal? what are the primary methods of extracting coal? what are the characteristics of methane emissions from coal mines, otherwise known as coal mine methane (cmm)? how is methane captured using mine ventilation and gas drainage? what are the beneficial uses of captured methane?</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5fMwUARbQYZ" slidebank="false" type="slide"> why is methane important? methane is a potent greenhouse gas (ghg). it is the second most abundant ghg behind carbon dioxide (co2):  global warming potential: 28-36 times that of co2 over 100 years atmospheric lifetime: 12 years  methane is a well-mixed gas in the atmosphere. reductions anywhere in the world impact global concentrations.   methane in mines also poses a safety risk due to its explosiveness when mixed with air in concentrations between 5% and 17%. global projections for 2030 projected global methane emissions from coal mining are estimated to reach 911 million metric tons co2 equivalent (mmtco2e) in 2030, which is about 10% of global anthropogenic methane emissions.</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5robsBj2RJs" slidebank="false" type="slide">what is the difference between cmm and cbm? this course focuses on cmm as a ghg and a byproduct of mining. cmm is an opportunity to reduce methane emissions through recovery and use. coal mine methane (cmm) cmm is gas that is released, or would be released, into mine workings as a result of coal production. the gas consists of a mixture of methane, co2, nitrogen, other hydrocarbons, and water vapor. cmm is emitted from the mine workings through ventilation systems and gas drainage systems. the definition of cmm also includes gas drained in advance of mining. cmm drained ahead of mining can be of high purity, but it is only considered to be cmm when the well is mined through. otherwise, it is considered coalbed methane (cbm). cmm is also known as waste mine methane and waste coal mine gas.  coalbed methane (cbm) cbm is a generic term for the methane-rich gas that naturally occurs in coal seams. it is typically comprised of 80% to 95% methane, with lower proportions of ethane, nitrogen, and co2. in common international use, this term refers to methane that is recovered from un-mined coal seams using surface boreholes. cbm is also known as coal seam gas and coal seam methane.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6VfrHvfejpC" slidebank="false" type="slide">benefits of cmm capture benefits of recovering and using cmm include: generating a source of local, clean-burning energy. enhancing mine safety by reducing in-mine concentrations of methane in ventilation air. reducing greenhouse gas emissions. creating jobs and economic development. improving air quality. increasing mine productivity. creating revenue for the coal mine through the sale of gas.</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide">  basics of cmm: course sections section 1:  methane gas in coal section 2:  methods of coal production  section 3:  cmm emissions section 4:  methane capture section 5:  beneficial uses of captured methane section 6:  additional resources </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6iW1nXvfPVH" slidebank="false" type="slide">section 1 methane gas in coal</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68ZqKy1fKhN" slidebank="false" type="slide">why is there methane in coal? plant debris, such as that which is found in modern swamps, will slowly change into coal if the material becomes buried at a sufficient depth and remains covered for a length of time, through a process known as coalification. the greater the temperature, pressure, and duration of coal burial, the higher the coal maturity (also known as the "rank").  methane is generated at the same time coal is formed; the higher the rank, the more methane is formed. methane generated during coalification becomes trapped and stored in the coal itself through the process of sorption. methane can also accumulate in adjacent porous rock layers or naturally occurring fractures.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6PZb5ZFzcvv" slidebank="false" type="slide">the origin of gas in coal   organic debris peat pressure   heat by-products water methane carbon dioxide residual products coal methane  during the transformation of organic matter to coal, methane and other gases are generated and stored in the coal matrix and the fractures or pore spaces of the coal seams.   time</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6b4InlWegyb" slidebank="false" type="slide">what are the types of coal? there are four major types (or ranks) of coal. the ranking depends on the coal deposit's content in terms of heat energy as well as the types and amounts of carbon. this content, in turn, is determined by the amount of pressure and heat that acted on the plants over time.   click on each of the types to learn more.  anthracite anthracite anthracite anthracite anthracite anthracite bituminous anthracite anthracite anthracite anthracite bituminous subbituminous subbituminous subbituminous subbituminous subbituminous subbituminous lignite lignite lignite lignite lignite lignite</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wFx60EVzkB" slidebank="false" type="slide">methane in mines methane in mines poses safety risks because of its explosiveness when mixed with air. methane is explosive in underground mines at concentrations of 5-17% volume in air. the regulatory limits for methane concentrations in ventilation shafts generally range from 1.0 - 2.0% and will vary by country. the ranges of methane concentrations typically found in underground mines are: mine ventilation shafts:  0 – 2.0% gas drainage systems:  25 - 100% lower methane concentrations are allowed in gas drainage systems in some countries, but average concentrations below 25% should be avoided due to the close proximity to the upper explosive level of methane.  click to view a chart that displays explosion risk by methane concentration in underground mines.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Na1L1NV1sw" slidebank="false" type="slide">section 2 methods of coal production</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68dAHdXp6LB" slidebank="false" type="slide"> overview of coal production coal is extracted by using two commercial methods: underground mining, which is responsible for the vast majority of cmm emissions globally. underground mining includes: room and pillar mining (also known as bord and pillar) longwall mining surface mining strip mining open-pit mining the choice of mining method is largely determined by the geology of the coal deposit, including: burial depth coal seam thickness geological structure and stresses</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6IgSjMDzcOW" slidebank="false" type="slide">underground mining example underground mining accounts for approximately 60% of the world’s coal production and the vast majority of global cmm emissions.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C2MLPKbXH9" slidebank="false" type="slide">underground: room and pillar mining coal deposits are mined by cutting a network of rooms into the coal seam and leaving behind pillars of coal to support the roof of the mine. these pillars can comprise up to 40% of the total coal in the seam. the remaining pillars of coal can sometimes be recovered at a later stage. room and pillar mines account for a smaller share of the world’s underground coal production.   click to view a video of a continuous miner (deserado mine blue mountain energy).      </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ycFPT7EJsd" slidebank="false" type="slide">underground: longwall mining longwall mining involves the extraction of coal from a section of the coal seam, or panel, using mechanical shearers. a longwall panel requires careful planning to ensure favorable geology exists throughout the section before development work begins. the coal panel can vary in width from 100-500 meters. self-advancing, hydraulically-powered support temporarily holds up the roof while coal is extracted. when coal has been extracted from the area, the roof is allowed to collapse. longwall mining is best suited for uniform coal seams of medium height, 107- 152 centimeters (42-60 inches), but longwall caving methods are used on higher seam heights. in the united states, seam heights can reach 200 inches (508 cm).   longwall mines account for the largest share of the world’s underground coal production. in the united states, 33 mines operated using longwall mining methods in 2021.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QFKQ8LGcvN" slidebank="false" type="slide">surface mining example open-pit wyodak coal mine, powder river basin - gillette, wyoming.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dycYysBD7I" slidebank="false" type="slide"> overview of surface mining surface mining is generally used when coal seams are less than 60 meters (approximately 200 feet) from the surface. surface mining accounts for approximately 40% of the world’s coal production.  there are two types of surface mines: strip mine stripping contour stripping open-pit mine</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qgDJpE2FLK" slidebank="false" type="slide"> click to view a video of a strip mining operation (black thunder coal mine).       surface: strip mining in strip mining:  the mine is developed along a coal seam. the mine can be developed in tiers or contours parallel to the strike. as each strip is mined, the waste rock is placed in the excavation produced by the previous strip.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bj0VpsdCxz" slidebank="false" type="slide">forms of strip mining there are two forms of strip mining: area stripping is used on fairly flat terrain where the coal seam is gently dipping; the coal deposit is extracted over a large area.  contour stripping involves removing the overburden above the coal seam and near the outcrop in hilly terrain, where the seam outcrop usually follows the contour of the land. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BvNGucD9aq" slidebank="false" type="slide">surface: open-pit mine in an open-pit mine, there are numerous levels or benches (stepped from the surface to the bottom of the pit). pit walls are designed for slope stability and prevention of rock falls or wall failure. haulage roads are located along the side of the pit to remove coal and waste rock. waste rock is piled at the surface near the edge of the pit. once mining ceases, it is returned to the pit and re-contoured to the approximate original contours, or shaped to facilitate post-mining land use.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kWQt3F6AqQ" slidebank="false" type="slide">uses of coal the vast majority of coal globally is used for production of heat and electricity. such coal is also referred to as steam, or thermal, coal. thermal coal accounts for 85% of global coal demand.  coal is also used in the production of iron and steel. coal used for this purpose is typically of higher rank and is referred to as coking, or metallurgical, coal. metallurgical coal accounts for 14.5% of global coal demand. in addition to electricity generation, large-scale district heating, and iron and steel production, other uses of coal include: cement production production of synthetic fuels manufacture of carbon fiber and foams home, commercial and industrial heating</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5sPA2fbdFcr" slidebank="false" type="slide">how use of coal affects production considering the different uses of coal is important because coal production might target different markets and be responding to different price signals.  similarly, policymakers might develop separate approaches for the different types of coal. higher rank coals, such as anthracite and bituminous coal seams, often have higher gas contents and emit more methane emissions when mined.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pA5aXHYsM7" slidebank="false" type="slide">summary of coal production coal is produced from underground and surface mines.  globally, underground mines account for the largest share of coal production. longwall mines produce the most coal from underground mines. underground mines, especially high-production longwall mines, emit most of the cmm globally. surface mines are usually designed to recover coal from shallow seams near the surface. the primary markets of coal are electricity and heat production, as well as steel manufacturing. planning for cmm utilization during coal mine development and closure can enhance environmental performance.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kdaJBJuY7w" slidebank="false" type="slide">section 3 cmm emissions</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gIb9JjhxAW" slidebank="false" type="slide">  occurrence of emissions during mining, the coal seam is extracted using mining equipment, which disturbs both the coal seam and adjacent strata. in underground mines, where the mine is connected to the atmosphere by ventilation and equipment shafts, the hydrostatic pressure on the coal seam is lowered, which causes methane to desorb and migrate into the coal cleats and natural fractures, and eventually into the mine workings. gas will flow into the workings where the zone of disturbance can extend above the longwall 160 m to 200 m into the roof and below the longwall to about 40 m to 70 m into the floor.   indicates the migration of methane</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">release of emissions the rate and amount of gas released depends on several factors: initial amount of gas contained in the coal (gas content) coal seam permeability distribution and thickness of the coal seams disturbed by mining strength of the coal-bearing strata and overlying and underlying formations mining geology rate of coal production mine design</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5d9sOiQVqwL" slidebank="false" type="slide">methane emissions in coal mines drained gas drained gas also known as methane drainage or drainage system methane. gas is removed from coal seams before and/or during mining in especially gassy mines to supplement mine ventilation using a system of boreholes and gas pipelines that remove and transport gas to the surface. drained gas ventilation air methane (vam) vam vam systems remove methane at very dilute concentrations through mine ventilation shafts. it is estimated that 70% or more of all global coal mining related emissions are from underground ventilation air. ventilation air methane (vam) surface mine methane surface mine methane surface mines emit less methane than underground mines, but because of the large volume of coal production, some surface mines can emit very large quantities of methane.   surface mine methane post-mining post-mining post-mining emissions occur from the storage, processing, and transport of coal following production, as produced coal continues to emit small quantities of methane.   post-mining methane is released during different aspects of mining: methane is released during different aspects of mining:  click on each of the aspects to learn more.  abandoned mine methane abandoned mine methane abandoned mines can still produce and release methane from disturbed strata after mining activities conclude.   abandoned mine methane</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6RTB7DQEFvN" slidebank="false" type="slide">global estimated methane emissions in coal mines  global estimated cmm emissions for 2025: 942 mmtco2e*  *u.s. environmental protection agency. (2019).  global non-co2 greenhouse gas emission projections &amp; mitigation:  2015 - 2050.  u.s. environmental protection agency, office of air &amp; radiation.  epa 430-r-19-010, october 2019 global estimated cmm emissions for 2035: 886.5 mmtco2e* </slidetext>
+      <slidetext slideid="6R0OsurKeaO.66afqeEJT5n" slidebank="false" type="slide">2019 cmm emissions in the united states source: inventory of u.s. greenhouse gas emissions and sinks: 1990-2019. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks net cmm emissions (cmm liberated less cmm used)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6106EkNoHFG" slidebank="false" type="slide">section 4 methane capture</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5dseDF5Ji9z" slidebank="false" type="slide">sources of coal mine methane coal mine methane can be captured from: underground mines through: mine ventilation systems (gas captured using this method is referred to as ventilation air methane, or vam) gas drainage by means of gob wells, pre-mine wells, drainage galleries, or horizontal boreholes surface mines abandoned mines</slidetext>
+      <slidetext slideid="6R0OsurKeaO.672w25Vf68G" slidebank="false" type="slide"> components of underground coal mines gob (click for description) the gob refers to the collapsed area of strata produced by the removal of coal and artificial supports behind a working coalface; the term goaf, which has the same meaning, is used throughout most of the rest of the world. strata above and below the gob is de-stressed and fractured by the mining activity, thereby creating an increased permeability and release of gas from the coal and surrounding strata. hydrocarbon gas released from this disturbed zone is often termed gob gas and can be captured and removed by drainage boreholes.  mine ventilation system  (click for description) the air evacuated from the mine’s workings. it contains dilute concentrations of methane.  gob well (click for description) gob wells capture methane from the gob area, which is the collapsed zone created after the longwall has passed. gob wells initially produce gas of high quality, but the quality quickly degrades due to air intrusion into the gob over time. gob wells typically require pumps to provide vacuum pressure to draw the gas to the surface.   direction of mining (click for description) as the longwall advances, pre-mine drainage boreholes are “mined” through and no longer produce gas. after the longwall passes, gob wells begin producing gas from the gob and de-stressed strata. longwalls are either “advancing” meaning they begin at the main entry (or heading) and proceed to the end of the longwall panel, or they are “retreating” meaning they start at the end of the panel and proceed toward the main entry (or heading).  shaft (click for description) ventilation air is routed through the mine’s ventilation system through upcast ventilation shafts with large fans that draw the ventilation air to the surface. the ventilation air is vented to the atmosphere, resulting in methane emissions or destroyed using oxidizers. in addition to vertical upcast shafts, ventilation shafts may also be drift shafts (horizontal) or slope (angled) shafts.     click on the icons to learn more.  pre-mine well (click for description) pre-mine wells are drilled from the surface to produce methane in advance of mining, in some cases, for 10 or more years prior to the coal seam being mined. methane concentrations in pre-mine drainage wells are normally very high and can be used in a variety of ways, including end uses that require very high quality gas such as natural gas pipeline injection. more costly than gob wells, the viability of pre-mine drainage wells is largely dependent on the gas content and permeability of the mined coal seam and access to markets for the high quality gas. pre-mine drainage wells must be plugged and abandoned as the longwall passes and the well is “mined-through.”    gas drainage system (click for description) it is often necessary to supplement mine ventilation with degasification, or drainage, that is done either before mining begins (pre-mine drainage) or during mining (post-mine drainage). drainage systems may range from relatively simple designs that employ a single vertical well drilled before or after mining, to more complex, integrated systems that use a combination of vertical and horizontal wells. the primary components of a gas drainage system are: boreholes (pre-mine or post-mine, drilled in-mine or from the surface), a system of gathering pipelines, and a pump station that draws the gas to the surface.  pre-mine horizontal borehole (click for description) a common practice worldwide is to drill in-mine horizontal pre-mine drainage boreholes to reduce the methane content of the mined seam. horizontal in-seam boreholes can be drilled perpendicular across the longwall panel or along the length of the panel. drainage times vary and are dependent on mine development and the rate of mining, but theoretically can be five to ten years prior to the longwall being mined.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lcgoIvB7lj" slidebank="false" type="slide">ventilation air methane</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Y9XBB80fkT" slidebank="false" type="slide">mine ventilation mines are ventilated by either: exerting positive pressure in the mine to push air through, or creating negative pressures to draw the air through the mine. the discharge point of surface exhaust fans is called the evase. the evase is used to direct the exhausted air safely away from the mine.  large volumes of air move at high velocity and carry very low concentrations of methane.   ventilation evase at underground mine (datong mine, songzao area, china)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5w79hr75Y08" slidebank="false" type="slide">ventilation air methane gassy underground coal mines employ large-scale ventilation systems to move fresh air into the mine. these systems dilute the methane that is released into the mine workings as coal is extracted and remove the gas from the mine, creating safer working conditions. ventilation air exhausts contain very dilute concentrations of methane (typically less than 1%, and often less than 0.5%).   ventilation evase at underground mine </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ba41FztNxd" slidebank="false" type="slide">vam uses options for vam utilization that are currently available and/or under development include:  principal fuel oxidation, with or without energy recovery (in commercial use) gas turbines—microturbines (e.g., 30 kw) and full-sized turbines (&gt;0.5 mw)  supplemental fuel  (i.e., combustion air) internal combustion engines turbines utility or industrial boilers hybrid rotary kiln/gas turbine</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5b0NbvYLIkf" slidebank="false" type="slide">methane from drainage systems</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6P4VHofXcUS" slidebank="false" type="slide">methane from drainage systems example horizontal borehole drilling location</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5k7TbUDZy2C" slidebank="false" type="slide">drained methane drained methane (also known as drainage system methane or drained gas) refers to gas that is captured and transported (i.e., drained) through a system of pre-mine or post-mine boreholes or drainage galleries, followed by the collection and movement of that gas through a pipeline network to the surface. the purpose of gas drainage is to capture the maximum volume of high-quality methane at its source before it can enter the mine workings. gas drainage systems are deployed at some, but not all, mines to maintain safe methane concentrations in the mine workings. they can differ widely in design depending on the properties of the mine and other factors. they can be as small as one well, or a complex network of multiple boreholes, gathering systems, and pumps.  the design of gas drainage systems is driven by regulatory mandates or professional judgement. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6EQiqCjAYIC" slidebank="false" type="slide"> benefits of methane drainage systems investment in good gas drainage practices results in: less downtime due to gassy mine conditions safer mining environments  opportunity to use gas and reduce mine methane emissions reduced ventilation costs</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6px628QqiAS" slidebank="false" type="slide">skilled job training and creation direct and indirect cost savings for the mine safe utilization of otherwise wasted gas resources energy recovery ghg emission reductions fewer coal production shutdowns or slowdowns maintain or increase production capacity ch4 concentrations in mine gas drainage ≥ 30% reduces explosion risks, protecting mine staff and infrastructure benefits of improving mine gas drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6EMiiVUpyaE" slidebank="false" type="slide">basic principles of methane drainage gas drainage system gas drainage system an integrated system combining boreholes with a gas gathering system, consisting of pipelines and vacuum pumps or compressors, to transport gas from the mine workings to the surface. gas drainage system pre-mine drainage boreholes pre-mine drainage boreholes boreholes drilled into the mined seam or adjacent gas-bearing rock and coal strata in advance of mining to remove methane before mining occurs. pre-mine drainage boreholes post-mine drainage boreholes post-mine drainage boreholes boreholes drilled above or below the mined seam which produce methane from gob areas after the coal seam is mined.   post-mine drainage boreholes drainage galleries drainage galleries an alternative to post-mine drainage boreholes, these are existing roadways or purpose-driven roadways above or below the mined seam that collect methane from gob areas.   drainage galleries methane drainage includes the following basics elements: gas gathering system gas gathering system a system of pipelines, moisture and dust removal equipment, and prime movers (e.g., vacuum pumps, compressors) that transport gas from borehole wellheads to the surface.   gas gathering system  click on each of the elements to learn more. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6LTDxANJiFI" slidebank="false" type="slide"> schematic of a gas drainage system                        </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6oGZOzBdOkQ" slidebank="false" type="slide">pre-mine methane drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6e2d05Oi8vT" slidebank="false" type="slide">pre-mine methane drainage: surface boreholes  another option to extract methane in advance of mining is through wells drilled vertically or directionally from the surface ahead of mining operations.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6MQgbJwq6e5" slidebank="false" type="slide">horizontal boreholes to drain methane ahead of mining, horizontal boreholes may be drilled into the coal seam from development entries in the mine, such as passageways (or roads) and mined out spaces (galleries) where equipment is located.  these boreholes drain methane from the un-mined areas of the coal seam shortly before mining, reducing the flow of methane into the mining section. in-seam boreholes can be drilled on a straight line, or directionally drilled across the longwall panel or along the length of the panel.  planview of cross-panel in-seam boreholes drilled from roadways   planview of directionally drilled in-seam boreholes drilled from roadways  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5soQ9qGz94f" slidebank="false" type="slide"> advantages of horizontal boreholes advantages of draining methane though horizontal boreholes include: gas is removed in advance of mining produced gas is high purity  gas drainage is independent of coal extraction operations less costly than vertical boreholes applicable in deep mines, depending on coal permeability can reduce outburst risk in seams allows high development rates in gassy headings removes gas that cannot be intercepted during post-drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oxAb9uGRRo" slidebank="false" type="slide"> disadvantages of horizontal boreholes disadvantages of draining methane though horizontal boreholes include: boreholes need to be drilled in advance of mining the coal seam must have a moderate to high natural permeability the use of horizontal boreholes only reduces gas emissions from the worked seam, not from adjacent seams disturbed by longwall mining water production in the borehole, borehole stability, directional control of drilling can be problematic in some seam locations, and produced water treatment and disposal trained, underground team of firedamp (cmm) drillers is required</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gLOkywhDgO" slidebank="false" type="slide">post-mine methane drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6V4O80sEFEr" slidebank="false" type="slide">post-mine methane drainage example gob vent borehole with vacuum pump - west virginia, usa</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5i35KxjubBp" slidebank="false" type="slide">post-mine methane drainage diagrams for post-mine drainage, a variety of practices are employed in longwall underground mines that can be broadly categorized as from the surface or in-mine. post-mine drainage boreholes are drilled into the rock strata above or below a mine seam prior to mining, allowing the boreholes to capture methane after mine-through when methane is released into the gob. the gob is the area where coal has been extracted and the roof has been allowed to collapse.  the choice of techniques depends on many factors, such as geologic and mining conditions, common practices, economics, and regulations.  post-mine drainage boreholes longwall gob fracture zone</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5aYO2FGi0vD" slidebank="false" type="slide">surface gob well configuration surface gob wells are constructed to drain methane and recover it from the gob after the long wall panel has been mined through, caving the overlying strata. a surface gob well is drilled and completed above the mined seam before the longwall panel is mined, but it does not actually begin producing gas until the longwall below it is mined through, releasing gas into the gob.   a typical gob well configuration consists of a cased well bore, slotted casing, or an open hole completion at the bottom of the well bore; a well head; a vacuum pump (blower) at the wellhead to draw the gas to the surface; a vent; and possibly gas utilization equipment, such as a gas engine or flare to use the gas.  schematic of a gob drainage well </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5XTNr6Krlub" slidebank="false" type="slide">surface gob wells example gob drainage surface facilities, blower, and vent at forefront </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AgZeXf79Sq" slidebank="false" type="slide">post-mine methane drainage: from the surface when drilling from the surface, the post-mine drainage is achieved by vertical gob vent boreholes completed above the mined seam. source: karacan, c. özgen (2009). forecasting gob gas venthole production performances using intelligent computing methods for optimum methane control in longwall coal mines.  national institute of occupational safety &amp; health. international journal of coal geology. september 2009.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vA8q5i2QWY" slidebank="false" type="slide"> advantages of post-mine drainage from the surface advantages of post-mine drainage from the surface using vertical gob vent boreholes include: gas drainage operations, independent of underground operations capable of venting substantial methane flows from longwall gob well-proven, cost-effective method at shallow to moderate depths moderately high-purity gas often obtainable. the productive life can extend to several months can respond to changes in the mining plan</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ei6Vh3uOTz" slidebank="false" type="slide"> disadvantages of post-mine drainage from the surface disadvantages of post-mine drainage from the surface using vertical gob vent boreholes include: costly for deep coal seams risk of water inflow where major aquifers overlie the worked coal seams no direct gas drainage of seams in the floor of the workings gob boreholes cannot be operated until coalface has passed some distance beyond the borehole collection of gas for exploitation requires vacuum pumps and costly surface pipeline infrastructure only applicable where there are no surface access constraints may tap and vent more gas than would be released by mining gas quality can degrade rapidly which may limit use in applications requiring high-quality gas such as pipeline injection </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pXviUtZALA" slidebank="false" type="slide">post-mine methane drainage: in-mine methods in-mine post-mine drainage is achieved by: directionally drilled horizontal boreholes drilled into the rock over or under the mined seam across or along the length of the longwall from a gate road or a main entry. cross-measure boreholes drilled at an angle above or below the mined seam from a gate road adjacent to the longwall panel. vertically drilled boreholes drilled from an underlying gallery up into the rock strata below the mined seam. pre-existing roadways or developed galleries (horizontal underground mined out passages) above the mined seam that capture migrating methane when sealed and on vacuum. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5fCeY8QgYtS" slidebank="false" type="slide">in-mine horizontal gob drainage when gob wells are drilled directionally in-mine, they are referred to as horizontal gob boreholes (this picture shows a horizontal well being drilled in the united states).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HCadLGoCeG" slidebank="false" type="slide"> directionally drilled gob drainage well schematic the schematic below shows directionally drilled gob drainage well placement. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NiN0cVqbtb" slidebank="false" type="slide"> advantages of in-mine horizontal gob drainage advantages of post-mine drainage using directionally drilled horizontal boreholes above or below the worked seam include: may be usable in a pre-drainage mode before mining potentially higher capture efficiency than with cross-measures boreholes drilled from the mined seam gas drainage activities are separate from coal production activities after the longwall panel has been mined captures gas from close to initial release sites near the line of the coalface</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6VQAgyfNPRS" slidebank="false" type="slide"> disadvantages of in-mine horizontal gob drainage disadvantages of post-mine drainage using directionally drilled horizontal boreholes above or below the worked seam include: directional drilling is relatively costly problematic in swelling rocks and soft coals repair of collapsed or damaged boreholes is difficult inflexible to changes in mining operations reliant on the accuracy and speed of drilling to ensure a satisfactory system is in place before coal production starts specialized underground drilling skills and equipment are needed</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qEdKBRwnUK" slidebank="false" type="slide"> cross-measure boreholes gob drainage  when gob wells are drilled at an angle above or below the coal seam, they are referred to as cross-measure gob boreholes. cross-measure gob boreholes produce gas from the gob as the longwall advances. source of figures:  epa, coal mine methane recovery: a primer. epa-430-r-09-013, 2019. https://www.epa.gov/sites/production/files/2016-03/documents/cmm_primer.pdf. cross-measure borehole being drilled schematic showing location of cross-measure boreholes on a longwall panel</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gO1hobQKUW" slidebank="false" type="slide"> advantages of cross-measure boreholes advantages of post-mine drainage using cross-measure boreholes include: high captures possible on advancing longwall coalfaces practical for deep coal seam workings short drilling distance to primary gas source gas can be extracted and piped to a common, fixed surface location for commercial exploitation or use on the mine site effective in low-permeability coal seams floor boreholes can reduce the risk of sudden emissions of gas in susceptible workings flexible and easily modified drilling pattern least costly of the gas drainage methods</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Z1eqhU0ujx" slidebank="false" type="slide"> disadvantages of cross-measure boreholes disadvantages of post-mine drainage using cross-measure boreholes include: high capture efficiencies difficult to sustain on retreat faces for maximum effectiveness, need to be drilled behind the face on retreat longwalls the productive life of boreholes is generally short gas of medium to low purity is obtained due to ventilation air being drawn into the gas extraction system through mining-induced breaks in the strata trained, underground drilling team is required underground pipeline infrastructure is needed to the surface or to a safe discharge location in a return roadway</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nzQg1sRP2Y" slidebank="false" type="slide">roadways/galleries drainage galleries are pre-existing roadways or horizontal mined-out passages, generally above the mine seam, that collect methane migrating from gob areas through rock and coal strata that have been de-stressed (fractured) after the longwall is mined through.  roadways/galleries are sealed and vacuum pressure is applied to draw the gas into the roadway or gallery. gas is then transferred to the pipeline for transport to the surface.  boreholes can be drilled from the gallery to the gob to improve gas recovery rates.   drainage galleries are also sometimes referred to as superjacent boreholes. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a0lxW9Mguu" slidebank="false" type="slide"> advantages of roadways/galleries advantages of post-mine drainage from underlying or overlying galleries include: can be complemented by cross-measures drilling from the gallery potentially higher gas capture efficiency than with cross-measures boreholes drilled from the mined horizon gas drainage activities are separate from coal production activities to reduce costs, existing roadways or old workings that are above or below the proposed coal production district can sometimes be used moderately high-purity gas can generally be obtained</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5h6dmX3zweX" slidebank="false" type="slide"> disadvantages of roadways/galleries disadvantages of post-mine drainage from underlying or overlying galleries include: costly to drive access from the worked seam to the gallery level fire risk in spontaneous combustion-prone coal seams from ventilation leakages costly unless driven in a reasonably thick coal seam inflexible to changes in mining operations may be ineffective where strong, competent strata are present between the drainage gallery and the longwall face</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VNe9TFinui" slidebank="false" type="slide">surface mine methane</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Kez1L8pqCp" slidebank="false" type="slide">what is surface mine methane? in surface mines, coal seams are directly exposed to the atmosphere. methane might also escape to the atmosphere through natural fissures or other diffuse sources. surface mine methane (smm) is methane released from coal seams and surrounding strata as coal is broken and mined in surface or open-pit/open-cast mines.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lntFem07RP" slidebank="false" type="slide"> degasifying surface mines vertical wells in advance of mining are technically feasible in surface mines, but are rarely used because it is not economically viable. boreholes are temporarily abandoned as mining approaches or wells show evidence of air in produced gas. surface equipment and casing is removed prior to mine-through. timing is key, and production would need to begin as far in advance of mining as possible. example of smm pre-drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HsWhMh6SPl" slidebank="false" type="slide"> lateral wells in advance of mining lateral wells in advance of mining are applicable to some strip mines and open pit mines. depending on placement, boreholes may continue to produce methane during mining and post mining. more coal may be accessed if smaller auxiliary tunnels (sidetracks) are used. example of smm lateral borehole</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HdBxqLGz0l" slidebank="false" type="slide">abandoned mine methane</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5yfJqPIyNbX" slidebank="false" type="slide">what is abandoned mine methane (amm)? when underground coal mines are no longer operated to produce coal, they are known as closed, or "abandoned,” mines. even though active mining no longer occurs, these closed mines can still produce significant methane emissions from diffuse vents, fissures, or boreholes for many years after mining ceases. several factors affect how much methane is produced from abandoned mines, including: the length of time since the mine was closed whether the mine has become flooded the rate of flooding how gassy the mine was at the time of its closure whether the mine was sealed properly</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jnnu4F6S0b" slidebank="false" type="slide"> amm diagram amm is the gas remaining in the gas-bearing strata after coal mine closure that have been de-stressed by mining.  in some instances, additional methane may have been generated by recent microbial activity.  source:  unece amm best practice guidance, 2020 &amp; ineris, 2019 amm diagram</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ejTUxkWufm" slidebank="false" type="slide">why is amm important?  amm is important because uncontrolled gas seepage to the surface above abandoned mine workings can lead to explosion and asphyxiation hazards in the built environment.  abandoned mines are a significant source of greenhouse gas emissions that can, and should be, mitigated.  amm is a potential energy resource that is not widely exploited.   the importance of utilizing amm will increase due to future coal mine closures as countries transition energy supply away from fossil fuels in response to international climate change commitments.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6IsEl5jOMGo" slidebank="false" type="slide">amm vs cmm: purpose of extraction active mine cmm is extracted primarily for safety reasons and the production rate cannot be reduced if gas supply exceeds demand. if the gas cannot be used, it must be vented or flared. abandoned mine amm is primarily extracted as a resource and there is usually some scope to regulate supply to match demand. in a few instances, amm is extracted for safety reasons – to prevent uncontrolled gas migration to the surface in built areas.  pump station, mine in china amm vent with flame arrestor svalbard, norway</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QDM3qJDbIB" slidebank="false" type="slide">section 5 beneficial uses of captured methane</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5X5r6Xs1MiU" slidebank="false" type="slide">  investment in improved drainage and use of methane reduced methane emissions, and ventilation capital and operating expenses improved methane management and monitoring increased safety and higher productivity less environmentally damaging operations inadequate investment in drainage and use of methane increased ventilation capital and operating expenses, and methane emissions unpredictable and uncontrolled accumulation of  methane increased danger and lower productivity more environmentally damaging operations benefits of capturing and using cmm investment in the capture and use of cmm can benefit many aspects of a company, such as operating expenses, management, safety, and environmental performance.  the optimal path the sub-optimal path investment operating expenses management safety operations</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lWiyn5sf1P" slidebank="false" type="slide">assessing viability of cmm use to assess the viability of cmm recovery and use, project developers can conduct several types of studies.  study type objectives characteristics desk study first order analysis based on limited data basic assumptions  simple financial modeling pre-feasibility study more detailed analysis with site-specific information more detailed review of gas resources review of gas drainage gas production forecast more thorough financial analysis feasibility study bankable document thorough report investigating the economic and technical feasibility of project development “bankable” document sufficient for 3rd party finance  view the epa’s conducting pre-feasibility studies for coal mine methane projects course for more information. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VrT52WWSLQ" slidebank="false" type="slide">cmm end use options a project developer will be guided by the markets, mining company priorities, financial means, and public policy priorities.  there is no hierarchy to define the “best” end-use technology. end use options for cmm are virtually the same as natural gas.   power generation combined heat and power (chp) heating and cooling  regional and export gas sales transportation fuel industrial use chemical feedstock flaring cmm end use options</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eXWn06HCNA" slidebank="false" type="slide">gmi international cmm project database the gmi international cmm project database is the best available source of information on operational and former/future cmm projects globally. as of 2021, the database identified: 15 countries that are hosting cmm abatement projects 328 known projects at various stages of operation 260 operational projects: 156 cmm projects, including 4 vam projects, and 104 amm projects 36 projects that are under development, and 32 closed / not operational projects </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gaCSnpRItM" slidebank="false" type="slide">uses of cmm globally for all operational projects globally:  most projects generate either heat or power, or both (66%). combined heat and power account for 34% of all projects. cmm flaring accounts for 13% of projects gas sales account for 12% of projects as a subset, amm projects generate combined heat and power (51%, or 53 projects out of 104 of operational amm projects). the rated capacity of equipment at chp installations is in the range of 30 kw to 55 mw, with the average being 5 mw. share of known operational projects by count</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5d45PJxPHx4" slidebank="false" type="slide">  mwm 12 mw genset installation - tai yuan, china a near-zero emission cmm project at the duerping mine in china: centralized gas collection system with dust and moisture removal 12-mw power plant using gas engines operating on drained gas enclosed flare to destroy excess methane closed-loop oil heating system that uses heat exchangers to draw excess heat from the gas engines to heat the oil which is then transferred by pipe to the mine shaft to provide heating in winter passive vent in case the plant is unable to accept the cmm for any reason x example cmm project: duerping mine mwm 12 mw genset installation - tai yuan, china cmm end use: power generation and internal combustion engines      view more information      view more information      view more information      view more information      view more information      view more information </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZB1YRtaA4N" slidebank="false" type="slide">  ingersoll rand microturbine cmm project - bailey mine this project features a microturbine that ran on cmm at the bailey mine in pennsylvania as part of a u.s. government-funded r&amp;d project to assess cmm recovery and use technologies.  x example cmm project: bailey mine ingersoll rand microturbine cmm project - bailey mine washington county, pennsylvania cmm end use: power generation; microturbines/turbines      view more information      view more information      view more information      view more information      view more information      view more information </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5qO3zjIAeRC" slidebank="false" type="slide">  sangzhang  mine vam and chp project a vam oxidation and energy recovery project at the yanquan coal group’s mine no. 2 in china producing 15 mw and reducing cmm emissions by 830,000 tco2e annually.  x example cmm project: sangzhang mine  sangzhang mine vam and chp project yangquan, shanxi province, china cmm end use: power generation; vam oxidation      view more information      view more information      view more information      view more information      view more information      view more information </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wFwFVam8PC" slidebank="false" type="slide">cmm end use: power generation/chp applications advantages disadvantages gas-engine generators producing power for mine use or export to the grid; chp allows recapture and use of thermal energy  proven technology chp more efficient than power production alone waste heat recovery for heating mine buildings, miners’ baths, and shaft heating and cooling interruptible and variable output; therefore, may not be conducive for the electric grid regular maintenance requires commitment of mine operator high capital costs at initial stage of project cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.64mJYsxtVau" slidebank="false" type="slide">cmm end use: heating and cooling 15-mw combined heat and power plant using steam generated from vam destruction - china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.667dwT7ttVz" slidebank="false" type="slide">cmm end use: high-quality pipeline gas applications advantages disadvantages purified high-quality cmm natural gas equivalent profitable where gas prices strong  good option where strong pipeline infrastructure exists pipeline purity standards are high and purification is costly only feasible for high- quality, pre-drained cmm or treated cmm requires reasonable access to pipeline cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xhTmIe5dDL" slidebank="false" type="slide">cmm end use: regional and export gas sales nitrogen removal plant at the vessels coal gas bethlehem mine #33 - ebensburg, pa</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5uHtmY27PRK" slidebank="false" type="slide">cmm end use: medium-quality industrial gas applications advantages disadvantages &gt;30% methane for local residential district heating and industrial use, such as firing kilns and in fertilizer manufacturing low-cost fuel source  localized benefits may require minimal or no gas cleanup cost of distribution system and maintenance variable quality and supply costly gas holders needed to manage peak demands cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6cB2XqVxqYr" slidebank="false" type="slide">cmm end use: industrial use cmm fired fertilizer plant - shanxi province, china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qEGOpiCDbH" slidebank="false" type="slide">cmm end use: chemical feedstock applications advantages disadvantages high-quality gas for the manufacture of carbon black, formaldehyde, synthetic fuels, and di-methyl ether (dme) a use for stranded high- quality cmm supplies high processing cost very limited potential in voluntary or compliance carbon markets cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TG7BwNfley" slidebank="false" type="slide">cmm end use: chemical feedstock methanol plant</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lXHYAMz2cZ" slidebank="false" type="slide">cmm end uses: mine site applications advantages disadvantages heating, cooking, boilers, coal fines drying, and miners’ residences  displaces coal use clean, low-cost energy source high processing cost may be less economically beneficial to use on-site than off-site cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5yRJI384DvD" slidebank="false" type="slide">cmm end use: transportation fuel applications advantages disadvantages purified high-quality, pre- drained gas and cbm for compressed natural gas (cng) and liquefied natural gas (lng) market access for stranded gas supplies competition is high-priced diesel fuel processing, storage, handling, and transport costs purification standards are very high cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ZZdRbNW3U9" slidebank="false" type="slide">cmm end use: transportation fuel cng vehicle fueling station - shanxi, china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NqOYqTyhzc" slidebank="false" type="slide">cmm end use: flaring cmm applications advantages disadvantages stand-alone operation or as part of an integrated operation low-cost option to reduce emissions quick payback compared to other use options easy to deploy in most cases can be difficult to mobilize in steep terrain requires value for carbon reduction destruction only, not utilization cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nKZQpm60rN" slidebank="false" type="slide">cmm: flaring harworth power in flare, uk  gas engines and a flare at an  abandoned mine site, usa</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6n2YHFxAtjH" slidebank="false" type="slide">cmm end use: vam oxidation applications advantages disadvantages oxidation of ventilation air methane as destruction only or with energy recovery for heating or power production large-scale emission reductions addresses largest source of cmm emissions very expensive compared to other technologies requires high value for carbon reductions and longer payback than other options power generation requires a consistently high methane concentration near 1.0% cmm end uses power generation/chp high- quality pipeline gas medium- quality “town” or industrial gas chemical feedstock mine site transportation fuel flaring cmm vam oxidation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.64vJZW1cZzL" slidebank="false" type="slide">recent trends in cmm worldwide according to gmi’s database of cmm projects:  there is a growing number of cmm and amm flaring projects in the u.s. large-scale vam-to-power project development is increasing in china.  planned and developed cmm projects in china are growing, with power generation capacity ranging from 15 – 66 mw. in 2020-2021, a new chp project was commissioned in poland with 24mw of electrical and thermal capacity combined. interest in amm development is growing.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hTYJqRB8b2" slidebank="false" type="slide">section 6 additional resources</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dZxyOccQvm" slidebank="false" type="slide"> the global methane initiative the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery and use of methane as a clean energy source. gmi’s strategic focus is building capacity:  resource assessments: analyses of methane opportunities in developing countries feasibility and pre-feasibility studies: analyses of specific project opportunities tool development: technology databases and financial models training and workshops: teaching owners and operators about methane reduction opportunities study tours and clearing houses: bringing people to see model methane projects and setting up information centers in developing countries  launched in 2004 with 14 partner countries, gmi currently has 45 partner countries, including the european commission. gmi targets three key sectors for methane reduction, including coal mines, biogas, and oil &amp; gas. contact the gmi  secretariat gmi partner countries represent approximately 75% of estimated global methane emissions from human activities. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HdQqo3aAbg" slidebank="false" type="slide">international documents and tools the u.s. epa has developed a number of tools in support of gmi: pre-feasibility studies in many countries international cmm projects database profiles of key cmm countries cmm market studies analytical reports, such as: legal and regulatory status of amm in selected countries status of cmm ownership and policy incentives in key countries cmm project development online course</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Mbtf6eMXBl" slidebank="false" type="slide">best practice guidance for effective methane drainage best practice guidance for effective methane drainage and use in coal mines  outlines international best practices for cmm recovery and use at active mines with case studies. provides an accessible and understandable guide to methane resources, gas recovery options, and end uses intended for high-level industry and government decision-makers. applies to underground mining only. updated in december 2016 (2nd edition).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5W9NZRW5ifp" slidebank="false" type="slide">best practice guidance for effective methane recovery best practice guidance for effective methane recovery and use from abandoned coal mines    released in august 2019.  identifies best practice for evaluating amm opportunities and implementing amm recovery and use projects. includes case studies. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5WNPhIJmnMb" slidebank="false" type="slide"> coalbed methane outreach program cmop mission the coalbed methane outreach program (cmop) works cooperatively with the coal mining industry in the united states to reduce cmm emissions through recovery and use projects.  cmop focus ghg emission reduction opportunities: recovery of methane that is emitted as a byproduct of mining (cmm). as of 2019, about 31% of cmm from underground coal mines in the united states is recovered and used/destroyed.    contact the cmop  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5YnVVSnX8pS" slidebank="false" type="slide">cmop resources epa has developed a suite of documents and tools to assist in project development, such as: profiles of project opportunities: identifying opportunities for coal mine methane recovery at u.s. coal mines: profiles of selected gassy underground coal mines 2002-2016 coal mine methane recovery at active and abandoned u.s. coal mines: current projects and potential opportunities u.s. surface coal mine methane recovery project opportunities cmm cash flow model cmm finance guide webinars on topics of interest unit converter and ghg equivalencies calculator</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6MIFxN041Qc" slidebank="false" type="slide">thank you! you have completed the  basics of coal mine methane course.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+      <slidetext slideid="6LVzO9764wa.69ss6X6FGi8" slidebank="false" type="slide">anthracite anthracite is the highest rank of coal. it is a hard, brittle, and black lustrous coal, often referred to as hard coal, containing a high percentage of fixed carbon and a low percentage of volatile matter.  anthracite coal fields may contain cmm, and some of the largest cmm recovery projects are located at anthracite mines in china.   </slidetext>
+      <slidetext slideid="6LVzO9764wa.6p9NrNZa7Vd" slidebank="false" type="slide">bituminous bituminous coal is a middle rank coal between subbituminous and anthracite, and it is also considered hard coal.  bituminous usually has a high heating value (btu), and it is the most common type of coal used in electricity generation in the united states. bituminous coal mines produce the largest share of cmm in the united states.   </slidetext>
+      <slidetext slideid="6LVzO9764wa.5nWZFGOhrZo" slidebank="false" type="slide">lignite lignite coal is the lowest grade of coal with the lowest concentration of carbon, and it is generally is not considered a significant source of cmm.</slidetext>
+      <slidetext slideid="6LVzO9764wa.5l9ahNBBRGQ" slidebank="false" type="slide">subbituminous subbituminous coal is black in color and dull (not shiny), and it has a higher heating value than lignite.  collectively with lignite, it is referred to as brown coal and can be mined in surface or underground mines.   in certain countries, such as turkey, underground brown coal mines can be gassy.</slidetext>
+      <slidetext slideid="6XWClxNU6GM.5bdumBBoDhs" slidebank="false" type="slide">explosion risk by methane concentration in  underground mines</slidetext>
+      <slidetext slideid="6gsnzyAFCoD.6d1iF8euaVO" slidebank="false" type="slide"> section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane  definitions adapted from united nations economic commission for europe (unece), 2016. best practice guidance on effective methane drainage &amp; use in coal mines, 2nd edition (2016). https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf. united nations economic commission for europe (unece), 2016. best practice guidance on effective methane drainage &amp; use in coal mines, 2nd edition. 2016. https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf.    united states geological survey (usgs). https://www.usgs.gov/faqs/what-are-types-coal?qt-news_science_products=0#qt-news_science_products. u.s. environmental protection agency (u.s. epa), 2019a. greenhouse gas emissions: overview of greenhouse gases, methane emissions. u.s. environmental protection agency. available: https://www.epa.gov/ghgemissions/overview-greenhouse-gases. accessed july 15, 2019. u.s. epa. 2019b. global non-co2 greenhouse gas emissions: 2015-2050. september 2019. u.s. environmental protection agency. available: https://www.epa.gov/sites/production/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf. accessed january 10, 2020.  u.s. epa. 2019c. frequent questions about coal mine methane. u.s. environmental protection agency. available: https://www.epa.gov/cmop/frequent-questions#q6. accessed june 23, 2020. </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.5VMbypOnIV5" slidebank="false" type="slide"> section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane  arch coal. take a virtual tour of black thunder coal mine.” https://www.youtube.com/watch?v=2lqwxtm94ps, 4:13. published: february 14, 2011. benally, connery. “deserado mine blue mountain energy”. https://www.youtube.com/watch?v=mozzornsefq, 4:10. published: august 15, 2015. coal age magazine. u.s. longwall census, 2021. https://www.coalage.com/flipbooks/january-february-2021/.  goebel, greg. “surface coal mine detail, gillette, wyoming / 2008” by flickr. cc by-sa 2.0. international energy agency (iea). coal 2020:  analysis and forecast to 2025. paris, france. december 2020 https://iea.blob.core.windows.net/assets/00abf3d2-4599-4353-977c-8f80e9085420/coal_2020.pdf.  kholod, nazar et al. 2020. global methane emissions from coal mining to continue growing even if coal production declines. journal of cleaner production. volume 256. 20 may 2020. https://www.sciencedirect.com/science/article/pii/s0959652620305369.  raven ridge resources file photo, surface facilities of an operating underground mine in the united states u.s. energy information administration. today in energy. available: https://www.eia.gov/todayinenergy/detail.php?id=38172. accessed july 15, 2019. u.s. epa, 2019a. greenhouse gas emissions: overview of greenhouse gases, methane emissions. u.s. environmental protection agency. available: https://www.epa.gov/ghgemissions/overview-greenhouse-gases. accessed july 15, 2019. world coal institute, n.d. the coal resource a comprehensive overview of coal. the world coal institute. available: https://refman.energytransitionmodel.com/publications/1264. accessed july 15, 2019. world coal institute. coal mining. published march 10, 2009. available: https://www.worldcoal.org/?pageid=92. accessed june 24, 2020. youtube.  continuous miner: deserado mine - blue mountain energy. https://www.youtube.com/watch?v=mozzornsefq world coal. </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.6IksG1e2FyM" slidebank="false" type="slide"> section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane  gas research institute, a guide to coalbed methane reservoir engineering, 1996. u.s. energy information administration. annual coal report. october 2020.  https://www.eia.gov/coal/annual/.  law, b e, and rice, d d. 1993. "hydrocarbons from coal." united states. u.s. epa. 2019d.  global non-co2 greenhouse gas emission projections &amp; mitigation:  2015 - 2050.  u.s. environmental protection agency, office of air &amp; radiation.  epa 430-r-19-010, october 2019. https://www.epa.gov/sites/production/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf.  accessed january 10, 2020. u.s. epa. 2019e. coal mine methane recovery: a primer. july 2019. washington, d.c. usa. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf.  u.s. epa. 2021. inventory of u.s. greenhouse gas emissions and sinks: 1990-2019 https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks.  </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.6RLrzNqrXF5" slidebank="false" type="slide"> section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane  china national offshore oil corp.  “clariant international ltd: methanol production plant of cnooc kingboard chemical co ltd. (photo: cnooc kingboard chemical ltd)”. source:  flickr user pressreleasefinder cc by-nc-nd 2.0. butler, neil.  photo of cmm flare at a mine in the united kingdom.  project developed by harworth power. c. özgen karacan, felicia a. ruiz, michael cotè, sally phipps. coal mine methane: a review of capture and utilization practices with benefits to mining safety and to greenhouse gas reduction, international journal of coal geology, volume 86, issues 2–3, 2011, pages 121-156, issn 0166-5162, https://doi.org/10.1016/j.coal.2011.02.009. global methane initiative.  cmm projects list (https://www.globalmethane.org/resources/details.aspx?resourceid=1981) ingersoll rand. photo of cmm-fueled microturbine at the bailey mine, west virginia, usa.  provided by joe catina, raven ridge resources file photos. cng fueling station, shanxi province, china. sindicatum sustainable resources (2021). photo and detail on the duerping mine cmm project, shanxi province, china. provided by david creedy. u.s. epa. 2003. photo of gas engines and flare at an abandoned mine in ohio, usa. project developed by northwest fuels development inc.  photo taken in 2003. u.s. epa. 2014. photo of nitrogen removal unit at the cambria 33 abandoned mine methane project, pennsylvania, usa. project developed by vessels carbon solutions inc.  photo taken in november 2014. u.s. epa. 2015. pre-feasibility study for coal mine methane capture and utilization at the mahui and pingshang mines. april 2015. washington, dc, usa. https://www.epa.gov/sites/default/files/2016-03/documents/epa_xiyang_china_prefeas_study.pdf.  u.s. epa. 2019e. coal mine methane recovery: a primer. july 2019. washington, d.c. usa. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf.  u.s. epa. 2019g.  photo of the vam oxidation and chp project at sangzhang mine, shanxi province, china. project developed by fortman (beijing) clean energy ltd. photo taken december 2019. u.s. epa. 2019h.  photo of the 15-mw steam turbine running on steam generated by vam oxidation unit at the vam/chp project at the sangzhang mine, shanxi province, china. project developed by fortman (beijing) clean energy ltd. photo taken december 2019. </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.64WrWeKCFI5" slidebank="false" type="slide"> section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane   global methane initiative. 2011. “surface mine methane emissions and project opportunities.” global methane initiative and raven ridge resources, october 2011. available: https://www.globalmethane.org/documents/events_coal_101411_tech_marshall.pdf. accessed july 15, 2019.  global methane initiative. 2021. conducting pre-feasibility studies for coal mine methane projects training. https://www.globalmethane.org/training/coalminetraining.aspx.  karacan, c. özgen. 2009. forecasting gob gas venthole production performances using intelligent computing methods for optimum methane control in longwall coal mines.  national institute of occupational safety &amp; health. international journal of coal geology. september 2009.  kravits, steve. 2019. cmm recovery - advantages and disadvantages of surface cbm wells and in-mine horizontal boreholes, presented by steve kravits, target drilling inc., coalbed methane outreach program coal mine methane conference, september, 2007, st. louis, missouri. available: http://www.targetdrilling.com/. accessed july 15, 2019. malamisura, rocky. 2007.cbm/cmm extraction: a winning proposition for both gas and coal, presentation by rocky, cnx gas, coalbed methane outreach program coal mine methane conference, september 2007, st. louis, missouri. peacock, mike. 2006. degasification methods at mountain coal company's west elk mine, presented by mike peacock, coalbed methane outreach program 2nd western states coal mine methane recovery and use workshop, september 2006, grand junction, colorado. rei drilling, inc.. photo of in-mine horizontal drilling rig. rei drilling, inc. photos of gob wells. shutterstock.  licensed photo of amm vent at a closed mine in svaldbard, norway.  unece. 2016. best practice guidance for effective methane drainage and use in coal mines. unece. december 2016. https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf.  unece. 2020. best practice guidance for effective methane recovery and use from abandoned coal mines. unece. january 2020. https://unece.org/sustainable-energy/publications/best-practice-guidance-effective-methane-recovery-and-use-abandoned.  u.s. epa. 2005. “identifying opportunities for methane recovery at u.s. coal mines: profiles of selected gassy underground coal mines 2002 – 2006.” environmental protection agency, january 2009. available: https://www.epa.gov/sites/production/files/2016-03/documents/profiles_2008_final.pdf. accessed july 15, 2019.  u.s. epa. 2013. photo a pump station at the mahui mine, shanxi province, china.  photo taken december 2013. u.s. epa. 2015. pre-feasibility study for coal mine methane capture and utilization at the mahui and pingshang mines. april 2015. washington, dc, usa. https://www.epa.gov/sites/default/files/2016-03/documents/epa_xiyang_china_prefeas_study.pdf. u.s. epa. 2017. “abandoned coal mine methane opportunities database. environmental protection agency,” july 2017. available: https://www.epa.gov/sites/production/files/2016-03/documents/amm_opportunities_database.pdf. accessed july 15, 2019. u.s. epa. 2019e. coal mine methane recovery: a primer. july 2019. washington, d.c. usa. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf.  u.s. epa. 2019f. pre-feasibility study for methane drainage and utilization at the tenghui coal mine, shanxi province, china.  washington, dc usa. publication 430r19005. march 2019 https://www.epa.gov/sites/default/files/2019-05/documents/epa_gmi_tenghui_05-2-19.pdf. u.s. epa. 2021b. original drawings: “components of a gas drainage system” and “drainage galleries”. u.s. epa and raven ridge resources. photos of mine ventilation fans, china.</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Mine Methane (AMM)">Coal mines that are temporarily or permanently closed that produce significant methane emissions from diffuse vents, fissures, or boreholes. </term>
+      <term title="Adsorbed Methane">Methane accumulated on the surface of coal.</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Coal Bed Methane (CBM)">Methane extracted from coal seams before mining occurs. CBM is also known as virgin coal seam methane or coal seam gas. It is widely considered an "unconventional" source of natural gas.</term>
+      <term title="Coal Mine Methane (CMM)">Methane released from coal due to mining activities. Like CBM, CMM is a subset of the methane found in coal seams, but it refers specifically to the methane found within mining areas (e.g., within a mining plan), while CBM refers to methane in coal seams that will never be mined. Because CMM would be released through mining activities, recovering and using CMM is considered emissions avoidance.</term>
+      <term title="Compressed Natural Gas (CNG)">Natural gas mainly comprised of methane that is stored under high pressures, mainly as a means for storage or transportation.</term>
+      <term title="Desk Study">A first order analysis based on limited data, basic assumptions, and simple financial modeling.</term>
+      <term title="Direct Thermal">The use of coal mine methane in direct combustion technologies other than flaring, most commonly in boilers, industrial burners, and similar applications.</term>
+      <term title="Drainage Galleries">Existing roadways or purpose-driven roadways above or below the mined seam that collect methane from gob areas. The galleries are sealed, and vacuum pressure is applied to draw the gas from the galleries into the pipeline system. These are also sometimes referred to as superjacent boreholes. </term>
+      <term title="Evase">The discharge point of surface exhaust fans. The evase is used to direct the exhausted air safely away from the mine.</term>
+      <term title="Feasibility Studies">Thorough report investigating the economic and technical feasibility of project development. This document is considered “bankable”, meaning it is sufficient to secure project financing.</term>
+      <term title="Flaring">Controlled combustion of natural gas. Flaring CMM at a coal mine can occur in an open flame, otherwise known as a candlestick flare, or in an enclosed flare, sometimes referred to as a ground flare.  </term>
+      <term title="Gas Content">Volume of gas contained in a unit mass of coal and is generally expressed in cubic meters, at standard pressure and temperature conditions, per ton of coal.</term>
+      <term title="Gas Drainage">Methods employed by underground coal mines, abandoned mines, and occasionally surface mines, for capturing the naturally occurring gas in coal seams to prevent it entering mine airways. Gas drainage systems include a combination of drainage boreholes and/or galleries, a gathering network, and vacuum pumps to draw gas to the surface. Gas can be removed from coal seams in advance of mining using pre‐drainage techniques and from coal seams disturbed by the extraction process using post‐drainage techniques. It is often referred to as methane drainage if methane is the main gas component target to be captured. Gas drainage produces coal mine methane of a higher quality than ventilation, generally in the 25 — 100 percent range.</term>
+      <term title="Gas Gathering System">A system of pipelines, moisture and dust removal equipment, and prime movers (e.g., vacuum pumps, compressors) that transport gas from borehole wellheads to the surface. </term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf)">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Greenhouse Gas Emissions (GHG)">The release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time. May be labelled as anthropogenic (resulting from human activities) or naturally occurring.</term>
+      <term title="Longwall">One of three major underground coal mining methods currently in use. Employs a shearer which is pulled mechanically back and forth across a face of coal that is usually several hundred feet long. This mining method can produce large quantities of coal and gas.</term>
+      <term title="Longwall Face">The end of the longwall panel that is being cut by the longwall shearer. </term>
+      <term title="Longwall Panel">Large blocks of coal that are mined with a longwall shearer.    </term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="Permeability">The state or quality of a material or membrane that causes it to allow liquids or gases to pass through it.</term>
+      <term title="Post-Mine Drainage">Drilling boreholes (vertical gob wells, cross-measure boreholes, directional horizontal boreholes, or gob drainage galleries) in advance of mining so that they are in place prior to under-mining but producing gas during and after the seam is being mined. </term>
+      <term title="Post-Mine Drainage Boreholes">Boreholes drilled above or below the mined seam which produce methane from gob areas after the coal seam is mined. Post-mine drainage boreholes can be drilled from the surface or in-mine. Initially, methane concentrations can be high, but concentrations will decline relatively quickly as air from the gob area is drawn into the boreholes. There are also commonly referred to as post-drainage boreholes.</term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="Pre-Mine Drainage">Drilling in-seam boreholes to extract gas from the coal seam in advance of mining operations. </term>
+      <term title="Pre-Mine Drainage Boreholes">Boreholes drilled into the mined seam or adjacent gas-bearing rock and coal strata in advance of mining to remove methane before mining occurs. Pre-mine drainage boreholes can be drilled from the surface or in-mine. Gas is produced in the boreholes before the coal seam is mined. Once mined-through, gas production ceases. Methane concentrations can be very high, and boreholes can produce gas for many years in advance of mining. These are also commonly referred to as pre-drainage boreholes. </term>
+      <term title="Rank">The classification of coals according to their degree of metamorphism, progressive alteration, or coalification (maturation) in the natural series from lignite to anthracite.</term>
+      <term title="Room and Pillar Mining">Coal deposits are mined by cutting a network of rooms into the coal seam and leaving the pillars of coal to support the roof of the mine. These pillars can comprise up to 40% of the total coal in the seam. The remaining pillars can sometimes be recovered at a later stage. Room and pillar mines account for a smaller share of the world’s underground coal production.</term>
+      <term title="Strata">A layer of sedimentary rock or soil; refers to a layer of coal in this instance.</term>
+      <term title="Surface Mining">A form of mining that is generally used when coal seams are less than 60 meters (approximately 200 feet) from the surface. There are two primary types of surface mines: strip mines and open-pit mines. Strip mining consists of the removal of soil and rock (overburden) above a layer or seam (particularly coal), followed by the removal of the exposed mineral. is a surface mining technique of extracting rock or minerals from the earth from an open-air pit, sometimes known as a borrow. This form of mining differs from extractive methods that require tunnelling into the earth, such as long wall mining. It is applied to ore or rocks found at the surface because the overburden is relatively thin, or the material of interest is structurally unsuitable for tunnelling.</term>
+      <term title="Town Gas">Manufactured gaseous fuel produced for sale to consumers and municipalities. Also referred to as coal gas.</term>
+      <term title="United States Environmental Protection Agency (USEPA)">The Environmental Protection Agency is an independent executive agency of the United States federal government tasked with environmental protection matters.</term>
+      <term title="Ventilation Air Methane (VAM)">CMM that is removed via ventilation systems which use fans to dilute the methane to safe levels by circulating fresh air through the mine. VAM is the largest source of methane emissions from underground coal mines. </term>
+    </terms>
+  </glossary_data>
+</bwFrame>

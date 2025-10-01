@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Проведение предварительных технико-экономических оценок для МУШ проектов: Модуль 5" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\5q4Nt33kTi9_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5jqL2J3qQ7M.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Как перемещаться" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false" />
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Calibri" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="acc_active">active</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next">Вперед (Ctrl+Alt+Period)</string>
+      <string id="acc_next_visual">Вперед (Ctrl+Alt+.)</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous">Предыдущий</string>
+      <string id="acc_previous_visual">Предыдущий (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Background audio</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="bio">Bio</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Meaning</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
+      <string id="glossary">Сокращения/Термины</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="more_info">More info</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next">Вперед</string>
+      <string id="next_shortcut">Вперед</string>
+      <string id="outline">Меню</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">Предыдущий</string>
+      <string id="previous_shortcut">Предыдущий</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Сокращения/Термины</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_visited">visited</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="transcript">Notes</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="video_transcript_title">Transcripts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="comma_key">Comma</string>
+      <string id="continue">Continue</string>
+      <string id="period_key">Period</string>
+      <string id="question_mark_key">Question mark</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Введение в курс" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="Разработка проектов МУШ" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Добро пожаловать" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting CMM Project Pre-Feasibility Studies: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Модуль 5" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 5  Improvements to Gas Drainage" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="Что вы узнаете" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6h3HYbwIASV" displaytext="Обзор шахтной дегазации " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5viFj1NUo1P" displaytext="Проектирование системы шахтной дегазации" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XYhe79yNeo" displaytext="Компоненты системы дегазации" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.68ZqKy1fKhN" displaytext="Принципиальная схема системы дегазации" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6j1SG8qQCVP" displaytext="Что такое эффективная система дегазации?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gm2fFpCbYb" displaytext="Цели по снижению выбросов метана для эффективной системы дегазации" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Расчет КПД дегазации" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.62q8YZAZuww" displaytext="Преимущества усовершенствования шахтной дегазации" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6hv3q7lS1Tv" displaytext="Возможности улучшения дегазации в процессе предварительной технико-экономической оценки" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.60cPBoHKCfr" displaytext="Как повысить работоспособность дегазации с наименьшими затратами" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6rbg1eR3Xlg" displaytext="Как повысить работоспособность дегазации с наименьшими затратами" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gxkEFzmYqS" displaytext="Как повысить работоспособность дегазации с наименьшими затратами" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6a2T50NOkWv" displaytext="Как повысить работоспособность дегазации с наименьшими затратами" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5vaPBnfhIE0" displaytext="Обзор методов повышения эффективности системы дегазации" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6ajTZM3VVTe" displaytext="Методы повышения эффективности системы дегазации: Инструменты оценки" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nQWUaAMnrH" displaytext="Усовершенствование предварительной дегазации" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.5lOcrn6MMe6" displaytext="Усовершенствование предварительной дегазации: Планирование и проектирование скважин" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.68YVkIEj68x" displaytext="Усовершенствование предварительной дегазации: Проектные соображения по скважинам " expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5yFx8eZKykc" displaytext="Усовершенствование предварительной дегазации: Разработка планов усовершенствования" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6ESPEiN6JoX" displaytext="Улучшение дегазации на разных этапах: До и после отработки " expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5uaXGjwfCM2" displaytext="Методы последующей дегазации " expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6bbt7IQXpMv" displaytext="Обзор методов последующей (текущей) дегазации" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.64mhcjMsvml" displaytext="Понимание геомеханики дегазации выработанного пространства" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6icNvAnEhlt" displaytext="Понимание характеристик зоны выработанного пространства в целях моделирования усовершенствований " expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6nsIqmeIX2s" displaytext="Улучшение последующей дегазации:  Оптимизация дегазации выработанного пространства" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6TSeBc7hf8d" displaytext="Аспекты планирования и проектирования скважин в выработанное пространство" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.69mwzsLs487" displaytext="Планирование и проектирование скважин в выработанное пространство" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6FkRTHXgQQ9" displaytext="Концентрация метана в газе выработанного пространства" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5cEqwmyE8Eg" displaytext="Разработка планов по дальнейшему бурению скважин в выработанное пространство" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5lRjleaqnUc" displaytext="Оптимизация сбора газа" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6mHWe2Q5V40" displaytext="Оптимизация трубопроводов сбора газа и их эксплуатации" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5q1W6u2ZY2o" displaytext="Аспекты строительства газопроводов" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5hgWWyKc3jD" displaytext="Прокладка газопровода" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6AImrEHYTk9" displaytext="Передовая практика прокладки газопроводов" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6LFbsRbQ2oy" displaytext="Мониторинг и управление газопроводами" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6cyEwcBeCbe" displaytext="Оценка вакуума в газопроводе" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6k8Ew9KiIsv" displaytext="Дополнительный мониторинг газопровода на предмет производительности системы" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6MJA8UyuvVA" displaytext="Обслуживание вакуум-насосной станции" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="Модуль 5 Резюме" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">проведение предварительных технико-экономических оценок  для проектов по метану угольных шахт тренинг, организован агентством по охране окружающей среды сша в поддержку глобальной инициативы по метану (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> добро пожаловать агентство по охране окружающей среды сша (epa) разработало этот курс в поддержку gmi, во взаимодействии с европейской экономической комиссией оон (unece). что представляет собой gmi? в данном курсе представлены принципы оценки потенциала разрабатываемых проектов по каптированию и/или использованию метана угольных шахт (муш). представленный общий подход должен быть подкреплен данными и анализами по конкретным шахтам, что позволит адаптировать принципы к уникальным условиям на каждой шахте. в идеале, такая оценка приведет к фактической разработке и реализации проекта.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> проведение предварительных технико-экономических оценок для проектов муш: модули курса модуль 1:введение и задачи модуль 2:справочная информация и оценка шахты модуль 3:оценка ресурсов модуль 4:прогнозирование извлечения метана системами дегазации модуль 5:усовершенствование дегазации модуль 6:количественная оценка преимуществ усовершенствования дегазации модуль 7:анализ рынка, рисков и финансовый анализ модуль 8:анализ конкретного случая – шахта люлонг, китай </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">модуль 5 усовершенствование дегазации</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">что вы узнаете в этом модуле вы узнаете: что делает систему дегазации эффективной. как рассчитывать эффективность дегазации. преимущества повышения эффективности систем дегазации. методы повышения эффективности дегазации.   время, необходимое для прохождения данного модуля: приблизительно 60 минут  этот модуль основывается на том, что вы узнали о дегазации из модуля 2: справочная информация и оценка шахты и модуля 3: оценка ресурсов.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6h3HYbwIASV" slidebank="false" type="slide">обзор шахтной дегазации  шахтная дегазация - это улавливание и транспортировка газа, главным образом метана, через систему предварительных и последующих скважин или методов дегазации, с последующим сбором и перемещением данного газа по сети трубопроводов на поверхность. системы шахтной дегазации разрабатываются в целях предотвращения попадания метана в горные выработки.  этот шахтный газ может быть разбавлен до безопасного уровня вентиляционной системой шахты.  прежде чем приступить к работе, кликните мышью, чтобы ознакомиться с определениями некоторых ключевых терминов, которые будут представлены в данном модуле. эти определения также приведены в глоссарии. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5viFj1NUo1P" slidebank="false" type="slide">системы дегазации могут сильно отличаться по конструкции в зависимости от особенностей шахты и прочих факторов.  системы могут быть как небольшими - всего одна скважина, так и представлять собой сложную сеть из множества скважин, систем сбора и насосов. проектирование системы шахтной дегазации системы дегазации для поддержания безопасной концентрации метана в горных выработках используются на некоторых, но не на всех шахтах.  конструкция применяемых систем дегазации (см. модуль 2: "методы дегазации, применяемые в настоящее время: скважины") зависит от способа отработки (лава или камерно-столбовой) и геологических условий.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XYhe79yNeo" slidebank="false" type="slide"> компоненты системы дегазации компоненты системы дегазации включают: скважины газопровод на поверхность поверхностная вакуум-насосная станция    источник:  руководство по передовой практике эффективной дегазации и ее использования в угольных шахтах.  еэк оон (2016)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68ZqKy1fKhN" slidebank="false" type="slide"> принципиальная схема системы дегазации                        </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6j1SG8qQCVP" slidebank="false" type="slide"> что такое эффективная система дегазации? системы дегазации считаются эффективными, если они производят значительное количество метана при высокой эффективности извлечения и низком уровне притока воздуха в систему дренирования: основная задача: извлекать и транспортировать достаточное количество газа для того, чтобы концентрация метана в вентиляционной струе не превышала нормативных показателей. побочная задача: максимально повысить каптирование газа для обеспечения повышенной безопасности, смягчения воздействия на окружающую среду и рекуперации энергии.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gm2fFpCbYb" slidebank="false" type="slide">цели по снижению выбросов метана для эффективной системы дегазации проектирование эффективной системы дегазации должно обеспечить следующее сокращение выбросов метана: 50-80% выбросов газа с лавы и 50% от общего объема выбросов газа на шахте ≥ 30% концентрация метана по объему для методов последующей дегазации ≥ 60% концентрация метана по объему для методов предварительной дегазации</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">расчет кпд дегазации для оценки эффективности системы дегазации, операторы шахт рассчитывают кпд дренирования газа. на этапе изучения шахты, в рамках предварительной технико-экономической оценки, разработчик проекта муш должен оценить степень рациональности предлагаемых им усовершенствований системы дегазации. предлагаемое повышение работоспособности дегазации должно привести к увеличению объема и повышению качества газа. кпд дегазации определяется как расход газа, каптированный системой дегазации из определенного места, деленный на общий объем газа, полученный из этого места.   расчет кпд дренажа (%): + объем ch4 дренирован (м3) объем ch4 в вентиляции (м3)  объем ch4 дренирован (м3) </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62q8YZAZuww" slidebank="false" type="slide">обучение и создание квалифицированных рабочих мест прямое и косвенное снижение затрат для шахты  безопасное использование нерационально расходуемых ресурсов газа рекуперация энергии сокращение выбросов пг меньше остановок или снижения темпов добычи угля поддержка или повышение уровня добычи концентрация ch4 ≥ 30% снижает взрывоопасность, защищая персонал и инфраструктуру шахты преимущества усовершенствования шахтной дегазации</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hv3q7lS1Tv" slidebank="false" type="slide">возможности улучшения дегазации в процессе предварительной технико-экономической оценки в предварительной технико-экономической оценке потенциальные усовершенствования дегазации основываются на анализе имеющихся данных и результатах посещения объекта, концентрируя внимание на наибольшем потенциальном эффекте на высоком уровне. предварительная технико-экономическая оценка не ставит целью оценить все варианты. более подробный и всесторонний анализ обычно проводится для полного технико-экономического обоснования.  существует четыре области, в которых оператор шахты может искать возможности усовершенствования в целях повышения уровня извлечения газа при минимально возможных затратах: оптимизация извлечения газа повышение качества извлекаемого газа оптимизация производительности системы дегазации минимизация затрат на извлечение газа эти области описаны на следующих слайдах.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.60cPBoHKCfr" slidebank="false" type="slide">как повысить работоспособность дегазации с наименьшими затратами повышение качества извлекаемого газа оптимизация производительности  системы дегазации минимизация затрат на извлечение газа  убедитесь, что подземные системы сбора газа поддерживаются в рабочем состоянии и не содержат скоплений воды и твердого осадка. убедитесь, что система рассчитана на максимальный ожидаемый объем извлекаемого газа (метан + воздух). сбалансируйте объемы воздуха вентиляционной струи и дегазации для достижения целевых показателей концентрации метана при эффективном управлении затратами на вентиляцию и дегазацию. оптимизация  извлечения газа</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rbg1eR3Xlg" slidebank="false" type="slide">оптимизация  извлечения газа как повысить работоспособность дегазации с наименьшими затратами оптимизация производительности системы дегазации минимизация затрат на извлечение газа  улучшить установку обсадных труб в скважинах для повышения герметичности и минимизации притока воздуха, особенно при работе под вакуумом. регулировать извлечение газа в зависимости от его качества на уровне системы, района и скважины, если это возможно. регулировать вакуум, в зависимости от качества газа, на уровне системы, района и скважины, если это возможно, для предотвращения разбавления концентрации метана последующей дегазации. повышение качества извлекаемого газа</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gxkEFzmYqS" slidebank="false" type="slide">оптимизация извлечения газа как повысить работоспособность дегазации с наименьшими затратами повышение качества извлекаемого газа минимизация затрат на извлечение газа  оптимизировать количество и тип скважин/дренажных выработок на основе опыта дегазации и прогнозов по запасам газа: предварительная/последующая дегазация подземные/с поверхности скважины направленного, горизонтального, вертикального бурения дренажные галереи выше/ниже рабочего пласта обеспечить эффективное местоположение и закладку скважин и дренажных выработок по отношению к панелям лав, забоям лав, участкам лав, участкам проходки, штрекам и капитальным выработкам для максимального извлечения газа, опираясь на опыт дегазификации. оптимизация производительности  системы дегазации</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a2T50NOkWv" slidebank="false" type="slide">оптимизация  извлечения газа как повысить работоспособность дегазации с наименьшими затратами повышение качества извлекаемого газа оптимизация производительности  системы дегазации  минимизировать количество скважин и их суммарный метраж до уровня, достаточного для достижения целевых показателей по извлечению газа.  адаптировать наиболее эффективную комбинацию методов бурения и оборудования скважин для угольных пластов и вмещающих пород. разработать обоснованную сравнительную смету расходов на услуги по бурению и оборудованию скважин (подрядчики по сравнению с выполнением собственными силами). регулировать давление в системе в зависимости от качества извлекаемого газа.  минимизация затрат на извлечение газа</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vaPBnfhIE0" slidebank="false" type="slide">обзор методов повышения эффективности системы дегазации повышение производительности системы дегазации напрямую влияет на качество и количество извлекаемого газа. эффективность системы дегазации можно повысить посредством: предварительная дегазация:  бурение скважин в пласт до начала его разработки. последующая дегазация: бурение скважин (вертикальных скважин в выработанное пространство, скважин в купола обрушения, направленных горизонтальных скважин в выработанное пространство или проходка дренажных галерей) таким образом, чтобы они были на месте до начала подработки, но обеспечивали извлечение газа во время и после отработки пласта. оптимизация системы сбора газа для каптирования метана, извлекаемого из скважин до и после отработки угольного пласта.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ajTZM3VVTe" slidebank="false" type="slide">методы повышения эффективности системы дегазации: инструменты оценки независимо от выбранного метода оптимизации дегазации, разработчику проекта необходимо будет спрогнозировать усовершенствования системы дегазации с помощью одного из методов, описанных в модуле 4: вероятностных методов, аналитических методов или моделирования коллектора.  моделирование коллектора является важным инструментом для оптимизации эффективности дренирования. моделирование может помочь предсказать расход газа при различном размещении скважин, интервалах между ними, разной глубине и диаметре.   для повышения уверенности в прогнозе улучшения дегазации, разработчик проекта может соотнести (сопоставить с историей) прогнозируемое извлечение газа, с использованием известных исходных данных в модели коллектора (см. модуль 4), с историческими даннами по деренированию газа в зависимости от времени. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nQWUaAMnrH" slidebank="false" type="slide">усовершенствование предварительной дегазации</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lOcrn6MMe6" slidebank="false" type="slide">усовершенствование предварительной дегазации: планирование и проектирование скважин усовершенствования предварительной дегазации могут включать скважины с поверхности, либо внутришахтные вертикальные, горизонтальные или направленно пробуренные скважины. скважины направленного бурения становятся все более распространенными в качестве стандартной передовой практики, поскольку они могут: обеспечить большую зону действия. запустить дегазацию с меньшим объемом работ по проходке. обеспечить большее время дренирования.  оптимальное решение зависит от многих факторов:  законный доступ к извлечению газа с поверхности или под землей наличие буровой инфраструктуры в стране или регионе геологические, геомеханические условия, напряжение горного массива и горнотехнические условия нормативные требования бюджет региональная культура и общепринятая практика  каракан, к.э. 2009 г.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68YVkIEj68x" slidebank="false" type="slide">усовершенствование предварительной дегазации: проектные соображения по скважинам   геологические/ геомеханические рыхлость угольного пласта магматические интрузии напряжение в месте залегания и вызванное горными работами  коллектор газоносность постоянная времени диффузии адсорбция/газонасыщение проницаемость пластовое давление, водонасыщенность результаты симуляционного моделирования расстояние между скважинами в зависимости от продуктивности дренажа прогноз извлечения газа горные работы обеспечить согласование целей оператора шахты и ответственного за извлечение газа пример результатов снижения газоносности в месте залегания с помощью скважин предварительной дегазации по пласту  пример результатов моделирования извлечения газа</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5yFx8eZKykc" slidebank="false" type="slide"> усовершенствование предварительной дегазации: разработка планов усовершенствования на основе начального моделирования пласта создается первоначальный проект скважины и моделируется одна лава. после оптимизации проекта для одной панели, этот проект затем применяется к остальным участкам лав с поправкой на различия в глубине/газоносности, ширине панелей и т.п. разработчики проекта должны подготовить график проектирования и установки/ввода элементов усовершенствования, а также указать глубину и расстояние между скважинами, требования к газопроводу и т.д., чтобы можно было подготовить смету расходов.   соображения в отношении планов последующего внедрения согласование с планом горных работ и планом добычи шахты определение схемы расположения скважин  разработка графика реализации проектирование извлечения муш в течение всего срока службы скважин подземных/с поверхности в выработанное пространство</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ESPEiN6JoX" slidebank="false" type="slide">улучшение дегазации на разных этапах: до и после отработки  хотя методы предварительной дегазации могут быть очень эффективными для получения газа с высоким содержанием метана при одновременном снижении природной газоносности разрабатываемого пласта, они не всегда являются наиболее эффективным методом дренирования газа. во многих угольных бассейнах мира низкая проницаемость угольных пластов (&lt;0,1 миллидарси (мд)) и геологические характеристики пластов (например, мягкий уголь, нарушения) не способствуют применению методов предварительной дегазации.    по мере отработки неглубоких запасов и перехода к более глубоким пластам со сложной геологией и низкой проницаемостью, для удаления газа из выработок может больше потребоваться последующая дегазация.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5uaXGjwfCM2" slidebank="false" type="slide">методы последующей дегазации </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bbt7IQXpMv" slidebank="false" type="slide">обзор методов последующей (текущей) дегазации выработанное пространство — это трещиноватая, проницаемая порода, расположенная над местом, где угольный пласт был отработан лавами, а кровля обрушилась. при наличии одного или нескольких угольных пластов выше или ниже рабочего пласта, газ из этих пластов может способствовать выделению метана в выработки, даже потенциально превышая газовыделения из разрабатываемого пласта. методы последующей/текущей дегазации предполагают перехват метана, выделяющегося в выработанное пространство, до того, как он попадет в вентиляционный штрек шахты.   извлечение газа выработанного пространства может осуществляться через вертикальные скважины с поверхности, скважины в купола обрушения, пробуренные под углом вверх или вниз от рабочего пласта, через горизонтальные скважины в выработанное пространство выше или ниже пласта, пробуренные подземно или с поверхности, либо через дренажные выработки. данные методы успешны при работе под вакуумом.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.64mhcjMsvml" slidebank="false" type="slide"> понимание геомеханики дегазации выработанного пространства для предварительной технико-экономической оценки понимание всех геомеханических характеристик не является необходимым, но, если они доступны, они могут помочь квалифицированному инженеру при оценке и проектировании усовершенствования систем последующей/текущей дегазации.  в зависимости от метода дегазации выработанного пространства, исторических данных по расходу газа и концентрации метана часто достаточно для оценки выделений газа в выработанное пространство на планируемых участках с предлагаемыми улучшениями дегазации, в рамка предварительной технико-экономической оценки.  однако, эти характеристики и влияние их изменений должны быть оценены в рамках полного технико-экономического обоснования и детального проектирования систем.  оптимизация контроля выбросов и извлечения газа из скважин в выработанное пространство требует понимания геомеханических характеристик вмещающих пород и того, как на эти породы влияют горные работы. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6icNvAnEhlt" slidebank="false" type="slide">понимание характеристик зоны выработанного пространства в целях моделирования усовершенствований  зона выработанного пространства по отработанному пласту включает критическую и субкритическую ширину панели лавы, перераспределение напряжения, высоту обрушения, характеристики обрушения и зоны, где породы находятся под напряжением или переуплотнением. эти параметры необходимы в качестве вводных данных для моделирования улучшения последующей/текущей дегазации. расположение вентиляционного канала выработанного пространства для контроля газа вмещающих пород  каракан, к.э. 1997 г.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nsIqmeIX2s" slidebank="false" type="slide">улучшение последующей дегазации:  оптимизация дегазации выработанного пространства  бесплатное программное обеспечение для моделирования извлечения газа поверхностными скважинами в выработанное пространство доступно в niosh сша: https://www.cdc.gov/niosh/mining/works/coversheet1805.html для прогнозирования потока газа из скважин в выработанное пространство также используются инженерные уравнения. доступные технологии дренажные галереи для дегазации выработанного пространства скважины в купола обрушения вертикальные скважины с поверхности  требования к внедрению  доступ к площадкам на поверхности глубина с поверхности геомеханические характеристики  кликните мышью, чтобы просмотреть принципиальную схему структуры модели выработанного пространства.  усовершенствованные технологии направленные скважины с поверхности (наклонные или параболические, в зависимости от доступа к площадкам на поверхности) горизонтальные ответвления скважин над панелями лав, направленно пробуренные с поверхности горизонтальные скважины в выработанное пространство направленно пробуренные скважины в купола обрушения (модифицированные)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TSeBc7hf8d" slidebank="false" type="slide">аспекты планирования и проектирования скважин в выработанное пространство физические факторы количество скважин с поверхности/подземных размещение горизонтальных и вертикальных скважин диаметр воротник бура обсадка и оборудование устья  факторы производительности вакуум на устье скважины перспективы извлечения предполагаемая концентрация обеспечение мониторинга эксплуатационные ограничения могут быть учтены для оптимизации эффективности дегазации выработанного пространства. при планировании и проектировании скважин в выработанное пространство следует учитывать следующее:   кликните мышью, чтобы просмотреть данные о количестве горизонтальных скважин (hgb), необходимых для расхода метана 100 м3/мин (500 м длины и концентрации 75% ch4 по объему).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.69mwzsLs487" slidebank="false" type="slide"> планирование и проектирование скважин в выработанное пространство дегазация выработанного пространства и качество извлекаемого газа зависят от ряда факторов. правильное планирование и проектирование систем извлечения газа выработанного пространства поможет обеспечить безопасность шахтных работ, оптимизируя при этом расход газа из выработанного пространства и концентрацию метана.  суммарный период извлечения газа и общий объем газа, дренируемого из выработанного пространства, увеличиваются по мере подработки вертикальных скважин с поверхности с продвижением лавы.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FkRTHXgQQ9" slidebank="false" type="slide">концентрация метана в газе выработанного пространства как отмечалось на предыдущем слайде, суммарный период извлечения газа и общий объем каптируемого газа выработанного пространства увеличиваются по мере подработки вертикальных скважин с поверхности с продвижением лавы.  однако, концентрация газа, извлекаемого из каждой последующей подрабатываемой вертикальной скважины в выработанное пространство, по мере отработки лавы, снижается.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5cEqwmyE8Eg" slidebank="false" type="slide"> разработка планов по дальнейшему бурению скважин в выработанное пространство аналогично скважинам предварительной дегазации, скважины с поверхности или подземные скважины могут быть спроектированы для оставшихся участков лавы, исходя из плана горных работ и добычи шахты, а также различий с ресурсами газа выработанного пространства.  это позволит разработчикам проекта подготовить первоначальный проект и график для всей системы, включая количество, длину/глубину и диаметр подземных и скважин с поверхности.     первоначальный проект служит основой для подготовки разработчиком сметы расходов на усовершенствование дегазации.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lRjleaqnUc" slidebank="false" type="slide">оптимизация сбора газа</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6mHWe2Q5V40" slidebank="false" type="slide">оптимизация трубопроводов сбора газа и их эксплуатации система дегазации состоит из скважин для извлечения шахтного газа, системы газопроводов для его сбора, насосов и сопутствующего оборудования для транспортировки газа на поверхность для утилизации или отвода в атмосферу.  строительство газопроводов: материалы, соединения и схемы прокладки мониторинг и управление вакуум и системный мониторинг/контроль мониторинг целостности газопроводов для обеспечения безопасности оптимизация системы сбора дегазации может привести к повышению извлечения высококачественного газа промышленного значения. важными факторами при оптимизации системы сбора газа являются: трубопровод сбора газа пэвп</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5q1W6u2ZY2o" slidebank="false" type="slide">аспекты строительства газопроводов потенциальные усовершенствования и факторы, способствующие улучшению системы сбора газа, включают: материалы газопровода сталь - особенно удобна в местах ограниченного пространства или там, где труба может быть уязвима для повреждений полиэтилен высокой плотности (пэвп) - требует проводящей среды для снижения риска статического разряда соединения фланцы с уплотнительной прокладкой сварные муфты victaulic к фланцам прочие факторы монтаж/обслуживание   подземные системы газопроводов подвержены повреждениям даже при использовании самых оптимальных систем. система дренажа должна проектироваться и эксплуатироваться с учетом того, что существует определенный риск нарушения целостности.  посмотреть больше подробностей о материалах системы сбора газа.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5hgWWyKc3jD" slidebank="false" type="slide">прокладка газопровода сеть газопроводов выполняет функцию системы сбора, которая доставляет добытый газ к центральному пункту сбора на поверхности. системы сбора могут прокладываться в шахте или на поверхности.  если бурятся только скважины с поверхности (скважины предварительной дегазации или дегазации выработанного пространства), то системы сбора газа будут располагаться на поверхности (или закапываться в грунт на поверхности).   газ, собираемый из скважин (предварительной или последующей дегазации) в шахте,  будет направляться к газосборной скважине, которая выходит на поверхность.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AImrEHYTk9" slidebank="false" type="slide">передовая практика прокладки газопроводов  принципы передовой практики, которые следует учитывать при проектировании прокладки газопровода минимизируйте длину трубы откажитесь от подземных трубопроводов, где это возможно. например, используйте перехват горизонтальных скважин вертикальными, или локализуйте газосборные скважины, выводящие газ на поверхность.  преимущества внедрения передовой практики  сокращение капитальных и эксплуатационных затрат повышение качества газа снижение риска повреждения газопровода в результате шахтных работ</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6LFbsRbQ2oy" slidebank="false" type="slide">мониторинг и управление газопроводами эффективность и безопасность использования метана можно значительно повысить, если точно замерять и контролировать концентрацию метана. используйте ручные или дистанционные системы мониторинга для определения эффективности системы дегазации. проводите регулярные измерения на отдельных устьях скважин, если это возможно, в сети дегазационного става и на вакуум-насосной станции на поверхности.  контролируйте расход газа, концентрацию метана (прямо или косвенно) и манометрическое давление (вакуум). также регистрируйте барометрическое давление, температуру и влажность газа в центральных пунктах, чтобы облегчить стандартизацию данных по расходу. для обеспечения точности измерений выбирайте оборудование для мониторинга, которое имеет корректировку на неметановые углеводороды.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6cyEwcBeCbe" slidebank="false" type="slide">оценка вакуума в газопроводе как правило, в рамках предварительной технико-экономической оценки, разработчик проекта не разрабатывает детальный проект системы сбора газа, кроме определения длины, диаметра трубы и местоположения соединений газопровода.   вакуум на устье скважин следует замерять, когда внутришахтные скважины/скважины с поверхности в выработанное пространство используются для определения мощности и стоимости вакуум-насосных станций/воздуходувок.    для предварительной технико-экономической оценки достаточно сметных расчетов, но для полного технико-экономического обоснования и последующей реализации проекта требуется более детальная инженерная проработка.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6k8Ew9KiIsv" slidebank="false" type="slide"> дополнительный мониторинг газопровода на предмет производительности системы полезной практикой является проведение систематического мониторинга прочих компонентов системы сбора газа.  управление подземным газопроводом. обслуживайте оборудование водоотделения и следите за тем, чтобы газопровод не заполнялся водой и не забивался твердыми частицами. проверяйте работу системы контроля целостности трубопровода, включая все секционные задвижки. регулярно протирайте и проверяйте все сенсорное/контрольное и приводное оборудование. операторы вакуум-насосных станций могут выполнять рутинные замеры вручную, либо использовать допустимые системы дистанционного мониторинга и управления.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6MJA8UyuvVA" slidebank="false" type="slide">обслуживание вакуум-насосной станции вакуум является основным средством перемещения газа из подземных скважин предварительной и последующей дегазации на поверхность. система сбора газа обычно находится под разрежением, создаваемым вакуум-насосом, который управляется вакуумной станцией.  расход газа, концентрация метана, давление и температура должны измеряться на вакуумной станции в целях обеспечения безопасной работы и предотвращения попадания взрывоопасной смеси метана с вакуумной станции в установки по утилизации муш, такие как электростанции, факельные установки и газопроводы природного газа.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">модуль 5 резюме в данном модуле описаны методы и инструменты, которые могут быть использованы для усовершенствования дегазации. усовершенствование дегазации может не только повысить уровень безопасности горных работ, но обеспечить рост добычи угля и более высокое качество извлекаемого газа.  важно отметить, что проект системы дегазации может потребовать периодической корректировки для обеспечения оптимального извлечения газа по мере развития шахты.   забегая вперёд в модуле 6 рассматриваются способы количественной оценки преимуществ усовершенствования систем дегазации.        </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">спасибо за внимание! вы завершили модуль 5.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">глобальная инициатива по метану (gmi) — это добровольное многостороннее партнерство, целью которого является сокращение выбросов метана и содействие снижению его воздействия, извлечению и использованию метана в качестве экологически чистого источника энергии. что такое глобальная инициатива по метану? страны партнеры gmi страны партнеры gmi составляют почти 70% от общего объема глобальных антропогенных выбросов метана, что эквивалентно приблизительно 5 000 млн.м.т в эквиваленте co2.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">как перемещаться для просмотра модуля используйте кнопки в правом нижнем углу экрана. вы будете просматривать по одному слайду за раз, хотя в любой момент сможете вернуться к просмотренным слайдам с помощью панели навигации "меню" слева.  если вам нужно выйти из модуля, последний просмотренный слайд будет сохранен, и вы позднее сможете вернуться к нему. </slidetext>
+      <slidetext slideid="6fgphnmPAaM.638U67WkHuJ" slidebank="false" type="slide">диаграмма модели структуры выработанного пространства</slidetext>
+      <slidetext slideid="5gzrAMy40BB.6riaukL5YRv" slidebank="false" type="slide">определения соответствующих терминов  дренажные выработки выработки- существующие или специально пройденные в целях дегазации над или под разрабатываемым пластом. выработки могут использоваться для предварительной или последующей дегазации. галереи предварительной дегазации строятся (проходятся) перед началом горных работ. из галерейной выработки в газоносные пласты бурятся скважины для извлечения газа до начала разработки участка. для последующей дегазации выработки проходятся над разрабатываемым пластом (вышележащие) для улавливания газа, мигрирующего из выработанного пространства. выработки герметизируются, для отвода газа из них в систему трубопроводов прикладывается вакуум. для повышения степени извлечения газа из выработанного пространства из галерей в выработанные зоны могут быть пробурены скважины.    система дегазации комплексная система, объединяющая скважины с системой сбора газа, состоящей из газопроводов и вакуум-насосов или компрессоров. система предназначена для транспортировки газа из горных выработок на поверхность, где газ выбрасывается в атмосферу или используется. системы дегазации также называют системами каптирования газа и системами дегазацификации. система сбора газа система газопроводов, оборудования для удаления влаги и пыли, а также движущей силы (например, вакуумных насосов, компрессоров), транспортирующей газ от устья скважины на поверхность.  добыча газа объем газа, извлекаемого системами предварительной и последующей дегазации. скважины последующей дегазации скважины, пробуренные над или под разрабатываемый пласт, в которые, после отработки угольного пласта, выделяется метан. скважины для дегазации после отработки пласта могут быть пробурены с поверхности или непосредственно в шахте. вначале концентрация метана может быть высокой, но по мере поступления в скважины воздуха из зоны выработанного пространства, концентрация будет относительно быстро снижаться. такие скважины также принято называть скважинами дегазации выработанного пространства. скважины предварительной дегазации скважины, пробуренные в разрабатываемый пласт или вмещающие породы до начала горных работ, в целях извлечения метана до начала добычи угля. скважины предварительной дегазации могут буриться с поверхности или в шахте. газ извлекается скважинами до начала разработки угольного пласта. после разработки пласта, извлечение газа прекращается. концентрация метана может быть очень высокой, и скважины могут извлекать газ в течение многих лет до начала добычи. такие скважины принято называть скважинами предварительной дегазации.</slidetext>
+      <slidetext slideid="6h8VqTnI9px.650S3NJJYSq" slidebank="false" type="slide">материалы системы сбора газа стальная труба труба из полиэтилена высокой плотности преимущества недостатки преимущества недостатки высокая механическая прочность со временем соединения могут ржаветь и давать течь тяжелая и трудно перемещаемая не подвержена коррозии: устойчива к h2s, не ржавеет легче и проще в обращении, чем сталь, что снижает затраты на установку и обслуживание  соединения могут быть скреплены плотнее, что сводит к минимуму притоки воздуха менее механически прочная, чем стальная некоторое беспокойство вызывает вопрос статического электричества</slidetext>
+      <slidetext slideid="61HwvJNYkn8.6pgYRKNDYkg" slidebank="false" type="slide">данные по производительности скважин диаметр скважин вакуум диаметр 50 мм hg 100 мм hg 150 мм hg 96 мм 32 23 19 121 мм 18 13 11 146 мм 12 9 7 165 мм 9 6 5 количество горизонтальных скважин в выработанное пространство (hgb), необходимых для расхода метана 100м3/мин (длина 500м и 75% ch4). </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="In-Situ – в месте залегания">Это может означать "на месте", "на площадке" или "на территории", для описания того, где происходит событие, и используется во многих различных контекстах. Например, в таких областях, как физика, геология, химия или биология, "in situ" может означать способ проведения измерений, то есть в том же месте, где происходит явление, без изоляции от других систем или изменения исходных условий испытания. Противоположностью "in situ" является "ex situ".</term>
+      <term title="Воротник бура">Распространенный компонент буровой инфраструктуры, обеспечивающий нагрузку на долото при бурении. Буровые колонны представляют собой толстостенные трубчатые детали, изготовленные из цельного стального прутка, обычно из обычной углеродистой стали, но иногда из немагнитного никель-медного сплава или других немагнитных сплавов высокого качества.</term>
+      <term title="Выбросы парниковых газов (ПГ)">Выброс парниковых газов и/или их предвестников в атмосферу на определенной территории и в течение определенного периода времени. Может быть обозначен как антропогенный (в результате деятельности человека) или естественный.</term>
+      <term title="Выработанное пространство">Разрушенный, проницаемый грунт, в котором добыча угля прошла с помощью лавы, а кровля имеет свойство обрушаться, что приводит к разрушению и разрядке в пластах выше и, в меньшей степени, ниже разрабатываемого пласта. Термин "gob" обычно используется в Соединенных Штатах; в других странах обычно используется "goaf".</term>
+      <term title="Газоносность">Объем газа, содержащийся в единице массы угля, обычно выражается в кубических метрах на тонну угля при стандартных условиях давления и температуры.</term>
+      <term title="Глобальная инициатива по метану (GMI)">Запущенная в 2004 году, GMI - это международная государственно-частная инициатива, способствующая экономически эффективному, сокращению выбросов метана в краткосрочный период, его извлечению и использованию, в качестве источника чистой энергии, в трех секторах: в качестве биогаза (включая сельское хозяйство, твердые бытовые отходы и сточные воды), на угольных шахтах и нефтегазовых системах. Сосредоточение коллективных усилий на источниках выбросов метана - это экономически эффективный подход к сокращению выбросов парниковых газов (ПГ) и повышению энергетической безопасности, ускорению экономического роста, улучшению качества воздуха и повышению безопасности работников.</term>
+      <term title="Дегазация">Методы, используемые в подземных угольных шахтах, закрытых шахтах, а иногда и на открытых разработках, для улавливания природного газа в угольных пластах, чтобы предотвратить его попадание в выработки шахты. Системы дегазации включают в себя комбинацию дренажных скважин и/или выработок, сеть сбора газа и вакуумные насосы для вывода газа на поверхность. Газ можно извлекать из угольных пластов до начала добычи с помощью методов предварительной дегазации, а из пластов, нарушенных в процессе добычи, с помощью методов последующей дегазации. Данный метод часто называют дренированием метана, если метан является основным газовым компонентом, который необходимо улавливать. Дегазация позволяет получать шахтный метан более высокого качества, чем при вентиляции, обычно в диапазоне 25-100%.</term>
+      <term title="Дегазация после добычи (последующая)">Бурение скважин (вертикальных в выработанное пространство, скважин в купола обрушения, направленных горизонтальных скважин или проходка дренажных выработок) до начала добычи, чтобы они были на месте до начала подработки, но каптировали газ во время и после отработки пласта.</term>
+      <term title="Дегазификация">Процесс удаления газов из угольной шахты.</term>
+      <term title="Добыча газа">Объем газа, извлекаемого дегазационными скважинами и дренажными выработками до и после добычи угля.</term>
+      <term title="Дренажные выработки">Существующие или специально пройденные выработки над или под разрабатываемым пластом, которые собирают метан из зон обрушения. Выработки герметизируются, и для отвода газа из них в систему трубопроводов применяется вакуум. Их также иногда называют вышележащими скважинами.</term>
+      <term title="Европейская экономическая комиссия ООН (ЕЭКООН)">Европейская экономическая комиссия Организации Объединенных Наций (ЕЭК или ЕЭКООН) - одна из пяти региональных комиссий, находящихся под юрисдикцией Экономического и Социального Совета ООН. Она была создана с целью содействия экономическому сотрудничеству и интеграции между странами-членами. В состав комиссии входят 56 государств-членов, большинство из которых расположены в Европе, а также несколько за ее пределами. В число ее трансконтинентальных евразийских и неевропейских государств-членов входят: Армения, Азербайджан, Канада, Грузия, Израиль, Казахстан, Кыргызстан, Российская Федерация, Таджикистан, Туркменистан, Соединенные Штаты Америки и Узбекистан.</term>
+      <term title="Забой лавы">Конец панели лавы, который нарезается комбайном.</term>
+      <term title="Заканчивание">Установка труб в скважину после завершения бурения.</term>
+      <term title="Затраты на основные средства">Фиксированные, единовременные расходы на приобретение земли, зданий, сооружений и оборудования, используемых в производстве товаров или оказании услуг. Другими словами, это общая стоимость, необходимая для доведения проекта до коммерчески пригодного состояния.</term>
+      <term title="Лава">Один из трех основных методов подземной добычи угля, используемых в настоящее время. Используется комбайн, который механически тянется вперед и назад по пласту угля, длина которого обычно составляет несколько сотен футов. Этот метод добычи позволяет добывать большие объемы угля и газа.</term>
+      <term title="Магматические интрузии">Расплавленная магма, поднимающаяся из мантии, проникает в существующие скальные образования.</term>
+      <term title="Метан">Метан - мощный парниковый газ. Хотя жизненный период метана в атмосфере гораздо короче, чем у углекислого газа (CO2), он в 28 раз эффективнее задерживает радиацию, в течение 100-летнего периода, чем CO2. Метан является основным предвестником загрязнения приземного слоя озоном и, таким образом, влияет на качество воздуха. Метан также является энергетическим ресурсом, который можно улавливать и использовать. Метан в шахтах представляет угрозу безопасности из-за своей взрывоопасности при смешивании с воздухом.</term>
+      <term title="Метан вентиляционной струи (МВС)">МУШ, который удаляется из выработок с помощью вентиляционных систем, использующих вентиляторы для разбавления метана до безопасного уровня путем циркуляции свежего воздуха по шахте. МВС - крупнейший источник выбросов метана из подземных угольных шахтах.</term>
+      <term title="Метан закрытых шахт (МЗШ)">Временно или постоянно закрытые угольные шахты, которые производят значительные выбросы метана из диффузных выходов, трещин или скважин.</term>
+      <term title="Метан угольных шахт (МУШ)">Метан, высвобождающийся из угля в результате горных работ. Как и МУП, МУШ является частью метана, содержащегося в угольных пластах, но относится именно к метану, содержащемуся в зонах добычи (например, в рамках плана горных работ), в то время как МУП относится к метану в угольных пластах, которые никогда не будут разрабатываться. Поскольку МУШ будет высвобождаться по ходу горных работ, извлечение и использование МУШ считается предотвращением выбросов.</term>
+      <term title="Моделирование пласта-коллектора">Обеспечивает последовательный и надежный способ учета сложных механизмов десорбции и диффузии газа угольных пластов. Также дает возможность интегрировать полевые и лабораторные данные в единую геологическую модель/модель пласта в целях оценки стратегий разведки и разработки.</term>
+      <term title="Нарушения">Разломы в земной коре, по которым происходят сдвиги.</term>
+      <term title="Обсадка">Труба большого диаметра, которую собирают и вставляют в недавно пробуренную часть скважины.</term>
+      <term title="Панель лавы">Крупные блоки угля, разрабатываемые очистным комбайном.</term>
+      <term title="Пластовое давление">Показатель того, сколько жидкости (газа, нефти или воды) осталось в пласте. Представляет собой величину движущей силы, доступной для вытеснения оставшейся жидкости из пласта в процессе добычи.</term>
+      <term title="Предварительная дегазация">Бурение скважин по пласту в целях каптирования газа из угольного пласта до начала горных работ по добыче угля.</term>
+      <term title="Предварительные технико-экономические оценки">Как правило, проводят подробный технический анализ информации о конкретном объекте и рассматривают вопросы финансирования проекта. Предоставляют прогноз извлечения газа и обзор применяемых методов дегазации. Однако эти документы содержат меньше деталей, чем полное технико-экономическое обоснование. Такие документы, как правило, не считаются "приемлемыми для банков".</term>
+      <term title="Проницаемость">Состояние или качество материала или мембраны, благодаря которому они пропускают через себя жидкости или газы.</term>
+      <term title="Рабочий пласт">Пласт угля, который разрабатывается, называется рабочим пластом.  Крупные шахты могут добывать уголь из нескольких пластов, и для каждого разрабатываемого пласта будет свой производственный план.</term>
+      <term title="Расстояние между скважинами">Измеренное расстояние между двумя или более скважинами, пробуренными для извлечения газа.</term>
+      <term title="Система сбора газа">Система газопроводов, оборудования для удаления влаги и пыли, а также движущей силы (например, вакуумных насосов, компрессоров), транспортирующей газ от устья скважины на поверхность.</term>
+      <term title="Скважина">Узкий ствол, пробуренный в шахте в почву или кровлю, вертикально или горизонтально.</term>
+      <term title="Скважины последующей дегазации">Скважины, пробуренные над или под разрабатываемый пласт, в которые, после отработки угольного, выделяется метан. Скважины для дегазации после отработки пласта могут быть пробурены с поверхности или непосредственно в шахте. Вначале концентрация метана может быть высокой, но по мере поступления в скважины воздуха из зоны выработанного пространства, концентрация будет относительно быстро снижаться. Такие скважины также принято называть скважинами дегазации выработанного пространства.</term>
+      <term title="Скважины предварительной дегазации">Скважины, пробуренные в разрабатываемый пласте или вмещающие породы до начала горных, в целях извлечения метана до начала добычи угля. Скважины предварительной дегазации могут буриться с поверхности или в шахте. Газ извлекается скважинами до начала разработки угольного пласта. После разработки пласта, извлечение газа прекращается. Концентрация метана может быть очень высокой, и скважины могут извлекать газ в течение многих лет до начала добычи. Такие скважины принято называть скважинами предварительной дегазации.</term>
+      <term title="Страта">Слой осадочной породы или почвы; в данном случае, относится к слою угля.</term>
+      <term title="Технико-экономические обоснования">Подробный отчет об экономической и технической целесообразности разработки проекта. Данный документ считается "приемлемым для банков", то есть достаточным для обеспечения финансирования проекта.</term>
+      <term title="Трубы стояка">Система труб, соединяющих компоненты системы дегазации.</term>
+      <term title="Хрупкость">Когда уголь легко ломается или крошится, его называют рыхлым. Это оказывает существенное влияние на управление газовым хозяйством, поскольку газодренажные скважины, пробуренные в рыхлых углях, могут легко разрушаться, тем самым препятствуя дегазации шахты.</term>
+      <term title="Эффективность дегазации">Объем метана, полученного при извлечении системой дегазации, как доля от всего метана, извлекаемого по шахте.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

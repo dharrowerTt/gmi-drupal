@@ -1,0 +1,54 @@
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+<!-- jQuery (required) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<article>
+
+  {% if content.field_intro_section %}
+    <section class="section--intro">
+      <div class="container">
+        {{ content.field_intro_section }}
+      </div>
+    </section>
+  {% endif %}
+
+  {% if content.field_white_section_1 %}
+    <section class="section--white">
+      <div class="container">
+        {{ content.field_white_section_1 }}
+      </div>
+    </section>
+  {% endif %}
+
+  {% if content.field_gray_section_1 %}
+    <section class="section--gray">
+      <div class="container">
+        {{ content.field_gray_section_1 }}
+      </div>
+    </section>
+  {% endif %}
+
+  {% if content.field_white_section_2 %}
+    <section class="section--white">
+      <div class="container">
+        {{ content.field_white_section_2 }}
+      </div>
+    </section>
+  {% endif %}
+
+  {% if content.field_gray_section_2 %}
+    <section class="section--gray">
+      <div class="container">
+        {{ content.field_gray_section_2 }}
+      </div>
+    </section>
+  {% endif %}
+
+</article>
+
+

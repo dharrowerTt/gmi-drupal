@@ -1,0 +1,166 @@
+{# DEBUG: TEMPLATE FOUND AND WORKING #}
+<main class="py-5">
+  <div class="container">
+    <h1>SECTIONED PAGE TEMPLATE IS ACTIVE</h1>
+    <p>This content is coming from page--sectioned_page.html.twig</p>
+  </div>
+</main>
+
+{# Same header + layout as original #}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <head-placeholder token="{{ placeholder_token|raw }}">
+  {{ attach_library('globalmethane/global') }}
+  <title>{{ head_title }}</title>
+  <css-placeholder token="{{ placeholder_token|raw }}">
+  <js-placeholder token="{{ placeholder_token|raw }}">
+</head>
+
+<body>
+<div class="d-flex flex-column min-vh-100">
+
+  {% if page.top %}
+    <div class="bg-light py-1">
+      <div class="container">
+        {{ page.top }}
+      </div>
+    </div>
+  {% endif %}
+
+  {% if page.header %}
+  <header role="banner">
+    <div id="headerContainer">
+      <nav class="navbar navbar-light bg-light py-2">
+        <div class="container d-flex justify-content-between align-items-center flex-wrap">
+          <a class="navbar-brand d-flex align-items-center flex-shrink-1" href="/">
+            <img src="https://gmidev.org/web/sites/default/files/2025-05/gmi-top.png" alt="GMI Home" style="height: 50px;" class="mr-2">
+            <div class="d-none d-md-block">
+              <div class="font-weight-bold mb-0 small">Global Methane Initiative (GMI)</div>
+              <small class="text-muted">Leading methane action since 2004</small>
+            </div>
+          </a>
+          <div class="d-flex align-items-center ml-auto text-nowrap">
+            <a class="nav-link px-2 text-dark" href="https://globalmethane.us19.list-manage.com/subscribe?..." target="_blank">Join Our Mailing List</a>
+            <a class="nav-link px-2 text-dark" href="https://www.facebook.com/globalmethane" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a class="nav-link px-2 text-dark" href="https://twitter.com/globalmethane" target="_blank"><i class="fab fa-x-twitter"></i></a>
+            <a class="nav-link px-2 text-dark" href="https://www.linkedin.com/company/global-methane-initiative-gmi-/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a class="nav-link px-2 text-dark" href="/search/index.aspx">Search <i class="fa fa-search"></i></a>
+          </div>
+        </div>
+      </nav>
+
+      <style>
+        .navbar-dark .navbar-nav .nav-link {
+            color: rgba(255, 255, 255, 1)!important;
+        }
+      </style>
+
+      <nav class="navbar navbar-expand-lg bg-dark navbar-dark" style="background:#1E5E7B!important;color:white;font-weight:bold;">
+        <div class="container">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="mainNavbar">
+            {{ page.primary_menu }}
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+  {% endif %}
+{# DEBUG: using sectioned page template #}
+
+  {# Custom Sectioned Content Starts Here #}
+  <main role="main">
+    {% if node.field_intro_section %}
+      <section class="py-5 text-white text-center" style="background-color: #003c5c;">
+        <div class="container">
+          {{ node.field_intro_section.value|raw }}
+        </div>
+      </section>
+    {% endif %}
+
+    {% if node.field_white_section_1 %}
+      <section class="py-5 bg-white text-dark">
+        <div class="container">
+          {{ node.field_white_section_1.value|raw }}
+        </div>
+      </section>
+    {% endif %}
+
+    {% if node.field_gray_section_1 %}
+      <section class="py-5" style="background-color: #f4f4f4;">
+        <div class="container">
+          {{ node.field_gray_section_1.value|raw }}
+        </div>
+      </section>
+    {% endif %}
+
+    {% if node.field_white_section_2 %}
+      <section class="py-5 bg-white text-dark">
+        <div class="container">
+          {{ node.field_white_section_2.value|raw }}
+        </div>
+      </section>
+    {% endif %}
+
+    {% if node.field_gray_section_2 %}
+      <section class="py-5" style="background-color: #f4f4f4;">
+        <div class="container">
+          {{ node.field_gray_section_2.value|raw }}
+        </div>
+      </section>
+    {% endif %}
+  </main>
+
+  {% if page.sidebar_first %}
+    <aside class="container py-3">
+      {{ page.sidebar_first }}
+    </aside>
+  {% endif %}
+
+  <footer role="contentinfo" class="bg-dark text-white pt-4">
+    <div class="container-fluid containerFooter">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3">
+            <ul class="list-unstyled">
+              <li><a href="/" class="text-white">Home</a></li>
+              <li><a href="/contact-us/index.aspx" class="text-white">Contact Us</a></li>
+              <li><a href="https://globalmethane.us19.list-manage.com/subscribe?u=da591cea9e010abd0437239de&amp;id=a3abe26702" class="text-white">Join Our Mailing List</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-3">
+            <ul class="list-unstyled">
+              <li><a href="/join-gmi/index.aspx" class="text-white">Join GMI</a></li>
+              <li><a href="/project-network/join.aspx" class="text-white">Join the Project Network</a></li>
+              <li><a href="/join-gmi/index.aspx" class="text-white">Join a Subcommittee</a></li>
+              <li><a href="/resources/recommend.aspx" class="text-white">Recommend a Resource</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-3">
+            <ul class="list-unstyled">
+              <li><a href="/challenge" class="text-white">Global Methane Challenge</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-3">
+            <ul class="list-unstyled">
+              <li><a href="/archive" class="text-white">Archive</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="row py-2">
+          <div class="col-sm-12 text-center border-top border-light pt-3">
+            <strong>Global Methane Initiative (GMI)</strong><br>
+            <span class="small">Leading methane action since 2004</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <js-bottom-placeholder token="{{ placeholder_token|raw }}">
+</div>
+</body>
+</html>

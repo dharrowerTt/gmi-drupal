@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="开展CMM项目预可行性研究：单元4" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6HriCuiYa0G_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5hGDbxqkAt5.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="导航方式" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use your arrow keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">缩写词</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">菜单</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="课程介绍" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="1.1煤矿瓦斯项目开发" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="欢迎" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="培训单元" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="单元4" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="2.1单元4：预测瓦斯抽采系统的甲烷产量" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="2.2学习内容" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5gm2fFpCbYb" displaytext=" " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5fmfSLSh5N9" displaytext="2.4概率法预测：" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6flqtsidIcj" displaytext="2.5分析法预测：" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GqJAYlGVRm" displaytext="2.6储层模拟法预测：" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6pphYhnepqd" displaytext="2.7选择一种预测CMM产量的方法" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6UlS47EFSw9" displaytext="2.8概率法" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5a4nIlgiOiO" displaytext="2.9通过概率法预测CMM产量" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nRiIQfwpQp" displaytext="2.10概率法方法" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5pWpjmeXlAK" displaytext="2.11采用概率法的时机" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5VotO4o4sOs" displaytext="2.12概率法成果示例" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5k3GLMz16of" displaytext="2.13分析法" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5pwiLZBe3io" displaytext="2.14通过分析法预测CMM产量" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nMqYj3o1Vt" displaytext="2.15容量分析" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5aeYY87faLg" displaytext="2.16容量式采空区瓦斯预测模型" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5s9iUa4BpSE" displaytext="2.17容量式采空区瓦斯预测模型示例" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dFJjHyBd4v" displaytext="2.18数值计算" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65wdgaa7kxs" displaytext="2.19计算技术" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5ma2OJCPgrS" displaytext="2.20储层模拟法" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6ic0GmbSd7y" displaytext="2.21通过储层模拟法预测CMM产量" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eB9StsU3A9" displaytext="2.22储层模拟法参数" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6NKYb0pZYkI" displaytext="2.23储层模拟法示例" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5snAhHmZap1" displaytext="2.24储层模拟法置信度" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6mWXYJmFDpH" displaytext="2.25各种方法在实践中的应用" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5dUA8lAmz7r" displaytext="" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="2.27单元4总结" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">开展煤矿瓦斯项目  预可行性研究 由美国环保局为支持全球甲烷行动倡议（gmi）而提供的培训</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> 欢迎 为支持全球甲烷行动倡议，美国环保局（epa）与联合国欧洲经济委员会（unece）联合制作本课程。课程中文翻译由中国煤炭信息研究院（ccii）提供。 什么是全球甲烷行动倡议（gmi）？ 本课程介绍了煤矿瓦斯（cmm）捕集和/或利用项目开发潜力的评估原则。本课程所介绍的一般方法应以具体煤矿的数据和分析作为基础，并便根据具体情况进行调整，以促成项目的开发和实施。  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> 开展cmm项目预可行性研究  培训单元  单元1：简介和目标 单元2：煤矿背景和评估 单元3：资源评估 单元4：预测瓦斯抽采系统的甲烷产量 单元5：改进瓦斯抽采 单元6：量化改进甲烷抽采系统后的益处 单元7：市场、风险和财务分析 单元8：案例分析—以中国六龙煤矿为例</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">单元4   预测瓦斯抽采系统的甲烷产量</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">学习内容 完成本单元后，您将：  熟悉瓦斯抽采产量的预测方法 理解为何预测分析取决于数据的质和量。   完成本单元所需时间： 约30分钟</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gm2fFpCbYb" slidebank="false" type="slide">预测甲烷抽采系统的cmm产量   项目开发商可以利用几类方法来预测甲烷抽采系统的cmm产量。最佳的方法则取决于数据的数量和类型。  预测cmm产量的方法包括： 概率法 分析法 储层模拟法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5fmfSLSh5N9" slidebank="false" type="slide">储层模拟法 分析法  概率法预测 用于项目开发商没有足够或可靠的经验数据时。  概率法采用一系列估计值来预测产生不同结果的可能性。  因此，概率法用随机性来解决可能具有内在确定性的（即完全由参数值和初始值决定）问题。 概率法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6flqtsidIcj" slidebank="false" type="slide">概率法 储层模拟法   分析法预测： 用于项目开发商拥有足够或可靠的现场数据时。  分析法利用一系列现场数据，通过应用分析技术来预测瓦斯抽采系统未来的甲烷产量。  分析技术或可包括容量分析或现场推导出的生产关系。  分析法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GqJAYlGVRm" slidebank="false" type="slide">概率法 分析法   储层模拟法预测： 用于项目开发商能够获得煤层参数相关的现场和实验室数据时 储层模拟法提出了一种阐述煤层气解吸、扩散和流动的复杂机制的方法。  该方法 将现场和实验室数据整合到一个单一的地质/储层模型中，用来评估采前瓦斯抽采策略。 储层模拟法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pphYhnepqd" slidebank="false" type="slide"> 选择一种预测cmm产量的方法 包括采矿和储层工程师在内的专家为每种方法开发模型、模拟和/或软件，用来预测抽采系统的cmm产量。  项目开发商可获得的数据量和数据类型往往决定了哪种方法最合适。   无论选择哪种方法（概率法、分析法或储层模拟法），模型或软件都应灵活适应具体项目需求。项目开发商通常与技术咨询公司合作，确定适当的方法。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UlS47EFSw9" slidebank="false" type="slide">概率法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5a4nIlgiOiO" slidebank="false" type="slide">通过概率法预测cmm产量 估算瓦斯抽采产量需要了解诸多变量，但项目开发商未必掌握全部信息。因此，项目开发商可能需要采用概率法，通过计算来预测某些瓦斯抽采特征的概率。  概率法的一个应用案例为 甲烷控制预测 （mcp）软件，该软件由美国国家职业安全卫生研究所开发。 （注：该软件目前正在更新）。mcp软件可公开获取，用于预测矿井甲烷排放，  估算抽放系统的生产率。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nRiIQfwpQp" slidebank="false" type="slide">概率法 概率法，包括mcp软件用一类广泛的计算算法，通过 重复随机抽样 来获得数值结果。 底层概念是利用随机性来解决原则上确定的问题。 通过模拟来预测当随机变量干预时出现不同结果的概率。 概率法有助于解释 预测和预估模型中风险和不确定性的影响。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5pWpjmeXlAK" slidebank="false" type="slide"> 采用概率法的时机 开发商在数据有限的情况下使用概率法。 概率法可以为瓦斯抽采系统的cmm产量预测提供上、下限，但不如采矿和煤储层特征的分析技术准确。   参数或可包括：  割缝套管的长度  （从表面）到割缝套管顶部的距离 割缝套管的直径 割缝套管与煤层上方的距离  采空区瓦斯钻孔到回风巷的距离  采空区瓦斯钻孔到盘区起点的距离 平均排气管真空度  例如，可以应用概率分析来预测采空区的瓦斯抽采量，即采空区释放的甲烷量。本例将利用一系列数据进行分析，包括采矿参数和煤炭产量预测。  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VotO4o4sOs" slidebank="false" type="slide">概率法成果示例  某矿8年煤炭预计产量示例  示例为cmm10年预计抽采量，显示了未来抽采量的高、低和最优估值。 煤炭产量 预测cmm抽采量 除了预测采空区瓦斯抽采量外，概率法还可应用于本煤层钻孔、穿层钻孔或任何其他甲烷抽采技术。下面介绍使用概率法进行预测的示例。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5k3GLMz16of" slidebank="false" type="slide">分析法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5pwiLZBe3io" slidebank="false" type="slide">通过分析法预测cmm产量 在数据充足的情况下，项目开发商可以采用分析技术来估计抽采系统的瓦斯产量。  分析技术可能包括容量分析或数值计算。开发商可以利用这些技术来预测不同情景下的甲烷产量，如： 可能受采动影响地层中的瓦斯量。 矿井通风瓦斯排放。  在使用分析法预测上述变量后，项目开发商在继续规划矿山下一步开发时，可以使用这些变量来预测cmm产量。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nMqYj3o1Vt" slidebank="false" type="slide">容量分析 容量分析是一种用于估计特定储层岩体（地质储量）赋存气量的技术。  容量分析法采用地质观测和相关生产信息来预测吸附在煤表面以及集聚在孔隙中的甲烷量。   容量分析技术通常依赖于岩心取样、有线测井（使用电驱地质仪进行连续测量）和地质图形的数据。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5aeYY87faLg" slidebank="false" type="slide">容量式采空区瓦斯预测模型 分析法的一个例子是容量式采空区瓦斯预测模型。采空区瓦斯预测模型通常模拟矿井采空区的瓦斯，并考虑到受影响的含气地层。  输入数据包括：  地表下深度 邻近地层的地质力学特性 邻近地层的瓦斯含量和储层特性 邻近地层与采矿区域的接近程度 盘区长度 盘区宽度 开采高度和速度</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5s9iUa4BpSE" slidebank="false" type="slide">容量式采空区瓦斯预测模型示例  下图示例展示了采用智能计算对长壁开采煤矿的采空区瓦斯钻孔生产动态进行预测，以达到最佳的瓦斯防治效果。该示例显示了在单个长壁盘区的开采过程中采空区瓦斯井的初始高产率和甲烷浓度。随着时间的增加，瓦斯产量和甲烷浓度下降。每个盘区第一个钻孔的甲烷产量通常占比最高，后期钻孔的甲烷产量较少。   瓦斯产量与时间的关系 甲烷浓度与时间的关系</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dFJjHyBd4v" slidebank="false" type="slide">数值计算 数值计算是另一种分析法，用于研究复杂系统中多个参数的相互作用。  通过数字模型进行模拟预测，并利用项目开发商收集的经验数据和测量结果得出解析方案。  数值计算的应用包括使用方程。    通过计算，开发商可以利用参数关系来预估采空区水平钻井的瓦斯流动与以下要素的函数关系：  气体成分 钻孔直径 井口真空压力</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65wdgaa7kxs" slidebank="false" type="slide"> 计算技术 如之前幻灯片所提，分析法还能采用数值计算，包括技术教材中里由地质学家和工程师开发的计算方程。通过数值计算，开发商可以通过以下函数来估算在气体成分、钻井直径和井口真空压力下的采空区水平钻井的瓦斯流动能力。 q =瓦斯流量，在标准条件下测量（升/秒） f =摩擦系数，无因次系数 pb = 基准（标准）压力（千帕） tb =基准（标准）温度（开尔文） p1 =上游压力（千帕） p2 =下游压力（千帕） g =气体重力（空气 = 1.0） tf =气体平均流动温度（开尔文） l =管道长度（千米） d =钻孔直径  z =气体压缩系数</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ma2OJCPgrS" slidebank="false" type="slide">储层模拟法</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ic0GmbSd7y" slidebank="false" type="slide">通过储层模拟法预测cmm产量 储层模拟法是预测cmm产量的首选和最准确的方法，前提是项目开发商有足够和可靠的数据。 q=1.3303 (10)-5(tb/pb) [(p21-p22)/gxtf x l x z x f] 0.5 x d2.5  使用储层模拟法进行采前抽采预测的优点如下：  提供一种阐述煤层气解吸、扩散和流动的复杂机制的方法。  将现场和实验室数据整合到一个单一的地质/储层模型中，用来评估采前瓦斯抽采策略。 为预测采前瓦斯抽采系统的未来产量提供依据。 有助于诊断原地瓦斯含量减少与抽采时间、采前钻孔间距的关系。 根据井下开采计划，预测开采前抽放瓦斯回收率随时间的推移的变化。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eB9StsU3A9" slidebank="false" type="slide">储层模拟法参数 储层模拟需要了解煤层的储层特点，包括以下参数：  割理的渗透性和走方 孔隙率 初始瓦斯含量 吸附等温线 解吸压力 扩散系数 割理间距 孔隙体积压缩性 气体成分、重力和粘性 深度 净煤厚度 分层 灰分含量 抽采面积 储层压力 水饱和度 气-水相对渗透率</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NKYb0pZYkI" slidebank="false" type="slide">储层模拟法示例 开发商可以利用储层模拟法，根据现有矿山开采计划和预测储层参数，推导采前甲烷抽采计划。美国普遍使用的商业软件为comet3和gem。  成果示例 comet3 成果示例 gem</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5snAhHmZap1" slidebank="false" type="slide">储层模拟法置信度 储层模拟法需要大量的数据，瓦斯抽采系统储层建模设计的适用程度取决于数据的可用性和质量。 通过对比历史产量或瓦斯含量降低数据、模拟输出量来提高对储层模拟结果的置信度。  左图显示在钻孔间距为20米的低渗透煤层中， 2年后瓦斯的减少量。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6mWXYJmFDpH" slidebank="false" type="slide">各种方法在实践中的应用 数据的可用性和质量是遴选和确定适当预测方法的主要因素。  虽然储层模拟法是首选且最准确，但需收集必要数据辅助。   获取储层信息需要进行钻井、取芯和测试井及实验室工作。 构建储层模拟需要大量时间来进行数据收集、模型构建、运行以及结果解读。  因此，相比单纯依靠数据的概率法，储层模拟法的完成成本更高。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5dUA8lAmz7r" slidebank="false" type="slide">预测方法的重要性  本单元讨论的预测方法可提高改进瓦斯抽采系统（见单元5）所产生的预估瓦斯抽采量的置信度。对瓦斯产量的准确预测有利于选择/验证既选方法，优化瓦斯产量，提高瓦斯回收率，优化抽采效率，并最大限度地降低生产成本。  预测甲烷产量十分关键，构成了项目的财务和经济分析的基础。  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">单元4总结 在本单元，您学到了以下内容： 预测甲烷抽采量的不同方法，包括： 概率法 分析法 储层模拟法  数据的质和量将决定预测煤矿瓦斯排放量和甲烷抽采量的最适当方法。   在单元5中，您将学习用于改善煤矿瓦斯抽采的不同方法和工具。改善煤矿瓦斯抽采不仅使采矿作业更加安全，还可以提高煤炭产量，有利于生产高质量的瓦斯。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">谢谢！ 您已经完成了单元4。</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">全球甲烷行动倡议（gmi）是一个自愿参与的多边合作伙伴关系，旨在减少甲烷排放，并促进甲烷作为清洁能源的减排、回收和利用。 什么是全球甲烷行动倡议？ gmi伙伴国 gmi伙伴国的甲烷排放量占全球人为产生的甲烷排放量的近70%，相当于约5000mtco2e。</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">如何导航 使用屏幕右下角的按钮可阅览本单元。 每次可阅览一张幻灯片，此外还可以点击左侧的菜单导航窗格，随时重新阅览。  如您需要离开本单元，最后一张幻灯片将保存，下次可重新回到该位置。 </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="产气量">采前抽采、采后抽采钻孔和抽采巷道产生的气体量。 </term>
+      <term title="储层压力 ">表示储层中的剩余液体（气、油或水）。储层压力表示在生产过程中，可用于将剩余流体驱出储层的驱动力大小。 </term>
+      <term title="储层模拟法">为解释煤层气解吸和扩散的复杂机制提供了一致和可靠的方法。除此之外，还提供了将现场和实验室数据集成到单个地质/储层模型中以评估勘探和开发战略的机会。</term>
+      <term title="全球甲烷行动倡议（GMI）">全球甲烷行动倡议于2004年启动，是一项国际公私合作倡议，目的是推动成本效益高的短期甲烷减排和回收利用，并将甲烷作为清洁能源用于三个领域：沼气（包括农业、城市固体废物和废水）、煤矿和油气系统。聚焦甲烷排放源是减少温室气体（GHG）排放、提高能源安全、促进经济增长、改善空气质量和改善工人安全的一种具有成本效益的方法。</term>
+      <term title="割理">煤块中自然形成的正交节理。以两组垂直裂缝的形式呈现。 </term>
+      <term title="历史生产动态 ">从给定矿井或煤矿瓦斯项目中开采煤炭或天然气量的记录。通常在预可行性研究期间用于预测未来天然气产量和排放量的类似煤矿瓦斯项目示例。 </term>
+      <term title="原位">该术语指“本地”、“现场”、“当场”或“原位”，以说明事件发生的地点，并在多背景的语境中使用。例如，在物理、地质学、化学或生物学等领域，该术语用以说明采取的测量方式，即，在不与其他系统分隔或改变测试原始条件的情况下，同一地点发生的现象。与原位相反的是非原位。</term>
+      <term title="含水饱和度">此前没有经过任何开采，未受干扰储层的饱和度。</term>
+      <term title="吸附等温线">吸附剂表面上的溶质浓度与接触液体溶质浓度之间的经验关系。</term>
+      <term title="地层">沉积岩或土壤层；此处指煤层。</term>
+      <term title="地球物理测井 ">通过降低和升高电线上的探头，在矿井中收集地质和水文信息。收集信息时，使用一套不同的地球物理测井通常更加有用。</term>
+      <term title="地质储量(GIP)">储存在特定岩石储层（例如煤）中的天然气总量。</term>
+      <term title="套管">一种直径较大的管道，将其组装后插入至最近钻探的钻孔部分。 </term>
+      <term title="孔隙度">对固体中存在的空隙或孔隙空间的度量，用固体中空隙体积的百分比表示。孔隙度确定了煤中可能保存的最大甲烷量。 </term>
+      <term title="工作面回风巷">在长壁开采开始之前，将巷道延伸至每个盘区以后。沿煤层一侧的巷道称为大巷或运输巷；另一侧的巷道就称为回风巷。
+</term>
+      <term title="废弃煤矿瓦斯（AMM）">暂时或永久关闭的煤矿通过通风井、裂隙或钻孔排放大量甲烷。 
+</term>
+      <term title="扩散系数 ">气体从一个梯度到另一个梯度的流动性测量系数。</term>
+      <term title="抽放">从煤矿中抽排出瓦斯的过程。</term>
+      <term title="概率法">基于概率理论或事实的随机性在预测未来事件中起作用的方法。</term>
+      <term title="毛管压力">由毛管力引起的两种不互溶流体之间的界面压力差。此类毛管力包括表面张力和界面张力。</term>
+      <term title="气体成分">气体成分可以通过列出所包含的纯物质并说明每种物质在气体混合物分子量中的比例来表征。 </term>
+      <term title="气体溶解度">气体在液体中的溶解度直接受温度和压力的影响。根据勒夏特列原理，随着温度的升高，气体溶解度会降低。根据亨利定律，随着压力的增加，气体溶解度也会增加 </term>
+      <term title="气体重力">标准压力和温度下的气体密度与相同标准压力和温度下的空气密度之比。 </term>
+      <term title="渗透性 ">使液体或气体通过的物质或膜的状态或性质。</term>
+      <term title="溶解度">固体、液体或气体类化学物质在固体、液体或气体类溶质中溶解的性质。</term>
+      <term title="灰分含量">燃烧过程中排出碳、氧、硫和水后留下的不可燃残留物。剩余残渣或灰分表示在原始煤样重量中所占的比例。</term>
+      <term title="煤厚 ">含煤地层的测量厚度或近似厚度。厚度的测量应从含煤地层顶部到下一地层顶部为止。</term>
+      <term title="煤矿瓦斯（CMM）">受采矿活动影响而从煤中释放出的甲烷。与煤层气一样，煤矿瓦斯也属于煤层中发现的甲烷的一种，特指矿区内（例如，在采矿计划内）发现的甲烷，而煤层气指的是永远不开采煤层中的甲烷。由于煤矿瓦斯将通过采矿活动释放，回收和利用煤矿瓦斯即减排。</term>
+      <term title="瓦斯含量">在标准压力和温度条件下，单位质量煤中所含瓦斯的体积，其中煤以吨为单位，气体以立方米为单位。</term>
+      <term title="瓦斯抽采">在地下煤矿、废弃矿井以及露天矿偶尔所采用的一种方法，用于捕获煤层中自然产生的瓦斯，避免进入矿井通风巷道。瓦斯抽采系统包括通过抽采钻孔和/或巷道、集气网络和真空泵共同作用，将瓦斯抽采至地面。可在开采前使用预抽技术从煤层中抽采瓦斯，并使用采后抽采技术从开采过程中受到干扰的煤层中抽采瓦斯。如在此过程中，所需抽采瓦斯的主要成分是甲烷，则该过程通常称为甲烷抽采。瓦斯抽采产生的煤矿瓦斯浓度高于通风口，浓度范围一般为25~100% 。 </term>
+      <term title="甲烷">甲烷是一种强效温室气体。甲烷在大气中的寿命比二氧化碳短得多，但在100年期间内，甲烷捕捉辐射的效率是二氧化碳的28倍。甲烷是地面臭氧污染的主要前体，会影响空气质量。甲烷也是一种可回收利用的能源。由于甲烷与空气混合时具有爆炸性，矿井中的甲烷存在安全风险。</term>
+      <term title="相对渗透率 ">特定饱和度下特定流体的有效渗透率与总饱和度下该流体的绝对渗透率之比。 </term>
+      <term title="芯">天然物质中的圆柱形部分，常通过使用空心钢管（即取芯钻）钻穿地表获得。</term>
+      <term title="解吸压力">物质从或通过与储层周围压力相关的表面释放的现象。</term>
+      <term title="采前抽采">对煤层进行钻孔，在采矿作业前从煤层中抽采瓦斯。 </term>
+      <term title="采空区">通过长壁开采法开采煤炭的破碎、透水地面以及允许坍塌的顶部，从而使正在开采的煤层上方和下方的地层破裂并解除应力。术语gob常在美国使用，在其他地方，通常使用goaf这一术语。</term>
+      <term title="钻孔">在地面进行垂直或水平钻孔的窄竖井。</term>
+      <term title="钻孔间距 ">以开采为目的的两个或多个钻孔之间的测量距离。 </term>
+      <term title="长壁开采">长壁开采为目前使用的三种主要地下采煤方法之一。该方法使用一台采煤机在采煤面上来回进行机械牵引，采煤面常有几百英尺长，通常会产生大量的煤和气体。   </term>
+      <term title="长壁盘区 ">采用长壁采煤机进行开采的大型采煤区域。    </term>
+    </terms>
+  </glossary_data>
+</bwFrame>

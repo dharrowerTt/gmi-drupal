@@ -1,0 +1,1925 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npxnabnsnfns00001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4893B8">
+  <layouts>
+    <layout name="npnxnanbsnfns00001010011" font="Lato" controllayout="npnxnanbsnfns00001010011" colorscheme="npxnabnsnfns00001010011" string_table="npxnabnsnfns00001010011" />
+    <layout name="pxabnsnfns00001010011" font="Lato" controllayout="pxabnsnfns00001010011" colorscheme="npxnabnsnfns00001010011" string_table="npxnabnsnfns00001010011" />
+    <layout name="npxnabnsnfns00001010011" font="Lato" controllayout="npxnabnsnfns00001010011" colorscheme="npxnabnsnfns00001010011" string_table="npxnabnsnfns00001010011" />
+    <layout name="npnxnanbnsnfns00001010011" font="Lato" controllayout="npnxnanbnsnfns00001010011" colorscheme="npxnabnsnfns00001010011" string_table="npxnabnsnfns00001010011" />
+    <layout name="pxabnsnfns00001010010" font="Lato" controllayout="pxabnsnfns00001010010" colorscheme="npxnabnsnfns00001010011" string_table="npxnabnsnfns00001010011" />
+    <layout name="pnxanbnsnfns00001010011" font="Lato" controllayout="pnxanbnsnfns00001010011" colorscheme="npxnabnsnfns00001010011" string_table="npxnabnsnfns00001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Dasar-dasar Metana Tambang Batubara" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Cara Bernavigasi" />
+                  <property name="data" value="5nWKuRHNAMZ" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Referensi" />
+                  <property name="data" value="66fhqMM7qtp" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="false" />
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Lato" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns00001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns00001010011">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDCDCDC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x214400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428E00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E5D00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C7C00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x373737" alpha="77" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="1" stop="89" />
+                <color rgb="0x000000" alpha="6" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4893B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4893B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x919191" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4893B8" alpha="30" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns00001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="background_audio">Background audio</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="closed_captions">Captions</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="next">Berikutnya</string>
+      <string id="prev">Sebelumnya</string>
+      <string id="submit">SUBMIT</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="continue">Continue</string>
+      <string id="glossary">Akronim/Ketentuan</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Berikutnya</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Sebelumnya</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="transcript">Notes</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="close">Close</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
+      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
+      <string id="acc_search_input">search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="search_in">Search in:</string>
+      <string id="filter">Filter</string>
+      <string id="search">Search...</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="search_results">Search Results</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next_visual">Berikutnya (Ctrl+Alt+.)</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous_visual">Sebelumnya (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="search_toggle">Search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="video_transcript_title">Transcripts</string>
+      <string id="acc_window_options">Options</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6rkvTIN8HMw" displaytext="Pengenalan Pelatihan" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6rkvTIN8HMw.6XPkw1sBJcx" displaytext="Dasar-dasar Metana Tambang Batu Bara" expand="false" type="slide" />
+            <slidelink slideid="_player.6rkvTIN8HMw.6O9qvdMjNTF" displaytext="Selamat datang" expand="false" type="slide" />
+            <slidelink slideid="_player.6rkvTIN8HMw.5ziz7cAVyej" displaytext="Mengapa Metana Bersifat Penting?" expand="false" type="slide" />
+            <slidelink slideid="_player.6rkvTIN8HMw.5tc5qhKYlWo" displaytext="Apa Perbedaan Antara CMM dan CBM?" expand="false" type="slide" />
+            <slidelink slideid="_player.6rkvTIN8HMw.5fvnHfNhEBz" displaytext="Manfaat Penangkapan CMM" expand="false" type="slide" />
+            <slidelink slideid="_player.6rkvTIN8HMw.5b878f5gBGs" displaytext="Dasar-dasar CMM: Bagian Pelatihan" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6kGtYVOuVFJ" displaytext="Dasar-dasar CMM" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6kGtYVOuVFJ.5d3XdVpSlx4" displaytext="Bagian 1:  Gas Metana pada Batu Bara " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6kGtYVOuVFJ.6mxlSytsL45" displaytext="Mengapa Ada Metana dalam Batu Bara?" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6CzqnvyeJlw" displaytext="Asal Usul Gas dalam Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6QtIjTvZQ8x" displaytext="Apa Saja Jenis Batu Bara?" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6MC5kwIlBD1" displaytext="Metana pada Tambang" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6kGtYVOuVFJ.6OJXAHqR9mf" displaytext="Bagian 2:  Metode Produksi Batu Bara" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6kGtYVOuVFJ.5cdsmPMnmjT" displaytext="Gambaran Umum Produksi Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6CkQvcpM7ar" displaytext="Contoh Penambangan Bawah Tanah" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.61bitBSfmti" displaytext="Bawah Tanah: Room and Pillar Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6TG2pAZaBQ8" displaytext="Bawah Tanah: Longwall Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6PJf1GHvy5t" displaytext="Contoh Surface mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6OjjGoAEWea" displaytext="Gambaran Umum Surface mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5ytyfrzEqEq" displaytext="Strip Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5pTdnOH6xfM" displaytext="Bentuk Strip Mining" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5nZABiiobyo" displaytext="Open-Pit Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6iTAEw9xyA3" displaytext="Penggunaan Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5ivoqk5sRQg" displaytext="Bagaimana Penggunaan Batu Bara Memengaruhi Produksi" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5hE7AzaKR2d" displaytext="Ringkasan Produksi Batu Bara" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6kGtYVOuVFJ.6BHnH0Kbbri" displaytext="Bagian 3:  Emisi CMM" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6kGtYVOuVFJ.5hxqVQQEJ4y" displaytext="Terjadinya Emisi" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.64r0dkdshjg" displaytext="Pelepasan Emisi" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5jF8rUagG0e" displaytext="Emisi Metana pada Tambang Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5mgNsRhOPjZ" displaytext="Estimasi Emisi Metana Global pada Tambang Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6TlgWRuL8Kf" displaytext="Emisi CMM Tahun 2022 di Amerika Serikat" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6kGtYVOuVFJ.6j36qPjexRU" displaytext="Bagian 4:  Penangkapan Metana" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6kGtYVOuVFJ.5rqV3CM09Hk" displaytext="Sumber Metana Tambang Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6qF2RXv7DQh" displaytext="Komponen Tambang Batu Bara Bawah Tanah" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6BJIb70eB92" displaytext="Metana Udara Ventilasi" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6nPVm2PtPfh" displaytext="Ventilasi Tambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6ji6VGcrg5z" displaytext="Metana Udara Ventilasi" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5quVPrBh3Eb" displaytext="Penggunaan VAM" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6kGtYVOuVFJ.6M8GKidmIaF" displaytext="Metana dari Sistem Drainase" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6ejicwI2qcm" displaytext="Contoh Metana dari Sistem Drainase" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6Y7q6SBQonE" displaytext="Metana yang Dikuras" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6LvdDYoniWe" displaytext="Manfaat Sistem Drainase Metana" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.65yLHSIbiXY" displaytext="Manfaat Meningkatkan Drainase Gas Tambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.60uG5FxolZe" displaytext="Prinsip Dasar Drainase Metana" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6gfjfaJ0JtG" displaytext="Skema Sistem Drainase Gas" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6kGtYVOuVFJ.6rkyHOFAwZ1" displaytext="Drainase Metana Pratambang" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5p3YpxTjtUM" displaytext="Drainase Metana Pratambang: Lubang Bor Permukaan" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6gZYaS51aa7" displaytext="Lubang Bor Horizontal" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5ezh7NXuuYF" displaytext="Kelebihan Lubang Bor Horizontal" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6YppdW8OI1V" displaytext="Kekurangan Lubang Bor Horizontal" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6kGtYVOuVFJ.64mhjlKEkZK" displaytext="Drainase Metana Pascatambang" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6Dzr0YMfBq7" displaytext="Contoh Drainase Metana Pascatambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6nurGSEm0RQ" displaytext="Diagram Drainase Metana Pascatambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5aporlUikUV" displaytext="Konfigurasi Sumur Gob Permukaan" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5kYf0OxtlfN" displaytext="Contoh Sumur Gob Permukaan" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6L2yuZjfz16" displaytext="Drainase Metana Pascatambang: Dari Permukaan" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.65RDQENjKMd" displaytext="Kelebihan Drainase Pascatambang dari Permukaan" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6BXeaw3mBUs" displaytext="Kekurangan Drainase Pascatambang dari Permukaan" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6ZADueaEc8M" displaytext="Drainase Metana Pascatambang: Metode di Dalam Tambang (In-Mine)" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6pvFnRQZE1d" displaytext="Drainase Gob Horizontal di Dalam Tambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5WJP3bVBYwA" displaytext="Skema Sumur Drainase Gob yang Dibor Secara Terarah" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6XdtHwdOOLL" displaytext="Kelebihan Drainase Gob Horizontal di Dalam Tambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6gkD1dkw2XX" displaytext="Kekurangan Drainase Gob Horizontal di Dalam Tambang" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6QakWcjpgfK" displaytext="Drainase Gob Lubang Bor Cross-Measure" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.68Sh9Ig1o90" displaytext="Kelebihan Lubang Bor Cross-Measure" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6ktwtpmugjj" displaytext="Kekurangan Lubang Bor Cross-Measure" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5ugyEonvfwP" displaytext="Jalan/Galeri" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.64ScFl2da2T" displaytext="Kelebihan Jalan/Galeri" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5j8S6yjYBop" displaytext="Kekurangan Jalan/Galeri" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6kGtYVOuVFJ.6j9x1O2Ge2m" displaytext="Metana Surface mine" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6QdNcB535hh" displaytext="Apa yang dimaksud dengan Metana Surface mine?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6hn7H5jNnSf" displaytext="Degasifikasi Surface mine" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.5r6LxxNxxrs" displaytext="Sumur Lateral Sebelum Penambangan" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6kGtYVOuVFJ.66zTX3NQeuC" displaytext="Metana Tambang Terbengkalai" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6DT3QzrYRpA" displaytext="Apa yang dimaksud dengan Metana Tambang Terbengkalai (AMM)?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6CrOgCx1Anu" displaytext="Diagram AMM" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6qJaL3wWHVX" displaytext="Mengapa AMM Penting?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6kGtYVOuVFJ.6p7lbtXwdJP" displaytext="AMM vs CMM: Tujuan Ekstraksi" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6kGtYVOuVFJ.5ZTQVZCNnaY" displaytext="Bagian 5:  Penggunaan Bermanfaat dari Metana yang Ditangkap" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6kGtYVOuVFJ.5vPTk92Xcbc" displaytext="Manfaat Menangkap dan Menggunakan CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6SiHOsa0rbM" displaytext="Menilai Kelayakan Penggunaan CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5pov1KF9Mug" displaytext="Pilihan Penggunaan Akhir CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5uCY2TO4xiv" displaytext="Daftar Proyek CMM Internasional GMI" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6B5UMA5j1XN" displaytext="Penggunaan CMM Secara Global" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6fKAROQl93D" displaytext="Proyek CMM Berdasarkan Negara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6f0k6vasY50" displaytext="Contoh Proyek CMM: Tambang Duerping" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6ITO7nu1lJc" displaytext="Contoh Proyek CMM: Tambang Bailey" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6lrM3NnlrB7" displaytext="Contoh Proyek CMM: Tambang Sangzhang" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6d8BZcA4A7c" displaytext="Penggunaan Akhir CMM: Pembangkitan Listrik/CHP" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6ZxHNd0sAhg" displaytext="Penggunaan Akhir CMM: Pemanasan dan Pendinginan" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6HWt9qmAWji" displaytext="Penggunaan Akhir CMM: Gas Pipa Bermutu Tinggi" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6aCDT4z1vMM" displaytext="Penggunaan Akhir CMM: Penjualan Gas Regional dan Ekspor" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6iyOs86gbRz" displaytext="Penggunaan Akhir CMM: Gas Industri Bermutu Sedang" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6Z113sTmJXy" displaytext="Penggunaan Akhir CMM: Penggunaan Industri" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.65efyFDEqE6" displaytext="Penggunaan Akhir CMM: Bahan baku kimia" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.69Qzthgb5br" displaytext="Penggunaan Akhir CMM: Bahan baku kimia" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5f2qIxrQzYq" displaytext="Penggunaan Akhir CMM: Lokasi Tambang" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5bfzlpnnwAd" displaytext="Penggunaan Akhir CMM: Bahan bakar Transportasi" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6S1rw12u3dA" displaytext="Penggunaan Akhir CMM: Bahan Bakar Transportasi" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6NoQBiKiIpL" displaytext="Penggunaan Akhir CMM: Pembakaran Gas CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6SjQwWxw9a7" displaytext="CMM: Pembakaran Gas (flaring)" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5sx0lZ9gqFm" displaytext="Penggunaan Akhir CMM: Oksidasi VAM" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5leEMMRKvne" displaytext="Tren Terkini dalam CMM di Seluruh Dunia" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6kGtYVOuVFJ.6mnUSGkcYBH" displaytext="Bagian 6:  Sumber Daya Tambahan" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6kGtYVOuVFJ.5ib70GlPLQk" displaytext="Inisiatif Metana Global" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6Cn9ClOAECe" displaytext="Dokumen dan Alat Internasional" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6WyuJNYzQGI" displaytext="Panduan Praktik Terbaik untuk Drainase Metana yang Efektif" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.6PIoyCIJbLA" displaytext="Panduan Praktik Terbaik untuk Pemulihan Metana yang Efektif" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5uUXi9p8Kfo" displaytext="Program Penjangkauan Gas Metana Batu Bara" expand="false" type="slide" />
+                <slidelink slideid="_player.6kGtYVOuVFJ.5Y6HQbAuHcY" displaytext="Sumber Daya CMOP" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6rkvTIN8HMw.6XPkw1sBJcx" slidebank="false" type="slide">dasar-dasar metana tambang batu bara pelatihan oleh u.s. epa dalam mendukung inisiatif metana global (global methane initiative/gmi)</slidetext>
+      <slidetext slideid="6rkvTIN8HMw.6O9qvdMjNTF" slidebank="false" type="slide"> selamat datang pelatihan ini dikembangkan oleh badan perlindungan lingkungan amerika serikat (united states environmental protection agency/usepa) dalam mendukung kegiatan sukarela untuk mengurangi emisi metana dalam program penjangkauan gas metana batu bara (coalbed methane outreach program/cmop) dan inisiatif metana global (gmi). apa yang dimaksud dengan gmi? dalam pelatihan ini, anda akan mempelajari topik-topik berikut ini: mengapa terdapat metana dalam batu bara? apa metode utama untuk mengekstrak batu bara? apa karakteristik emisi metana dari tambang batu bara, atau yang dikenal sebagai metana tambang batu bara (coal mine methane/cmm)? bagaimana metana ditangkap menggunakan ventilasi tambang dan drainase gas? apa penggunaan yang bermanfaat dari metana yang ditangkap?</slidetext>
+      <slidetext slideid="6rkvTIN8HMw.5ziz7cAVyej" slidebank="false" type="slide"> mengapa metana bersifat penting? metana adalah gas rumah kaca (grk) yang kuat. metana adalah grk terbesar kedua setelah karbon dioksida (co2):  potensi pemanasan global: 28-36 kali lipat dari co2 selama 100 tahun lama berada di atmosfer: 12 tahun  metana adalah gas yang tercampur dengan baik di atmosfer. pengurangan di mana pun di dunia berdampak pada konsentrasi secara global.   metana di tambang juga menimbulkan risiko keselamatan karena sifatnya yang mudah meledak saat bercampur dengan udara dengan konsentrasi antara 5% dan 17%. proyeksi global untuk tahun 2030 proyeksi emisi metana global dari penambangan batu bara diperkirakan mencapai 911 juta metrik ton setara co2(mmtco2e) pada tahun 2030, yang merupakan sekitar 10% dari emisi metana antropogenik global.</slidetext>
+      <slidetext slideid="6rkvTIN8HMw.5tc5qhKYlWo" slidebank="false" type="slide">apa perbedaan antara cmm dan cbm? pelatihan ini berfokus pada cmm sebagai grk dan produk sampingan penambangan. cmm merupakan peluang untuk mengurangi emisi metana melalui pemulihan dan penggunaan. metana tambang batu bara cmm) cmm adalah gas yang dilepaskan, atau akan dilepaskan, ke dalam area kerja (workings) tambang sebagai hasil dari produksi batu bara. gas terdiri dari campuran metana, co2, nitrogen, hidrokarbon lainnya, dan uap air. cmm dikeluarkan dari area kerja (workings) tambang melalui sistem ventilasi dan sistem drainase gas. definisi cmm juga mencakup gas yang dikuras sebelum penambangan. cmm yang dikuras sebelum penambangan dapat memiliki kemurnian yang tinggi, tetapi gas hanya dianggap sebagai cmm saat sumur ditambang. apabila tidak, gas tersebut dianggap sebagai gas metana batu bara (coalbed methane, cbm). cmm juga dikenal sebagai metana limbah tambang dan gas limbah tambang batu bara.  gas metana batu bara (cbm) cbm adalah istilah umum untuk gas kaya akan metana yang secara alamiah terdapat pada lapisan batu bara. gas tersebut biasanya terdiri dari 80% hingga 95% metana, dengan proporsi etana, nitrogen, dan co2 yang lebih kecil. dalam penggunaan internasional secara umum, istilah ini merujuk pada metana yang diperoleh dari lapisan batu bara yang belum ditambang menggunakan lubang bor permukaan. cbm juga dikenal sebagai gas lapisan batu bara dan metana lapisan batu bara.  </slidetext>
+      <slidetext slideid="6rkvTIN8HMw.5fvnHfNhEBz" slidebank="false" type="slide">manfaat penangkapan cmm manfaat pemulihan dan penggunaan cmm mencakup: menghasilkan sumber energi lokal dengan pembakaran yang bersih. meningkatkan keselamatan tambang dengan mengurangi konsentrasi metana di dalam tambang pada udara ventilasi. mengurangi emisi gas rumah kaca. menciptakan lapangan pekerjaan dan pembangunan ekonomi. memperbaiki mutu udara. meningkatkan produktivitas tambang. menciptakan pendapatan bagi tambang batu bara melalui penjualan gas.</slidetext>
+      <slidetext slideid="6rkvTIN8HMw.5b878f5gBGs" slidebank="false" type="slide">  dasar-dasar cmm: bagian pelatihan bagian 1:  gas metana pada batu bara bagian 2:  metode produksi batu bara  bagian 3:  emisi cmm bagian 4:  penangkapan metana bagian 5:  penggunaan bermanfaat dari metana 		       yang ditangkap bagian 6:  sumber daya tambahan </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5d3XdVpSlx4" slidebank="false" type="slide">bagian 1 gas metana pada batu bara</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6mxlSytsL45" slidebank="false" type="slide">mengapa ada metana dalam batu bara? sisa-sisa tanaman, seperti yang ditemukan pada rawa modern, perlahan-lahan akan berubah menjadi batu bara apabila materi tersebut terkubur pada kedalaman yang cukup dan tetap tertutup untuk waktu yang lama, melalui proses yang dikenal sebagai pembatubaraan. semakin tinggi suhu, tekanan, dan durasi penguburan batu bara, semakin tinggi kematangan batu bara (juga dikenal sebagai "peringkat").  metana dihasilkan pada saat yang sama ketika batu bara terbentuk; semakin tinggi peringkatnya, semakin banyak metana yang terbentuk. metana yang dihasilkan selama pembatubaraan terperangkap dan tersimpan di dalam batu bara itu sendiri melalui proses penyerapan. metana juga dapat terakumulasi pada lapisan batuan berpori di dekatnya atau rekahan yang terjadi secara alami.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6CzqnvyeJlw" slidebank="false" type="slide">asal usul gas dalam batu bara   gambut dari sisa-sisa organik tekanan   panas produk sampingan air metana karbon dioksida produk sisa batu bara metana  selama transformasi bahan organik menjadi batu bara, metana dan gas lainnya terbentuk dan tersimpan dalam matriks batu bara dan rekahan atau ruang pori dari lapisan batu bara.   waktu</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6QtIjTvZQ8x" slidebank="false" type="slide">apa saja jenis batu bara? terdapat empat jenis (atau peringkat) utama batu bara. peringkat tersebut tergantung pada kandungan deposit batu bara dari segi energi panas serta jenis dan jumlah karbon. kandungan ini, pada gilirannya, ditentukan oleh jumlah tekanan dan panas yang bekerja pada tanaman seiring waktu.   klik pada setiap jenis untuk mempelajari lebih lanjut.  antrasit anthracite anthracite anthracite anthracite antrasit bituminus bituminus bituminus bituminus bituminus bituminus subbituminus subbituminus subbituminus subbituminus subbituminus subbituminus lignit lignit lignit lignit lignit lignit</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6MC5kwIlBD1" slidebank="false" type="slide">metana pada tambang metana pada tambang menimbulkan risiko keselamatan karena sifatnya yang dapat meledak saat bercampur dengan udara. metana bersifat mudah meledak di tambang bawah tanah pada konsentrasi 5-17% volume di udara. batas berdasarkan peraturan untuk konsentrasi metana pada cerobong ventilasi umumnya berkisar dari 1,0 - 2,0% dan akan beragam di setiap negara. kisaran konsentrasi metana yang biasanya ditemukan pada tambang bawah tanah adalah: cerobong ventilasi tambang:  0 – 2,0% sistem drainase gas:  25 - 100% konsentrasi metana yang lebih rendah diperbolehkan pada sistem drainase gas di beberapa negara, tetapi konsentrasi rata-rata di bawah 25% harus dihindari karena kedekatannya dengan batas ledak atas metana.  klik untuk melihat bagan yang menampilkan risiko ledakan berdasarkan konsentrasi metana pada tambang bawah tanah.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6OJXAHqR9mf" slidebank="false" type="slide">bagian 2 metode produksi batu bara</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5cdsmPMnmjT" slidebank="false" type="slide"> gambaran umum produksi batu bara batu bara diekstrak dengan menggunakan dua metode komersial: penambangan bawah tanah, yang bertanggung jawab atas sebagian besar emisi cmm secara global. penambangan bawah tanah mencakup: room and pillar mining (juga dikenal sebagai bord and pillar) longwall mining penambangan terbuka (surface mining) strip mining open-pit mining pemilihan metode penambangan sangat ditentukan oleh geologi deposit batu bara, termasuk: kedalaman penguburan ketebalan lapisan batu bara struktur dan tekanan geologi</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6CkQvcpM7ar" slidebank="false" type="slide">contoh penambangan bawah tanah penambangan bawah tanah mencapai sekitar 60% dari produksi batu bara dunia dan sebagian besar emisi cmm secara global.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.61bitBSfmti" slidebank="false" type="slide">bawah tanah: room and pillar mining deposit batu bara ditambang dengan cara memotong jaringan ruangan ke dalam lapisan batu bara dan meninggalkan pilar batu bara untuk menopang atap tambang. pilar ini dapat mencapai hingga 40% dari total batu bara dalam lapisan. pilar batu bara yang tersisa kadang kala dapat diperoleh pada tahap selanjutnya. jumlah room and pillar mine tergolong kecil dalam produksi batu bara bawah tanah dunia.   klik untuk melihat video penambang yang berkelanjutan (deserado mine blue mountain energy).      </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6TG2pAZaBQ8" slidebank="false" type="slide">bawah tanah: longwall mining longwall mining melibatkan ekstraksi batu bara dari bagian lapisan batu bara, atau panel, menggunakan alat pemotong mekanis. panel longwall membutuhkan perencanaan yang saksama untuk memastikan adanya geologi yang menguntungkan di seluruh bagian sebelum pekerjaan pembangunan dimulai. panel batu bara dapat memiliki lebar yang beragam dari 100-500 meter. penyangga yang dapat maju sendiri dan bertenaga hidraulik untuk sementara menahan atap selama batu bara diekstrak. saat batu bara telah diekstrak dari area tersebut, atap dibiarkan runtuh. longwall mining paling cocok untuk lapisan batu bara yang seragam dengan ketinggian sedang, 107-152 sentimeter (42-60 inci), sedangkan metode longwall caving digunakan pada ketinggian lapisan yang lebih tinggi. di amerika serikat, tinggi lapisan dapat mencapai 200 inci (508 cm).   jumlah longwall mine adalah yang paling banyak dalam produksi batu bara bawah tanah dunia. di amerika serikat, 33 tambang beroperasi menggunakan metode longwall mining pada tahun 2021.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6PJf1GHvy5t" slidebank="false" type="slide">contoh surface mining tambang batu bara open-pit wyodak, bantaran sungai powder - gillette, wyoming.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6OjjGoAEWea" slidebank="false" type="slide"> gambaran umum surface mining surface mining umumnya digunakan ketika lapisan batu bara berjarak kurang dari 60-meter (sekitar 200 kaki) dari permukaan. surface mining mencapai sekitar 40% dari produksi batu bara dunia.  terdapat dua jenis surface mine: strip mine stripping contour stripping open-pit mine</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ytyfrzEqEq" slidebank="false" type="slide"> klik untuk melihat video operasi strip mining (tambang batu bara black thunder).       strip mining dalam strip mining:  tambang dikembangkan di sepanjang lapisan batu bara. tambang dapat dikembangkan dengan tingkat atau kontur yang sejajar dengan strike. saat setiap jalur ditambang, batuan sisa ditempatkan pada galian yang dihasilkan oleh jalur sebelumnya.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5pTdnOH6xfM" slidebank="false" type="slide">bentuk strip mining terdapat dua bentuk strip mining: area stripping digunakan pada medan yang cukup datar di mana lapisan batu bara sedikit menurun; deposit batu bara diekstrak di area yang luas.  contour stripping memerlukan penyingkiran lapisan penutup di atas lapisan batu bara dan di dekat singkapan di daerah berbukit, di mana singkapan lapisan biasanya mengikuti kontur tanah. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5nZABiiobyo" slidebank="false" type="slide">open-pit mine pada open-pit mine, terdapat banyak tingkatan atau bench (berundak dari permukaan hingga dasar lubang). dinding lubang dirancang untuk stabilitas lereng dan mencegah kejatuhan batuan atau keruntuhan dinding. jalan pengangkutan terletak di sepanjang sisi lubang untuk memindahkan batu bara dan batuan sisa. batuan sisa ditumpuk di bagian permukaan dekat ujung lubang. setelah penambangan dihentikan, batuan sisa dikembalikan ke lubang dan dikontur ulang sesuai dengan perkiraan kontur aslinya, atau dibentuk untuk memfasilitasi penggunaan lahan pascatambang.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6iTAEw9xyA3" slidebank="false" type="slide">penggunaan batu bara sebagian besar batu bara secara global digunakan untuk produksi panas dan listrik. batu bara tersebut juga disebut sebagai batu bara uap, atau termal. batu bara termal mencapai 85% dari permintaan batu bara global.  batu bara juga digunakan dalam produksi besi dan baja. batu bara yang digunakan untuk tujuan ini biasanya memiliki peringkat yang lebih tinggi dan disebut sebagai batu bara kokas, atau metalurgi. batu bara metalurgi mencapai 14,5% dari permintaan batu bara global. selain pembangkitan listrik, pemanasan distrik berskala besar, dan produksi besi dan baja, penggunaan lain batu bara mencakup: produksi semen produksi bahan bakar sintetis pembuatan serat karbon dan busa pemanasan rumah, komersial dan industri</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ivoqk5sRQg" slidebank="false" type="slide">bagaimana penggunaan batu bara memengaruhi produksi penting untuk mempertimbangkan penggunaan batu bara yang berbeda karena produksi batu bara mungkin menyasar pasar yang berbeda dan menanggapi sinyal harga yang berbeda.  sama halnya, para pembuat kebijakan mungkin mengembangkan pendekatan yang terpisah untuk jenis batu bara yang berbeda. batu bara dengan peringkat yang lebih tinggi, seperti lapisan batu bara antrasit dan bituminus, sering kali memiliki kandungan gas yang lebih tinggi dan mengeluarkan lebih banyak emisi metana saat ditambang.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5hE7AzaKR2d" slidebank="false" type="slide">ringkasan produksi batu bara batu bara diproduksi dari tambang bawah tanah dan surface mine.  secara global, jumlah tambang bawah tanah adalah yang terbanyak dalam produksi batu bara. longwall mine memproduksi batu bara paling banyak dari tambang bawah tanah. tambang bawah tanah, khususnya longwall mine berproduksi tinggi, mengeluarkan paling banyak cmm secara global. surface mine biasanya dirancang untuk memperoleh batu bara dari lapisan dangkal di dekat permukaan. pasar utama batu bara adalah produksi listrik dan panas, serta manufaktur baja. perencanaan pemanfaatan cmm selama pengembangan dan penutupan tambang batu bara dapat meningkatkan kinerja lingkungan.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6BHnH0Kbbri" slidebank="false" type="slide">bagian 3 emisi cmm</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5hxqVQQEJ4y" slidebank="false" type="slide">  terjadinya emisi selama penambangan, lapisan batu bara diekstrak menggunakan peralatan pertambangan, yang mengganggu lapisan batu bara dan lapisan di dekatnya. pada tambang bawah tanah, di mana tambang terhubung ke atmosfer melalui ventilasi dan cerobong peralatan, tekanan hidrostatik pada lapisan batu bara diturunkan, yang menyebabkan metana terdesorpsi dan berpindah ke dalam belahan batu bara dan rekahan alami, dan pada akhirnya masuk ke dalam area kerja (workings) tambang. gas akan mengalir ke area di mana zona gangguan dapat meluas di atas longwall 160 m hingga 200 m ke atap dan di bawah longwall hingga sekitar 40 m hingga 70 m ke lantai.   mengindikasikan perpindahan metana</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.64r0dkdshjg" slidebank="false" type="slide">pelepasan emisi laju dan jumlah gas yang dilepaskan tergantung pada beberapa faktor: jumlah awal gas yang terkandung dalam batu bara (kandungan gas) permeabilitas lapisan batu bara distribusi dan ketebalan lapisan batu bara yang terganggu oleh penambangan kekuatan lapisan pembawa batu bara dan formasi di atas dan di bawahnya geologi penambangan laju produksi batu bara desain tambang</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5jF8rUagG0e" slidebank="false" type="slide">emisi metana pada tambang batu bara gas yang dikuras gas yang dikuras juga dikenal sebagai drainase metana atau metana sistem drainase. gas disingkirkan dari lapisan batu bara sebelum dan/atau selama penambangan di tambang yang khususnya banyak mengandung gas untuk menambah ventilasi tambang menggunakan sistem lubang bor dan jaringan pipa gas yang menyingkirkan dan mengangkut gas ke permukaan. gas yang dikuras metana udara ventilasi /vam) vam sistem vam menyingkirkan metana dengan konsentrasi yang sangat encer melalui cerobong ventilasi tambang. diperkirakan bahwa 70% atau lebih dari semua emisi terkait pertambangan batu bara global berasal dari udara ventilasi bawah tanah. metana udara ventilasi /vam) metana surface mine metana surface mine surface mine mengeluarkan lebih sedikit metana daripada tambang bawah tanah, tetapi karena volume produksi batu bara yang besar, beberapa surface mine dapat mengeluarkan metana dalam jumlah yang sangat besar.   metana surface mine pascatambang pascatambang emisi pascatambang terjadi dari penyimpanan, pemrosesan, dan pengangkutan batu bara setelah produksi, karena batu bara yang diproduksi terus mengeluarkan sejumlah kecil metana.   pascatambang metana dilepaskan selama berbagai aspek penambangan yang berbeda: metana dilepaskan selama berbagai aspek penambangan yang berbeda:  klik pada setiap aspek untuk mempelajari lebih lanjut.  metana tambang terbengkalai metana tambang terbengkalai tambang terbengkalai tetap dapat menghasilkan dan melepaskan metana dari lapisan yang terganggu setelah kegiatan penambangan berakhir.   metana tambang terbengkalai</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5mgNsRhOPjZ" slidebank="false" type="slide">estimasi emisi metana global pada tambang batu bara  estimasi emisi cmm global untuk tahun 2025: 942 mmtco2e*  *badan perlindungan lingkungan a.s. (2019).  global non-co2 greenhouse gas emission projections &amp; mitigation:  2015 - 2050.  badan perlindungan lingkungan a.s., kantor udara &amp; radiasi (office of air &amp; radiation).  epa 430-r-19-010, oktober 2019 estimasi emisi cmm global untuk tahun 2035: 886,5 mmtco2e* </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6TlgWRuL8Kf" slidebank="false" type="slide">emisi cmm tahun 2022 di amerika serikat sumber: inventory of u.s. greenhouse gas emissions and sinks: 1990-2022. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks emisi cmm bersih (cmm yang dibebaskan dikurangi cmm yang digunakan)</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6j36qPjexRU" slidebank="false" type="slide">bagian 4 penangkapan metana</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5rqV3CM09Hk" slidebank="false" type="slide">sumber metana tambang batu bara metana tambang batu bara dapat ditangkap dari: tambang bawah tanah melalui: sistem ventilasi tambang (gas yang ditangkap menggunakan metode ini disebut sebagai metana udara ventilasi, atau vam) drainase gas melalui sumur gob, sumur pratambang, galeri drainase, atau lubang bor horizontal surface mine tambang terbengkalai</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6qF2RXv7DQh" slidebank="false" type="slide"> komponen tambang batu bara bawah tanah gob (klik untuk melihat penjelasan) gob merujuk pada area runtuhan lapisan yang dihasilkan dari pengangkatan batu bara dan penyangga buatan di balik permukaan kerja batu bara; istilah goaf, yang memiliki arti yang sama, digunakan di hampir seluruh dunia. lapisan di atas dan di bawah gob mengalami pengurangan tekanan dan rekahan akibat kegiatan penambangan, sehingga menciptakan peningkatan permeabilitas dan pelepasan gas dari batu bara dan lapisan di sekitarnya. gas hidrokarbon yang dilepaskan dari zona yang terganggu ini sering disebut sebagai gas gob dan dapat ditangkap dan disingkirkan dengan lubang bor drainase.  sistem ventilasi tambang  (klik untuk melihat penjelasan) udara yang dievakuasi dari area kerja (workings) tambang. udara tersebut mengandung konsentrasi metana yang encer.  sumur gob (klik untuk melihat penjelasan) sumur gob menangkap metana dari area gob, yang merupakan zona runtuhan yang tercipta setelah dilalui oleh longwall. sumur gob pada awalnya menghasilkan gas bermutu tinggi, tetapi mutunya dengan cepat menurun karena intrusi udara ke dalam gob seiring waktu. sumur gob biasanya membutuhkan pompa untuk memberikan tekanan vakum untuk menarik gas ke permukaan.   arah penambangan (klik untuk melihat penjelasan) seiring dengan kemajuan longwall, lubang bor drainase pratambang "ditambang" dan tidak lagi menghasilkan gas. setelah longwall berlalu, sumur gob mulai menghasilkan gas dari gob dan lapisan yang mengalami pengurangan tekanan. longwall "maju" yang berarti dimulai di pintu masuk utama (atau kepala) dan berlanjut ke ujung panel longwall, atau "mundur" yang berarti dimulai di ujung panel dan berlanjut ke pintu masuk utama (atau kepala).  cerobong (klik untuk melihat penjelasan) udara ventilasi disalurkan melalui sistem ventilasi tambang melalui cerobong ventilasi tegak dengan kipas angin besar yang menarik udara ventilasi ke permukaan. udara ventilasi dilepaskan ke atmosfer, sehingga mengakibatkan emisi metana atau dihancurkan dengan menggunakan pengoksidasi. selain cerobong tegak vertikal, cerobong ventilasi juga dapat berupa drift shaft (horizontal) atau cerobong miring (bersudut).     klik ikon untuk mempelajari lebih lanjut.  sumur pratambang (klik untuk melihat penjelasan) sumur pratambang dibor dari permukaan untuk menghasilkan metana sebelum penambangan, dalam beberapa kasus, selama 10 tahun atau lebih sebelum lapisan batu bara ditambang. konsentrasi metana pada sumur drainase pratambang biasanya sangat tinggi dan dapat digunakan dengan berbagai cara, termasuk penggunaan akhir yang membutuhkan gas bermutu sangat tinggi seperti injeksi pipa gas alam. lebih mahal daripada sumur gob, kelayakan sumur drainase pratambang sangat bergantung pada kandungan gas dan permeabilitas lapisan batu bara yang ditambang dan akses ke pasar untuk gas bermutu tinggi. sumur drainase pratambang harus disumbat dan ditinggalkan saat dilewati oleh longwall dan sumur tersebut "ditambang."    sistem drainase gas (klik untuk melihat penjelasan) sering kali ventilasi tambang perlu dilengkapi dengan degasifikasi, atau drainase, yang dilakukan sebelum penambangan dimulai (drainase pratambang) atau selama penambangan (drainase pascatambang). sistem drainase dapat berkisar dari desain yang relatif sederhana yang menggunakan satu sumur vertikal yang dibor sebelum atau sesudah penambangan, hingga sistem yang lebih kompleks dan terintegrasi yang menggunakan kombinasi sumur vertikal dan horizontal. komponen utama dari sistem drainase gas adalah: lubang bor (pratambang atau pascatambang, yang dibor di dalam tambang atau dari permukaan), sistem pipa pengumpul, dan rumah pompa yang menarik gas ke permukaan.  lubang bor horizontal pratambang (klik untuk melihat penjelasan) mengebor lubang bor drainase pratambang horizontal di dalam tambang untuk mengurangi kandungan metana pada lapisan yang ditambang merupakan praktik yang umum dilakukan di seluruh dunia. lubang bor horizontal dalam lapisan (in-seam) dapat dibor tegak lurus di sepanjang panel longwall atau di sepanjang panel. waktu drainase beragam dan bergantung pada pengembangan tambang serta laju penambangan, tetapi secara teoretis, dapat mencapai lima hingga sepuluh tahun sebelum longwall ditambang.   </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6BJIb70eB92" slidebank="false" type="slide">metana udara ventilasi</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6nPVm2PtPfh" slidebank="false" type="slide">ventilasi tambang tambang diberi ventilasi dengan cara: menggunakan tekanan positif di dalam tambang untuk mendorong udara, atau menciptakan tekanan negatif untuk menarik udara melalui tambang. titik pembuangan kipas buang permukaan disebut evase. evase digunakan untuk mengarahkan udara yang dibuang dengan aman menjauhi tambang.  volume besar udara yang bergerak dengan kecepatan tinggi dan membawa konsentrasi metana yang sangat rendah.   evase ventilasi pada tambang bawah tanah (tambang datong, area songzao, tiongkok)</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6ji6VGcrg5z" slidebank="false" type="slide">metana udara ventilasi tambang batu bara bawah tanah yang banyak mengandung gas menggunakan sistem ventilasi berskala besar untuk mengalirkan udara segar ke dalam tambang. sistem ini mengencerkan metana yang dilepaskan ke dalam area kerja (workings) tambang saat batu bara diekstrak dan menyingkirkan gas tersebut dari tambang, sehingga menciptakan kondisi kerja yang lebih aman. pembuangan udara ventilasi mengandung konsentrasi metana yang sangat encer (biasanya kurang dari 1%, dan sering kali kurang dari 0,5%).   evase ventilasi pada tambang bawah tanah </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5quVPrBh3Eb" slidebank="false" type="slide">penggunaan vam pilihan pemanfaatan vam yang saat ini tersedia dan/atau sedang dikembangkan mencakup:  bahan bakar utama oksidasi, dengan atau tanpa pemulihan energi (dalam penggunaan komersial) turbin gas—turbin mikro (misalnya, 30 kw) dan turbin berukuran penuh (&gt;0,5 mw)  bahan bakar tambahan  (yaitu, udara pembakaran) mesin pembakaran internal turbin ketel uap utilitas atau industri tanur putar /turbin gas hibrida</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6M8GKidmIaF" slidebank="false" type="slide">metana dari sistem drainase</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6ejicwI2qcm" slidebank="false" type="slide">contoh metana dari sistem drainase lokasi pengeboran lubang bor horizontal</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6Y7q6SBQonE" slidebank="false" type="slide">metana yang dikuras metana yang dikuras (juga dikenal sebagai metana sistem drainase atau gas yang dikuras) merujuk pada gas yang ditangkap dan diangkut (yaitu, dikuras) melalui sistem lubang bor pratambang atau pascatambang atau galeri drainase, yang disusul dengan pengumpulan dan pemindahan gas tersebut melalui jaringan pipa ke permukaan. tujuan drainase gas adalah untuk menangkap volume maksimum metana bermutu tinggi pada sumbernya sebelum gas tersebut dapat masuk ke area kerja (workings) tambang. sistem drainase gas digunakan di beberapa, tetapi tidak semua, tambang untuk mempertahankan konsentrasi metana yang aman di area kerja (workings) tambang. desainnya dapat sangat berbeda tergantung pada sifat tambang dan faktor lainnya. sistem tersebut dapat sekecil satu sumur, atau jaringan kompleks yang terdiri dari beberapa lubang bor, sistem pengumpul, dan pompa.  sistem drainase gas didesain berdasarkan peraturan yang berlaku atau penilaian profesional. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6LvdDYoniWe" slidebank="false" type="slide"> manfaat sistem drainase metana investasi dalam praktik drainase gas yang baik menghasilkan: waktu henti yang lebih sedikit karena kondisi tambang yang banyak mengandung gas lingkungan penambangan yang lebih aman  kesempatan untuk menggunakan gas dan mengurangi emisi metana tambang pengurangan biaya ventilasi</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.65yLHSIbiXY" slidebank="false" type="slide">pelatihan dan penciptaan lapangan kerja yang terampil penghematan biaya langsung dan tidak langsung untuk tambang pemanfaatan sumber daya gas yang akan dibuang secara aman pemulihan energi pengurangan emisi grk penghentian atau perlambatan produksi batu bara yang lebih sedikit mempertahankan atau meningkatkan kapasitas produksi konsentrasi ch4 pada drainase gas tambang ≥ 30% mengurangi risiko ledakan, melindungi staf dan infrastruktur tambang manfaat meningkatkan drainase gas tambang</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.60uG5FxolZe" slidebank="false" type="slide">prinsip dasar drainase metana sistem drainase gas sistem drainase gas sebuah sistem terintegrasi yang menggabungkan lubang bor dengan sistem pengumpulan gas, yang terdiri dari jaringan pipa dan pompa vakum atau kompresor, untuk mengangkut gas dari area kerja (workings) tambang ke permukaan. sistem drainase gas lubang bor drainase pratambang lubang bor drainase pratambang lubang bor yang dibor ke dalam lapisan yang ditambang atau lapisan batuan dan batu bara yang mengandung gas di dekatnya sebelum penambangan untuk menyingkirkan metana sebelum penambangan dilakukan. lubang bor drainase pratambang lubang bor drainase pascatambang lubang bor drainase pascatambang lubang bor yang dibor di atas atau di bawah lapisan yang ditambang yang menghasilkan metana dari area gob setelah lapisan batu bara ditambang.   lubang bor drainase pascatambang galeri drainase galeri drainase sebagai alternatif dari lubang bor drainase pascatambang, galeri drainase ini merupakan jalan yang sudah ada atau jalan yang dibuat khusus di atas atau di bawah lapisan yang ditambang untuk mengumpulkan metana dari area gob.   galeri drainase drainase metana mencakup elemen-elemen dasar berikut ini: sistem pengumpulan gas sistem pengumpulan gas sistem jaringan pipa, peralatan penghilang kelembapan dan debu, dan penggerak utama (misalnya, pompa vakum, kompresor) yang mengangkut gas dari kepala sumur lubang bor ke permukaan.   sistem pengumpulan gas  klik setiap elemen untuk mempelajari lebih lanjut. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6gfjfaJ0JtG" slidebank="false" type="slide"> skema sistem drainase gas                        </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6rkyHOFAwZ1" slidebank="false" type="slide">drainase metana pratambang</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5p3YpxTjtUM" slidebank="false" type="slide">drainase metana pratambang: lubang bor permukaan  sumur yang dibor secara vertikal atau terarah dari permukaan sebelum operasi penambangan merupakan pilihan lain untuk mengekstrak metana sebelum penambangan.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6gZYaS51aa7" slidebank="false" type="slide">lubang bor horizontal untuk menguras metana sebelum penambangan, lubang bor horizontal dapat dibor ke dalam lapisan batu bara dari pintu masuk pengembangan di tambang, seperti lorong (atau jalan) dan ruang yang ditambang (galeri) di mana peralatan berada.  lubang bor ini menguras metana dari area yang belum ditambang dari lapisan batu bara sesaat sebelum penambangan, sehingga mengurangi aliran metana ke bagian penambangan. lubang bor dalam lapisan (in-seam) dapat dibor dengan garis lurus, atau dibor secara terarah melintasi panel longwall atau sepanjang panel.  tampilan denah lubang bor dalam lapisan (in-seam)  lintas panel yang dibor dari jalan   tampilan denah lubang bor dalam lapisan (in-seam) yang dibor secara terarah yang dibor dari jalan  </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ezh7NXuuYF" slidebank="false" type="slide"> kelebihan lubang bor horizontal kelebihan menguras metana melalui lubang bor horizontal mencakup: gas disingkirkan sebelum penambangan gas yang dihasilkan memiliki kemurnian tinggi  drainase gas tidak tergantung pada operasi ekstraksi batu bara lebih murah daripada lubang bor vertikal dapat diterapkan pada tambang dalam, tergantung pada permeabilitas batu bara dapat mengurangi risiko ledakan pada lapisan memungkinkan laju pengembangan yang tinggi pada kepala yang banyak mengandung gas menyingkirkan gas yang tidak dapat dicegat selama pascadrainase</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6YppdW8OI1V" slidebank="false" type="slide"> kekurangan lubang bor horizontal kekurangan menguras metana melalui lubang bor horizontal mencakup: lubang bor perlu dibor sebelum penambangan lapisan batu bara harus memiliki permeabilitas alami yang sedang hingga tinggi penggunaan lubang bor horizontal hanya mengurangi emisi gas dari lapisan yang dikerjakan, bukan dari lapisan di dekatnya yang terganggu oleh longwall mining produksi air pada lubang bor, stabilitas lubang bor, kendali arah pengeboran dapat menjadi masalah di beberapa lokasi lapisan, serta pengolahan dan pembuangan air yang dihasilkan diperlukan tim pengebor gas yang mudah terbakar (firedamp/cmm) bawah tanah yang terlatih</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.64mhjlKEkZK" slidebank="false" type="slide">drainase metana pascatambang</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6Dzr0YMfBq7" slidebank="false" type="slide">contoh drainase metana pascatambang lubang bor ventilasi gob dengan pompa vakum - west virginia, as</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6nurGSEm0RQ" slidebank="false" type="slide">diagram drainase metana pascatambang untuk drainase pascatambang, berbagai praktik digunakan pada tambang bawah tanah longwall yang dapat dikategorikan secara luas sebagai dari permukaan atau di dalam tambang. lubang bor drainase pascatambang dibor ke dalam lapisan batuan di atas atau di bawah lapisan tambang sebelum penambangan, yang memungkinkan lubang bor untuk menangkap metana setelah penambangan saat metana dilepaskan ke dalam gob. gob adalah area di mana batu bara telah diekstrak dan atapnya dibiarkan runtuh.  pemilihan teknik tergantung pada banyak faktor, seperti kondisi geologi dan penambangan, praktik umum, perekonomian, dan peraturan.  lubang bor drainase pascatambang zona rekahan gob longwall</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5aporlUikUV" slidebank="false" type="slide">konfigurasi sumur gob permukaan sumur gob permukaan dibangun untuk mengalirkan metana dan memperolehnya dari gob setelah panel long wall ditambang, sehingga lapisan di atasnya menjadi runtuh. sumur gob permukaan dibor dan diselesaikan di atas lapisan yang ditambang sebelum panel longwall ditambang, tetapi sumur tersebut tidak sungguh-sungguh mulai menghasilkan gas sampai longwall di bawahnya ditambang, sehingga melepaskan gas ke dalam gob.   konfigurasi sumur gob yang umum terdiri dari lubang sumur yang berselubung (cased well bore), selubung berlubang (slotted casing), atau penyelesaian lubang terbuka (open hole) di bagian bawah lubang sumur; kepala sumur; pompa vakum (blower) di kepala sumur untuk menarik gas ke permukaan; ventilasi; dan mungkin peralatan pemanfaatan gas, seperti mesin gas atau suar untuk menggunakan gas.  skema sumur drainase gob </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5kYf0OxtlfN" slidebank="false" type="slide">contoh sumur gob permukaan fasilitas permukaan drainase gob, blower, dan ventilasi di bagian depan </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6L2yuZjfz16" slidebank="false" type="slide">drainase metana pascatambang: dari permukaan saat mengebor dari permukaan, drainase pascatambang dicapai melalui lubang bor ventilasi gob berbentuk vertikal yang selesai dibor di atas lapisan (seam) yang telah ditambang. sumber: karacan, c. özgen (2009). forecasting gob gas venthole production performances using intelligent computing methods for optimum methane control in longwall coal mines.  institut keselamatan &amp; kesehatan kerja nasional (national institute of occupational safety &amp; health). jurnal geologi batu bara internasional (international journal of coal geology). september 2009.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.65RDQENjKMd" slidebank="false" type="slide"> kelebihan drainase pascatambang dari permukaan kelebihan drainase pascatambang dari permukaan menggunakan lubang bor ventilasi gob vertikal mencakup: operasi drainase gas, tidak tergantung pada operasi bawah tanah mampu menyalurkan aliran metana yang substansial dari gob longwall metode yang telah terbukti dengan baik dan hemat biaya pada tingkat kedalaman yang dangkal hingga sedang sering kali dapat diperoleh gas dengan kemurnian yang cukup tinggi. masa produktif dapat diperpanjang hingga beberapa bulan dapat menanggapi perubahan dalam rencana penambangan</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6BXeaw3mBUs" slidebank="false" type="slide"> kekurangan drainase pascatambang dari permukaan kekurangan drainase pascatambang dari permukaan menggunakan lubang bor ventilasi gob vertikal mencakup: berbiaya tinggi untuk lapisan batu bara yang dalam risiko masuknya air apabila akuifer utama berada di atas lapisan batu bara yang dikerjakan tidak ada drainase gas langsung dari lapisan di lantai area kerja (workings) lubang bor gob tidak dapat dioperasikan hingga permukaan batu bara telah melewati jarak tertentu di luar lubang bor pengumpulan gas untuk eksploitasi membutuhkan pompa vakum dan infrastruktur pipa permukaan yang berbiaya tinggi hanya dapat diterapkan apabila tidak ada kendala akses permukaan dapat menyadap dan mengeluarkan lebih banyak gas daripada yang akan dilepaskan oleh penambangan mutu gas dapat menurun dengan cepat yang dapat membatasi penggunaan dalam aplikasi yang membutuhkan gas bermutu tinggi seperti injeksi pipa </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6ZADueaEc8M" slidebank="false" type="slide">drainase metana pascatambang: metode di dalam tambang drainase pascatambang di dalam tambang dicapai dengan: lubang bor horizontal yang dibor secara terarah yang dibor ke dalam batuan di atas atau di bawah lapisan yang ditambang di seberang atau di sepanjang longwall dari jalan gerbang atau pintu masuk utama. lubang bor cross-measure yang dibor pada sudut di atas atau di bawah lapisan yang ditambang dari jalan gerbang yang berdekatan dengan panel longwall. lubang bor yang dibor secara vertikal yang dibor dari galeri di bawahnya hingga ke lapisan batuan di bawah lapisan yang ditambang. jalan yang sudah ada atau galeri yang dikembangkan (lorong bawah tanah yang ditambang secara horizontal) di atas lapisan yang ditambang yang menangkap metana yang berpindah saat disegel dan dalam keadaan vakum. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6pvFnRQZE1d" slidebank="false" type="slide">drainase gob horizontal di dalam tambang saat sumur gob dibor secara terarah di dalam tambang, sumur tersebut disebut sebagai sumur bor gob horizontal (gambar ini menunjukkan sumur horizontal yang sedang dibor di amerika serikat).</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5WJP3bVBYwA" slidebank="false" type="slide"> skema sumur drainase gob yang dibor secara terarah skema di bawah menunjukkan penempatan sumur drainase gob yang dibor secara terarah. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6XdtHwdOOLL" slidebank="false" type="slide"> kelebihan drainase gob horizontal di dalam tambang kelebihan drainase pascatambang menggunakan lubang bor horizontal yang dibor secara terarah di atas atau di bawah lapisan yang dikerjakan mencakup: dapat digunakan dalam mode pradrainase sebelum penambangan efisiensi penangkapan yang berpotensi lebih tinggi daripada dengan lubang bor cross-measures yang dibor dari lapisan yang ditambang kegiatan drainase gas terpisah dari kegiatan produksi batu bara setelah panel longwall ditambang menangkap gas dari dekat lokasi pelepasan awal di dekat garis permukaan batu bara</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6gkD1dkw2XX" slidebank="false" type="slide"> kekurangan drainase gob horizontal di dalam tambang kekurangan drainase pascatambang menggunakan lubang bor horizontal yang dibor secara terarah di atas atau di bawah lapisan yang dikerjakan mencakup: pengeboran terarah relatif berbiaya tinggi bermasalah pada batuan yang menggelembung dan batu bara lunak sulit untuk memperbaiki lubang bor yang runtuh atau rusak tidak fleksibel terhadap perubahan dalam operasi penambangan bergantung pada keakuratan dan kecepatan pengeboran untuk memastikan adanya sistem yang memuaskan sebelum produksi batu bara dimulai dibutuhkan keterampilan dan peralatan pengeboran bawah tanah khusus</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6QakWcjpgfK" slidebank="false" type="slide"> drainase gob lubang bor cross-measure  saat sumur gob dibor pada sudut di atas atau di bawah lapisan batu bara, sumur tersebut disebut sebagai lubang bor gob cross-measure. lubang bor gob cross-measure menghasilkan gas dari gob seiring dengan kemajuan longwall. sumber gambar:  epa, coal mine methane recovery: a primer. epa-430-r-09-013, 2019. https://www.epa.gov/sites/production/files/2016-03/documents/cmm_primer.pdf. lubang bor cross-measure yang sedang dibor skema yang menunjukkan lokasi lubang bor cross-measure pada panel longwall</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.68Sh9Ig1o90" slidebank="false" type="slide"> kelebihan lubang bor cross-measure kelebihan drainase pascatambang menggunakan lubang bor cross-measure mencakup: tingkat penangkapan yang tinggi mungkin dilakukan pada permukaan batu bara longwall yang maju praktis untuk area kerja (workings) lapisan batu bara yang dalam jarak pengeboran yang pendek dengan sumber gas utama gas dapat diekstrak dan disalurkan ke lokasi permukaan yang umum dan tetap untuk eksploitasi komersial atau digunakan di lokasi tambang efektif pada lapisan batu bara dengan permeabilitas rendah lubang bor lantai dapat mengurangi risiko emisi gas secara tiba-tiba di area kerja (workings) yang rentan pola pengeboran yang fleksibel dan mudah dimodifikasi metode drainase gas yang paling murah</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6ktwtpmugjj" slidebank="false" type="slide"> kekurangan lubang bor cross-measure kekurangan drainase pascatambang menggunakan lubang bor cross-measure mencakup: efisiensi penangkapan yang tinggi sulit dipertahankan pada permukaan yang mundur untuk efektivitas maksimum, perlu dibor di belakang permukaan pada longwall yang mundur umur produktif lubang bor umumnya pendek gas dengan kemurnian sedang hingga rendah diperoleh karena udara ventilasi ditarik ke dalam sistem ekstraksi gas melalui jeda yang disebabkan oleh penambangan pada lapisan diperlukan tim pengeboran bawah tanah yang terlatih diperlukan infrastruktur pipa bawah tanah ke permukaan atau ke lokasi pembuangan yang aman pada jalan kembali</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ugyEonvfwP" slidebank="false" type="slide">jalan/galeri galeri drainase adalah jalan yang sudah ada sebelumnya atau lorong yang ditambang secara horizontal, umumnya di atas lapisan tambang, yang mengumpulkan metana yang berpindah dari area gob melalui lapisan batuan dan batu bara yang telah mengalami penurunan tekanan (rekahan) setelah longwall ditambang.  jalan/galeri disegel dan tekanan vakum digunakan untuk menarik gas ke dalam jalan atau galeri. gas kemudian ditransfer ke pipa untuk diangkut ke permukaan.  lubang bor dapat dibor dari galeri ke gob untuk meningkatkan laju pemulihan gas.   galeri drainase juga kadang kala disebut sebagai lubang bor atas. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.64ScFl2da2T" slidebank="false" type="slide"> kelebihan jalan/galeri kelebihan drainase pascatambang dari galeri di bawah atau di atasnya mencakup: dapat dilengkapi dengan pengeboran cross-measure dari galeri potensi efisiensi penangkapan gas yang lebih tinggi daripada dengan lubang bor cross-measures yang dibor dari lapisan yang ditambang kegiatan drainase gas terpisah dari kegiatan produksi batu bara untuk mengurangi biaya, jalan yang sudah ada atau area kerja (workings) lama yang berada di atas atau di bawah distrik produksi batu bara yang diusulkan kadang kala dapat digunakan gas dengan kemurnian yang cukup tinggi umumnya dapat diperoleh</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5j8S6yjYBop" slidebank="false" type="slide"> kekurangan jalan/galeri kekurangan drainase pascatambang dari galeri di bawah atau di atasnya mencakup: mendorong akses dari lapisan yang dikerjakan ke tingkat galeri berbiaya tinggi risiko kebakaran pada lapisan batu bara yang rentan terbakar secara spontan akibat kebocoran ventilasi berbiaya tinggi kecuali apabila digerakkan dalam lapisan batu bara yang cukup tebal tidak fleksibel terhadap perubahan dalam operasi penambangan mungkin tidak efektif apabila terdapat lapisan yang kuat dan solid di antara galeri drainase dan permukaan longwall</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6j9x1O2Ge2m" slidebank="false" type="slide">metana surface mine</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6QdNcB535hh" slidebank="false" type="slide">apa yang dimaksud dengan metana surface mine? pada surface mine, lapisan batu bara terpapar secara langsung ke atmosfer. metana juga mungkin terlepas ke atmosfer melalui celah alami atau sumber penyebaran lain. metana surface mine (smm) adalah metana yang dilepaskan dari lapisan batu bara dan lapisan sekitar saat batu bara dipecah dan ditambang pada surface mine atau tambang open-pit/open-cast.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6hn7H5jNnSf" slidebank="false" type="slide"> degasifikasi surface mine sumur vertikal sebelum penambangan secara teknis dapat dilakukan pada surface mine, tetapi jarang digunakan karena tidak layak secara ekonomi. lubang bor untuk sementara ditinggalkan saat waktu penambangan semakin dekat atau sumur menunjukkan bukti adanya udara di dalam gas yang dihasilkan. peralatan permukaan dan selubung disingkirkan sebelum penambangan dilakukan. waktu adalah kuncinya, dan produksi harus dimulai sejauh mungkin sebelum penambangan dilakukan. contoh pradrainase smm</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5r6LxxNxxrs" slidebank="false" type="slide"> sumur lateral sebelum penambangan sumur lateral sebelum penambangan dapat diterapkan untuk beberapa tambang strip dan tambang open-pit. tergantung pada penempatannya, lubang bor dapat terus menghasilkan metana selama penambangan dan pascapenambangan. lebih banyak batu bara yang dapat diakses apabila terowongan tambahan yang lebih kecil (sidetrack) digunakan. contoh lubang bor lateral smm</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.66zTX3NQeuC" slidebank="false" type="slide">metana tambang terbengkalai</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6DT3QzrYRpA" slidebank="false" type="slide">apa yang dimaksud dengan metana tambang terbengkalai (amm)? saat tidak lagi beroperasi untuk memproduksi batu bara, tambang batu bara bawah tanah dikenal sebagai tambang yang sudah ditutup atau "terbengkalai". meskipun penambangan tidak lagi dilakukan secara aktif, tambang yang sudah ditutup ini masih dapat menghasilkan emisi metana yang signifikan dari ventilasi penyebaran, celah, atau lubang bor selama bertahun-tahun setelah penambangan berhenti. beberapa faktor memengaruhi jumlah metana yang dihasilkan dari tambang terbengkalai, termasuk: lama waktu sejak tambang ditutup apakah tambang telah terendam banjir tingkat banjir berapa banyak gas pada tambang tersebut pada saat ditutup apakah tambang disegel dengan benar</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6CrOgCx1Anu" slidebank="false" type="slide"> diagram amm amm adalah gas yang tersisa pada lapisan pembawa gas setelah penutupan tambang batu bara yang telah mengalami pengurangan tekanan akibat penambangan.  dalam beberapa kasus, metana tambahan mungkin dihasilkan oleh kegiatan mikroba baru-baru ini.  sumber:  unece amm best practice guidance, 2020 &amp; ineris, 2019 diagram amm</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6qJaL3wWHVX" slidebank="false" type="slide">mengapa amm penting?  amm penting karena rembesan gas yang tidak terkendali ke permukaan di atas area kerja (workings) tambang terbengkalai dapat menyebabkan bahaya ledakan dan sesak napas di lingkungan terbangun.  tambang terbengkalai merupakan sumber emisi gas rumah kaca yang signifikan yang dapat, dan harus, dimitigasi.  amm adalah sumber daya energi potensial yang belum banyak dieksploitasi.   pemanfaatan amm akan menjadi semakin penting karena penutupan tambang batu bara di masa depan seiring dengan semakin banyak negara yang mengalihkan pasokan energi dari bahan bakar fosil sebagai tanggapan atas komitmen perubahan iklim internasional.</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6p7lbtXwdJP" slidebank="false" type="slide">amm vs cmm: tujuan ekstraksi tambang aktif cmm diekstrak terutama karena alasan keamanan dan tingkat produksi tidak dapat dikurangi apabila pasokan gas melebihi permintaan. apabila gas tidak dapat digunakan, gas harus dibuang atau dibakar. tambang terbengkalai amm terutama diekstrak sebagai sumber daya dan biasanya ada beberapa ruang lingkup untuk mengatur pasokan agar sesuai dengan permintaan. dalam beberapa kasus, amm diekstrak karena alasan keamanan - untuk mencegah perpindahan gas yang tidak terkendali ke permukaan di area terbangun.  rumah pompa, tambang di tiongkok ventilasi amm dengan penahan api svalbard, norwegia</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ZTQVZCNnaY" slidebank="false" type="slide">bagian 5 penggunaan bermanfaat dari metana yang ditangkap</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5vPTk92Xcbc" slidebank="false" type="slide">  investasi dalam peningkatan drainase dan penggunaan metana pengurangan emisi metana, dan modal ventilasi serta biaya operasional peningkatan pengelolaan dan pemantauan metana peningkatan keselamatan dan produktivitas yang lebih tinggi operasi yang tidak terlalu merusak lingkungan hidup investasi yang tidak memadai dalam drainase dan penggunaan metana peningkatan modal ventilasi dan biaya operasional, serta emisi metana akumulasi metana yang tidak dapat diprediksi dan tidak terkendali meningkatnya bahaya dan produktivitas yang lebih rendah operasi yang lebih merusak lingkungan manfaat menangkap dan menggunakan cmm investasi dalam penangkapan dan penggunaan cmm dapat memberikan manfaat dalam banyak aspek perusahaan, seperti biaya operasional, manajemen, keselamatan, dan kinerja lingkungan.  jalur optimal jalur suboptimal investasi biaya operasional manajemen keselamatan operasi</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6SiHOsa0rbM" slidebank="false" type="slide">menilai kelayakan penggunaan cmm untuk menilai kelayakan pemulihan dan penggunaan cmm, pengembang proyek dapat melakukan beberapa jenis studi.  jenis studi tujuan karakteristik kajian pustaka analisis urutan pertama berdasarkan data yang terbatas asumsi dasar  pemodelan keuangan sederhana prastudi kelayakan analisis yang lebih terperinci dengan informasi spesifik lokasi tinjauan sumber daya gas yang lebih terperinci tinjauan drainase gas perkiraan produksi gas analisis keuangan yang lebih menyeluruh studi kelayakan dokumen yang laik bank laporan menyeluruh yang menyelidiki kelayakan ekonomi dan teknis pengembangan proyek dokumen yang "bankable" yang cukup untuk mendapatkan pembiayaan dari pihak ke-3  lihat epa melakukan prastudi kelayakan untuk proyek metana tambang batu bara epa untuk mendapatkan lebih banyak informasi. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5pov1KF9Mug" slidebank="false" type="slide">pilihan penggunaan akhir cmm pengembang proyek akan dipandu oleh pasar, prioritas perusahaan tambang, sarana keuangan, dan prioritas kebijakan publik.  tidak ada hierarki untuk menentukan teknologi penggunaan akhir yang "terbaik". pilihan penggunaan akhir untuk cmm hampir sama dengan gas alam.   pembangkitan listrik gabungan panas dan listrik (chp) pemanasan dan pendinginan  penjualan gas regional dan ekspor bahan bakar transportasi penggunaan industri  bahan baku kimia  pembakaran gas (flaring) pilihan penggunaan akhir cmm</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5uCY2TO4xiv" slidebank="false" type="slide">daftar proyek cmm internasional gmi gmi daftar proyek cmm internasional adalah sumber informasi terbaik yang tersedia tentang proyek cmm secara global.  daftar proyek cmm dapat membantu mengidentifikasi studi kasus proyek mitigasi metana yang berhasil di negara yang berbeda dan menunjukkan kegiatan apa yang dapat dilakukan untuk mengurangi emisi di sektor ini. pada tahun 2024, basis data yang diidentifikasi: 14 negara yang menyelenggarakan proyek pengurangan cmm sekitar 250 proyek yang beroperasi: 163 proyek pada tambang aktif, 82 proyek pada tambang terbengkalai, dan 15 proyek vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6B5UMA5j1XN" slidebank="false" type="slide">penggunaan cmm secara global untuk semua proyek yang beroperasi secara global:  sebagian besar proyek menghasilkan panas atau listrik, atau keduanya (55%).  panas dan listrik gabungan mencapai 22% dari semua proyek. pembakaran gas (flaring) cmm mencapai 22% dari semua proyek penjualan gas mencapai 6% dari semua proyek kapasitas terukur peralatan pada instalasi chp berkisar antara 56 kw hingga 66 mw, dengan rata-rata sebesar 8 mw. angka tersebut didasarkan pada jumlah instalasi yang diketahui beroperasi. angka tersebut tidak memperkirakan volume metana tambang batu bara yang digunakan atau emisi yang dikurangi. penggunaan akhir metana untuk proyek yang beroperasi  (berdasarkan jumlah proyek)</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6fKAROQl93D" slidebank="false" type="slide">proyek cmm berdasarkan negara tabel di sebelah kanan menyajikan total jumlah proyek cmm berdasarkan negara, termasuk jumlah proyek di tambang aktif dan terbengkalai.  tiongkok memiliki jumlah proyek tertinggi, yang disusul oleh amerika serikat.  negara total proyek berdasarkan negara proyek pada tambang aktif proyek amm tiongkok 78 76 2 amerika serikat 53 26 27 australia 26 24 2 republik ceko 20 13 7 jerman 17 0 17 polandia 15 11 4 inggris raya 13 0 13 rusia 8 7 1 prancis 7 0 7 slowakia 2 2 0 rumania 2 2 0 belgia 2 0 2 kazakhstan 1 1 0 meksiko 1 1 0 total 245 163 82</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6f0k6vasY50" slidebank="false" type="slide">  instalasi genset mwm 12 mw - tai yuan, tiongkok proyek cmm dengan emisi mendekati nol di tambang duerping di tiongkok: sistem pengumpulan gas terpusat dengan penghilang debu dan kelembapan pembangkit listrik 12 mw menggunakan mesin gas yang beroperasi dengan gas yang dikuras suar tertutup untuk menghancurkan kelebihan metana sistem pemanas minyak lup tertutup yang menggunakan penukar panas untuk menarik panas berlebih dari mesin gas untuk memanaskan minyak yang kemudian ditransfer melalui pipa ke cerobong tambang untuk menyediakan pemanas di musim dingin ventilasi pasif dalam hal pembangkit listrik tidak dapat menerima cmm karena alasan apa pun x contoh proyek cmm: tambang duerping instalasi genset mwm 12 mw - tai yuan, tiongkok penggunaan akhir cmm: pembangkitan listrik dan mesin pembakaran internal      lihat lebih banyak informasi      view more information      view more information      view more information      view more information      lihat lebih banyak informasi </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6ITO7nu1lJc" slidebank="false" type="slide">  proyek cmm turbin mikro ingersoll rand - tambang bailey proyek ini memiliki turbin mikro yang dijalankan dengan cmm di tambang bailey di pennsylvania sebagai bagian dari proyek litbang yang didanai oleh pemerintah a.s. untuk menilai teknologi pemulihan dan penggunaan cmm.  x contoh proyek cmm: tambang bailey proyek cmm turbin mikro ingersoll rand - tambang bailey washington county, pennsylvania penggunaan akhir cmm: pembangkitan listrik; turbin mikro/turbin      lihat lebih banyak informasi      view more information      view more information      view more information      view more information      lihat lebih banyak informasi </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6lrM3NnlrB7" slidebank="false" type="slide">  proyek vam dan chp tambang sangzhang proyek oksidasi vam dan pemulihan energi di tambang no. 2 yanquan coal group di tiongkok yang menghasilkan 15 mw dan mengurangi emisi cmm sebesar 830.000 tco2e per tahun.  x contoh proyek cmm: tambang sangzhang  proyek vam dan chp tambang sangzhang yangquan, provinsi shanxi, tiongkok penggunaan akhir cmm: pembangkitan listrik; oksidasi vam      lihat lebih banyak informasi      lihat lebih banyak informasi      lihat lebih banyak informasi      lihat lebih banyak informasi      lihat lebih banyak informasi      lihat lebih banyak informasi </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6d8BZcA4A7c" slidebank="false" type="slide">penggunaan akhir cmm: pembangkitan listrik/chp aplikasi kelebihan kekurangan generator bermesin gas yang menghasilkan listrik untuk digunakan di tambang atau diekspor ke jaringan listrik; chp memungkinkan penangkapan kembali dan penggunaan energi panas  teknologi yang terbukti chp lebih efisien daripada produksi listrik saja pemulihan panas limbah untuk memanaskan bangunan tambang, pemandian penambang, dan pemanasan serta pendinginan cerobong keluaran yang dapat terganggu dan beragam; oleh karena itu, mungkin tidak kondusif untuk jaringan listrik pemeliharaan rutin membutuhkan komitmen dari operator tambang biaya modal yang tinggi pada tahap awal proyek penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6ZxHNd0sAhg" slidebank="false" type="slide">penggunaan akhir cmm: pemanasan dan pendinginan pembangkit panas dan listrik gabungan 15 mw menggunakan uap yang dihasilkan dari penghancuran vam – tiongkok</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6HWt9qmAWji" slidebank="false" type="slide">penggunaan akhir cmm: gas pipa bermutu tinggi aplikasi kelebihan kekurangan cmm bermutu tinggi yang dimurnikan setara gas alam menguntungkan apabila harga gas tinggi  pilihan yang baik apabila terdapat infrastruktur pipa yang baik standar kemurnian pipa sangat tinggi dan pemurniannya berbiaya tinggi hanya layak untuk cmm prakuras yang bermutu tinggi atau cmm yang sudah diolah membutuhkan akses yang wajar ke jaringan pipa penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas (flaring) cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6aCDT4z1vMM" slidebank="false" type="slide">penggunaan akhir cmm: penjualan gas regional dan ekspor pabrik penghilangan nitrogen di tambang vessel coal gas bethlehem #33 - ebensburg, pa</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6iyOs86gbRz" slidebank="false" type="slide">penggunaan akhir cmm: gas industri bermutu sedang aplikasi kelebihan kekurangan &gt;30% metana untuk pemanasan distrik perumahan lokal dan penggunaan industri, seperti tanur pembakaran dan dalam pembuatan pupuk sumber bahan bakar berbiaya rendah  manfaat yang dilokalisasi mungkin memerlukan pembersihan gas yang minimal atau tidak sama sekali biaya sistem distribusi dan pemeliharaan mutu dan pasokan yang beragam penampung gas yang berbiaya tinggi diperlukan untuk mengelola permintaan puncak penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas (flaring) cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6Z113sTmJXy" slidebank="false" type="slide">penggunaan akhir cmm: penggunaan industri pabrik pupuk bertenaga cmm - provinsi shanxi, tiongkok</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.65efyFDEqE6" slidebank="false" type="slide">penggunaan akhir cmm: bahan baku kimia aplikasi kelebihan kekurangan gas bermutu tinggi untuk pembuatan karbon hitam, formaldehida, bahan bakar sintetis, dan di-metil eter (dme) penggunaan untuk pasokan cmm bermutu tinggi yang belum dapat digunakan biaya pemrosesan yang tinggi potensi yang sangat terbatas dalam pasar karbon sukarela atau kepatuhan penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.69Qzthgb5br" slidebank="false" type="slide">penggunaan akhir cmm: bahan baku kimia pabrik metanol</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5f2qIxrQzYq" slidebank="false" type="slide">penggunaan akhir cmm: lokasi tambang aplikasi kelebihan kekurangan pemanasan, memasak, ketel uap, pengeringan serbuk batu bara, dan tempat tinggal penambang  menggantikan penggunaan batu bara sumber energi yang bersih dan berbiaya rendah biaya pemrosesan yang tinggi mungkin kurang menguntungkan secara ekonomi untuk digunakan di lokasi daripada di luar lokasi penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas (flaring) cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5bfzlpnnwAd" slidebank="false" type="slide">penggunaan akhir cmm: bahan bakar transportasi aplikasi kelebihan kekurangan gas dan cbm prakuras berkualitas tinggi yang dimurnikan untuk gas alam terkompresi (cng) dan gas alam cair (lng) akses pasar untuk pasokan gas yang belum dapat digunakan persaingan dari bahan bakar diesel dengan harga yang tinggi biaya pemrosesan, penyimpanan, penanganan, dan transportasi standar pemurnian sangat tinggi penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas (flaring) cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6S1rw12u3dA" slidebank="false" type="slide">penggunaan akhir cmm: bahan bakar transportasi stasiun pengisian bahan bakar kendaraan cng - shanxi, tiongkok</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6NoQBiKiIpL" slidebank="false" type="slide">penggunaan akhir cmm: pembakaran gas cmm aplikasi kelebihan kekurangan operasi yang berdiri sendiri atau sebagai bagian dari operasi terintegrasi pilihan berbiaya rendah untuk mengurangi emisi pengembalian yang cepat dibandingkan dengan pilihan penggunaan lainnya mudah digunakan dalam banyak kasus dapat sulit dimobilisasi pada medan yang curam membutuhkan nilai untuk pengurangan karbon pemusnahan saja, bukan pemanfaatan penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas (flaring) cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6SjQwWxw9a7" slidebank="false" type="slide">cmm: pembakaran gas (flaring) harworth power di flare, inggris raya  mesin gas dan pembakar gas (flare) di  lokasi tambang terbengkalai, as</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5sx0lZ9gqFm" slidebank="false" type="slide">penggunaan akhir cmm: oksidasi vam aplikasi kelebihan kekurangan oksidasi metana udara ventilasi sebagai penghancuran saja atau dengan pemulihan energi untuk pemanasan atau produksi listrik pengurangan emisi berskala besar mengatasi sumber emisi cmm terbesar sangat mahal dibandingkan dengan teknologi lainnya membutuhkan nilai yang tinggi untuk pengurangan karbon dan pengembalian yang lebih lama daripada pilihan lainnya pembangkitan listrik membutuhkan konsentrasi metana yang tinggi secara konsisten mendekati 1,0% penggunaan akhir cmm pembangkitan listrik/chp gas pipa bermutu tinggi gas "kota" atau industri bermutu sedang bahan baku kimia lokasi tambang bahan bakar transportasi pembakaran gas (flaring) cmm oksidasi vam</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5leEMMRKvne" slidebank="false" type="slide">tren terkini dalam cmm di seluruh dunia menurut daftar proyek cmm internasional gmi:  terdapat penurunan instalasi amm secara global sejak tahun 2021. pembakaran gas (flaring) sedang meningkat, sementara chp dan pembangkitan listrik menurun sebagai bagian dari penggunaan cmm secara global. tiongkok berkontribusi sebesar 60% dari produksi batu bara global dan menyelenggarakan proyek cmm dengan jumlah terbesar (78). </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6mnUSGkcYBH" slidebank="false" type="slide">bagian 6 sumber daya tambahan</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ib70GlPLQk" slidebank="false" type="slide"> inisiatif metana global inisiatif metana global (gmi) adalah kemitraan multilateral yang bersifat sukarela yang bertujuan untuk mengurangi emisi metana dan memajukan pengurangan, pemulihan, dan penggunaan metana sebagai sumber energi bersih. fokus strategis gmi adalah pengembangan kapasitas:  penilaian sumber daya: analisis peluang metana di negara berkembang studi kelayakan dan prastudi kelayakan: analisis peluang proyek tertentu pengembangan alat: basis data teknologi dan model keuangan pelatihan dan lokakarya: mengajarkan pemilik dan operator tentang peluang pengurangan metana anjangkarya dan clearing house: membawa orang untuk melihat proyek percontohan metana dan mendirikan pusat informasi di negara berkembang  diluncurkan pada tahun 2004 dengan 14 negara mitra, gmi saat ini memiliki 49 negara mitra, termasuk komisi eropa. gmi saat ini memiliki 49 negara mitra, termasuk komisi eropa. gmi menargetkan tiga sektor utama untuk pengurangan metana, termasuk tambang batu bara, biogas, dan minyak &amp; gas. hubungi sekretariat gmi negara mitra gmi mewakili sekitar 75% dari perkiraan emisi metana global dari aktivitas manusia. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6Cn9ClOAECe" slidebank="false" type="slide">dokumen dan alat internasional epa a.s. telah mengembangkan sejumlah alat dalam mendukung gmi: prastudi kelayakan di banyak negara basis data proyek cmm internasional profil negara utama cmm studi pasar cmm laporan analitis, seperti: status hukum dan peraturan amm di negara tertentu status kepemilikan cmm dan insentif kebijakan di negara utama pelatihan online pengembangan proyek cmm</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6WyuJNYzQGI" slidebank="false" type="slide">panduan praktik terbaik untuk drainase metana yang efektif panduan praktik terbaik untuk drainase metana yang efektif dan penggunaan di tambang batu bara  menguraikan praktik terbaik internasional untuk pemulihan dan penggunaan cmm di tambang aktif dengan studi kasus. memberikan panduan yang mudah diakses dan dipahami tentang sumber daya metana, pilihan pemulihan gas, dan penggunaan akhir yang dimaksudkan bagi para pengambil keputusan tingkat tinggi industri dan pemerintah. hanya berlaku untuk penambangan bawah tanah. diperbarui pada bulan desember 2016 (edisi ke-2).</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.6PIoyCIJbLA" slidebank="false" type="slide">panduan praktik terbaik untuk pemulihan metana yang efektif panduan praktik terbaik untuk pemulihan metana yang efektif dan penggunaan dari tambang batu bara terbengkalai    dirilis pada bulan agustus 2019.  mengidentifikasi praktik terbaik untuk mengevaluasi peluang amm dan mengimplementasi proyek pemulihan dan penggunaan amm. mencakup studi kasus. </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5uUXi9p8Kfo" slidebank="false" type="slide"> program penjangkauan gas metana batu bara misi cmop program penjangkauan gas metana batu bara (cmop) bekerja sama dengan industri penambangan batu bara di amerika serikat untuk mengurangi emisi cmm melalui proyek pemulihan dan penggunaan  fokus cmop peluang pengurangan emisi grk: pemulihan metana yang dilepaskan sebagai produk sampingan pertambangan (cmm). pada tahun 2019, sekitar 31% cmm dari tambang batu bara bawah tanah di amerika serikat dipulihkan dan digunakan/dihancurkan.    hubungi cmop  </slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5Y6HQbAuHcY" slidebank="false" type="slide">sumber daya cmop epa telah mengembangkan serangkaian dokumen dan alat untuk membantu pengembangan proyek, seperti: profil peluang proyek: mengidentifikasi peluang pemulihan metana tambang batu bara di tambang batubara a.s.: profil tambang batu bara bawah tanah terpilih yang banyak mengandung gas tahun 2002-2016 pemulihan metana tambang batu bara di tambang batu bara a.s. yang aktif dan terbengkalai: proyek saat ini dan peluang potensial peluang proyek pemulihan metana tambang batu bara permukaan a.s.22 model arus kas cmm panduan keuangan cmm webinar tentang topik yang menarik konverter unit dan kalkulator ekuivalensi grk</slidetext>
+      <slidetext slideid="6kGtYVOuVFJ.5ZGq09vKL4S" slidebank="false" type="slide">terima kasih! anda telah menyelesaikan  pelatihan dasar-dasar metana tambang batu bara.</slidetext>
+      <slidetext slideid="6m5eTveA40h.6ReAkAIzrsh" slidebank="false" type="slide">inisiatif metana global (gmi) adalah kemitraan multilateral yang bersifat sukarela yang bertujuan untuk mengurangi emisi metana dan memajukan pengurangan, pemulihan, dan penggunaan metana sebagai sumber energi bersih. apa yang dimaksud dengan inisiatif metana global? negara mitra gmi</slidetext>
+      <slidetext slideid="6b2zuCua1Uk.6O5cCzUr2Nz" slidebank="false" type="slide">cara bernavigasi gunakan tombol di bagian kanan bawah layar untuk melanjutkan modul. anda akan melihat slide satu per satu, meskipun anda dapat mengunjungi kembali slide kapan pun menggunakan panel navigasi menu di sebelah kiri.  apabila anda harus meninggalkan modul, slide terakhir yang akan diselesaikan akan disimpan, dan anda dapat kembali ke slide tersebut kemudian. </slidetext>
+      <slidetext slideid="5h5Yd50y6ie.6Gt9ylASCWW" slidebank="false" type="slide">antrasit antrasit adalah peringkat tertinggi dari batu bara. antrasit merupakan batu bara yang keras, rapuh, dan hitam berkilau, sering kali disebut sebagai batu bara keras, yang mengandung persentase karbon tetap yang tinggi dan persentase zat mudah menguap yang rendah.  ladang batu bara antrasit dapat mengandung cmm, dan beberapa proyek pemulihan cmm terbesar terdapat pada tambang antrasit di tiongkok.   </slidetext>
+      <slidetext slideid="5h5Yd50y6ie.5x6ZqACuY64" slidebank="false" type="slide">bituminus batu bara bituminus adalah batu bara peringkat menengah antara subbituminus dan antrasit, dan juga dianggap sebagai batu bara keras.  bituminus biasanya memiliki nilai kalor (btu) yang tinggi, dan merupakan jenis batu bara yang paling umum digunakan dalam pembangkitan listrik di amerika serikat. tambang batu bara bituminus menghasilkan bagian terbesar cmm di amerika serikat.   </slidetext>
+      <slidetext slideid="5h5Yd50y6ie.624K3tlkD2k" slidebank="false" type="slide">lignit batu bara lignit adalah batu bara dengan mutu terendah dengan konsentrasi karbon terendah, dan umumnya tidak dianggap sebagai sumber cmm yang signifikan.</slidetext>
+      <slidetext slideid="5h5Yd50y6ie.64TIkhVcnBA" slidebank="false" type="slide">subbituminus batu bara subbituminus berwarna hitam dan kusam (tidak mengkilap), serta memiliki nilai kalor yang lebih tinggi daripada lignit.  sama seperti lignit, batu bara ini disebut sebagai batu bara cokelat dan dapat ditambang pada surface mine atau bawah tanah.   di negara tertentu, seperti turki, tambang batu bara cokelat bawah tanah dapat banyak mengandung gas.</slidetext>
+      <slidetext slideid="6NINgDjrb3x.5oba58PSAjp" slidebank="false" type="slide">risiko ledakan berdasarkan konsentrasi metana pada  tambang bawah tanah</slidetext>
+      <slidetext slideid="5alydEMpVXy.5YUyW59yhjt" slidebank="false" type="slide"> bagian 1: gas metana pada batu bara section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal bagian 1: gas metana pada batu bara bagian 2: metode produksi batu bara section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production bagian 2: metode produksi batu bara bagian 3: emisi cmm section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions bagian 3: emisi cmm bagian 4: penangkapan metana section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture bagian 4: penangkapan metana bagian 5: pemanfaatan metana yang menguntungkan section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane bagian 5: pemanfaatan metana yang menguntungkan  definisi yang diadaptasi dari komisi ekonomi perserikatan bangsa-bangsa untuk eropa (united nations economic commission for europe/unece), 2016. best practice guidance on effective methane drainage &amp; use in coal mines, edisi ke-2 (2016). https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf. komisi ekonomi perserikatan bangsa-bangsa untuk eropa (unece), 2016. best practice guidance on effective methane drainage &amp; use in coal mines, edisi ke-2. 2016. https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf.    survei geologis amerika serikat (united states geological survey/usgs). https://www.usgs.gov/faqs/what-are-types-coal?qt-news_science_products=0#qt-news_science_products. badan perlindungan lingkungan a.s. (u.s. epa), 2019a. greenhouse gas emissions: overview of greenhouse gases, methane emissions. badan perlindungan lingkungan a.s. tersedia: https://www.epa.gov/ghgemissions/overview-greenhouse-gases. diakses pada tanggal 15 juli 2019. u.s. epa. 2019b. global non-co2 greenhouse gas emissions: 2015-2050. september 2019. badan perlindungan lingkungan a.s. tersedia: https://www.epa.gov/sites/production/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf. diakses pada tanggal 10 januari 2020.  u.s. epa. 2019c. frequent questions about coal mine methane. badan perlindungan lingkungan a.s. tersedia: https://www.epa.gov/cmop/frequent-questions#q6. diakses pada tanggal 23 juni 2020. </slidetext>
+      <slidetext slideid="5alydEMpVXy.6NmSmGvflnv" slidebank="false" type="slide"> bagian 1: gas metana pada batu bara section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal bagian 1: gas metana pada batu bara bagian 2: metode produksi batu bara section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production bagian 2: metode produksi batu bara bagian 3: emisi cmm section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions bagian 3: emisi cmm bagian 4: penangkapan metana section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture bagian 4: penangkapan metana bagian 5: penggunaan bermanfaat dari metana section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane bagian 5: penggunaan bermanfaat dari metana  arch coal. take a virtual tour of black thunder coal mine.” https://www.youtube.com/watch?v=2lqwxtm94ps, 4:13. dipublikasikan: 14 februari 2011. benally, connery. “deserado mine blue mountain energy”. https://www.youtube.com/watch?v=mozzornsefq, 4:10. dipublikasikan: 15 agustus 2015. coal age magazine. u.s. longwall census, 2021. https://www.coalage.com/flipbooks/january-february-2021/.  goebel, greg. “surface coal mine detail, gillette, wyoming / 2008” oleh flickr. cc by-sa 2.0. badan energi internasional (international energy agency/iea). coal 2020:  analysis and forecast to 2025. paris, prancis. desember 2020 https://iea.blob.core.windows.net/assets/00abf3d2-4599-4353-977c-8f80e9085420/coal_2020.pdf.  kholod, nazar dkk. 2020. global methane emissions from coal mining to continue growing even if coal production declines. journal of cleaner production. volume 256. 20 mei 2020. https://www.sciencedirect.com/science/article/pii/s0959652620305369.  foto fail raven ridge resources, fasilitas permukaan tambang bawah tanah yang beroperasi di amerika serikat administrasi informasi energi a.s. (u.s. energy information administration). today in energy. tersedia: https://www.eia.gov/todayinenergy/detail.php?id=38172. diakses pada tanggal 15 juli 2019. u.s. epa, 2019a. greenhouse gas emissions: overview of greenhouse gases, methane emissions. badan perlindungan lingkungan a.s. tersedia: https://www.epa.gov/ghgemissions/overview-greenhouse-gases. diakses pada tanggal 15 juli 2019. world coal institute, n.d. the coal resource a comprehensive overview of coal. world coal institute. tersedia: https://refman.energytransitionmodel.com/publications/1264. diakses pada tanggal 15 juli 2019. world coal institute. coal mining. dipublikasikan 10 maret 2009. tersedia: https://www.worldcoal.org/?pageid=92. diakses pada tanggal 24 juni 2020. youtube.  continuous miner: deserado mine - blue mountain energy. https://www.youtube.com/watch?v=mozzornsefq world coal. </slidetext>
+      <slidetext slideid="5alydEMpVXy.5jdAVBpidie" slidebank="false" type="slide"> bagian 1: gas metana pada batu bara section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal bagian 1: gas metana pada batu bara bagian 2: metode produksi batu bara section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production bagian 2: metode produksi batu bara bagian 3: emisi cmm section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions bagian 3: emisi cmm bagian 4: penangkapan metana section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture bagian 4: penangkapan metana bagian 5: penggunaan bermanfaat dari metana section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane bagian 5: penggunaan bermanfaat dari metana  gas research institute, a guide to coalbed methane reservoir engineering, 1996. administrasi informasi energi a.s. annual coal report. oktober 2020.  https://www.eia.gov/coal/annual/.  law, b e, and rice, d d. 1993. "hydrocarbons from coal." amerika serikat. u.s. epa. 2019d.  global non-co2 greenhouse gas emission projections &amp; mitigation:  2015 - 2050.  badan perlindungan lingkungan a.s., kantor udara &amp; radiasi.  epa 430-r-19-010, oktober 2019. https://www.epa.gov/sites/production/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf.  diakses pada tanggal 10 januari 2020. u.s. epa. 2019e. coal mine methane recovery: a primer. juli 2019. washington, d.c. as. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf.  u.s. epa. 2021. inventory of u.s. greenhouse gas emissions and sinks: 1990-2019 https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks.  </slidetext>
+      <slidetext slideid="5alydEMpVXy.5klF4GYxo4q" slidebank="false" type="slide"> bagian 1: gas metana pada batu bara section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal bagian 1: gas metana pada batu bara bagian 2: metode produksi batu bara section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production bagian 2: metode produksi batu bara bagian 3: emisi cmm section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions bagian 3: emisi cmm bagian 4: penangkapan metana section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture bagian 4: penangkapan metana bagian 5: penggunaan bermanfaat dari metana section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane bagian 5: penggunaan bermanfaat dari metana  china national offshore oil corp.  “clariant international ltd: methanol production plant of cnooc kingboard chemical co ltd. (foto: cnooc kingboard chemical ltd)”. sumber:  pengguna flickr pressreleasefinder cc by-nc-nd 2.0. butler, neil.  foto suar cmm pada suatu tambang di inggris raya.  proyek yang dikembangkan oleh harworth power. c. özgen karacan, felicia a. ruiz, michael cotè, sally phipps. coal mine methane: a review of capture and utilization practices with benefits to mining safety and to greenhouse gas reduction, jurnal geologi batu bara internasional, volume 86, isu 2–3, 2011, halaman 121-156, issn 0166-5162, https://doi.org/10.1016/j.coal.2011.02.009. inisiatif metana global.  cmm projects list (https://www.globalmethane.org/resources/details.aspx?resourceid=1981) ingersoll rand. foto turbin mikro bertenaga cmm di tambang bailey, west virginia, as.  disediakan oleh joe catina, foto fail raven ridge resources. stasiun pengisian bahan bakar cng, provinsi shanxi, tiongkok. sindicatum sustainable resources (2021). foto dan perincian tentang proyek cmm tambang duerping, provinsi shanxi, tiongkok. disediakan oleh david creedy. u.s. epa. 2003. foto mesin gas dan suar pada tambang terbengkalai di ohio, as. proyek yang dikembangkan oleh northwest fuels development inc.  foto diambil pada tahun 2003. u.s. epa. 2014. foto unit penghilangan nitrogen pada proyek metana tambang terbengkalai cambria 33, pennsylvania, as. proyek dikembangkan oleh vessels carbon solutions inc.  foto diambil pada bulan november 2014. u.s. epa. 2015. pre-feasibility study for coal mine methane capture and utilization at the mahui and pingshang mines. april 2015. washington, dc, as. https://www.epa.gov/sites/default/files/2016-03/documents/epa_xiyang_china_prefeas_study.pdf.  u.s. epa. 2019e. coal mine methane recovery: a primer. juli 2019. washington, d.c. as. epa-430-r-09-013.https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf.  u.s. epa. 2019g.  foto proyek oksidasi vam dan chp pada tambang sangzhang, provinsi shanxi, tiongkok. proyek dikembangkan oleh fortman (beijing) clean energy ltd. foto diambil pada bulan desember 2019. u.s. epa. 2019h.  foto turbin uap 15-mw yang berjalan dengan uap yang dihasilkan oleh unit oksidasi vam pada proyek vam/chp di tambang sangzhang, provinsi shanxi, tiongkok. proyek dikembangkan oleh fortman (beijing) clean energy ltd. foto diambil pada bulan desember 2019. </slidetext>
+      <slidetext slideid="5alydEMpVXy.5ZRFKvMKvOR" slidebank="false" type="slide"> bagian 1: gas metana pada batu bara section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal bagian 1: gas metana pada batu bara bagian 2: metode produksi batu bara section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production bagian 2: metode produksi batu bara bagian 3: emisi cmm section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions bagian 3: emisi cmm bagian 4: penangkapan metana section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture bagian 4: penangkapan metana bagian 5: penggunaan bermanfaat dari metana section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane section 5: beneficial uses of methane bagian 5: penggunaan bermanfaat dari metana   inisiatif metana global. 2011. “surface mine methane emissions and project opportunities.” inisiatif metana global dan raven ridge resources, oktober 2011. tersedia: https://www.globalmethane.org/documents/events_coal_101411_tech_marshall.pdf. diakses pada tanggal 15 juli 2019.  inisiatif metana global. 2021. conducting pre-feasibility studies for coal mine methane projects training. https://www.globalmethane.org/training/coalminetraining.aspx.  karacan, c. özgen. 2009. forecasting gob gas venthole production performances using intelligent computing methods for optimum methane control in longwall coal mines.  institut keselamatan &amp; kesehatan kerja nasional. jurnal geologi batu bara internasional. september 2009.  kravits, steve. 2019. cmm recovery - advantages and disadvantages of surface cbm wells and in-mine horizontal boreholes, dipresentasikan oleh steve kravits, target drilling inc., konferensi metana tambang batu bara program penjangkauan gas metana batu bara, september, 2007, st. louis, missouri. tersedia: http://www.targetdrilling.com/. diakses pada tanggal 15 juli 2019. malamisura, rocky. 2007.cbm/cmm extraction: a winning proposition for both gas and coal, presentasi oleh rocky, cnx gas, konferensi metana tambang batu bara program penjangkauan gas metana batu bara, september 2007, st. louis, missouri. peacock, mike. 2006. degasification methods at mountain coal company's west elk mine, dipresentasikan oleh mike peacock, lokakarya ke-2 negara bagian barat tentang pemulihan dan penggunaan metana tambang batu bara program penjangkauan gas metana batu bara, september 2006, grand junction, colorado. rei drilling, inc.. foto alat pengeboran horizontal di dalam tambang. rei drilling, inc. foto sumur gob. shutterstock.  foto berlisensi dari ventilasi amm pada tambang yang sudah ditutup di svaldbard, norwegia.  unece. 2016. best practice guidance for effective methane drainage and use in coal mines. unece. desember 2016. https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf.  unece. 2020. best practice guidance for effective methane recovery and use from abandoned coal mines. unece. januari 2020. https://unece.org/sustainable-energy/publications/best-practice-guidance-effective-methane-recovery-and-use-abandoned.  u.s. epa. 2005. “identifying opportunities for methane recovery at u.s. coal mines: profiles of selected gassy underground coal mines 2002 – 2006.” badan perlindungan lingkungan, januari 2009. tersedia: https://www.epa.gov/sites/production/files/2016-03/documents/profiles_2008_final.pdf. diakses pada tanggal 15 juli 2019.  u.s. epa. 2013. foto rumah pompa pada tambang mahui, provinsi shanxi, tiongkok.  foto diambil pada bulan desember 2013. u.s. epa. 2015. pre-feasibility study for coal mine methane capture and utilization at the mahui and pingshang mines. april 2015. washington, dc, as. https://www.epa.gov/sites/default/files/2016-03/documents/epa_xiyang_china_prefeas_study.pdf. u.s. epa. 2017. “abandoned coal mine methane opportunities database. badan perlindungan lingkungan,” juli 2017. tersedia: https://www.epa.gov/sites/production/files/2016-03/documents/amm_opportunities_database.pdf. diakses pada tanggal 15 juli 2019. u.s. epa. 2019e. coal mine methane recovery: a primer. juli 2019. washington, d.c. asa. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf.  u.s. epa. 2019f. pre-feasibility study for methane drainage and utilization at the tenghui coal mine, shanxi province, china.  washington, dc as. publikasi 430r19005. maret 2019 https://www.epa.gov/sites/default/files/2019-05/documents/epa_gmi_tenghui_05-2-19.pdf. u.s. epa. 2021b. gambar asli: “komponen sistem drainase gas” dan “galeri drainase”. u.s. epa dan raven ridge resources. foto kipas ventilasi tambang, tiongkok.</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Badan Perlindungan Lingkungan Amerika Serikat (United States Environmental Protection Agency/USEPA)">Badan Perlindungan Lingkungan adalah badan eksekutif independen dari pemerintah federal Amerika Serikat yang bertugas menangani masalah perlindungan lingkungan hidup.</term>
+      <term title="Drainase Gas">Metode yang digunakan oleh tambang batu bara bawah tanah, tambang terbengkalai, dan kadang kala surface mine, untuk menangkap gas yang timbul secara alami pada lapisan batu bara untuk mencegahnya memasuki saluran udara tambang. Sistem drainase gas mencakup kombinasi lubang bor drainase dan/atau galeri, jaringan pengumpul, dan pompa vakum untuk menarik gas ke permukaan. Gas dapat disingkirkan dari lapisan batu bara sebelum penambangan menggunakan teknik pradrainase dan dari lapisan batu bara yang terganggu oleh proses ekstraksi menggunakan teknik pascadrainase. Drainase tersebut sering disebut sebagai drainase metana apabila metana adalah target komponen gas utama yang akan ditangkap. Drainase gas menghasilkan metana tambang batu bara dengan mutu yang lebih tinggi daripada ventilasi, umumnya berkisar 25 - 100 persen.</term>
+      <term title="Drainase Pascatambang">Mengebor lubang bor (sumur gob vertikal, lubang bor cross-measure, lubang bor horizontal terarah, atau galeri drainase gob) sebelum penambangan sehingga lubang bor tersebut sudah ada sebelum penambangan tetapi menghasilkan gas selama dan setelah lapisan ditambang.</term>
+      <term title="Drainase Pratambang">Pengeboran lubang bor di dalam lapisan (in-seam) untuk mengekstrak gas dari lapisan batu bara sebelum operasi penambangan.</term>
+      <term title="Emisi Gas Rumah Kaca (GRK)">Pelepasan gas rumah kaca dan/atau prekursornya ke atmosfer pada area dan periode waktu tertentu. Dapat dikategorikan sebagai antropogenik (diakibatkan oleh aktivitas manusia) atau terjadi secara alami.</term>
+      <term title="Evase">Titik pembuangan kipas buang permukaan. Evase digunakan untuk mengarahkan udara yang dibuang dengan aman menjauhi tambang.</term>
+      <term title="Galeri Drainase">Jalan yang sudah ada atau jalan yang dibuat khusus di atas atau di bawah lapisan yang ditambang yang mengumpulkan metana dari area gob. Galeri tersebut disegel, dan diberikan tekanan vakum untuk menarik gas dari galeri ke dalam sistem pipa. Galeri ini juga kadang kala disebut sebagai lubang bor atas.</term>
+      <term title="Gas Alam Terkompresi (CNG)">Gas alam yang terutama terdiri dari metana yang disimpan di bawah tekanan tinggi, terutama sebagai sarana penyimpanan atau transportasi.</term>
+      <term title="Gas Kota">Bahan bakar gas manufaktur yang diproduksi untuk dijual kepada para konsumen dan pemerintah kota. Juga disebut sebagai gas batu bara.</term>
+      <term title="Gas Metana Batu Bara (CBM)">Metana yang diekstrak dari lapisan batu bara sebelum penambangan dilakukan. CBM juga dikenal sebagai metana lapisan batu bara murni atau gas lapisan batu bara. Metana ini secara luas dianggap sebagai sumber gas alam "non-konvensional".</term>
+      <term title="Gob (Goaf)">Tanah yang rusak dan permeabel di mana batu bara telah diekstrak dengan penambangan batu bara longwall dan atapnya dibiarkan runtuh, sehingga mematahkan dan mengurangi tekanan pada lapisan di atas dan, pada tingkat yang lebih rendah, di bawah lapisan yang sedang dikerjakan. Istilah gob umumnya digunakan di Amerika Serikat; di tempat lain, goaf umumnya digunakan.</term>
+      <term title="Inisiatif Metana Global (Global Methane Initiative/GMI)">Diluncurkan pada tahun 2004, GMI merupakan inisiatif publik-swasta internasional yang mendorong pengurangan dan pemulihan metana jangka pendek yang hemat biaya dan penggunaan metana sebagai sumber energi bersih di tiga sektor: biogas (termasuk pertanian, sampah kota, dan air limbah), tambang batu bara, dan sistem minyak dan gas. Memfokuskan upaya kolektif pada sumber emisi metana merupakan pendekatan yang hemat biaya untuk mengurangi emisi gas rumah kaca (GRK) dan meningkatkan ketahanan energi, pertumbuhan ekonomi, mutu udara, dan keselamatan pekerja.</term>
+      <term title="Kajian Pustaka">Analisis urutan pertama yang didasarkan pada data yang terbatas, asumsi dasar, dan pemodelan keuangan sederhana.</term>
+      <term title="Kandungan Gas">Volume gas yang terkandung dalam massa satuan batu bara dan umumnya dinyatakan dalam meter kubik, pada kondisi tekanan dan suhu standar, per ton batu bara.</term>
+      <term title="Lapisan">Lapisan batuan atau tanah sedimen; dalam hal ini merujuk pada lapisan batu bara.</term>
+      <term title="Longwall">Salah satu dari tiga metode penambangan batu bara bawah tanah utama yang saat ini digunakan. Menggunakan alat pemotong yang ditarik secara mekanis maju mundur melintasi permukaan batu bara yang biasanya memiliki panjang beberapa ratus kaki. Metode penambangan ini dapat menghasilkan batu bara dan gas dalam jumlah besar.</term>
+      <term title="Lubang Bor">Cerobong sempit yang dibor di dalam tanah, baik secara vertikal maupun horizontal.</term>
+      <term title="Lubang Bor Drainase Pascatambang">Lubang bor yang dibor di atas atau di bawah lapisan yang ditambang yang menghasilkan metana dari area gob setelah lapisan batu bara ditambang. Lubang bor drainase pascatambang dapat dibor dari permukaan atau di dalam tambang. Pada awalnya, metana dapat memiliki konsentrasi yang tinggi, tetapi konsentrasinya akan menurun dengan relatif cepat karena udara dari area gob ditarik ke dalam lubang bor. Lubang bor ini juga biasa disebut sebagai lubang bor pascadrainase.</term>
+      <term title="Lubang Bor Drainase Pratambang">Lubang bor yang dibor ke dalam lapisan yang ditambang atau lapisan batuan dan batu bara yang mengandung gas di dekatnya sebelum penambangan untuk menyingkirkan metana sebelum penambangan dilakukan. Lubang bor drainase pratambang dapat dibor dari permukaan atau di dalam tambang. Gas dihasilkan di dalam lubang bor sebelum lapisan batu bara ditambang. Setelah ditambang, produksi gas akan berhenti. Metana dapat memiliki konsentrasi yang sangat tinggi, dan lubang bor dapat menghasilkan gas selama bertahun-tahun sebelum penambangan. Lubang bor ini juga biasa disebut sebagai lubang bor pradrainase.</term>
+      <term title="Metana">Metana adalah gas rumah kaca yang kuat. Umur metana di atmosfer jauh lebih pendek daripada karbon dioksida, tetapi 28 kali lebih efisien dalam memerangkap radiasi daripada CO2 selama periode 100 tahun. Metana adalah prekursor utama polusi ozon di permukaan tanah, dan dengan demikian memengaruhi mutu udara. Metana juga merupakan sumber daya energi yang dapat ditangkap dan digunakan. Metana pada tambang menimbulkan risiko keselamatan, karena sifatnya yang mudah meledak apabila bercampur dengan udara.</term>
+      <term title="Metana Tambang Batu Bara (CMM)">Metana yang dilepaskan dari batu bara akibat kegiatan penambangan. Seperti halnya CBM, CMM adalah subbagian dari metana yang ditemukan pada lapisan batu bara, tetapi, secara khusus, mengacu pada metana yang ditemukan di dalam area penambangan (misalnya, di dalam denah penambangan), sedangkan CBM merujuk pada metana pada lapisan batu bara yang tidak akan pernah ditambang. Karena CMM akan dilepaskan melalui kegiatan penambangan, memulihkan dan menggunakan CMM dianggap menghindari emisi.</term>
+      <term title="Metana Tambang Terbengkalai (AMM)">Tambang batu bara yang ditutup sementara atau permanen yang menghasilkan emisi metana yang signifikan dari ventilasi penyebaran, celah, atau lubang bor.</term>
+      <term title="Metana Udara Ventilasi (VAM)">CMM yang disingkirkan melalui sistem ventilasi yang menggunakan kipas untuk mengencerkan metana hingga tingkat yang aman dengan mengedarkan udara segar melalui tambang. VAM merupakan sumber emisi metana terbesar dari tambang batu bara bawah tanah.</term>
+      <term title="Metana yang Terserap">Metana terakumulasi pada permukaan batu bara.</term>
+      <term title="Panel Longwall">Blok besar batu bara yang ditambang dengan alat pemotong longwall.</term>
+      <term title="Pembakaran Gas (flaring)">Pembakaran gas alam yang terkendali. Pembakaran gas CMM pada tambang batu bara dapat terjadi pada api terbuka, atau dikenal sebagai candlestick flare, atau pada suar tertutup, yang kadang kala disebut sebagai ground flare.</term>
+      <term title="Peringkat">Klasifikasi batu bara menurut tingkat metamorfisme, perubahan progresif, atau pembatubaraan (pematangan) dalam rangkaian alamiah dari lignit hingga antrasit.</term>
+      <term title="Permeabilitas">Keadaan atau kualitas bahan atau membran yang memungkinkan cairan atau gas melewatinya.</term>
+      <term title="Permukaan Longwall">Ujung panel longwall yang sedang dipotong oleh alat pemotong longwall.</term>
+      <term title="Prastudi Kelayakan">Biasanya memberikan analisis teknis yang terperinci tentang informasi spesifik lokasi dan mempertimbangkan pembiayaan proyek. Memberikan perkiraan produksi gas dan tinjauan praktik drainase gas saat ini. Akan tetapi, dokumen ini tidak memberikan informasi yang lebih terperinci daripada studi kelayakan yang lengkap. Dokumen ini biasanya tidak dianggap sebagai dokumen yang "laik bank".</term>
+      <term title="Room and Pillar Mining">Deposit batu bara ditambang dengan memotong jaringan ruangan ke dalam lapisan batu bara dan menyisakan pilar batu bara untuk menopang atap tambang. Pilar ini dapat mencapai hingga 40% dari total batu bara dalam lapisan tersebut. Pilar yang tersisa kadang kala dapat dipulihkan pada tahap selanjutnya. Jumlah room and pillar mine tergolong kecil dalam produksi batu bara bawah tanah dunia.</term>
+      <term title="Sistem Pengumpulan Gas">Sistem jaringan pipa, peralatan penghilang kelembapan dan debu, dan penggerak utama (misalnya, pompa vakum, kompresor) yang mengangkut gas dari kepala sumur lubang bor ke permukaan.</term>
+      <term title="Studi Kelayakan">Laporan menyeluruh yang menyelidiki kelayakan ekonomi dan teknis pengembangan proyek. Dokumen ini dianggap "laik bank", yang berarti cukup untuk mendapatkan pembiayaan proyek.</term>
+      <term title="Surface mining">Bentuk penambangan yang umumnya digunakan saat lapisan batu bara berjarak kurang dari 60 meter (sekitar 200 kaki) dari permukaan. Terdapat dua jenis utama surface mine: strip mine dan open-pit mine. Strip mining terdiri dari penyingkiran tanah dan batuan (lapisan penutup) di atas suatu lapisan (khususnya batu bara), yang disusul dengan penyingkiran mineral yang terpapar. merupakan teknik surface mining untuk mengekstrak batuan atau mineral dari dalam bumi dari lubang terbuka, yang kadang kala dikenal sebagai borrow. Bentuk penambangan ini berbeda dengan metode ekstraksi yang membutuhkan terowongan ke dalam bumi, seperti longwall mining. Metode ini diterapkan untuk bijih atau batuan yang ditemukan di permukaan karena lapisan penutup relatif tipis, atau materi sasaran secara struktural tidak cocok untuk pembuatan terowongan.</term>
+      <term title="Termal Langsung">Penggunaan metana tambang batu bara dalam teknologi pembakaran langsung selain penyalaan suar, paling sering terjadi pada ketel uap, pembakar industri, dan aplikasi serupa.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conducting Pre-Feasibility Studies for CMM Projects: Module 7" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6TUpXOdnLET_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5geHtc81as6.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="CMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting CMM Project Pre-Feasibility Studies: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 7" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 7  Market, Risk, and Financial Analyses" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="What You Will Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5Ys5g024ApN" displaytext="Market Analysis" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6h3HYbwIASV" displaytext="Project Financial Feasibility" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jISw7mFtoo" displaytext="Assessing the Market and Identifying CMM End-Use Options" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XavjrmAeF4" displaytext="Steps in a Pre-feasibility Study Market Analysis - Summarize" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6mQdgWKT8Yu" displaytext="Steps in a Pre-feasibility Study Market Analysis - Review" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6VXp16nWlbK" displaytext="Steps in a Pre-feasibility Study Market Analysis - Assess" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dkND1OJrDp" displaytext="Steps in a Pre-feasibility Study Market Analysis - Conduct" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5evzQ7Bs68P" displaytext="Step 1 - Summarize Economic Conditions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jwcvi5m0rn" displaytext="Step 2 - Review Energy Commodity Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TpORxtqD4X" displaytext="Review Access to Energy Markets " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5awTbYPy5Pu" displaytext="Review Access to Energy Markets: Physical Access" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5tIsgO6byLv" displaytext="Review Access to Energy Markets: Technical Access" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6KwCTLcHBvi" displaytext="Review Access to Energy Markets: Legal Access" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kI3sELzT1b" displaytext="Review Access to Energy Markets: Market Pricing" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6N1gvOKOg86" displaytext="Step 3 - Assess Environmental Markets and Incentives" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XCX8sTDQuq" displaytext="Markets and Incentives" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6l4SK2jNkSH" displaytext="Regulated or Compliance Carbon Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZQVA02qt1F" displaytext="Voluntary Carbon Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.655W9IgOexf" displaytext="Renewable Energy Credits" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5msHUhwlv1s" displaytext="Feed-in Tariffs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5tQjLxJKZRX" displaytext="Direct Subsidies" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GDkAZdb3zV" displaytext="Tax Credits" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lpyNWGeJ7i" displaytext="“Green Gas” Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DX2Ic9eyrq" displaytext="Direct Investment" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5rUIls01ovr" displaytext="Mandated Off-takes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6H8vRk8cI53" displaytext="Step 4 - Conduct Legal and Regulatory Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6H930IDnb5i" displaytext="Market Evaluation Examples" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Uqh4IG6L1n" displaytext="CMM Market Evaluation: 2 Examples" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QELkSu5GFy" displaytext="Preliminary Review of Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BCvU4WqKUv" displaytext="Detailed Review of Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5X2w6Ru5fON" displaytext="Identification of Best Market(s)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6j1SG8qQCVP" displaytext="CMM Markets Example #1 – Initial Evaluation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DET0oy5o33" displaytext="CMM Markets Example #1 – 2nd Evaluation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ZQkYPklipz" displaytext="CMM Markets Example #1 – Final Evaluation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5vJQbYTxaBH" displaytext="CMM Markets Example #2 – Initial Evaluation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Wfsy0nDfW5" displaytext="CMM Markets Example #2 – 2nd Evaluation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6SVx8ghy212" displaytext="CMM Markets Example #2 – Final Evaluation" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.65l6pKU0MzD" displaytext="Risk Analysis" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5gm2fFpCbYb" displaytext="Identify and Characterize Project Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QtxSzQy2fJ" displaytext="Risk Classification" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BsfrDrZFfb" displaytext="Developmental Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5v5pNspccMQ" displaytext="Operational Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6U3eQa8COur" displaytext="Technical Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eSq0FPpE3V" displaytext="Market Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6M1SZusSY3r" displaytext="Financial Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5a0AhjLlDeN" displaytext="Legal/Policy Risks" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61LzQLRvGnl" displaytext="Project Risk Mitigation Examples: Development" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5bk5h4NsK9j" displaytext="Project Risk Mitigation Examples: Operational" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Project Risk Mitigation Examples: Technical" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xOE3zzTRXS" displaytext="Project Risk Mitigation Examples: Market" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5YyMYYRdFnT" displaytext="Project Risk Mitigation Examples: Financial" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C9JN7L6aUF" displaytext="Project Risk Mitigation Examples: Legal/Policy" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6hv3q7lS1Tv" displaytext="Risk Assessment Tools" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5pYYBYCBo51" displaytext="Risk Assessment Tools Dashboard" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6TOTcukXov0" displaytext="Financial Analysis" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.62RYfcdAhlo" displaytext="Objectives of a Financial Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65cMYIGObBn" displaytext="Financial Assessment Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.60cPBoHKCfr" displaytext="Assessment Methodology: Financial Inputs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6rbg1eR3Xlg" displaytext="Assessment Methodology: Project-Specific Inputs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gxkEFzmYqS" displaytext="Assessment Methodology: Cash Flow Model" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6a2T50NOkWv" displaytext="Assessment Methodology: Financial Measures" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5vaPBnfhIE0" displaytext="Cost Estimates and Assumptions " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.690xbYSm5LW" displaytext="Financial Inputs: Capital Costs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61ReH0OtyiN" displaytext="Financial Inputs: Operating Costs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ajTZM3VVTe" displaytext="Example Financial and Project Inputs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xQ3IbVCU83" displaytext="Choosing an Appropriate Model for the Financial Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5z5IbDYwkay" displaytext="Selecting a Financial Model" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qW7IG7JnlD" displaytext="Other Considerations in Choosing the Model" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.63JtgfkTDp3" displaytext="Good Practices for Financial Modeling" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.671S9AulDZL" displaytext="Quality Control of the Financial Model" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6AR2tU2kY4K" displaytext="Providing the Model to External Parties" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZdhOyXEnNC" displaytext="Financial Analysis: Key Outputs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.67EDGk5GvhP" displaytext="Financial Analysis: Key Metrics " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5e3e276EHzG" displaytext="Financial Analysis: Secondary Metrics " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Z7bRpJ0Ap5" displaytext="Monetizing Benefits from GHG Emission Reductions " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6eRtJXoqLro" displaytext="Methodologies for Estimating Benefits from Reducing GHG Emissions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Px8VKww8rc" displaytext="Methodologies for Estimating Benefits from Reducing GHG Emissions (continued)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6FvJW3PQStf" displaytext="Calculating Benefits of GHG Reductions:  Role of GWP and Indirect Emission Factors" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6JeoEluvCrX" displaytext="Quantifying the Co-benefits of CMM Projects" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.656eLededPy" displaytext="Financial Analysis: Accounting for Uncertainty" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6WhyQmbTwUR" displaytext="Accounting for Uncertainty: Creating a Range of Potential Outcomes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.617jm3vul30" displaytext="Accounting for Uncertainty: Incorporate a Sensitivity Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66WGz4wmNqD" displaytext="Accounting for Uncertainty: Include Contingent Funds for Capex and Opex " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6jxoMAzpPeY" displaytext="Accounting for Uncertainty: Using Conservative Input Values" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.62SY0Ljpvct" displaytext="Accounting for Uncertainty: Avoiding “Hockey Stick” Revenue Growth" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nT3tLRh14u" displaytext="GMI Pre-feasibility Study: Lessons Learned" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6RH8R7miUoi" displaytext="Reasons for Project Discontinuation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="Module 7 Summary" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conducting cmm project  pre-feasibility studies training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome the united states environmental protection agency (epa) developed this course in support of the gmi and in conjunction with the united nations economic commission for europe (unece). what is the gmi? this course introduces principles for assessing the potential of developing projects to capture and/or use coal mine methane (cmm). the general approach described in the course should be underpinned by mine-specific data and analyses, allowing the principles to be tailored to the unique conditions at each mine. ideally, such an assessment will lead to project development and implementation.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> conducting cmm project pre-feasibility studies:  course modules module 1:	introduction and objectives module 2:	mine background information and evaluation module 3:	resource assessment module 4:	forecasting methane production from gas drainage systems module 5:	improvements to gas drainage module 6:	quantifying the benefits of improvements to methane drainage systems module 7:	market, risk, and financial analyses module 8:	case study – liulong mine, china </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 7 market, risk, and financial analyses</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">what you will learn after completing this module, you will: be able to identify and analyze potential markets available for a cmm recovery and use project. understand the importance of quantifying greenhouse gas (ghg) emission reductions. be prepared to identify and characterize certain project risks. understand the basic concepts of a financial analysis in a pre-feasibility study, including the primary financial metrics used to evaluate project viability.   time needed to complete this module: approximately 60 minutes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Ys5g024ApN" slidebank="false" type="slide">market analysis</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6h3HYbwIASV" slidebank="false" type="slide">project financial feasibility project financial feasibility depends on generating and maintaining a revenue stream that is capable of producing cash flows sufficient to maintain operations over the life of the project. project owners generate revenue by:  selling cmm and/or cmm-based energy on the market. selling environmental commodities such as emission reduction credits. reducing costs by using cmm on-site.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jISw7mFtoo" slidebank="false" type="slide">assessing the market and identifying cmm end-use options one of the primary goals of a pre-feasibility study is to identify potential revenue opportunities.  to achieve this goal, a study needs to identify viable cmm end-use options and assess all potential markets.  market identification, market assessment, and assessment  of cmm end-uses are inter-linked activities. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XavjrmAeF4" slidebank="false" type="slide">steps in a pre-feasibility study market analysis - summarize step 2: review energy  commodity markets available to cmm step 3: assess environmental commodity markets &amp; incentives step 4: conduct legal  and regulatory review  local  regional national international (that can impact the project)   step 1: summarize economic conditions</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6mQdgWKT8Yu" slidebank="false" type="slide">step 1: summarize economic conditions steps in a pre-feasibility study market analysis - review step 3: assess environmental commodity markets &amp; incentives step 4: conduct legal  and regulatory review   physical access  legal access  technical access market pricing   step 2: review energy  commodity markets available to cmm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6VXp16nWlbK" slidebank="false" type="slide">step 1: summarize economic conditions steps in a pre-feasibility study market analysis - assess step 2: review energy  commodity markets available to cmm step 4: conduct legal  and regulatory review   type of market: carbon credit, renewable energy credit, feed-in tariff, tax credit, other voluntary or regulatory framework status, term, and liquidity of the market cmm project eligibility market pricing step 3: assess environmental commodity markets &amp; incentives</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dkND1OJrDp" slidebank="false" type="slide">step 1: summarize economic conditions steps in a pre-feasibility study market analysis - conduct step 2: review energy  commodity markets available to cmm step 3: assess environmental commodity markets &amp; incentives   available incentives: subsidies, tax credits, fee waivers mine safety and other legal jurisdictions restrictions on cmm or vam recovery and use permitting and authorization schedules  step 4: conduct legal  and regulatory review</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5evzQ7Bs68P" slidebank="false" type="slide"> step 1 - summarize economic conditions the economic conditions summary should provide a broad overview and focus on the general state of the economy in the pre-feasibility study report. the objective is to provide a snapshot of the current state and future direction of the economy, political situation, and investment climate.   click to view a list of questions that may be considered when developing an economic conditions summary.  international considerations national regional local summary should reflect:    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jwcvi5m0rn" slidebank="false" type="slide">step 2 - review energy commodity markets there is no hierarchy to define the “best” end-use technology.  a project developer will be guided by:  gas quality and quantity market access mining company priorities project economics  access to finance public policy priorities the end uses shown below are proven options for cmm projects based on global experience. chemical feedstock power generation regional and export gas sales transportation fuel cooling combined heat &amp; power  flaring industrial use</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TpORxtqD4X" slidebank="false" type="slide">physical access review access to energy markets  technical access legal access market pricing  although cmm can be used in many applications across a range of markets, this does not guarantee project success. to be successful, a cmm project must have access to a financially viable market.  the pre-feasibility study report should address: physical access technical access legal access commodity market pricing</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5awTbYPy5Pu" slidebank="false" type="slide">review access to energy markets: physical access technical access legal access market pricing  does the market have an actual presence in the area of the cmm project to allow for delivery of cmm or cmm-based energy into the market? examples: is there a natural gas pipeline within a reasonable distance for natural gas sales? a trunkline 50 kilometers (km) from the mine will require a 50 km pipeline lateral with multistage compression to deliver the gas into the pipeline that will carry the gas to market. the cost of the lateral and compression are unlikely to be economic. if a pipeline is located nearby, does it have excess capacity for new supplies?  physical access</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tIsgO6byLv" slidebank="false" type="slide">physical access review access to energy markets: technical access legal access market pricing  will the project be able to meet the technical  standards for delivery into the market? examples: is the gas quality likely to be sufficient for pipeline injection?  will the electricity grid operator allow an interconnect to the grid?  will the average methane concentration in produced gas be at least 25-30% for use in flaring and power generation or at least 0.30% for vam?  technical access</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KwCTLcHBvi" slidebank="false" type="slide">physical access review access to energy markets: legal access technical access market pricing  can the cmm or cmm-based energy legally enter into the market and are there any known legal impediments that could prohibit use in specific markets? examples: who owns or controls rights to the cmm - does the mine owner/operator or the project developer have rights to produce and sell or use the cmm at the surface? are there any legal directives prioritizing or prohibiting certain uses of cmm?  for example, is flaring permitted as a stand-alone activity or must it be paired with another end use? legal access</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kI3sELzT1b" slidebank="false" type="slide">physical access review access to energy markets: market pricing technical access legal access  market pricing are market prices sufficient to generate necessary cash flows to cover capital and operating costs? examples: provide a summary of current commodity prices and, if available, projected commodity prices. identify future events that may impact prices. will the cmm project sell into the wholesale or retail market and do prices reflect the correct market?</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6N1gvOKOg86" slidebank="false" type="slide">step 3 - assess environmental markets and incentives financial returns for cmm projects can improve through:  use of different incentives participation in environmental markets  environmental markets that are potentially available to a cmm project are listed on the next slide and are based on experience in the sector.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XCX8sTDQuq" slidebank="false" type="slide">markets and incentives  to the extent possible, a pre-feasibility study report should summarize all potential environmental markets and incentives by providing the following information for each: name and type of market or incentive  cmm project eligibility current status and other relevant background information about the market or incentive, including the start and end dates, any volumetric or monetary limits, and any eligibility limits or prohibitions for markets, the market liquidity and participation value proposition for cmm projects, including market prices or incentive values  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6l4SK2jNkSH" slidebank="false" type="slide"> regulated or compliance carbon markets carbon markets, which are usually regulated by a government authority, define a cap for carbon emissions and allow emission reduction credits to be created and traded under the cap. in most carbon markets thus far, coal mines are not regulated sources under ghg emission caps, allowing cmm project developers to sell credits as emission offsets to regulated facilities in other industry sectors, or so-called “compliance buyers.”  however, carbon finance can be difficult to access and barriers to securing carbon finance include: regulatory limitations on the sources and end uses of cmm, validation and verification processes, offset issuance, price fluctuation and uncertainty, and market longevity.   when developing forecasts for a pre-feasibility study, price discovery is usually possible through regulatory agencies, commodities exchanges, or information clearinghouses.   types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZQVA02qt1F" slidebank="false" type="slide"> voluntary carbon markets these are unregulated carbon markets where cmm projects can sell carbon emission credits to buyers. however, such credits and transactions may not be recognized by a government authority.   these sales may be private “over-the-counter” sales or may be listed through voluntary registries.  contract prices are usually not publicly available.  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.655W9IgOexf" slidebank="false" type="slide"> renewable energy credits some jurisdictions have classified cmm as a renewable or alternative energy source, allowing cmm electricity projects to qualify for renewable energy certificates or credits (recs).  recs may have monetary value for an electricity buyer that desires to use renewable energy for some or all of its source portfolio.  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5msHUhwlv1s" slidebank="false" type="slide"> feed-in tariffs feed-in tariffs (fits) are a policy mechanism used to incentivize the deployment of renewable electricity technologies.  the fit price paid to a cmm power project (us$/kwh) would normally be higher than the market price paid to 3rd party electricity suppliers to the grid.  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tQjLxJKZRX" slidebank="false" type="slide"> direct subsidies in some cases, government authorities may make a policy decision to encourage greater cmm recovery and use by providing a direct subsidy to the project developer for each kilowatt of electricity sold or each cubic meter of pure methane used. types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GDkAZdb3zV" slidebank="false" type="slide"> tax credits to support greater deployment of environmentally sustainable technologies and encourage ghg emissions reductions, some jurisdictions have authorized tax credits for cmm projects specifically or as part of a larger portfolio of environmentally friendly project types.  credits can be in the form of an actual credit to income, reducing a project’s tax liability, or a waiver to a tax levy.  in addition to reducing costs, tax credits can also be used by cmm project developers to obtain financing through tax equity finance structures.  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lpyNWGeJ7i" slidebank="false" type="slide"> “green gas” markets similar to renewable energy markets, natural gas markets may classify certain sources of natural gas as “green gas” to establish a preference for more environmentally sustainable supplies of natural gas.   doing so will often result in a price premium for green gas.  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DX2Ic9eyrq" slidebank="false" type="slide"> direct investment governments, industry groups, or other stakeholders may choose to invest directly in a cmm project to support market development, technology r&amp;d, local economic development, or for another reason.  the investment can take the form of direct equity in the project, debt financing with favorable terms, or grants.  types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5rUIls01ovr" slidebank="false" type="slide"> mandated off-takes governments and other authorities can mandate that the electricity grid or natural gas pipeline network take or pay for all electricity or natural gas delivered to the system by the cmm project regardless of whether the market demand requires the additional capacity at that time.  this approach significantly reduces the market risk for a project.   types of markets and incentives regulated carbon markets voluntary carbon markets renewable energy credits feed-in tariffs direct subsidies tax credits “green gas” markets direct investment mandate off-takes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6H8vRk8cI53" slidebank="false" type="slide">step 4 - conduct legal and regulatory analysis a cmm project may be impacted by laws and policy in several areas. detailed legal research is not necessary for a pre-feasibility study, and the study is not expected to include an exhaustive legal review and analysis. however, it should identify major legal and regulatory requirements that could impact the project, if they are known.  mine safety regulations, including any permitting, registration, and inspection requirements as they pertain to cmm recovery and use environmental regulations including air quality, water quality, and waste disposal standards ghg reporting, management, and mitigation requirements land use and construction permitting  noise abatement mineral rights to produce and use the cmm fees and taxes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6H930IDnb5i" slidebank="false" type="slide">market evaluation examples this module includes 2 examples from gmi pre-feasibility studies to demonstrate the analysis used to identify potential and relevant markets for gmi pre-feasibility studies.  characteristic example 1 example 2 location guizhou province, china shanxi province, china terrain karst terrain mountainous nearest urban area? 3 km 10 km</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Uqh4IG6L1n" slidebank="false" type="slide">cmm market evaluation: 2 examples cmm market evaluation step 3 identification of best market(s) step 2 detailed review of markets with potential step 1 preliminary review of possible markets  both examples follow a similar approach.     </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QELkSu5GFy" slidebank="false" type="slide">preliminary review of markets cmm market evaluation step 3 identification of best market(s) step 2 detailed review of markets with potential step 1 preliminary review of possible markets  7 potential market options are evaluated to determine if they warrant further evaluation.  basic criteria for each are used to eliminate markets that present no real opportunity for the cmm project. normally, this step is performed quickly once relevant data are collected.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BCvU4WqKUv" slidebank="false" type="slide">detailed review of markets cmm market evaluation step 3 identification of best market(s) step 2 detailed review of markets with potential step 1 preliminary review of possible markets  remaining options are evaluated on site-specific factors including: technical, physical, and legal access to the markets market prices and basic “back of the envelope” economic analysis regulatory restrictions and corporate objectives this step further eliminates most remaining markets as viable options and produces a list of potentially viable options that will be subject to further analysis in step 3.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5X2w6Ru5fON" slidebank="false" type="slide">identification of best market(s) cmm market evaluation step 3 identification of best market(s) step 2 detailed review of markets with potential step 1 preliminary review of possible markets  the final evaluation is based on a more detailed assessment of project financial feasibility.  do the identified end-uses have the support of mine management and the project developer? even though the projects chosen are technically possible, can the projects actually be implemented? does the financial analysis indicate the potential for a positive financial return? which are the best options and how do they compare?  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6j1SG8qQCVP" slidebank="false" type="slide">cmm markets example #1 – initial evaluation market evaluation continue with option? local natural gas distribution a local distribution system is located in the area yes power generation:  on-site use mines normally have large demand for electricity yes power generation:  grid sales a physical interconnect and sales to the grid are possible yes boiler fuel there is typically demand at mines for hot water and steam yes natural gas transmission there is no access to a high-pressure transmission line in the area no industrial use there are no industrial users within a reasonable distance to the surface gas production site no cng/lng cng could be possible; gas quality is too low for lng production yes mine location terrain other factor gas quality near city  karst  sensitive environmental area  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DET0oy5o33" slidebank="false" type="slide">cmm markets example #1 – 2nd evaluation market evaluation continue with option? local natural gas distribution subsidy available improving economics, but: system oversubscribed; capacity not available for many years; no existing interconnect from the mine’s drainage system to the gas distribution system; low gas sales price – unlikely to be profitable no power generation:  on-site use demand for power at the mine: in line with corporate policy and has support of management; significant in-country experience with cmm power projects; capacity to design &amp; build; could be economically attractive; offset high industrial electricity price; subsidy available yes power generation:  grid sales subsidy available: physical grid interconnect possible; sales to the grid may be difficult yes boiler fuel limited demand for hot water/heating due to warm climate no natural gas transmission eliminated in first evaluation no industrial use eliminated in first evaluation no cng/lng cng and lng are not economic  no mine location terrain other factor gas quality near city  karst  sensitive environmental area  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ZQkYPklipz" slidebank="false" type="slide">cmm markets example #1 – final evaluation market evaluation preferential market for project? local natural gas distribution eliminated in second evaluation no power generation:  on-site use preferred by mine company management; preliminary analysis indicates option is most economic yes power generation:  grid sales economics are positive, but sales to the grid are difficult no boiler fuel eliminated in second evaluation no natural gas transmission eliminated in first evaluation no industrial use eliminated in first evaluation no cng/lng eliminated in second evaluation no mine location terrain other factor gas quality near city  karst  sensitive environmental area  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vJQbYTxaBH" slidebank="false" type="slide">cmm markets example #2 – initial evaluation market evaluation continue with option? town gas there is no existing system or demand in nearby cities and towns no power generation:  on-site use mines normally have large demand for electricity; existing cmm power plant provides existing infrastructure for easy expansion   yes power generation:  grid sales physical grid interconnect and sales to the grid are possible  yes boiler fuel there is typically demand at mines for hot water and steam yes natural gas transmission there is no access to a high-pressure transmission line in the area no industrial use there is a fertilizer plant close by with demand for heat yes cng/lng cng could be possible; gas quality is too low for lng production yes mine location terrain gas quality rural area mountainous 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Wfsy0nDfW5" slidebank="false" type="slide">cmm markets example #2 – 2nd evaluation market evaluation continue with option? town gas eliminated in first evaluation no power generation:  on-site use additional demand for power at the mine: management support; existing cmm power plant – mine has infrastructure, experience and expertise; reduce high-cost grid purchases; subsidy available yes power generation:  grid sales subsidy available: physical grid interconnect possible yes boiler fuel low priority for mine management no natural gas transmission eliminated in first evaluation no industrial use high gas prices for sales to fertilizer plant make project economically attractive; close proximity of plant to gas drainage pump station minimizes transportation costs yes cng/lng cng and lng are not economic  no mine location terrain gas quality rural area mountainous 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6SVx8ghy212" slidebank="false" type="slide">cmm markets example #2 – final evaluation market evaluation preferential market for project? town gas eliminated in first evaluation no power generation:  on-site use preferred by management; preliminary analysis indicates option is most economic yes power generation:  grid sales economics are positive, but sales to the grid are difficult no boiler fuel eliminated in second evaluation no natural gas transmission eliminated in first evaluation no industrial use preliminary analysis shows gas sales to fertilizer project are potentially profitable; logistics are easy to manage due to close proximity of the plant and gas conditioning and cleanup are not required yes cng/lng eliminated in second evaluation no mine location terrain gas quality rural area mountainous 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65l6pKU0MzD" slidebank="false" type="slide">risk analysis</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gm2fFpCbYb" slidebank="false" type="slide">identify and characterize project risks cmm projects, similar to any industrial project, can be impacted by external and internal factors that can influence project development and operations, worker health and safety, profitability, and ultimately, the viability of a project.  therefore, it is critical to identify, assess, and develop a plan to manage these factors or project risks prior to project development, to the extent possible.   this should be done not only as a prudent planning and development exercise for the project developer, but lenders and investors will also examine this risk analysis closely. the analysis must be sufficiently credible to support any decision to continue to the full feasibility stage.   a comprehensive risk assessment and management plan is expected for a full feasibility report. however, a less thorough assessment is acceptable for a pre-feasibility study report.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QtxSzQy2fJ" slidebank="false" type="slide">risk classification the objective of the pre-feasibility study report should be to identify and categorize a limited number of the most significant known risks to the project.  risk assessments in a pre-feasibility study can be qualitative due to limited time and resources.  identification and a brief description of each risk and possible risk mitigation strategies are acceptable.  in general, project risks can  be classified as:   development risks operational risks technical risks  market risks financial risks legal/policy risks each of these types of risks will be discussed on the next few slides.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BsfrDrZFfb" slidebank="false" type="slide">developmental risks  developmental risks include: design errors construction delays equipment delays start-up problems  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5v5pNspccMQ" slidebank="false" type="slide">operational risks  operational risks include: maintenance &amp; repairs that are more than those expected monitoring systems malfunctioning lower combustion efficiencies than expected mine closure or change of ownership  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6U3eQa8COur" slidebank="false" type="slide">technical risks  technical risks include: overestimating gas resource gas quality/quantity decline poor coordination with mine operator physical link with market not possible  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eSq0FPpE3V" slidebank="false" type="slide">market risks  market risks include: commodity or carbon prices decline transaction costs increase counterparty unable to pay for gas supply market access denied  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6M1SZusSY3r" slidebank="false" type="slide">financial risks  financial risks include: development, operating, and capital costs higher than expected external finance not available financing costs higher than expected  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5a0AhjLlDeN" slidebank="false" type="slide">legal/policy risks  legal/policy risks include: regulations prohibit or limit the project change in law or policy impacting project required permits or authorizations not issued  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61LzQLRvGnl" slidebank="false" type="slide">project risk mitigation examples: development risk impact mitigation construction and start-up delays result in later start date project costs increase, revenue lost, and potential penalties from energy and carbon off-takers for delayed delivery develop and regularly update detailed project development plan.  structure contracts to incentivize project construction, commissioning, and start-up on time while limiting or eliminating penalties for delays – consider mechanism to share benefits and costs for completion ahead of or behind schedule.  project design does not effectively consider site-specific conditions  additional costs incurred to design and build plant to necessary specifications perform thorough due diligence including evaluating roads and other transport requirements, testing soils for foundations, and identifying other features which can impact site. types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5bk5h4NsK9j" slidebank="false" type="slide">project risk mitigation examples: operational risk impact mitigation connection to power grid or pipeline delayed  revenue start date delayed  if project appears feasible, start negotiation at early stage or link to existing on site connection inherited from a cmm scheme. implement offset project initially, with flaring if feasible for early revenue. escalated connection cost  reduced profit seek fixed price contract  types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">project risk mitigation examples: technical risk impact mitigation more rapid decline of gas supply than expected – isolation of sources, more rapid flooding, erroneous interpretation of data  reduced revenue, early project termination, unable to deliver contracted energy supply improve forecasts: conduct in-depth investigations and testing in the full feasibility study and develop more detailed geological and decline reservoir models  failure of a production well no revenue until remedied  install dual production pipes in entries (pre closure) or drill replacement borehole post closure loss of gas quality power or thermal energy supply reduced or in worst case, halted undertake remedial work on mine entry seals  equipment failure  loss of revenue until repaired detailed warranties; business interruption insurance; planned maintenance; use only original equipment manufacturer spares types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xOE3zzTRXS" slidebank="false" type="slide">project risk mitigation examples: market risk impact mitigation failure of sole customer’s business loss of revenue stream until new customer found  multiple customers; dual revenue stream if feasible  fall in power or industrial gas prices loss of revenue  dual revenue streams; develop only high return on investment projects so there is some flexibility carbon market collapses  loss of carbon revenue dual revenue streams types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5YyMYYRdFnT" slidebank="false" type="slide">project risk mitigation examples: financial risk impact mitigation lenders and investors averse to funding coal-related projects  unable to finance emphasize the positive ghg mitigation benefits. if applicable, use carbon financing. carbon assets fail to deliver  additional cost of emission reduction credits from the market accepted business risk types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C9JN7L6aUF" slidebank="false" type="slide">project risk mitigation examples: legal/policy risk impact mitigation required permits or authorizations not issued project construction not able to proceed thorough due diligence to identify all required permits and authorizations: mine safety, environmental, construction, carbon market, local, provincial, and national. consider outsourcing to an expert to reduce risk. change in law or policy impacting project project unable to complete construction or continue operating  knowledge of local, provincial, and national laws impacting the project coupled with outreach to authorities to convey impacts of changes to the long-term operation of the project. types of project risk development operational technical market financial legal/policy</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hv3q7lS1Tv" slidebank="false" type="slide">risk assessment tools to facilitate risk analysis, the project developer can rely on risk assessment tools to systematically identify and address risks.  an example of a risk assessment tool is a risk register: establishes primary risk categories (e.g., legal, market, technical, operational, etc) identifies specific risks within each category (inherent risks) and rates risks lists mitigation action for each risk to reduce risk exposure (residual risk) primary risk category specific risk 1 specific risk 2 mitigation action mitigation action mitigation action       </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5pYYBYCBo51" slidebank="false" type="slide">risk assessment tools dashboard detailed project risk assessment tools are more appropriate for a full feasibility report since a pre-feasibility study report assesses only a limited number of major risks. however, a simplified register could be developed for a pre-feasibility study report.  example of a dashboard or summary of a risk register prepared  for a full feasibility study report</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TOTcukXov0" slidebank="false" type="slide">financial analysis</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62RYfcdAhlo" slidebank="false" type="slide">objectives of a financial analysis in a pre-feasibility study, financial analysis is critical to forecast the cash flows to be generated by the cmm project and to help determine the project’s financial feasibility.  what should a pre-feasibility study financial analysis tell decision makers about the financial aspects of the project? it should: provide a reasonable estimate of future cash flows of a project – both positive in the form of revenue, and negative in the form of expenditures.  estimate the profit (or loss) and return on investment of the project. quantify some of the risks (financial and technical) facing the project. assess energy commodities and environmental commodities generated by the project.   a financial analysis prepared for the pre-feasibility study report should be thorough enough to estimate financial feasibility, but a financial analysis at this stage is unlikely to be considered an “investment grade” document appropriate for project financing.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65cMYIGObBn" slidebank="false" type="slide">financial assessment analysis the steps in a financial assessment analysis include:  step 1. identify financial inputs. step 2. determine project-specific inputs. step 3. construct a discounted cash flow model. step 4. consider financial performance measures to evaluate the project.   each of these steps will be discussed in more detail on the upcoming slides. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.60cPBoHKCfr" slidebank="false" type="slide">assessment methodology: financial inputs step 2: determine project-specific inputs step 3: construct a discounted  cash flow model step 4: consider financial performance measures to evaluate the project  project term development costs capital costs operating costs timing of expenditures revenue sources and values inflation, interest, discount, and exchange rates step 1: identify financial inputs</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rbg1eR3Xlg" slidebank="false" type="slide">step 1: identify financial inputs assessment methodology: project-specific inputs step 3: construct a discounted  cash flow model step 4: consider financial performance measures to evaluate the project  methane concentrations methane flowrates drilling schedule combustion &amp; generator efficiencies project runtime (0-100%) global warming potentials (gwp) step 2: determine project-specific inputs</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gxkEFzmYqS" slidebank="false" type="slide">step 1: identify financial inputs assessment methodology: cash flow model step 2: determine project-specific inputs step 4: consider financial performance measures to evaluate the project  build from scratch or use off-the-shelf  cash flows income statement key financial measures  sensitivity analysis step 3: construct a discounted  cash flow model</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a2T50NOkWv" slidebank="false" type="slide">step 1: identify financial inputs assessment methodology: financial measures step 2: determine project-specific inputs step 3: construct a discounted  cash flow model  the key financial performance measures to evaluate the project include: primary net present value (npv) internal rate of return (irr) payback period (years or months)  secondary profit to investment ratio return on investment (roi)  step 4: consider financial performance measures to evaluate the project</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vaPBnfhIE0" slidebank="false" type="slide">cost estimates and assumptions  cost estimates for goods and services required for the development of a cmm project should be based on: a combination of data provided locally. known average costs based on analogous projects in the region. publicly available sources.  negotiated contract values for cost and revenue inputs are not necessary. however, assumptions should be conservative in a pre-feasibility study.  a more detailed analysis will be conducted if the project advances  to the full-scale feasibility study level. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.690xbYSm5LW" slidebank="false" type="slide">financial inputs: capital costs capital costs that may be included in the analysis are:    estimated values can be used when it is not possible to obtain cost estimates, but this should be noted in the analysis.  click on the capital cost categories to view a comprehensive list for each type.  note that it may not be possible to obtain realistic estimates for every cost item within the approved pre-feasibility study report budget and schedule.  site preparation costs  capital works costs  equipment costs</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61ReH0OtyiN" slidebank="false" type="slide">financial inputs: operating costs operating costs are recurring costs associated with the maintenance and administration of the project on a day-to-day basis.    operating costs may include the following:  gas fee or royalty rent or lease fees recurring registration costs management and administration overhead labor and staff costs maintenance instrument calibration spare parts  transport fuel  water treatment and disposal transactions fees for monetization of energy and environmental commodities including project validation, emission reduction verification, and trades debt interest taxes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ajTZM3VVTe" slidebank="false" type="slide">example financial and project inputs click on the links below to view example inputs that were used in the financial analysis for a gmi pre-feasibility study report:  pre-feasibility study for methane drainage and utilization at the tenghui coal mine, shanxi province, china  project inputs - forecasted gas production rates  capital and operating cost estimates and other project inputs for cmm power project  capital and operating cost estimates and project inputs for the gas drainage improvements of a cmm project</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xQ3IbVCU83" slidebank="false" type="slide"> choosing an appropriate model for the  financial analysis the project developer conducting the pre-feasibility study has several options for the design of the financial model, with the choices ranging from more specific and robust to more general. custom-built project-specific model the project-specific model is a purpose-built model that is designed and built specifically for the cmm project under study in a recognized and widely available spreadsheet software such as ms excel®. the model may take some time to build and test; however, it is likely to produce the most accurate and defensible results because it is designed specifically for the project and can be modified as needed. it is also best suited to graduate to a more detailed and thorough model required for a full feasibility study. adapted or modified model the project developer can choose a generic, ready-made financial model from a public source. these types of models are widely available on the internet in commonly available spreadsheet software, but are not specific to cmm projects, will require modification, and are generally not fully customizable.  although these models may require less time to set up, they will usually produce less reliable results.  publicly available standardized model a final option is to use a more generic publicly available model, such as the usepa cmop cash flow model (https://www.epa.gov/cmop/cmm-cash-flow-model). this type of model requires users to provide inputs into a data entry form and the model produces a cash flow steam with financial metrics, such as net present value (npv) and internal rate of return (irr).  this model provides the user with a quick analysis and general results and is not an "investment grade" model. this model option is least flexible, limiting a user's ability to tailor the model to a specific project.   more specific &amp; more accurate less specific &amp; less accurate </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5z5IbDYwkay" slidebank="false" type="slide">selecting a financial model the choice of the financial model used to project  cash flows will depend on: the objectives of the pre-feasibility study  timing depth of analysis desired data availability and accuracy  corporate policy regardless of the option chosen, the project developer should have a good understanding of the model’s structure, accuracy, and limitations to effectively interpret and convey the model outputs.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qW7IG7JnlD" slidebank="false" type="slide">other considerations in choosing the model the project developer should decide whether the project will include debt financing and structure the model accordingly. it is also important to determine if the model will be stand-alone or if it will need to be integrated or compatible with a corporate financial model.  construction and presentation of the financial model should also follow the good practices listed on the next slide. this ensures that the model is reasonably easy to use, the inputs and outputs are clearly presented, and the model is readily auditable. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.63JtgfkTDp3" slidebank="false" type="slide"> good practices for financial modeling use standard conventions recognized by the financial community (for example, months/years and cash flow calculations over time flow horizontal, and data categories are listed vertically). define major assumptions. avoid overly complex models with too many tiers. limit the complexity of formulas and the precedents and dependents for formulas.  minimize the use of macros. make sure input, calculation, and output worksheets/screens are clean, well-organized, and easy to navigate. if possible, calculate costs, revenues, and cash flows on a monthly basis and roll-up the monthly totals into annual totals.  note, however, that calculating cash flows on an annual basis is acceptable for a pre-feasibility study report. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.671S9AulDZL" slidebank="false" type="slide">quality control of the financial model the financial model is the foundation of the financial analysis. the model's integrity and accuracy are essential to the credibility of the analysis, pre-feasibility study report, and the project developer's success, since the project developer may have to provide the model to a potential investor. therefore, it is good practice to: conduct quality control of the model. subject the model to regular testing and review. incorporate calculation checks in the model. use “common-sense” tests to compare model results with expected values based on an informed estimate.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AR2tU2kY4K" slidebank="false" type="slide">providing the model to external parties it is also a good practice to provide the model to external parties if you are seeking 3rd party finance.  3rd party investors will demand access to the model before providing investment. the model must be auditable: if an investor cannot understand and work through the model, then they are unlikely to finance the project. assumptions must be clearly defined. a flow chart or basic users guide can help internal and external users.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZdhOyXEnNC" slidebank="false" type="slide">financial analysis: key outputs the cash flow model and financial analysis prepared for a cmm pre-feasibility study will produce several financial performance measures that will be used to evaluate the financial feasibility of the project. although many factors can influence the decision to approve a project, in many cases the decision will be based primarily on the results of the financial analysis and the availability of a market for the cmm.    the tables on the following slides present the primary and secondary financial metrics that are used to evaluate the potential financial viability of a cmm project.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.67EDGk5GvhP" slidebank="false" type="slide">financial analysis: key metrics  financial metric what is it? decision criteria key considerations net present value (npv) present value of future cash flows generated by the project. future cash flows are “discounted” by the organization’s cost of capital. if npv &gt; 0, cash flow from the project will exceed the cost of investment. reported as a currency value. proceed with project if npv is greater than zero relies on projections for energy and environmental commodity prices and inflation rates. discount rate (weighted average cost of capital) used.  internal rate of return (irr) the internal rate of return is a discount rate that makes the net present value (npv) of all cash flows equal to zero in a discounted cash flow analysis. reported as a percentage. go ahead with project if irr exceeds organization’s defined “hurdle rate” – i.e., the minimum acceptable rate of return for the project developer (e.g. 11%) hurdle rate can be pre-tax or post-tax irr (critical to clarify). irr measure tends to favor shorter project and low capital expenditure projects. npv should prevail if irr / npv give conflicting results. payback period the period of time required for the project to “break even” where revenues equal expenditures. shorter payback period is preferable can be calculated and presented as a simple payback (non-discounted) period or as a discounted payback where the break even is based on discounted cash flows.  not used by itself to make an investment decision. provides broader perspective when used with other metrics.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5e3e276EHzG" slidebank="false" type="slide">financial analysis: secondary metrics  financial metric what is it? decision criteria key considerations return on investment (roi) measures the amount of return on a particular investment at the end of project life by comparing net revenue against the investment’s cost. proceed if roi projected at 10-20% uses non-discounted values so does not consider time value of money. therefore, npv is preferred as a better metric to assess project feasibility.  acceptable roi depends on many factors – risk tolerance, schedules, etc. profitability index present value of a project’s future cash flows divided by the initial investment.  greater than 1 closely related to npv. will be greater than one when npv is positive. the higher the ratio, the more profitable the project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Z7bRpJ0Ap5" slidebank="false" type="slide">monetizing benefits from ghg emission reductions  cmm projects produce energy and environmental benefits. it is very important to account for the environmental benefits, which can be a market or financing requirement. cmm projects can generate marketable carbon credits and offsets, which offer an additional revenue stream for projects. a best practice is to estimate the reduction of ghg emissions over the life of the project. generally required for feasibility and pre-feasibility study reports prepared for bilateral or multilateral financing requirement for all gmi-sponsored pre-feasibility study reports   if projects can access carbon credit or offset markets, project owners should expect rigorous requirements to demonstrate transparency and accuracy of ghg emission reductions.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6eRtJXoqLro" slidebank="false" type="slide">methodologies for estimating benefits from reducing ghg emissions methodologies for calculating ghg emission reductions can be market-specific. the pre-feasibility study preparer should conduct additional studies to understand the applicable methodologies to accurately calculate emission reductions. quantifying emission reductions is not only necessary to support the financial analysis, but it also highlights the beneficial environmental impacts of the project regardless of the monetary value of emission reduction credits and offsets.  in addition to calculating direct emission reductions from the cmm project, the project may also produce indirect emission reductions which can also be quantified.  direct emissions are the methane emissions that are a consequence of the mining activities; therefore, direct emission reductions reduce those methane emissions at the site. indirect emission reductions are emissions that are a consequence of the activities of the mining operation but occur at sources owned or controlled by another entity. for cmm projects, indirect carbon dioxide emission reductions may result from supplying gas-fired power to the electric grid, displacing coal-fired power.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Px8VKww8rc" slidebank="false" type="slide">methodologies for estimating benefits from reducing ghg emissions (continued) for the purposes of a pre-feasibility study, where calculation methods and gwps are not specified, direct and indirect emission reductions from cmm projects can be calculated based on published gwps from the intergovernmental panel on climate change (ipcc).  however, the gwp used to determine the monetary value of methane-based carbon credits/offsets generated by the project should be the 100-year atmospheric life, because most carbon markets use the 100-year value as the benchmark.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FvJW3PQStf" slidebank="false" type="slide">calculating benefits of ghg reductions:   role of gwp and indirect emission factors where there is a price for carbon offsets, an additional revenue line can be added. the calculation of emission reductions is based on the following: co2 from combustion of methane: combustion of ch4 generates co2. estimating emission reductions from cmm projects must account for the release of co2 from combustion when calculating net co2 emission reductions. for each ton of ch4 combusted, 2.75 tco2 is emitted, resulting in a net emission reduction of 22.25 tco2e per ton of ch4 destroyed. gwp of methane: currently, in most carbon markets, a gwp of 25 is used, meaning the emission of 1 metric ton of ch4 to the atmosphere equals the impact 25 metric tons of co2. this value is from the ipcc fourth assessment report (ipcc, 2007); however, the value has changed with each assessment report. the developer should confirm the referenced gwp in the market in which it intends to participate to accurately calculate the value of the cmm emission offsets it intends to sell.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6JeoEluvCrX" slidebank="false" type="slide">quantifying the co-benefits of cmm projects quantifying the emission reductions of other pollutants will identify important co-benefits of the project and may provide additional revenue to the project. thus, calculating emission reduction of these pollutants might be beneficial.  sulfur dioxide, nitrous oxide, particulate matter, and mercury are the most common pollutants considered. reliable grid emission factors are required at the regional or local level. such estimates may only be practical for large-scale power or heating projects.   why quantify emission reduction benefits from other pollutants?     it may be required by law. there may be a market for emission reductions of these pollutants, creating a monetary value for their reduction. noting the reductions in the pre-feasibility report highlights the environmental co-benefits of the project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.656eLededPy" slidebank="false" type="slide">financial analysis: accounting for uncertainty every project faces uncertainties, such as delayed schedules, changes in equipment prices, fluctuation in sales prices, and unexpected changes in gas composition and flow rates.  the financial analysis should account for these and other uncertainties.    accounting for uncertainties can be done by incorporating the following elements into the analysis: create a range (base, high, and low cases) of potential outcomes. incorporate a sensitivity analysis into the financial analysis. include contingent funds for capital expenditures and operating expenses in the financial analysis. use conservative assumptions for input values. avoid “hockey stick” revenue growth.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WhyQmbTwUR" slidebank="false" type="slide">accounting for uncertainty:  creating a range of potential outcomes one approach to account for uncertainty entails creating base, high, and low cases to show the most realistic financial outcome for the project but also the potential upside and downside that the project presents to an investor. base case – represents the expected outcome in a business-as-usual scenario. high case – inputs to the analysis are adjusted to approximate the most reasonable upside case for the project. examples include higher sales prices for commodities, lower capital expenditures and operating expenses, and lower interest rates.  low case – inputs to the analysis are adjusted to approximate the worst economic case for the project short of project failure. examples include low sales prices for commodities, higher financing costs, and lower than expected gas production. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.617jm3vul30" slidebank="false" type="slide">accounting for uncertainty:  incorporate a sensitivity analysis      for a cmm project, sensitivity analyses are usually performed on changes in: produced gas quality and quantity, electricity or gas sales prices, carbon market prices, capital expenditures and operating expenses, or delays in construction and start-up.  the sensitivity analyses will support the development of the base, high, and low cases.   another approach to account for uncertainty is to incorporate a sensitivity analysis into the financial analysis. by altering the values of key inputs, the project developer will understand the costs and revenues that have the most significant impact on the project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.66WGz4wmNqD" slidebank="false" type="slide">accounting for uncertainty:  include contingent funds for capex and opex  another approach to account for uncertainty is to include contingent funds for capital expenditures and operating expenses in the financial analysis. contingencies are additional funds set aside at project start to offset unexpected costs.  the contingent amount varies depending on: project risk corporate policy other factors   the contingency is often in the range of 5-20% of the total expected capital expenditures and operating expenses costs.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jxoMAzpPeY" slidebank="false" type="slide">accounting for uncertainty:  using conservative input values using conservative input values is another approach to account for uncertainty.  the financial analysis should be based on realistic and conservative assumptions and inputs to establish a realistic assessment of project financial feasibility.   overly generous input values in the form of unrealistic growth in sales prices, below market costs for equipment and operation, and maximum gas production capacity sustained over the life of the project, will very likely lead to a misleading financial analysis.   use of unrealistic inputs is also a red flag for project investors who are skilled in reviewing and assessing financial models.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62SY0Ljpvct" slidebank="false" type="slide"> accounting for uncertainty:  avoiding “hockey stick” revenue growth project proponents seeking finance will often project a revenue or profit growth curve that grows very slowly in the early to middle years of a project, only to show exponential growth in the out years – the so-called “hockey stick” curve.  hockey stick growth is another red flag to investors, and the underlying data supporting any such growth curve will be closely scrutinized by investors as unrealistic.     growth   time  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nT3tLRh14u" slidebank="false" type="slide">gmi pre-feasibility study: lessons learned lessons learned from gmi pre-feasibility studies include: clarify the study objective, definition, and scope with the host mine. recognize time and budget limitations (keep in mind that it is not a full feasibility study). expect and plan for differences in terminology, units, and practice. expect gaps in available data. it is permissible to use other data sources or to make reasonable assumptions (but it should be stated in the final report). there are multiple options to forecast gas production. examine all available markets for cmm use, but the choice is usually clear from the start.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6RH8R7miUoi" slidebank="false" type="slide">reasons for project discontinuation despite best efforts, the project under study may not move forward for any number of reasons, but commonly due to: inability of the current market to support the project. change in mine management or ownership. change in operations, such as a refocus on core business of coal production. decrease in gas quantity or quality. change in regulatory framework. unavailability of financing. inability to accept or manage project risks.  inability of the project developer and host mine to negotiate a project development agreement.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">module 7 summary in this module, you learned: to identify and assess all potential markets through a detailed market analysis. about the environmental benefits associated with the reduction of ghg emissions through the development of a coal mine methane project. to characterize various project risks with various risk assessment tools.  about the primary metrics of a financial analysis and the importance of a clear, well-structured model. gmi’s experience and recommendations in completing a pre-feasibility study.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you! you have completed module 7.</slidetext>
+      <slidetext slideid="5z2XRJza9by.6FGcw1aaidP" slidebank="false" type="slide">economic conditions summary questions how are the coal and energy sectors performing? how is the broader economy performing? what are the future prospects for the economy generally, and the coal industry and energy sector more specifically? does the locality or host country offer an attractive investment climate? is there political and civil stability? are transparency and the rule of law valued and implemented effectively?   are local partners required and what is the experience with such partnerships?  what is the currency and how has it performed against benchmark currencies such as the us$, gbp, € and chf? would this be the first or are there other cmm projects in the area? what is the trade relationship with neighboring countries if energy is to be exported? </slidetext>
+      <slidetext slideid="5z2XRJza9by.6GSWyMQGe6P" slidebank="false" type="slide">site preparation costs compacted hardcore for parking, equipment, lay-down, and site access fencing and gates concrete pads for containerized equipment service connections portable cabins – office, stores, workshop environmental improvements (e.g., stormwater retention) initial permitting fees  </slidetext>
+      <slidetext slideid="5z2XRJza9by.5fIqTDSqVUt" slidebank="false" type="slide">capital works costs drilling gas and water monitoring boreholes additional sealing works on shafts or drifts additional underground works for gas and water management not met by the mine (any cost sharing would be a matter for negotiation by the developer)</slidetext>
+      <slidetext slideid="5z2XRJza9by.60mQwcUuuvy" slidebank="false" type="slide">capital equipment costs skid mounted containers gas extraction pumps gas cleaning, drying, and conditioning equipment delivered, installed, and commissioned utilization equipment such as gas engines and generator sets, flares, oxidizers, boilers  pipework, ductwork, and valves electrical systems and monitoring and control systems  export metering and power supply compressors and grid/pipeline connections vehicles and security  contingency for design or equipment specification change  equipment relocation costs if cmm plant is required to move during the term of the project to access gas supply working capital </slidetext>
+      <slidetext slideid="5z2XRJza9by.5fDfZQf4Fof" slidebank="false" type="slide">project inputs - forecasted gas production rates</slidetext>
+      <slidetext slideid="5z2XRJza9by.6A8nCWx7WVT" slidebank="false" type="slide">example of capital and operating cost estimates and other project inputs for gas drainage improvements physical &amp; financial factors units value methane concentration of drained gas  percent 98 methane concentration of gob gas  percent 70 cost escalation  percent 3.0 price escalation  percent 3.0 capital expenditures units value drainage system          borehole cost $/m 100 (in-seam); 130 (hgb)      surface vacuum station $/w 1.34      vacuum pump efficiency w/1000m3/d 922 gathering system          gathering pipe cost $/m 75      gathering pipe length m/panel 450 operating expenses units value field fuel use (gas)  percent 10 o&amp;m $/1000m3 17.66</slidetext>
+      <slidetext slideid="5z2XRJza9by.6MjmrKmDR4v" slidebank="false" type="slide">example of capital and operating cost estimates and other project inputs for cmm power project physical &amp; financial factors units value generator efficiency  percent 40  run time  percent 65 electricity price $/kwh 0.10 cmm subsidy $/kwh 0.04 capital expenditures units value power plant $/kw 760 operating expenses units value power plant o&amp;m $/kwh 0.03 carbon emission reductions  units value global warming potential of ch4  tco2e 25 co2 from combustion of 1 ton ch4 tco2 2.75</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries gmi partner countries account for nearly 70% of total global manmade methane emissions, which is equivalent to approximately 5,000 mmtco2e.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Mine Methane (AMM)">Coal mines that are temporarily or permanently closed that produce significant methane emissions from diffuse vents, fissures, or boreholes.
+</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Capital Cost">Fixed, one-time expenses incurred on the purchase of land, buildings, construction, and equipment used in the production of goods or in the rendering of services. In other words, it is the total cost needed to bring a project to a commercially operable status.</term>
+      <term title="Capital Expenditures (CapEx)">Funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, or equipment. CapEx is often used to undertake new projects or investments by a company.</term>
+      <term title="Coal Mine Methane (CMM)">Methane released from coal due to mining activities. Like CBM, CMM is a subset of the methane found in coal seams, but it refers specifically to the methane found within mining areas (e.g., within a mining plan), while CBM refers to methane in coal seams that will never be mined. Because CMM would be released through mining activities, recovering and using CMM is considered emissions avoidance.</term>
+      <term title="Coalbed Methane (CBM)">Methane extracted from coal seams before mining occurs.</term>
+      <term title="Combined Heat and Power (CHP)">The concurrent production of electricity or mechanical power and thermal energy from a single source of energy. Also referred to as cogeneration.</term>
+      <term title="Core">A cylindrical section of a naturally occurring substance, typically obtained by drilling through the subsurface with a hollow steel tube called a core drill.</term>
+      <term title="Feasibility Studies ">Thorough report investigating the economic and technical feasibility of project development. This document is considered “bankable”, meaning it is sufficient to secure project financing.</term>
+      <term title="Financial Analysis">The process of evaluating businesses, projects, budgets, and other finance-related transactions to determine their performance and suitability. Typically, financial analysis is used to analyze whether an entity is stable, solvent, liquid, or profitable enough to warrant a monetary investment.</term>
+      <term title="FIT">Feed-in tariffs</term>
+      <term title="Flaring">Controlled combustion of natural gas. Flaring CMM at a coal mine can occur in an open flame, otherwise known as a candlestick flare, or in an enclosed flare, sometimes referred to as a ground flare.  </term>
+      <term title="Gas Composition">The gas composition of any gas can be characterized by listing the pure substances it contains and stating for each substance its proportion of the gas mixture's molecule count. </term>
+      <term title="Gas Drainage">Methods employed by underground coal mines, abandoned mines, and occasionally surface mines, for capturing the naturally occurring gas in coal seams to prevent it entering mine airways. Gas drainage systems include a combination of drainage boreholes and/or galleries, a gathering network, and vacuum pumps to draw gas to the surface. Gas can be removed from coal seams in advance of mining using pre‐drainage techniques and from coal seams disturbed by the extraction process using post‐drainage techniques. It is often referred to as methane drainage if methane is the main gas component target to be captured. Gas drainage produces coal mine methane of a higher quality than ventilation, generally in the 25 — 100 percent range. </term>
+      <term title="Gas Production ">The quantity of gas produced by pre-mine drainage and post-mine drainage boreholes and drainage galleries. </term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf) ">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Greenhouse Gas Emissions (GHG) ">The release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time. May be labelled as anthropogenic (resulting from human activities) or naturally occurring.</term>
+      <term title="GWP">Global warming potential</term>
+      <term title="IPCC">Intergovernmental Panel on Climate Change</term>
+      <term title="IRR">Internal rate of return</term>
+      <term title="Karst">Terrain that has sinkholes, sinking streams, caves, and springs.</term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="NPV">Net present value</term>
+      <term title="Operational Expenses (OpEx) ">An operating expense is an expense a business incurs through its normal business operations. Often abbreviated as OpEx, operating expenses include rent, equipment, inventory costs, marketing, payroll, insurance, step costs, and funds allocated for research and development.</term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="REC">Renewable energy certificates or credits</term>
+      <term title="Risk Analysis">Examining how project outcomes and objectives might change due to the impact of the risk event. Once the risks are identified, they are analyzed to identify the qualitative and quantitative impact of the risk on the project so that appropriate steps can be taken to mitigate them. </term>
+      <term title="ROI">Return on investment</term>
+      <term title="Town Gas ">Manufactured gaseous fuel produced for sale to consumers and municipalities. Also referred to as coal gas.</term>
+      <term title="United Nations Economic Commission for Europe (UNECE)">The United Nations Economic Commission for Europe (ECE or UNECE) is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe. Its transcontinental Eurasian and non-European member states include: Armenia, Azerbaijan, Canada, Georgia, Israel, Kazakhstan, Kyrgyzstan, the Russian Federation, Tajikistan, Turkmenistan, the United States of America, and Uzbekistan.</term>
+      <term title="United States Environmental Protection Agency (USEPA)">The Environmental Protection Agency is an independent executive agency of the United States federal government tasked with environmental protection matters.</term>
+      <term title="Ventilation Air Methane (VAM)">CMM that is removed via ventilation systems which use fans to dilute the methane to safe levels by circulating fresh air through the mine. VAM is the largest source of methane emissions from underground coal mines. </term>
+    </terms>
+  </glossary_data>
+</bwFrame>

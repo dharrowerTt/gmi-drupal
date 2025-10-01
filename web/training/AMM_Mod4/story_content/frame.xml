@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conducting Pre-Feasibility Studies for AMM Projects: Module 4" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6C9JhRzU7Ol_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/6ntws4zTM0S.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x262626" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="acc_active">active</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_next">next</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="acc_previous">back</string>
+      <string id="acc_replay">replay</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_volume">volume</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="bio">Bio</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Meaning</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="more_info">More info</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="outline">Menu</string>
+      <string id="pause_tip">Pause</string>
+      <string id="play_tip">Play</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">Back</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="replay_tip">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="submit_tip">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use your arrow keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_view_image">view image</string>
+      <string id="three_image_visited">visited</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="transcript">Notes</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="AMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting Pre-Feasibility Studies for AMM Projects: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 4" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 4: Production Forecasting and Well Testing" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="What You Will Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6afrslX6BzA" displaytext="Pre-feasibility Study Requirements" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5iPhbH0DN6c" displaytext="Understanding Reservoir Flow Processes for Production Flow Modeling" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6Wv7u4rrmck" displaytext="Reservoir Flow Processes and Parameters" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5u9SOUsFw89" displaytext="Methane Flow Processes in an Abandoned Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5oZtl6cSiFS" displaytext="Diagram of Methane Flow Processes in an Abandoned Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6YWp5XgOEqa" displaytext="Parameters Needed for Modeling AMM Reservoir Flow" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6j2Ckeg5zl0" displaytext="Adsorption Isotherms" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6D72QzzNXX5" displaytext="Illustrative Examples of Basin-level Isotherms" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6IfC75wpE3s" displaytext="Sorption Pressure in Abandoned Mines" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6rKJNCYcdaa" displaytext="Assessing Permeability of an AMM Reservoir" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6KQ6K0m5mBF" displaytext="Permeability and Modeling" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6N3gNMoQ9ez" displaytext="Modeling and Predicting AMM Production Flow" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5oAvNS4STeN" displaytext="Modeling and Predicting AMM Production Flow " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6LpLUi5ucBl" displaytext="AMM Emission Decline Curves:  Empirical Modeling" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5VWPSaZunjO" displaytext="Decline Curve Analysis (DCA) – Equation 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5wfC9AMcLGH" displaytext="DCA – Solutions to Equation 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kvHFYMydzv" displaytext="DCA – Equation 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6PT06h80OT7" displaytext="DCA Limitations" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65EDDzwfg13" displaytext="DCA: End of AMM Gas Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.671MUNj6nNg" displaytext="Comparison of Geological and Decline Curve Estimates " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6amg9UlqssM" displaytext="Numerical Modeling " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6d9IdjAxC22" displaytext="What is Numerical Modeling?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5g4yb8jkelR" displaytext="Hybrid Model: Emission Model by U.S. EPA" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6N6hADElsB3" displaytext="Hybrid Model: Emission Model by U.S. EPA" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6FUtjQqNFhX" displaytext="EPA Model Curves for Bituminous Rank" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65OFszQncNm" displaytext="Other Models" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5truGbw8LJK" displaytext="Custom &amp;amp; Practice vs. Technology " expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6UQx2Xax0B8" displaytext="Quantifying Parameter Variability and Uncertainty " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5aKDeqmG7F8" displaytext="How Different Calculation Methods Treat Uncertainty " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DtuGSKf6BT" displaytext="Probabilistic Methods " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.67lxAvirHbj" displaytext="Deterministic vs. Probabilistic Methods " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5fWeWZrKsIg" displaytext="Geostatistical Methods" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65cL4ef6flo" displaytext="Which Flow Modeling Approach to Choose for a Pre-feasibility Study?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XMvoW7qr4Q" displaytext="All Models Have Limitations" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6Pv9xkIBbwJ" displaytext="Well Testing at Abandoned Mines " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6XdGlJjVy1s" displaytext="Overview of Well Testing at Abandoned Mines" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5XxltAyEw1A" displaytext="Objective of Well Testing at Abandoned Mines " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6bKIndZI1Hb" displaytext="Process for Well Testing at Abandoned Mines" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5UqANB8xmh2" displaytext="Process for Well Testing at Abandoned Mines (continued)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5m2ehvetO05" displaytext="Overview of Well Testing at Abandoned Mines" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5dIpZ4Qxcfy" displaytext="Well Testing Site Works" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6JFg7AQW7Ek" displaytext="Gas Monitoring using Existing Boreholes and Vents" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5dsCBIZju8y" displaytext="Drilling New Monitoring Boreholes " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.676esQbwgvW" displaytext="Monitoring Gas Composition" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5iPKkl7FzQ8" displaytext="Gas Pumping Trials" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.604vb9POhWe" displaytext="Gas Pumping Trials (continued)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Fve92AM7Aj" displaytext="Summary of Well Testing " expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6AgZeXf79Sq" displaytext="Module 4 Summary" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conducting pre-feasibility studies  for abandoned mine methane projects training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome the united states environmental protection agency (epa) developed this course in support of the gmi and in conjunction with the united nations economic commission for europe (unece). what is the gmi? this course introduces principles for assessing the potential of developing projects to mitigate abandoned mine methane (amm).   </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> conducting pre-feasibility studies for amm projects:  course modules module 1:	introduction and objectives module 2:	gathering mine information and data module 3:	amm resource assessment module 4:	production forecasting and well testing module 5:	mine closure design for amm production module 6:	market, financial and risk analysis module 7:	amm pre-feasibility case study  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 4 production forecasting and well testing</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">what you will learn in this module, you will learn how: recoverable gas reserves within an amm reservoir are estimated through gas flow characteristics gas production from abandoned mines is forecasted through: decline curves based on gas production at closure  numerical and computational models calculation methods  uncertainty is quantified wells at abandoned mines are tested to obtain any necessary or missing data   time needed to complete this module: approximately 50 minutes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6afrslX6BzA" slidebank="false" type="slide"> pre-feasibility study requirements a pre-feasibility study requires: quantification of amm-in-place, amm reserves (the total volume of gas in m3 or ft3 that can be produced through the life of the reservoir), the rate of production that is potentially achievable (normally in m3 or ft3 per minute, hour, or day), and determination of the uncertainty associated with the forecasts.  this module will focus on these two pre-feasibility study requirements, modeling production and determining uncertainty.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5iPhbH0DN6c" slidebank="false" type="slide">understanding reservoir flow processes for production flow modeling to make solid assumptions, assess observed trends, and explain outcomes, a developer needs to understand the basic flow processes in an amm reservoir (for example, the fundamental parameters that describe reservoir performance and its inherent variability).  while the parameters can be defined, the values are variable and are not easily measured. therefore, most practical reservoir production models are empirical, relying on assumptions and calibration with available flow data.    previous modules in this course have explained how to estimate amm resource and reserves based on geological information.  this module introduces another method for assessing reserves based on the extrapolation of decaying amm production flow.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Wv7u4rrmck" slidebank="false" type="slide">reservoir flow processes and parameters</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5u9SOUsFw89" slidebank="false" type="slide">methane flow processes in an abandoned mine methane reaches the production well through a convoluted path beginning within the coal matrix and surrounding pore space, through fractured strata into voids at the edge of the goaf area. amm’s journey from the source can be described in six approximate stages as presented below, keeping in mind that various flow processes and permeability scenarios exist.  stage description 1 diffusion in the adsorbed state from the coal matrix into the coal fracture system 2 laminar (i.e., parallel) flow through the coal fracture system 3 laminar flow through mining-induced fractures in the strata into mine voids - primarily old roadways and partially caved goaf 4 predominantly laminar flow of the gas through the mine void with restrictions caused by roof collapse, flooding, and man-made seals 5 flow from the mine void to the production well (turbulent where high velocity) 6 prior to remediation of any surface leakages, methane may also escape to the atmosphere through vent pipes, fractures in overburden, or inadequate shaft seals the total flow capacity of a mine is a combination of these pathways.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oZtl6cSiFS" slidebank="false" type="slide"> diagram of methane flow processes in an abandoned mine in an abandoned mine, methane flows from the coal matrix to the shafts, from where it is vented. suction may be applied to increase flow for gas use.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6YWp5XgOEqa" slidebank="false" type="slide">parameters needed for modeling amm reservoir flow an amm reservoir model may be developed using some or all of the parameters in the table below, depending on the method employed. potential parameters for an amm reservoir model initial pressure of the gas in the coal matrix (adsorption pressure) a methane adsorption isotherm for coal of similar rank to that which is in the mine volumes of remaining coal, mined-out areas (goaf), and void space  permeability of coal, strata fractures, mined-out areas, and voids groundwater recovery flow rate efficacy of sealing the mine from the atmosphere dates when: mining ceased, ventilation stopped, mine sealed, and amm production planned to start</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6j2Ckeg5zl0" slidebank="false" type="slide"> adsorption isotherms samples of coal may not be available for an amm prospect, so isotherm data for use in reservoir modeling are generally obtained from measurements on coal of similar rank from elsewhere (ideally from the same coalfield, or possibly even from the mine records that were made available from the owner/operator). coal can hold much more gas on its internal surfaces than can be held in the pores of other types of rock at the same pressure.  the relationship between the gas pressure and the gas volume held is known as an adsorption isotherm, because the measurement is conducted at a constant temperature. adsorption isotherms are measured in a laboratory using equilibrium moisture saturated coal at reservoir temperature.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6D72QzzNXX5" slidebank="false" type="slide"> illustrative examples of basin-level isotherms the graph on the right displays average methane adsorption isotherms for the following major u.s. coal basins: black warrior central appalachia western basins illinois northern appalachia</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6IfC75wpE3s" slidebank="false" type="slide">sorption pressure in abandoned mines the sorption pressure drives the initial flow of gas from the coal.  sorption pressure characteristics  in an abandoned mine, the sorption pressure of the methane in the coal that is in contact with the mine void area is lower than its initial value before mining began.  the drop in methane pressure is due to gas emitted during mining that has been either captured by methane drainage or diluted and removed in ventilation air.  after mining, slow movement of the residual gas from the coal through fractures to the void keeps the methane gas pressure in the coal (not directly in contact with the void) above atmospheric pressure. the pressure differential ensures that methane will continue to flow into the mine void for a long period of time, provided the void does not become filled with mine water.  use of a vacuum pump can increase the differential and hence increase the flow rate.  this module examines methods for forecasting the decline curve of the amm reservoir and predicting gas production over time. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rKJNCYcdaa" slidebank="false" type="slide">assessing permeability of an amm reservoir permeability is a challenging parameter to determine because it is a stress-dependent variable.  in the dynamic mine environment, it will also be time dependent.  values used may be based on laboratory tests, derived from history-matched reservoir models, or estimated using expert judgement. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KQ6K0m5mBF" slidebank="false" type="slide">permeability and modeling due to the difficulty of assigning values to parameters and testing all of the assumptions, numerical models must be validated against measured data. history-matching is the most common validation tool. a validated (or calibrated) model can then be used to simulate and forecast production flow at the project site, and then it can be applied more widely in the coalfield area.   view examples of history matching  actual versus modeled production.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6N3gNMoQ9ez" slidebank="false" type="slide">modeling and predicting amm production flow</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oAvNS4STeN" slidebank="false" type="slide">modeling and predicting amm production flow  an abandoned gassy, longwall coal mine comprises the gas remaining in an unconventional geological reservoir that has been systematically ‘fractured’ and partially degassed by mining activities. various models have been developed and used to predict amm flows that could be produced. the main methods are: empirical modeling, in which amm flow over time is derived by fitting a curve to measurement data using statistical regression techniques. analogous to conventional oil and gas decline curve analysis, this is the most common approach to amm flow forecasting. numerical modeling, in which a physical representation of the amm reservoir is created using mathematical equations that can be solved using computational methods. hybrid modeling, which involves a combination of the above. for example, using a numerical model to derive a series of generic decline curves (e.g., the epa emission model).   examples of models built using the above methods are described later in this module.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6LpLUi5ucBl" slidebank="false" type="slide">amm emission decline curves:  empirical modeling methane emissions from a mine decrease rapidly as a function of time elapsed after the cessation of coal production. despite the complexity of reservoir pathways, the trend of the amm emission decline can be represented by a hyperbolic function, or a decline curve. similar empirical models (equations and decline curves) are used for representing oil and gas production. despite their ease of use advantage, simple models do not necessarily provide reliable forecasting tools (as explained in forthcoming slides).  in the majority of cases, the compilation of data obtained from closing mines prior to abandonment is likely to be easier and yield more accurate curves than data obtained at already abandoned mines. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VWPSaZunjO" slidebank="false" type="slide"> decline curve analysis (dca) – equation 1 decline curve analysis (dca) is an empirical reservoir engineering technique that was developed to extrapolate trends in the production data from oil and gas wells (first documented by j.j. arps in 1945).  the purpose of a dca is to generate a forecast of future production rates and to determine the expected ultimate recoverable (eur) reserves. general equation for the empirical exponential and hyperbolic  relationships used in dca dq/dt = -aq(n+1)   [equation 1]  where a and n are empirically determined constants the empirical constant n ranges from 0 to 1  dq/dt=decline rate, q=production rate, t=time</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wfC9AMcLGH" slidebank="false" type="slide"> dca – solutions to equation 1 solutions to equation 1 show the expected decline in flow rate as the production time increases. dca refers to fitting an equation, in the form of equation 1, to flow rate data. three types of decline curves have been identified based on the value of n:  exponential, n=0; hyperbolic, 0&lt;n&lt;1; harmonic, n=1. general equation for the empirical exponential and hyperbolic  relationships used in dca dq/dt=−aq(n+1)   [equation 1]  where a and n are empirically determined constants the empirical constant n ranges from 0 to 1 dq/dt=decline rate, q=production rate, t=time</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kvHFYMydzv" slidebank="false" type="slide"> dca – equation 2 amm reservoir decline rates have been found to be best represented by a hyperbolic decline curve in which the rate solution has the form below.  amm reservoir decline rates represented by a hyperbolic decline curve  q−n=nat+qi−n   [equation 2]  where qi is initial rate and a is a factor that is determined by fitting the equation to measured production data.  n is an empirically determined constant that ranges from 0 to 1 t = time</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6PT06h80OT7" slidebank="false" type="slide">dca limitations a decline curve is derived from a statistical best-fit to measured data and has no physical basis. therefore, extrapolation yields results of unquantifiable accuracy. the decline curve input data for an amm pre-feasibility study will come from measurements of total emissions after a mine has ceased coal production and may only cover a relatively narrow period of time.    because input data may only cover a relatively narrow period of time, the decline curve definition may be prone to large uncertainty when extrapolated. in fact, extrapolation of hyperbolic declines over long periods of time frequently results in unrealistically high reserves. the geological (static) reservoir model (presented in module 3) provides an independent check on a reserve estimate that is derived from a curve analysis.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.65EDDzwfg13" slidebank="false" type="slide"> dca: end of amm gas production in a coalfield where amm production has already been established, characteristic decline curves may have been developed that adequately represent the trends and which can be used for initial forecasts.   all mines are presumed to at least partially flood. even if a mine were to stay completely dry, the gas production flow rate into the closed workings will continue to decline over time along a hyperbolic curve as the resource is depleted and reservoir pressure drops, eventually approaching a flow rate that is too low to warrant economic production.  dca applied to a mine that will wholly flood assumes that there is an end point to gas production when total flooding of the mine occurs. the time at which the flooding end point arises can be estimated using a void filling model as covered in module 3. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.671MUNj6nNg" slidebank="false" type="slide"> comparison of geological and decline curve estimates  based on geological model module 3 showed how a geological (static) reservoir model can be used to estimate the magnitude of the coal-derived amm resource; this is a conservative estimate as only coal sources of methane are considered. the reserves or recoverable gas is often taken as 50% of the resource. based on decline curve this module introduced the area under the production curve (integral of the decline curve) that is used to estimate the producible reserves of methane from all sources (coal seams and porous non coal strata). it is not necessarily limited by the boundaries of the workings. realistic estimates of the size and productivity of an amm asset are essential for managing investment and operational financial risk.  when there is a significant difference between the geological and the integral of the decline curve estimates of recoverable methane, the reason should be investigated and a rational explanation should be included in the pre-feasibility study. rather than creating a dichotomy, such findings enhance the understanding of the reservoir characteristics and its potential performance.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6amg9UlqssM" slidebank="false" type="slide"> numerical modeling  reservoir production behavior can be more accurately represented by models that account for the physical characteristics that define the performance of an amm reservoir. various unconventional and amm-specific reservoir models have been demonstrated, including:  usepa (2004). methane emissions from abandoned coal mines in the united states: emissions inventory methodology and 1990-2002 emissions estimates.  washington, d.c. usa  sevket durucan, ji quan shi &amp; anna korre (2004). numerical modelling and prediction of abandoned mine methane recovery: field application at the saar coalfield, germany, geologica belgica (2004) 7/3-4: 207-213 b. a. ogunyomi,  s. dong  n. la,  l. w. lake,  c. s. kabir (2018). an approach to modeling production decline in   unconventional reservoirs, j petrol explor prod technol (2018) 8:871–886  empirical decline curve fitted to a computational numerical model (usepa)1 two-phase computational numerical model and simulator (imperial college, in-house model)2 parallel flow computational model statistically correlated with reservoir parameters3 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6d9IdjAxC22" slidebank="false" type="slide">what is numerical modeling? numerical modeling involves several steps, and the general process is: divide into small individual elements complex physical conditions, such as those encountered in geology, rock mechanics, and fluid flow. write a set of equations characterizing the conditions represented by each element (but their solutions are difficult to solve mathematically). it is impractical to represent the full complexity of the system being modeled, so the least significant factors are omitted. converge on a solution using computerized numerical methods. the computations involve a sophisticated type of iteration process (in effect, the trial-and-error substitution of numbers). test and validate the model by comparing predictions or simulations with measured data. use numerical simulators to forecast production flow. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5g4yb8jkelR" slidebank="false" type="slide">hybrid model: emission model by u.s. epa predicting the future emissions from abandoned mines is complex. a hybrid method uses a combination of the previous two approaches (empirical and numerical) fitting empirically measured declined curves to numerical simulations to generate emission factor decline curves, as in the model developed by u.s. epa.  epa has relied on a commercially available computational fluid dynamics (cfd), using a numerical simulation model that was originally developed for oil and gas reservoir simulations, to predict emissions from abandoned mines.    this model was adapted for abandoned mines and is based on reasonable combinations of physical attributes for the mine flow capacity, gas content, and adsorption characteristics of the coal. the numerical simulator includes a coalbed methane module that incorporates the physics of the adsorption and diffusion phenomenon within the flow and material balance equations.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6N6hADElsB3" slidebank="false" type="slide">hybrid model: emission model by u.s. epa generalized decline curves have been generated to fit the numerical model results and the appropriate curves are selected according to the criteria in the table below.  decline curve selection criteria permeability coal rank mine size classification low, medium,  high sub bituminous, bituminous, anthracite small, medium, large venting, sealed  or flooding the base model is of a single seam working of 2.5m thickness, a void permeability of 75,000 millidarcies (md) (to account for roof falls and stopping resistances), and a void volume of 10% of the bulk volume.  example decline curves are shown on the following slides.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FUtjQqNFhX" slidebank="false" type="slide"> epa model curves for bituminous rank click on the graphs below to view generalized epa model curves for bituminous rank coal at mid-sized and large-sized mines. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.65OFszQncNm" slidebank="false" type="slide">other models other numerical and computational models that can potentially be used to predict reservoir production behavior include:    a two-phase numerical simulator for predicting amm recovery has been developed at imperial college in london by adapting an in-house, cbm gas-water model. click to learn more.   two-phase numerical simulator  two-phase numerical simulator  two-phase numerical simulator  two-phase numerical simulator  two-phase numerical simulator  two-phase numerical simulator  statistical model-based analyses   statistical model-based analyses   statistical model-based analyses   statistical model-based analyses   statistical model-based analyses   statistical model-based analyses  statistical model-based analyses of production data from unconventional reservoirs can help to refine forecasts in combination with a parallel flow model. click to learn more.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5truGbw8LJK" slidebank="false" type="slide">custom &amp; practice vs. technology  even for amm reservoir assets where history matched simulation models are available, a cross-check with a dca is normally conducted to obtain an increased confidence in the numbers. financial institutions tend to prefer the use of straightforward, well-established methods that produce repeatable results, rather than complex technical methodologies, irrespective of how well they reflect the geology and mechanics of the reservoir.    in a financial analysis (which will be examined in module 6), final recovery numbers are sometimes more important than the profiles.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UQx2Xax0B8" slidebank="false" type="slide">quantifying parameter variability and uncertainty </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5aKDeqmG7F8" slidebank="false" type="slide"> how different calculation methods treat uncertainty  when determining producible gas flow and reserves, various calculation procedures may be used, singly or in combination. the most commonly used methods for estimating amm reserve and production flows are deterministic relying on precise values, but in reality inputs are subject to considerable uncertainty. the deterministic methods:  calculate reserve values that are tangible and explainable ignore uncertainty in the input data  therefore, other methods are needed to identify the range of variability in the most critical geologic and engineering factors. such methods include: probabilistic methods geostatistical methods  95% confidence interval with high and low amm emissions estimates over 13-year period generated by monte carlo (probabilistic) simulation   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DtuGSKf6BT" slidebank="false" type="slide">probabilistic methods  probabilistic methods are more rigorous but less commonly used than deterministic methods. these methods use a distribution curve for each parameter and, through the use of monte carlo simulation, a distribution curve for the answer can be developed.  quantitative risk analysis applying monte carlo simulation methods provides a powerful tool for quantifying the uncertainty in geological, engineering, and other important parameters.  numerical simulation coupled with monte carlo procedures can provide an excellent methodology to predict production profiles with a wide variety of reservoir characteristics and producing conditions.     a probabilistic approach is particularly useful in that it helps to assess uncertainties in terms of financial implications.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.67lxAvirHbj" slidebank="false" type="slide">deterministic vs. probabilistic methods  probabilistic methods have limitations, including:   the results are affected by all input parameters, including the most likely and maximum values for the parameters.  only the end result is known, not the exact value of any input parameter.     a comparison of deterministic and probabilistic methods can provide quality assurance: if the results agree, confidence is increased.  if the values are significantly different, the assumptions need to be re-examined.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5fWeWZrKsIg" slidebank="false" type="slide">geostatistical methods geostatistical methodologies can be used in order to incorporate alternative spatial distributions of the most relevant reservoir parameters. geostatistical (semi-variogram and covariance) functions quantify the assumption that things nearby tend to be more similar than things that are farther apart. they both measure the strength of statistical correlation as a function of distance.       various combinations of deterministic, probabilistic, and geostatistical methods are used in practice.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65cL4ef6flo" slidebank="false" type="slide">which flow modeling approach to choose for a pre-feasibility study? generalized decline curves, such as those prepared by the epa using a hybrid model (where a stock curve is selected based on coal rank, permeability, and mine size), may provide a useful first indication of amm producibility, especially for already abandoned mines where flow data are limited. decline curves are simple and intuitive. flow data measured at intervals over a few months may adequately define a curve for a pre-feasibility study, but care must be taken in its extrapolation. the integral of the curve (gas reserves) can be checked against the geological reservoir model result.  more sophisticated numerical, probabilistic, and geostatistical calculation methods are more likely to be used at the full feasibility stage for large projects, or basin-wide developments where data are plentiful and the computational effort and cost is justified. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XMvoW7qr4Q" slidebank="false" type="slide">all models have limitations unexpected sudden changes in amm quality and flow can arise during production, which are unlikely to be forecast by a model irrespective of its complexity. for example: a decrease in methane concentration and an increase in carbon dioxide and nitrogen, possibly due to a low resistance path bringing additional gas from shallow low-gas workings. loss of flow and a rapid increase in negative pressure underground due to a collapsed or waterlogged connection near the production well.   information about the possible occurrence of such factors can be gleaned from: examination of mine plans interviews with the mine surveyor mine water reports (a mandatory requirement in a mine closure plan in some countries) borehole investigation of old workings  as will be discussed in module 5, engineering measures can be taken during a planned mine closure to mitigate some of the problems.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Pv9xkIBbwJ" slidebank="false" type="slide">well testing at abandoned mines </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XdGlJjVy1s" slidebank="false" type="slide">overview of well testing at abandoned mines at an already abandoned mine, information about the closure process and gas-related data are often lacking.  in such situations, amm reservoir testing is an essential part of a pre-feasibility and feasibility study.  well testing comprises of: monitoring of gas composition flow and pressure monitoring during pumping trials</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5XxltAyEw1A" slidebank="false" type="slide">objective of well testing at abandoned mines  objective to gain an understanding of the amm characteristics and production performance at already abandoned mines where information and data are limited. precautions mine sites are hazardous areas and visitors must be aware of, and comply with, site rules for health and safety. in some countries, visitors must undertake an induction course before entering the site (particularly at working mines). more stringent precautions will be required when undertaking work at a mine site, such as drilling or monitoring. this could include the use of properly trained and certified staff, approved contractors, or risk assessments in compliance with regulations. permissions any drilling operations will require the permission of the landowner and mineral rights holder. gas flow testing from abandoned mines will also require permission of the gas rights owner.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bKIndZI1Hb" slidebank="false" type="slide"> process for well testing at abandoned mines resource assessment can the mine workings be accessed through existing boreholes or vents to monitor gas composition and pressure?  no no no no no no drill monitoring borehole(s) into the workings  monitor gas compositions and pressure   yes yes yes yes yes yes  is significant methane present?  no no no no no no stop the investigation and review project feasibility    yes yes yes yes yes yes proceed to production testing </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5UqANB8xmh2" slidebank="false" type="slide"> process for well testing at abandoned mines does pumping increase o2 concentration significantly?  no no no no no no establish flow of methane at optimum suction over a few days  proceed with project pre-feasibility study   yes yes yes yes yes yes identify unsealed surface connections  is a remedy feasible?  no no no no no no stop the investigation and review project feasibility    yes yes yes yes yes yes  design and implement engineering remedy and restart production testing           production testing</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5dIpZ4Qxcfy" slidebank="false" type="slide">well testing site works gas pumping  trials monitoring gas composition drilling new monitoring boreholes gas monitoring using existing boreholes  different site works can be conducted to gain an understanding of the amm characteristics and production performance at abandoned mines where information and data are limited. site works include: these site works will be described on the upcoming slides.   } gas monitoring using existing boreholes and vents  drilling new monitoring boreholes  monitoring gas composition gas pumping trials</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6JFg7AQW7Ek" slidebank="false" type="slide">gas monitoring using existing boreholes and vents gas pumping  trials monitoring gas composition drilling new monitoring boreholes  monitor gas and water in existing boreholes where available.  alternative, suitable access facilities may also exist on some abandoned coal mine sites for gas monitoring, namely, vents and pipework installed through sealed shafts or drifts at the time of mine closure.  vents are installed to prevent gas pressure from building up and erupting at the surface at any points of weakness.   gas monitoring using existing boreholes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5dsCBIZju8y" slidebank="false" type="slide">gas monitoring using existing boreholes drilling new monitoring boreholes  gas pumping  trials monitoring gas composition  boreholes will need to be drilled if there are no suitable vents or existing boreholes that can be used for gas concentration monitoring, water-level monitoring, and gas flow testing. the boreholes should be drilled to intersect old mine roadways, and the surface casings cemented and sealed to prevent any air from being drawn in during gas pumping tests. whether a borehole is effective at drawing gas to the surface for a well test will depend on drilling accuracy, the accuracy of mine plans, the stability of the underground workings at the drilling location, and the connectivity of the workings entered.  at least two boreholes are likely to be required at a minimum: one for gas monitoring, and one into the deeper parts of the workings for water level monitoring.    drilling new monitoring boreholes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.676esQbwgvW" slidebank="false" type="slide">gas monitoring using existing boreholes monitoring gas composition gas pumping  trials drilling new monitoring boreholes  the mine gas composition is obtained by adjusting analyses of sampled gas to an air-free basis (to eliminate any dilution caused by in-leakage of air). methane, higher alkanes, nitrogen, and carbon dioxide may be present in varying concentrations.  gas mixtures drawn from some low-gas mines may consist almost wholly of nitrogen and carbon dioxide (‘blackdamp’). monitoring over a period of a few weeks or more that shows increasing methane concentrations and decreasing oxygen concentrations with falling atmospheric pressure, and the converse with rising pressure, demonstrates that there is an unsealed surface connection that must be identified and treated.    monitoring gas composition</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5iPKkl7FzQ8" slidebank="false" type="slide">gas monitoring using existing boreholes gas pumping trials monitoring gas composition drilling new monitoring boreholes  measure static pressure (closed borehole pressure) before pumping. if the gas pressure is consistently positive, it may indicate that gas is pressured by rising water.  undertake gas pumping trials using a borehole to establish gas flow potential and gas quality. surface gas pumps can be the same type that are used on surface gob wells (skid-mounted, gas-powered). measure the flow rate at increasing increments of suction pressure and determine the flow rate at maximum pump suction pressure. gas pumping  trials</slidetext>
+      <slidetext slideid="6R0OsurKeaO.604vb9POhWe" slidebank="false" type="slide">gas monitoring using existing boreholes gas pumping trials (continued) monitoring gas composition drilling new monitoring boreholes  investigate whether the oxygen concentration increases with suction pressure. this is important in order to determine at what rate methane could be extracted at a usable concentration and outside of the explosive range (&gt;30% in air). oxygen concentrations that increase as suction pressure increases indicate air is being drawn into the system. possible causes are: pipework leaks at the pump an inadequately sealed borehole standpipe  the pump drawing into the underground voids through unsealed boreholes, shafts, or drifts the leakage cause must be identified and remedied prior to starting an amm development project. gas pumping  trials</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Fve92AM7Aj" slidebank="false" type="slide">summary of well testing  well testing is an important tool at coal mines that were closed and abandoned prior to the initiation of a pre-feasibility study, because well testing can help determine production rates and gas composition.  the study is only as good as the data obtained. therefore, amm developers should plan to conduct multiple well tests over sufficient time periods at different locations to ensure that measurements adequately characterize the production potential of the resource. systematic procedures that recognize the importance of amm as a resource and a source of emissions that should be minimized can ensure that mine closures allow for gas testing, flow monitoring, and data collection. as a result, mitigation and utilization costs for project development can be reduced.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AgZeXf79Sq" slidebank="false" type="slide">module 4 summary in this module, you learned that: the production performance of an amm reservoir is a complex, dynamic process, especially at former large mines with workings in multiple seams. rarely (if ever) will all of the variables be quantifiable or understood at the modeling stage.  a range of calculation and modeling techniques are available for assessing reservoir performance and forecasting production flows. these include dca, numerical modeling, and hybrids. probabilistic and geostatistical methods are used to enhance the analysis of complex systems, take account of the statistical spread of parameter values, and facilitate coalfield wide forecasting. uncertainties are invariably greater in already closed mines due to the lack of data, and well testing is essential at the pre-feasibility stage.    the tools described in modules 3 &amp; 4 will provide estimates of amm reserves and producibility to varying levels of accuracy, but there is no substitute for amm operating experience in a particular coalfield.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you! you have completed module 4.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries gmi partner countries account for nearly 70% of total global manmade methane emissions, which is equivalent to approximately 5,000 mmtco2e.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+      <slidetext slideid="6RRYTpeOCGA.6MVPM2SsI8y" slidebank="false" type="slide">two-phase numerical simulator characteristics of the two-phase numerical simulator include:  permeability characterization – enhanced permeability is assigned to mined-out areas to reflect mining induced changes. this is similar in concept to the treatment of the de-stressed strata above longwalls used in the geological model (as discussed in module 3).  the model was validated using monitored data from a producing amm project in the saar coalfield, germany.  close history matching confirmed its applicability to undeveloped amm prospects elsewhere in the saar coalfield.  </slidetext>
+      <slidetext slideid="6RRYTpeOCGA.5in78gCYiT5" slidebank="false" type="slide">statistical model-based analyses  characteristics of statistical model-based analyses include:  the parallel flow model is based on the concept that the reservoir contains multiple independent declining elements, all with different time constants.  this type of analysis has revealed different time domains in production behavior that are independent of operational changes.  the method has limited applicability to amm reservoirs compared to other numerical methods in that a producing reservoir is needed to develop and validate the model.  furthermore, the statistical correlative studies require data from multiple wells, whereas an amm reservoir may only require a single production well.</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Coal Mine">A mine where the work of all miners has been terminated and production activity and mine ventilation have ceased. Mine shafts might be closed and sealed. For purposes of this document, a coal mine is referred to as “abandoned”, whether or not the mine was closed according to applicable legal requirements. The terms “abandoned mine” and “closed mine” have the same meaning. Abandoned mines are not expected to reopen.</term>
+      <term title="Abandoned Mine Methane (AMM)">The gas remaining, and in some instances newly generated by microbes, in abandoned coal mines held in voids, coal seams and other gas bearing strata that have been disturbed or intercepted by mining operations.</term>
+      <term title="Adsorption Isotherm">An empirical relationship that represents the amount adsorbed as a function of equilibrium gas pressure at a fixed temperature between the concentration of a solute on the surface of an adsorbent to the concentration of the solute in the liquid with which it is in contact.</term>
+      <term title="Adsorption Pressure">A pressure of the reservoir at which particles adsorb (i.e., stick to the surface of a substance), as opposed to desorb. </term>
+      <term title="Anthracite">The highest rank of coal, i.e., with the highest carbon content and energy density.</term>
+      <term title="Bituminous Coal">A middle rank coal known for its high heating value that is between subbituminous and anthracite in quality.</term>
+      <term title="Blackdamp">Choking or suffocating gas, typically carbon dioxide and nitrogen, that is found in coal mines.</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Casing">A large diameter pipe that is assembled and inserted into a recently drilled section of a borehole. </term>
+      <term title="Coal Bed Methane (CBM)">Methane extracted from coal seams before mining occurs. CBM is also known as virgin coal seam methane or coal seam gas. It is widely considered an "unconventional" source of natural gas.</term>
+      <term title="Coal Seam">A bed of coal usually thick enough to be profitably mined.</term>
+      <term title="Computational Fluid Dynamics (CFD)">A branch of fluid mechanics that uses computer based numerical analysis and algorithms to simulate, analyze, and solve problems in fluid flow. </term>
+      <term title="Decline Curve Analysis">An estimation technique for reservoir production that was developed to extrapolate trends in the production data from oil and gas wells, first documented by J.J. Arps in 1945. </term>
+      <term title="De-stressed">Relief of pressure concentrations caused by mining or geological factors. </term>
+      <term title="Deterministic Methods">A method in which the chance of occurrence of the variable involved is ignored and the method or model used is considered to follow a definite law of certainty, and not probability.</term>
+      <term title="Diffusion">A measure of the mobility of gases from one gradient to another.</term>
+      <term title="Discrete Flooding">Mine flooding that only affects a portion of the mine.</term>
+      <term title="Drainage">Removing methane from coal seams and/or surrounding rock strata.</term>
+      <term title="Drift">A horizontal or sub-horizontal development opening into the mine.</term>
+      <term title="Expected Ultimate Recovery (EUR)">An approximation of the quantity of oil or gas that is potentially recoverable or has already been recovered from a reserve well.</term>
+      <term title="Feasibility Studies">A type of study for assessing the viability of an AMM project. This type of study is characterized by being thorough and investigating the economic and technical feasibility of project development. A report produced by such a study is considered “bankable”, i.e., documentation is sufficient to secure project financing. </term>
+      <term title="Fissures">A fracture in the rock along which there is distinct separation.</term>
+      <term title="Fracking (Hydraulic Fracturing)">The practice of injecting pressurized liquid into a rock formation to create fractures within the rocks and increase permeability. In some coal mining instances, incidental fracturing of coal can be induced through mining activities.</term>
+      <term title="Gas Composition">The gas composition of any gas can be characterized by listing the pure substances it contains and stating for each substance its proportion of the gas mixture's molecule count. </term>
+      <term title="Gas Content">Volume of gas contained in a unit mass of coal and is generally expressed in cubic meters, at standard pressure and temperature conditions, per ton of coal.</term>
+      <term title="Gas Drainage">Degasification methods employed by underground coal mines, abandoned mines, and occasionally surface mines, for capturing the naturally occurring gas in coal seams to prevent it entering mine airways. Gas drainage systems include a combination of drainage boreholes and/or galleries, a gathering network, and vacuum pumps to draw gas to the surface. Gas can be removed from coal seams in advance of mining using pre‐drainage techniques and from coal seams disturbed by the extraction process using post‐drainage techniques. It is often referred to as methane drainage if methane is the main gas component target to be captured. Gas drainage produces coal mine methane of a higher quality than ventilation, generally in the 25 — 100 percent range. </term>
+      <term title="Gas Production">The quantity of gas produced by pre-mine drainage and post-mine drainage boreholes and drainage galleries. </term>
+      <term title="Geostatistical Method">A method that uses a class of statistics to analyze and predict the values associated with spatial or spatiotemporal phenomena. </term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf)">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Intergovernmental Panel on Climate Change (IPCC)">A body of the United Nation tasked with assessing the science related to climate change.</term>
+      <term title="Laminar Flow">Flow in which fluid (gas) travels smoothly or in regular, predictable paths.</term>
+      <term title="Longwall">One of three major underground coal mining methods currently in use. Employs a shearer which is pulled mechanically back and forth across a face of coal that is usually several hundred feet long. This mining method can produce large quantities of coal and gas. </term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28-35 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="Monte Carlo Simulation">A model used to predict the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models. </term>
+      <term title="Numerical Simulator">A calculation that is run on computer following a program that implements a mathematical model for a physical system.</term>
+      <term title="Parallel Flow Model">A model based on the concept that that the reservoir contains multiple independent declining elements all with different time constants.</term>
+      <term title="Permeability">The state or quality of a material or membrane that causes it to allow liquids or gases to pass through it.</term>
+      <term title="Pore Space">The free space between the mineral grains of coal.</term>
+      <term title="Porosity">The measure of void or pores space present when a solid and is represented by volume percentage of void in the solid. It defines the maximum possible amount of methane that can be retained in the coal. </term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="Probabilistic Methods">Methods based on the theory of probability or the fact that randomness plays a role in predicting future events.</term>
+      <term title="Rank">The classification of coals according to their degree of metamorphism, progressive alteration, or coalification (maturation) in the natural series from lignite to anthracite.</term>
+      <term title="Reservoir Simulation">Provides a consistent and reliable way to account for the complex mechanisms of coal seam gas desorption and diffusion. Also provides the opportunity for field and laboratory data to be integrated into a single geologic/reservoir model to evaluate exploration and development strategies.</term>
+      <term title="Residual Gas Content">The quantity of gas remaining in a sample of coal following a period of gas desorption.</term>
+      <term title="Risk Analysis">Examining how project outcomes and objectives might change due to the impact of the risk event. Once the risks are identified, they are analyzed to identify the qualitative and quantitative impact of the risk on the project so that appropriate steps can be taken to mitigate them.</term>
+      <term title="Roadway">Any mine track used to transport material (coal).</term>
+      <term title="Shaft">A vertical of near-vertical opening into the mine.</term>
+      <term title="Sorption Pressure">An encompassing term for a pressure of the reservoir at which particles either stick to the surface (adsorption) or leave the surface (desorption) through a process related to the surrounding pressure of the reservoir.</term>
+      <term title="Standpipe">A system of pipes that connect the components of a gas drainage system.</term>
+      <term title="Static Pressure">The pressure of a fluid (gas) on a body when the body is at rest relative to the fluid.</term>
+      <term title="Statistical Model">A mathematical model that embodies a set of statistical assumptions concerning the generation of sample data. </term>
+      <term title="Strata">A layer of sedimentary rock or soil; refers to a layer of coal in this instance.</term>
+      <term title="Subbituminous Coal">A rank of coal with a low-to-moderate heating value; mainly used for electricity generation.</term>
+      <term title="Suction Pressure">The intake pressure generated from gas pumps.</term>
+      <term title="Suction Pumps (Gas Pump)">A pump used in Petroleum production responsible for drawing out liquids/gasses by means of suction. </term>
+      <term title="Surface Casing">The large-diameter, relatively low-pressure pipe string is placed near the surface and well pump. Surface casing is designed with particular focus to protect shallow aquifers and for blowout prevention.</term>
+      <term title="Unconventional Reservoir">A gas reservoir that cannot be produced with conventional techniques. The assistance of massive stimulation treatments is necessary to produce gas at economic flow rates. </term>
+      <term title="United Nations Economic Commission for Europe (UNECE)">The UNECE is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe.</term>
+      <term title="United States Environmental Protection Agency (USEPA)">An independent executive agency of the federal government of the United States federal tasked with protecting human health and the environment.</term>
+      <term title="Vent Pipe">Small pipe used in abandoned mines to allow for small amounts of gas to be released. Vent Pipes are installed so that pressure does not build up to dangerous levels.</term>
+      <term title="Ventilation">Controlling the flow of air to change the concentration of methane or other deleterious gases within mine working areas.</term>
+      <term title="Venting">Direct release of natural gas into the atmosphere.</term>
+      <term title="Void">The area of excavation that remains after mining is complete.  </term>
+    </terms>
+  </glossary_data>
+</bwFrame>

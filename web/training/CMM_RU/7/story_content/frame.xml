@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Проведение предварительных технико-экономических оценок для МУШ проектов: Модуль 7" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6MpmxbcWn5C_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5suaXg2DTHr.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Как перемещаться" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false" />
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Calibri" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="acc_active">active</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next">Вперед</string>
+      <string id="acc_next_visual">Вперед</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous">Предыдущий</string>
+      <string id="acc_previous_visual">Предыдущий</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Background audio</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="bio">Bio</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Meaning</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
+      <string id="glossary">Сокращения/Термины</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="more_info">More info</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next">Вперед</string>
+      <string id="next_shortcut">Вперед</string>
+      <string id="outline">Меню</string>
+      <string id="period_key">Period</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">Предыдущий</string>
+      <string id="previous_shortcut">Предыдущий</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_list">Question List</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Сокращения/Термины</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_visited">visited</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="transcript">Notes</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="video_transcript_title">Transcripts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="continue">Continue</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Введение в курс" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="Разработка проектов МУШ" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Добро пожаловать" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Опыт и рекомендации GMI по проведению предварительной технико-экономической оценки" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Модуль 7" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Опыт и рекомендации GMI по проведению предварительной технико-экономической оценки" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="Что вы узнаете" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5Ys5g024ApN" displaytext="Анализ рынка" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6h3HYbwIASV" displaytext="Финансовое обоснование проекта" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jISw7mFtoo" displaytext="Оценка рынка и определение вариантов конечного использования МУШ" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XavjrmAeF4" displaytext="Этапы анализа рынка в рамках предварительной технико-экономической оценки  - Обобщение" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6mQdgWKT8Yu" displaytext="Этапы анализа рынка в рамках предварительной технико-экономической оценки  - Обзор" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6VXp16nWlbK" displaytext="Этапы анализа рынка в рамках предварительной технико-экономической оценки  - Оценка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dkND1OJrDp" displaytext="Этапы анализа рынка в рамках предварительной технико-экономической оценки  - Проведение" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5evzQ7Bs68P" displaytext="Этап 1 - Обобщение экономических условий" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jwcvi5m0rn" displaytext="Этап 2 - Обзор рынков энергетических продуктов" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TpORxtqD4X" displaytext="Обзор доступа к энергетическим рынкам " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5awTbYPy5Pu" displaytext="Обзор доступа к энергетическим рынкам: Физический доступ" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5tIsgO6byLv" displaytext="Обзор доступа к энергетическим рынкам: Технический доступ" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6KwCTLcHBvi" displaytext="Обзор доступа к энергетическим рынкам: Юридический доступ" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kI3sELzT1b" displaytext="Обзор доступа к энергетическим рынкам: Рыночное ценообразование" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6N1gvOKOg86" displaytext="Этап 3: Оценка рынков экологических продуктов и стимулирующих механизмов" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XCX8sTDQuq" displaytext="Рынки и механизмы стимулирования" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6l4SK2jNkSH" displaytext="Регулируемые углеродные рынки или рынки соответствия" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZQVA02qt1F" displaytext="Добровольные углеродные рынки" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.655W9IgOexf" displaytext="Кредиты на возобновляемые источники энергии" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5msHUhwlv1s" displaytext="Льготные тарифы" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5tQjLxJKZRX" displaytext="Прямые субсидии" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GDkAZdb3zV" displaytext="Налоговые льготы" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lpyNWGeJ7i" displaytext="Рынки &amp;quot;зеленого газа&amp;quot;" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DX2Ic9eyrq" displaytext="Прямые инвестиции" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5rUIls01ovr" displaytext="Обязательства по закупкам (офф-тейки)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6H8vRk8cI53" displaytext="Этап 4 - Проведение анализа нормативно-правовой базы" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6H930IDnb5i" displaytext="Примеры оценки рынка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Uqh4IG6L1n" displaytext="Оценка рынка МУШ: 2 примера" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QELkSu5GFy" displaytext="Предварительный обзор рынков" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BCvU4WqKUv" displaytext="Подробный обзор рынков" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5X2w6Ru5fON" displaytext="Определение лучшего рынка (рынков)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6j1SG8qQCVP" displaytext="Рынки МУШ, пример №1 - Первоначальная оценка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DET0oy5o33" displaytext="Рынки МУШ, пример №1 – 2-я оценка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ZQkYPklipz" displaytext="Рынки МУШ, пример №1  – Итоговая оценка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5vJQbYTxaBH" displaytext="Рынки МУШ, пример №2 - Первоначальная оценка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Wfsy0nDfW5" displaytext="Рынки МУШ, пример №2  – 2-я оценка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6SVx8ghy212" displaytext="Рынки МУШ, пример №2  – Итоговая оценка" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.65l6pKU0MzD" displaytext="Анализ рисков" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5gm2fFpCbYb" displaytext="Выявление и характеристика рисков проекта" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QtxSzQy2fJ" displaytext="Классификация рисков" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BsfrDrZFfb" displaytext="Риски разработки" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5v5pNspccMQ" displaytext="Производственные риски" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6U3eQa8COur" displaytext="Технические риски" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eSq0FPpE3V" displaytext="Рыночные риски" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6M1SZusSY3r" displaytext="Финансовые риски" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5a0AhjLlDeN" displaytext="Правовые/политические риски" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61LzQLRvGnl" displaytext="Примеры снижения проектных рисков: Разработка" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5bk5h4NsK9j" displaytext="Примеры снижения проектных рисков: Производственные" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Примеры снижения проектных рисков: Технические" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xOE3zzTRXS" displaytext="Примеры снижения проектных рисков: Рыночные" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5YyMYYRdFnT" displaytext="Примеры снижения проектных рисков: Финансовые" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C9JN7L6aUF" displaytext="Примеры снижения проектных рисков: Правовые/политические" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6hv3q7lS1Tv" displaytext="Инструменты оценки рисков" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5pYYBYCBo51" displaytext="Инструменты оценки рисков Панель управления" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6TOTcukXov0" displaytext="Финансовый анализ" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.62RYfcdAhlo" displaytext="Задачи финансового анализа" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65cMYIGObBn" displaytext="Анализ финансовых показателей" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.60cPBoHKCfr" displaytext="Методология оценки: Финансовые исходные данные" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6rbg1eR3Xlg" displaytext="Методология оценки: Конкретные вводные данные для проекта" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gxkEFzmYqS" displaytext="Методология оценки: Модель денежного потока" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6a2T50NOkWv" displaytext="Методология оценки: Финансовые показатели" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5vaPBnfhIE0" displaytext="Оценка расходов и предположения " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.690xbYSm5LW" displaytext="Финансовые исходные данные: Капитальные затраты" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61ReH0OtyiN" displaytext="Финансовые исходные данные: Эксплуатационные расходы" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ajTZM3VVTe" displaytext="Пример финансовых и проектных исходных данных" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xQ3IbVCU83" displaytext="Choosing an Appropriate Model for the Financial Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5z5IbDYwkay" displaytext="Выбор финансовой модели" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qW7IG7JnlD" displaytext="Прочие аспекты выбора модели" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.63JtgfkTDp3" displaytext="Проверенные методы финансового моделирования" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.671S9AulDZL" displaytext="Контроль качества финансовой модели" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6AR2tU2kY4K" displaytext="Предоставление модели сторонним организациям" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZdhOyXEnNC" displaytext="Финансовый анализ: Основные результаты" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.67EDGk5GvhP" displaytext="Финансовый анализ: Ключевые показатели " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5e3e276EHzG" displaytext="Финансовый анализ: Вспомогательные показатели " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Z7bRpJ0Ap5" displaytext="Монетизация выгоды от сокращения выбросов ПГ " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6eRtJXoqLro" displaytext="Методики оценки выгоды от сокращения выбросов ПГ" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Px8VKww8rc" displaytext="Методики оценки выгоды от сокращения выбросов ПГ (продолжение)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6FvJW3PQStf" displaytext="Calculating Benefits of GHG Reductions:  Role of GWP and Indirect Emission Factors" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6JeoEluvCrX" displaytext="Количественная оценка сопутствующей выгоды проектов МУШ" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.656eLededPy" displaytext="Финансовый анализ: Учет неопределенности" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6WhyQmbTwUR" displaytext="Accounting for Uncertainty: Creating a Range of Potential Outcomes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.617jm3vul30" displaytext="Accounting for Uncertainty: Incorporate a Sensitivity Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66WGz4wmNqD" displaytext="Accounting for Uncertainty: Include Contingent Funds for Capex and Opex " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6jxoMAzpPeY" displaytext="Accounting for Uncertainty: Using Conservative Input Values" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.62SY0Ljpvct" displaytext="Accounting for Uncertainty: Avoiding “Hockey Stick” Revenue Growth" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nT3tLRh14u" displaytext="Предварительная технико-экономическая оценка GMI: Извлеченные уроки" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6RH8R7miUoi" displaytext="Причины прекращения проекта" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="Модуль 7 Резюме" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">проведение предварительных технико-экономических оценок  для проектов по метану угольных шахт тренинг, организован агентством по охране окружающей среды сша в поддержку глобальной инициативы по метану (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> добро пожаловать агентство по охране окружающей среды сша (epa) разработало этот курс в поддержку gmi, во взаимодействии с европейской экономической комиссией оон (unece). что представляет собой gmi? в данном курсе представлены принципы оценки потенциала разрабатываемых проектов по каптированию и/или использованию метана угольных шахт (муш). представленный общий подход должен быть подкреплен данными и анализами по конкретным шахтам, что позволит адаптировать принципы к уникальным условиям на каждой шахте. в идеале, такая оценка приведет к фактической разработке и реализации проекта.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> проведение предварительных технико-экономических оценок для проектов муш: модули курса модуль 1: введение и задачи модуль 2: справочная информация и оценка шахты модуль 3: оценка ресурсов модуль 4: прогнозирование извлечения метана системами дегазации модуль 5: усовершенствование дегазации модуль 6: количественная оценка преимуществ усовершенствования дегазации модуль 7: анализ рынка, рисков и финансовый анализ  модуль 8: анализ конкретного случая – шахта люлонг, китай  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">модуль 7 анализ рынка, рисков и финансовый анализ</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">что вы узнаете пройдя этот модуль, вы сможете: уметь определять и анализировать потенциальные рынки, доступные для проекта по извлечению и использованию муш. понять важность количественной оценки сокращения выбросов парниковых газов (пг). будете готовы выявить и охарактеризовать определенные проектные риски. понять основные концепции финансового анализа в рамках предварительной технико-экономической оценки, включая основные финансовые показатели, используемые для оценки осуществимости проекта.   время, необходимое для прохождения данного модуля: приблизительно 60 минут</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Ys5g024ApN" slidebank="false" type="slide">анализ рынка</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6h3HYbwIASV" slidebank="false" type="slide">финансовое обоснование проекта финансовое обоснование проекта зависит от генерации и поддержки потока доходности, способного обеспечить денежные потоки, достаточные для поддержания деятельности в течение всего срока реализации проекта. владельцы проектов получают доход за счет:  продажи муш и/или энергии на основе муш на рынке. продажи экологических товаров, таких как кредиты на сокращение выбросов. сокращения затрат за счет использования муш на местах.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jISw7mFtoo" slidebank="false" type="slide">оценка рынка и определение вариантов конечного использования муш одной из основных целей предварительной технико-экономической оценки является определение потенциальных возможностей получения прибыли.  для достижения данной цели, в исследовании необходимо определить приемлемые варианты конечного использования муш и оценить все потенциальные рынки.  определение рынка, оценка рынка и оценка  конечного использования муш - это взаимосвязанные действия. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XavjrmAeF4" slidebank="false" type="slide">этапы анализа рынка в рамках предварительной технико-экономической оценки  - обобщение этап 2: обзор рынков  энергетических продуктов, доступных для муш этап 3: оценка рынков экологических продуктов и стимулирующих механизмов этап 4: проведение анализа  нормативно-правовой базы  местные  региональные национальные международные (которые могут повлиять на проект)   этап 1: обобщение экономических условий</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6mQdgWKT8Yu" slidebank="false" type="slide">этап 1: обобщение экономических условий этапы анализа рынка в рамках предварительной технико-экономической оценки  - обзор этап 3: оценка рынков экологических продуктов и стимулирующих механизмов этап 4: проведение анализа  нормативно-правовой базы   физический доступ  юридический доступ  технический доступ рыночное ценообразование   этап 2: обзор рынков  энергетических продуктов, доступных для муш</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6VXp16nWlbK" slidebank="false" type="slide">этап 1: обобщение экономических условий этапы анализа рынка в рамках предварительной технико-экономической оценки  - оценка этап 2: обзор рынков  энергетических продуктов, доступных для муш этап 4: проведение анализа  нормативно-правовой базы   тип рынка: углеродные кредиты, кредиты на возобновляемые источники энергии, льготные тарифы, налоговые льготы, прочее добровольная или нормативная база статус, срок действия и ликвидность рынка соответствие проекта муш требованиям рыночное ценообразование этап 3: оценка рынков экологических продуктов и стимулирующих механизмов</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dkND1OJrDp" slidebank="false" type="slide">этап 1: обобщение экономических условий этапы анализа рынка в рамках предварительной технико-экономической оценки  - проведение этап 2: обзор рынков  энергетических продуктов, доступных для муш этап 3: оценка рынков экологических продуктов и стимулирующих механизмов   доступные стимулы: субсидии, налоговые льготы, освобождение от уплаты пошлин безопасность горных работ и другие правовые юрисдикции ограничения на извлечение и использование муш или мвс графики получения разрешений и согласований   этап 4: проведение анализа  нормативно-правовой базы</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5evzQ7Bs68P" slidebank="false" type="slide"> этап 1 - обобщение экономических условий в отчете предварительной технико-экономической оценки, резюме экономических условий должно содержать широкий обзор и концентрироваться на общем состоянии экономики. цель - дать представление о текущем состоянии и будущем направлении развития экономики, политической ситуации и инвестиционного климата.   кликните мышью, чтобы просмотреть список вопросов, которые могут быть рассмотрены при составлении резюме экономических условий.  международные аспекты национальные региональные местные резюме должно отражать:    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jwcvi5m0rn" slidebank="false" type="slide">этап 2 - обзор рынков энергетических продуктов не существует иерархии для определения "лучшей" технологии конечного использования.  разработчик проекта руководствуется факторами:  качества и количества газа доступа к рынкам приоритета горнодобывающих компаний экономики проекта  доступа к финансированию приоритета государственной политики приведенные ниже области конечного использования являются подтвержденными вариантами проектов муш, на основе мирового опыта. химическое сырье генерация электроэнергии региональная и экспортная продажа газа транспортное топливо охлаждение когенерация тепла и электроэнергии  факельное сжигание промышленное использование</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TpORxtqD4X" slidebank="false" type="slide">физический доступ обзор доступа к энергетическим рынкам  технический доступ юридический доступ рыночное ценообразование  несмотря на то, что муш может использоваться во многих областях различных рынков, это не гарантирует успеха проекта. чтобы стать успешным, проект муш должен иметь доступ к финансово устойчивому рынку.  в отчете предварительной технико-экономической оценки должны быть рассмотрены: физический доступ технический доступ юридический доступ ценообразование на товарных рынках</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5awTbYPy5Pu" slidebank="false" type="slide">обзор доступа к энергетическим рынкам: физический доступ технический доступ юридический доступ рыночное ценообразование  имеется ли фактическое присутствие определенного рынка в районе реализации проекта муш для обеспечения возможности поставки муш, или энергии на основе муш, на данный рынок? примеры: иммется ли в пределах разумного расстояния газопровод транспортировки природного газа? магистраль в 50 км от шахты потребует 50-километрового отвода газопровода, с многоступенчатой компрессией, для подачи шахтного газа в газопровод, по которому газ можно будет поставлять на рынок. стоимость такого отвода и компрессии вряд ли будет экономически выгодной. если газопровод расположен вблиза шахты, имеется ли у него избыточная пропускная способность для новых поставок?  физический доступ</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tIsgO6byLv" slidebank="false" type="slide">физический доступ обзор доступа к энергетическим рынкам: технический доступ юридический доступ рыночное ценообразование  будет ли проект соответствовать техническим стандартам для поставки на рынок? примеры: будет ли качество газа приемлемым для закачки в газопровод?  позволит ли оператор сети электропередач произвести подключение к сети?  будет ли средняя концентрация метана в извлекаемом газе поддерживаться на уровне не менее 25-30% для применения факельного сжигания и генерации электроэнергии, или не менее 0,30% для утилизации мвс?  технический доступ</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KwCTLcHBvi" slidebank="false" type="slide">физический доступ обзор доступа к энергетическим рынкам: юридический доступ технический доступ рыночное ценообразование  можно ли поставлять муш, или энергию на основе муш, на рынок на законных основаниях, и, существуют ли какие-либо известные юридические ограничения, которые могут воспрепятствовать использованию на конкретных рынках? примеры: кто владеет или контролирует права на муш - имеет ли собственник/оператор шахты, или разработчик проекта, права на добычу, продажу или использование муш на поверхности? существуют ли какие-либо правовые положения, определяющие приоритеты, или запрещающие определенные способы использования муш?  например, разрешено ли факельное сжигание как самостоятельный вид деятельности, или оно должно совмещаться с другим способом конечного использования? юридический доступ</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kI3sELzT1b" slidebank="false" type="slide">физический доступ обзор доступа к энергетическим рынкам: рыночное ценообразование технический доступ юридический доступ  рыночное ценообразование достаточно ли высоки рыночные цены чтобы обеспечить поток доходов, необходимый для покрытия капитальных и эксплуатационных затрат? примеры: предоставьте краткую информацию по текущим ценам на соответствующее сырье/продукцию и, если возможно, по прогнозу по данным ценам. определите предстоящие события, которые могут повлиять на цены. будет проект муш сбывать продукцию на оптовом или розничном рынке, и отражают ли цены соответствующий рынок?</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6N1gvOKOg86" slidebank="false" type="slide">этап 3: оценка рынков экологических продуктов и стимулирующих механизмов финансовая результативность проектов муш может быть повышена за счет:  использования различных механизмов стимулирования присутствия на экологических рынках  список экологических рынков, которые потенциально могут быть доступны для проекта муш, приведен на следующем слайде и основан на опыте работы в данном секторе.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XCX8sTDQuq" slidebank="false" type="slide">рынки и механизмы стимулирования  насколько это возможно, в отчете предварительной технико-экономической оценки следует обобщить все потенциальные экологические рынки и стимулирующие механизмы, предоставив по каждому из них следующую информацию: название и вид рынка или механизма стимулирования  соответствие проекта муш требованиям текущий статус и прочая соответствующая справочная информация о рынке или механизме стимулирования, включая даты начала и окончания срока действия, любые объемные или монетарные ограничения, а также любые ограничения или запреты, связанные с правом на участие. для рынков - ликвидность рынка и уровень распространения ценность предложения для проектов муш, включая рыночные цены или значение стимулов  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6l4SK2jNkSH" slidebank="false" type="slide"> регулируемые углеродные рынки или рынки соответствия углеродные рынки, которые обычно регулируются государственными органами, определяют предельный уровень выбросов углерода и позволяют генерировать и продавать кредиты на сокращение выбросов в рамках данного предельного уровня. на большинстве углеродных рынков угольные шахты не считаются регулируемыми источниками в рамках предельных выбросов пг, что позволяет разработчикам проектов муш продавать кредиты в качестве квот на выбросы регулируемым объектам в других отраслях промышленности, или так называемым "покупателям соответствия".  однако, могут иметь место сложности с привлечением углеродного финансирования, включая такие барьеры, как нормативные ограничения на источники и конечное использование муш, процессы валидации и верификации, выпуск зачетных компенсаций, колебания цен и рыночную неопределенность, а также сроки функционирования рынков.   при разработке прогнозов для предварительной технико-экономической оценки, обычно возможно выясненить цены через регулирующие органы, товарные биржи или соответствующие информационные службы.   виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZQVA02qt1F" slidebank="false" type="slide"> добровольные углеродные рынки это нерегулируемые углеродные рынки, на которых проекты муш могут продавать покупателям квоты на выбросы . однако подобные кредиты и сделки могут не признаваться государственными органами.   такие сделки могут быть частными " внебиржевыми " продажами или могут регистрироваться в определенных добровольных реестрах.  цены контрактов обычно не публикуются в открытом доступе.  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.655W9IgOexf" slidebank="false" type="slide"> кредиты на возобновляемые источники энергии в некоторых юрисдикциях муш классифицируется как возобновляемый или альтернативный источник энергии, что позволяет проектам генерации электроэнергии на основе муш претендовать на сертификаты или кредиты возобновляемой энергии (rec).  rec могут иметь денежную ценность для покупателя электроэнергии, который желает использовать возобновляемые источники энергии для частичного или полного покрытия своих потребностей.  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5msHUhwlv1s" slidebank="false" type="slide"> льготные тарифы льготные тарифы (fit) - это механизм политики, используемый для стимулирования внедрения технологий возобновляемой энергетики.  цена fit, выплачиваемая проекту муш по генерации электроэнергии (долл. сша/квтч), обычно выше рыночной цены, выплачиваемой сторонним поставщикам электроэнергии в сеть.  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tQjLxJKZRX" slidebank="false" type="slide"> прямые субсидии в некоторых случаях, государственные органы могут принимать политическое решение о поощрении более широкого извлечения и использования муш путем предоставления прямых субсидий разработчику проекта за каждый проданный киловатт электроэнергии, или каждый использованный кубометр чистого метана. виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GDkAZdb3zV" slidebank="false" type="slide"> налоговые льготы чтобы поддержать более широкое внедрение экологически устойчивых технологий и стимулировать сокращение выбросов пг, некоторые юрисдикции ввели налоговые льготы специально для проектов муш, либо как часть поддержки более широкого портфеля экологически чистых проектов.  кредиты могут быть предоставлены в виде фактического зачета в доход, сокращения налоговых обязательств по проекту или освобождения от уплаты налогов.  помимо снижения затрат, налоговые кредиты могут быть использованы разработчиками проектов муш для привлечения инвестиций через структуры долевого финансирования.  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lpyNWGeJ7i" slidebank="false" type="slide"> рынки "зеленого газа" по аналогии с рынками возобновляемых источников энергии, рынки природного газа могут классифицировать определенные источники газа как "зеленый газ", с целью определения предпочтений в пользу более экологически устойчивых поставок природного газа.   это часто приводит к надбавке к цене на "зеленый газ".  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DX2Ic9eyrq" slidebank="false" type="slide"> прямые инвестиции правительства, промышленные группы или другие заинтересованные стороны могут принять решение о прямых инвестициях в проект муш с целью поддержки развития рынка, технологических исследований и разработок, местного экономического развития или по прочей причине.  инвестиции могут иметь форму прямого участия в проекте, заемного финансирования на выгодных условиях, или грантов.  виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5rUIls01ovr" slidebank="false" type="slide"> обязательства по закупкам (офф-тейки) правительства и государственные органы могут обязать электросеть или сеть газопроводов принимать или оплачивать всю электроэнергию или природный газ, поставляемые в систему в рамках проектов муш, независимо от того, имеется ли рыночный спрос на дополнительные поставки в данный момент времени.  такой подход значительно снижает рыночный риск проекта.   виды рынков и стимулов регулируемые углеродные рынки добровольные углеродные рынки кредиты на возобновляемые источники энергии льготные тарифы прямые субсидии налоговые льготы рынки "зеленого газа" прямые инвестиции обязательства по закупкам (офф-тейки)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6H8vRk8cI53" slidebank="false" type="slide">этап 4 - проведение анализа нормативно-правовой базы на проект муш могут влиять законы и политика в нескольких областях. детальное юридическое исследование не является необходимым для предварительной технико-экономической оценки, и не предполагается, что исследование будет включать исчерпывающий юридический обзор и анализ. однако, оно должно выявить основные законодательные и нормативные требования, которые могут повлиять на проект, если таковые известны.  правила безопасности горных работ, включая любые требования по выдаче разрешений, регистрации и проверке, имеющие отношение к извлечению и использованию муш экологические нормы, включая стандарты качества воздуха, воды и утилизации отходов требования к отчетности, управлению и сокращению выбросов пг разрешение на землепользование и строительство  снижение уровня шума права на добычу и использование муш налоги и сборы</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6H930IDnb5i" slidebank="false" type="slide">примеры оценки рынка данный модуль включает 2 примера из предварительных технико-экономических оценок gmi, чтобы продемонстрировать анализ, используемый для определения потенциальных соответствующих рынков для предварительных технико-экономических оценок, проводимых gmi.  характеристика пример 1 пример 2 местоположение провинция гуйчжоу, китай провинция шаньси, китай рельеф местности карстовый рельеф горная местность ближайший городской округ? 3 км 10 км</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Uqh4IG6L1n" slidebank="false" type="slide">оценка рынка муш: 2 примера оценка рынка муш этап 3 определение лучшего рынка (рынков) этап 2 подробный обзор рынков с потенциалом этап 1 предварительный обзор возможных рынков  в обоих примерах используется схожий подход.     </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QELkSu5GFy" slidebank="false" type="slide">предварительный обзор рынков оценка рынка муш этап 3 определение лучшего рынка (рынков) этап 2 подробный обзор рынков с потенциалом этап 1 предварительный обзор возможных рынков  7 потенциальных вариантов оцениваются на предмет целесообразности их дальнейшего анализа.  базовые критерии применяются к каждому с целью исключения рынков, которые не представляют реальных возможностей для проекта муш. обычно, как только собраны соответствующие данные, этот этап выполняется достаточно быстро.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BCvU4WqKUv" slidebank="false" type="slide">подробный обзор рынков оценка рынка муш этап 3 определение лучшего рынка (рынков) этап 2 подробный обзор рынков с потенциалом этап 1 предварительный обзор возможных рынков  оставшиеся варианты оцениваются с учетом конкретных факторов, включая: технический, физический и юридический доступ к рынкам рыночные цены и базовый экономический анализ не требующий сложных расчетов нормативные ограничения и корпоративные задачи данный этап позволяет исключить большинство оставшихся рынков из числа возможных альтернатив и составить список потенциально перспективных вариантов, которые будут подвергнуты дальнейшему анализу на этапе 3.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5X2w6Ru5fON" slidebank="false" type="slide">определение лучшего рынка (рынков) оценка рынка муш этап 3 определение лучшего рынка (рынков) этап 2 подробный обзор рынков с потенциалом этап 1 предварительный обзор возможных рынков  окончательная оценка основывается на более подробном анализе финансовой обоснованности проекта.  имеют ли выявленные конечные потребители поддержку руководства шахты и разработчика проекта? даже если выбранные проекты технически возможны, могут ли они быть реализованы на практике? указывает ли финансовый анализ на возможность получения финансовой прибыли? какие варианты лучше и как они соотносятся в сравнении?  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6j1SG8qQCVP" slidebank="false" type="slide">рынки муш, пример №1 - первоначальная оценка рынок оценка продолжить оценку варианта? местное распределение природного газа в районе имеется местная распределительная система да генерация электроэнергии: использование на месте шахты обычно потребляют большой объем электроэнергии да генерация электроэнергии: продажа в сеть возможно физическое подключение и продажа в сеть да котельное топливо на шахтах обычно имеется потребность в горячей воде и паре да транспортировка природного газа в районе нет доступа к газопроводу высокого давления нет промышленное использование в пределах разумного расстояния от участка извлечения газа на поверхности нет промышленных предприятий нет кпг/спг вариант кпг может быть возможен; качество газа слишком низкое для производства спг да местоположение шахты рельеф местности прочий фактор качество газа рядом с городом  карст  экологически чувствительная зона  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DET0oy5o33" slidebank="false" type="slide">рынки муш, пример №1 – 2-я оценка рынок оценка продолжить оценку варианта? местное распределение природного газа доступность субсидий улучшает экономику, но: система перегружена; пропускная способность не будет доступна в течение многих лет; нет существующего подключения от системы дегазации шахты к газораспределительной системе; низкая цена газа - маловероятно, что продажа будет выгодной нет генерация электроэнергии: использование на месте потребность шахты в электроэнергии: соответствует корпоративной политике и пользуется поддержкой руководства; значительный опыт реализации энергетических проектов муш в стране; возможности для проектирования и строительства; может быть экономически привлекательным; компенсирует высокую цену на электроэнергию для промышленности; доступна субсидия да генерация электроэнергии: продажа в сеть наличие субсидий: возможно физическое подключение к сети; продажа в сеть может быть затруднена да котельное топливо ограниченный спрос на горячую воду/отопление по причине теплого климата нет транспортировка природного газа исключено при первой оценке нет промышленное использование исключено при первой оценке нет кпг/спг кпг и спг экономически не выгодны  нет местоположение шахты рельеф местности прочий фактор качество газа рядом с городом  карст  экологически чувствительная зона  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ZQkYPklipz" slidebank="false" type="slide">рынки муш, пример №1  – итоговая оценка рынок оценка предпочтительный рынок для проекта? местное распределение природного газа исключено при первой оценке нет генерация электроэнергии: использование на месте предпочтение руководства компании; предварительный анализ показывает, что данный вариант является наиболее экономичным да генерация электроэнергии: продажа в сеть экономика положительная, но продажи в сеть затруднены нет котельное топливо исключено при второй оценке нет транспортировка природного газа исключено при первой оценке нет промышленное использование исключено при первой оценке нет кпг/спг исключено при второй оценке нет местоположение шахты рельеф местности прочий фактор качество газа рядом с городом  карст  экологически чувствительная зона  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vJQbYTxaBH" slidebank="false" type="slide">рынки муш, пример №2 - первоначальная оценка рынок оценка продолжить оценку варианта? бытовой газ в близлежащих городах и поселках нет ни действующей системы, ни спроса нет генерация электроэнергии: использование на месте шахты обычно имеют большую потребность в электроэнергии; действующая электростанция на муш предоставляет возможности для легкого расширения существующей инфраструктуры   да генерация электроэнергии: продажа в сеть возможны физическое подключение к сети и продажа электроэнергии в сеть  да котельное топливо на шахтах обычно имеется потребность в горячей воде и паре да транспортировка природного газа в районе нет доступа к газопроводу высокого давления нет промышленное использование вблизи находится завод по производству удобрений, которому требуется тепло да кпг/спг вариант кпг может быть возможен; качество газа слишком низкое для производства спг да местоположение шахты рельеф местности качество газа сельская местность горная местность 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Wfsy0nDfW5" slidebank="false" type="slide">рынки муш, пример №2  – 2-я оценка рынок оценка продолжить оценку варианта? бытовой газ исключено при первой оценке нет генерация электроэнергии: использование на месте дополнительная потребность в электроэнергии на шахте: поддержка руководства; имеющаяся электростанция на муш - на шахте есть инфраструктура, опыт и знания; сокращение дорогостоящих закупок из сети; возможность субсидирования да генерация электроэнергии: продажа в сеть доступна субсидия: физически возможно подключение к сети да котельное топливо не приоритетно для руководства шахты нет транспортировка природного газа исключено при первой оценке нет промышленное использование высокая цена на газ для продажи на завод по производству удобрений делает проект экономически привлекательным; близкое расположение завода к вакуум-насосной станции дегазации минимизирует транспортные расходы да кпг/спг кпг и спг экономически не выгодны  нет местоположение шахты рельеф местности качество газа сельская местность горная местность 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6SVx8ghy212" slidebank="false" type="slide">рынки муш, пример №2  – итоговая оценка рынок оценка предпочтительный рынок для проекта? бытовой газ исключено при первой оценке нет генерация электроэнергии: использование на месте предпочтительно для руководства; предварительный анализ показывает, что данный вариант является наиболее экономичным да генерация электроэнергии: продажа в сеть экономика положительная, но продажи в сеть затруднены нет котельное топливо исключено при второй оценке нет транспортировка природного газа исключено при первой оценке нет промышленное использование предварительный анализ показывает, что продажа газа проекту по производству удобрений потенциально выгодна; логистикой легко управлять из-за близкого расположения завода, не требуется подготовки и очистки газа да кпг/спг исключено при второй оценке нет местоположение шахты рельеф местности качество газа сельская местность горная местность 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65l6pKU0MzD" slidebank="false" type="slide">анализ рисков</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gm2fFpCbYb" slidebank="false" type="slide">выявление и характеристика рисков проекта проекты муш, как и любые другие промышленные проекты, могут быть подвержены влиянию внешних и внутренних факторов, которые могут повлиять на разработку и эксплуатацию проекта, здоровье и безопасность работников, рентабельность и, в конечном счете, жизнеспособность проекта.  потому, очень важно выявить, оценить и разработать план управления этими факторами или рисками проекта до начала его разработки, насколько это возможно.   это должно быть сделано не только в целях разумного планирования и практической проработки разработчиком проекта, но также и для того, чтобы кредиторы и инвесторы смогли внимательно изучить такой анализ рисков. анализ должен быть достаточно достоверным, чтобы поддержать любое решение в отношении перехода к стадии полного технико-экономического обоснования.   комплексная оценка рисков и план управления ими предполагаются в рамках отчета по полному технико-экономическому обоснованию. для отчета о предварительной технико-экономической оценке допустим менее тщательный анализ.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QtxSzQy2fJ" slidebank="false" type="slide">классификация рисков задачей отчета по предварительной технико-экономической оценке должно быть выявление и классификация ограниченного числа наиболее значимых известных рисков для проекта.  оценка рисков в рамках предварительной технико-экономической оценки может быть, в основном, качественной в силу ограниченности времени и ресурсов.  приемлемым считается определение и краткое описание каждого риска и возможных стратегий его снижения.  в целом, проектные риски можно  классифицировать как: риски разработки производственные риски технические риски  рыночные риски финансовые риски правовые/политические риски каждый из этих видов будет рассмотрен на следующих слайдах.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BsfrDrZFfb" slidebank="false" type="slide">риски разработки  риски разработки включают: ошибки проектирования задержки строительства задержки с поставкой оборудования проблемы с запуском  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5v5pNspccMQ" slidebank="false" type="slide">производственные риски  производственные риски включают: техобслуживание и ремонт, превышающие ожидаемые неисправности систем мониторинга более низкая эффективность сжигания топлива, чем ожидалось закрытие шахты или смена владельца  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6U3eQa8COur" slidebank="false" type="slide">технические риски  технические риски включают: переоценка ресурсов газа снижение качества/количества газа плохая координация с оператором шахты невозможность физической связи с рынком  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eSq0FPpE3V" slidebank="false" type="slide">рыночные риски  рыночные риски включают: снижение цен на сырьевые товары или углеродные кредиты повышение транзакционных издержек неплатежеспособность контрагента в отношении поставки газа отказ в доступе на рынок  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6M1SZusSY3r" slidebank="false" type="slide">финансовые риски  финансовые риски включают: более высокие, чем ожидалось, затраты на разработку, эксплуатацию и капитальные затраты недоступность внешнего финансирования стоимость финансирования выше ожидаемой  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5a0AhjLlDeN" slidebank="false" type="slide">правовые/политические риски  правовые/политические риски включают: нормативные акты запрещают или ограничивают проект изменения в законодательстве или политике, влияющие на проект невыдача необходимых разрешений или согласований  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61LzQLRvGnl" slidebank="false" type="slide">примеры снижения проектных рисков: разработка риск влияние снижение задержки в строительстве и пуско-наладке приводят к более позднему сроку начала эксплуатации увеличение стоимости проекта, потеря доходов и возможные штрафы со стороны потребителей энергии и углеродных кредитов за задержку поставки разработайте и регулярно обновляйте подробный план развития проекта.  структурируйте контракты, чтобы стимулировать строительство, ввод в эксплуатацию и запуск проекта в срок, ограничивая или исключая штрафы за задержки поставок потребителям - рассмотрите механизм распределения выгод и затрат в случае запуска проекта с опережением или отставанием от графика.  при разработке проекта не учитываются конкретные условия местности  возникают дополнительные расходы на проектирование и строительство завода в соответствии с необходимыми характеристиками проведите тщательную комплексную проверку, включая оценку дорог и других транспортных требований, проверку грунтов для фундаментов и выявление прочих особенностей, которые могут повлиять на конфигурацию площадки. виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5bk5h4NsK9j" slidebank="false" type="slide">примеры снижения проектных рисков: производственные риск влияние снижение задержка подключения к электросети или газопроводу  перенос даты начала получения дохода  если проект кажется обоснованным, начните переговоры на ранней стадии или подключитесь к имеющемуся на площадке соединению, унаследованному от схемы муш. реализуйте проект зачетом, на начальном этапе сжигая газ в факелах, если такое возможно, для более раннего получения доходов. повышенная стоимость подключения  снижение прибыли стремитесь к заключению контракта с фиксированной ценой  виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">примеры снижения проектных рисков: технические риск влияние снижение более скорое сокращение поставок газа, чем ожидалось, - изоляция источников, более быстрое затопление выработок, ошибочная интерпретация данных  снижение доходов, досрочное завершение проекта, невозможность обеспечить поставку энергии по контракту улучшите прогнозы: проведите углубленные исследования и испытания в рамках полного технико-экономического обоснования и разработайте более подробные геологические модели и модели истощения коллекторов  выход из строя добывающей скважины до устранения неисправности нет поступления доходов  установите двойные эксплуатационные трубы на входе (до закрытия) или пробурите заменяющую скважину после закрытия снижение качества газа снижение или, в худшем случае, прекращение подачи электроэнергии или тепла потребителям проведение ремонтных работ на герметизации входа в шахту  отказ оборудования  потеря дохода до ремонта детальные гарантии; страхование на случай перебоев в работе; плановое техническое обслуживание; использование запчастей только от производителя оригинального оборудования виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xOE3zzTRXS" slidebank="false" type="slide">примеры снижения проектных рисков: рыночные риск влияние снижение несостоятельность бизнеса единственного потребителя потеря доходов до тех пор, пока не будет найден новый клиент  несколько покупателей; двойной поток доходов, если такое возможно  падение цен на электроэнергию или промышленный газ потеря доходов  двойной поток доходов; разрабатывайте только высокорентабельные инвестиционные проекты, чтобы обеспечить определенную гибкость обвал углеродного рынка  потеря доходов от продажи углеродных кредитов двойной поток доходов виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5YyMYYRdFnT" slidebank="false" type="slide">примеры снижения проектных рисков: финансовые риск влияние снижение кредиторы и инвесторы не желают финансировать проекты, связанные с углем  невозможность финансирования подчеркните положительные преимущества сокращения выбросов парниковых газов. если применимо, используйте углеродное финансирование. углеродные активы не приносят результатов  дополнительная стоимость кредитов на сокращение выбросов на рынке приемлемый бизнес-риск виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C9JN7L6aUF" slidebank="false" type="slide">примеры снижения проектных рисков: правовые/политические риск влияние снижение не получены необходимые разрешения или согласования строительство проекта не может быть продолжено тщательная комплексная проверка для выявления всех необходимых разрешений и согласований: по безопасности горных работ, охране окружающей среды, строительству, углеродному рынку, местных, региональных и национальных.  для снижения риска рассмотрите возможность привлечения стороннего эксперта. изменения в законодательстве или политике, влияющие на проект нельзя завершить строительство или продолжить эксплуатацию проекта  знание местных, региональных и национальных законов, влияющих на проект, в сочетании с обращением к властям с целью разъяснения влияния изменений на долгосрочную работу проекта. виды проектных рисков разработка производственные технические рыночные финансовые правовые/политические</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hv3q7lS1Tv" slidebank="false" type="slide">инструменты оценки рисков для облегчения анализа рисков разработчик проекта может применять инструменты оценки рисков, позволяющие систематически выявлять и устранять риски.  примером инструмента оценки рисков является регистр рисков: определяет категории основных рисков (например, юридические, рыночные, технические, производственные и т. д.) обозначает специфические риски в рамках каждой категории (свойственные риски) и определяет уровень рисков перечисляет действия по снижению для каждого риска с целью снизить подверженность риску (остаточный риск) основная категория риска конкретный риск 1 конкретный риск 2 действия по снижению риска действия по снижению риска действия по снижению риска       </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5pYYBYCBo51" slidebank="false" type="slide">инструменты оценки рисков панель управления подробные инструменты оценки рисков проекта больше подходят для отчета по полному технико-экономическому обоснованию, поскольку в отчете по пред-тэо оценивается лишь ограниченное число основных рисков. однако, для отчета по предварительной технико-экономической оценке можно разработать упрощенный регистр.  пример панели управления или сводного регистра рисков, подготовленного  для отчета по полному технико-экономическому обоснованию</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TOTcukXov0" slidebank="false" type="slide">финансовый анализ</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62RYfcdAhlo" slidebank="false" type="slide">задачи финансового анализа в расках предварительной технико-экономической оценки, финансовый анализ крайне важен для прогнозирования денежных потоков, которые будут генерироваться проектом муш, и для определения финансовой обоснованности проекта.  что должен показать финансовый анализ предварительной технико-экономической оценки лицам, принимающим решение, в отношении финансовых аспектов проекта? он должен: представьте разумную оценку будущих денежных потоков проекта - как положительных в виде доходов, так и отрицательных в виде расходов.  оцените прибыль (или убытки) и доход на инфестиции по проекту. приведите количественную оценку некоторых рисков (финансовых и технических), с которыми сталкивается проект. оцените энергетические и экологические продукты, генерируемые проектом.   финансовый анализ, подготовленный для отчета по предварительной технико-экономической оценке, должен быть достаточно тщательным, чтобы оценить финансовую осуществимость, но финансовый анализ на данной стадии вряд ли будет считаться документом "инвестиционного уровня", подходящим непосредственно для финансирования проекта.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65cMYIGObBn" slidebank="false" type="slide">анализ финансовых показателей шаги анализа финансовых показателей включают:  шаг 1. определите финансовые исходные данные. шаг 2. выделите исходные данные для проекта. шаг 3. постройте модель дисконтированного денежного потока. шаг 4. рассмотрите показатели финансовой эффективности для оценки проекта.   каждый из этих шагов будет рассмотрен более подробно на последующих слайдах. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.60cPBoHKCfr" slidebank="false" type="slide">методология оценки: финансовые исходные данные шаг 2: выделите исходные данные для проекта шаг 3: постройте модель дисконтированного  денежного потока шаг 4: рассмотрите показатели финансовой эффективности для оценки проекта  сроки реализации проекта затраты на разработку капитальные затраты эксплуатационные расходы график расходов источники и ценность доходов инфляция, процентные ставки, дисконт и обменные курсы шаг 1: определите финансовые исходные данные</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rbg1eR3Xlg" slidebank="false" type="slide">шаг 1: определите финансовые исходные данные методология оценки: конкретные вводные данные для проекта шаг 3: постройте модель дисконтированного  денежного потока шаг 4: рассмотрите показатели финансовой эффективности для оценки проекта  концентрации метана расход метана график бурения эффективность сжигания и генерации время работы проекта (0-100%) потенциал глобального потепления (gwp) шаг 2: выделите исходные данные для проекта</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gxkEFzmYqS" slidebank="false" type="slide">шаг 1: определите финансовые исходные данные методология оценки: модель денежного потока шаг 2: выделите исходные данные для проекта шаг 4: рассмотрите показатели финансовой эффективности для оценки проекта  создайте с нуля или используйте готовое решения  движение денежных средств отчет о прибылях и убытках ключевые финансовые показатели  анализ чувствительности шаг 3: постройте модель дисконтированного  денежного потока</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a2T50NOkWv" slidebank="false" type="slide">шаг 1: определите финансовые исходные данные методология оценки: финансовые показатели шаг 2: выделите исходные данные для проекта шаг 3: постройте модель дисконтированного  денежного потока  ключевые показатели финансовой эффективности для оценки проекта включают:  основные чистая приведенная стоимость (npv) внутренняя норма прибыли (irr) срок окупаемости ( лет или месяцев)   вторичные соотношение прибыли и инвестиций рентабельность инвестиций (roi)  шаг 4: рассмотрите показатели финансовой эффективности для оценки проекта</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vaPBnfhIE0" slidebank="false" type="slide">оценка расходов и предположения  оценка расходов на товары и услуги, необходимые для разработки проекта муш, должна быть основана на: сочетании данных, предоставленных на местах. известных средних затратах на основе аналогичных проектов в регионе. общедоступных источниках.  оговоренные контрактные значения затрат и доходов не являются необходимыми. однако, в предварительной технико-экономической оценке следует учесть консервативные предположения  если проект перейдет на уровень полномасштабного технико-экономического обоснования, будет проведен более детальный анализ. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.690xbYSm5LW" slidebank="false" type="slide">финансовые исходные данные: капитальные затраты капитальные затраты, которые могут быть включены в анализ:    в случаях, когда невозможно определить затраты, могут быть использованы оценочные значения, но это должно быть отмечено в анализе.  для просмотра полного списка по каждому виду капитальных затрат кликните мышью по категории.  имейте в виду, что в рамках утвержденного бюджета и графика предварительной технико-экономической оценки может оказаться невозможным получить реалистичную смету по всем статьям затрат.  затраты на подготовку площадки  затраты на капитальные работы  затраты на оборудование</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61ReH0OtyiN" slidebank="false" type="slide">финансовые исходные данные: эксплуатационные расходы эксплуатационные расходы - это текущие расходы, связанные с обслуживанием и управлением проектом на ежедневной основе.    эксплуатационные расходы могут включать следующее:  плата за газ или роялти арендная плата или плата за пользование периодические регистрационные расходы накладные расходы на управление и администрирование расходы на рабочую силу и содержание персонала техническое обслуживание калибровка приборов запасные части  транспорт топливо  очистка и утилизация воды комиссионные за сделки по монетизации энергетических и экологических продуктов, включая валидацию проектов, верификацию сокращения выбросов и торговые операции проценты по обязательствам налоги</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ajTZM3VVTe" slidebank="false" type="slide">пример финансовых и проектных исходных данных кликните мышью по ссылкам ниже, чтобы просмотреть примеры исходных данных, использованных в финансовом анализе для отчета по предварительной технико-экономической оценке gmi:  предварительная технико-экономическая оценка дегазации и утилизации метана на угольной шахте тенгхуэй, провинция шаньси, китай  исходные данные по проекту - прогнозируемые объемы добычи газа  оценка капитальных и эксплуатационных затрат, и другие исходные данные по проекту генерации электроэнергии на основе муш  оценка капитальных и эксплуатационных затрат, и исходные данные по проекту усовершенствования дегазации в рамках проекта муш</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xQ3IbVCU83" slidebank="false" type="slide"> выбор подходящей модели для  финансового анализа у разработчика проекта, проводящего предварительную технико-экономическую оценку, есть несколько вариантов построения финансовой модели, причем выбор может быть как более конкретным и надежным, так и более общего характера. индивидуальная модель для конкретного проекта индивидуальная модель проекта - это специально разработанная модель, которая создается именно для исследуемого проекта муш в признанной и широко доступной программе, такой как ms excel®. построение и тестирование такой модели может занять некоторое время, однако она, скорее всего, даст наиболее точные и обоснованные результаты, поскольку разработана специально для проекта и может корректироваться по мере необходимости. она также лучше всего подходит для перехода к более подробной, основательной модели, необходимой для полного технико-экономического обоснования. адаптированная или модифицированная модель разработчик проекта может выбрать универсальную готовую финансовую модель из открытого источника. такие модели широко доступны в интернете в общедоступных программах, но они не предназначены именно для проектов муш, требуют модификации и, как правило, не предоставляют широких возможностей настройки.  хотя на подготовку таких моделей может потребоваться меньше времени, они обычно выдают менее надежные результаты.  общедоступная стандартизированная модель последний вариант - использовать более универсальную общедоступную модель, например, модель денежных потоков usepa cmop (https://www.epa.gov/cmop/cmm-cash-flow-model). данный вид модели требует от пользователя ввода данных в форму, и модель выдает денежный поток с финансовыми показателями, такими как чистая приведенная стоимость (npv) и внутренняя норма прибыли (irr).  модель предоставляет пользователю возможность быстрого анализа и получения общих результатов, но не является моделью "инвестиционного уровня". этот вариант модели является наименее гибким, что ограничивает возможности пользователя по адаптации модели к конкретному проекту.   более конкретная и более точная менее конкретная и менее точная </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5z5IbDYwkay" slidebank="false" type="slide">выбор финансовой модели выбор финансовой модели, используемой для прогнозирования  денежных потоков, зависит от: целей предварительной технико-экономической оценки  сроков проведения желаемой глубины анализа доступности и точности данных  корпоративной политики  независимо от выбранного варианта, разработчик проекта должен хорошо понимать структуру модели, ее точность и ограничения, чтобы эффективно интерпретировать и представить результаты моделирования.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qW7IG7JnlD" slidebank="false" type="slide">прочие аспекты выбора модели разработчик проекта должен решить, будет ли проект включать заемное финансирование, и структурировать модель соответствующим образом. также важно определить, будет ли модель автономной или ее необходимо интегрировать или согласовать с корпоративной финансовой моделью.  построение и представление финансовой модели также должно соответствовать проверенным методам, перечисленным на следующем слайде. это гарантирует, что модель будет достаточно простой в использовании, вводные данные и результаты будут четко представлены, а саму модель можно будет легко проверить. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.63JtgfkTDp3" slidebank="false" type="slide"> проверенные методы финансового моделирования используйте стандартные условные обозначения, признанные финансовым сообществом (например, месяцы/годы и расчеты денежных потоков во времени приводятся по горизонтали, а категории данных перечисляются по вертикали). определите основные предположения. избегайте слишком сложных моделей с большим количеством уровней. ограничьте сложность формул, а также прецедентов и зависимостей для формул.  сведите к минимуму использование макросов. убедитесь, что листы/экраны ввода, расчета и выводов чистые, хорошо организованные и удобные для навигации если возможно, рассчитывайте затраты, доходы и денежные потоки помесячно и сводите месячные итоги в годовые.  однако, примите во внимание, что для отчета по предварительной технико-экономической оценке допустим расчет денежных потоков на годовой основе. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.671S9AulDZL" slidebank="false" type="slide">контроль качества финансовой модели финансовая модель - это основа финансового анализа. цельность и точность модели важны для достоверности анализа, отчета по предварительной технико-экономической оценке и успеха разработчика проекта, поскольку разработчику проекта может потребоваться представить модель потенциальному инвестору. поэтому следует придерживаться следующей практики: проводить контроль качества модели. регулярно подвергать модель проверке и тестированию. включить в модель проверку расчетов. применяйте "смысловые" проверки для сравнения результатов моделирования с ожидаемыми значениями, основанными на взвешенной оценке.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AR2tU2kY4K" slidebank="false" type="slide">предоставление модели сторонним организациям предоставление модели сторонним организациям также является хорошей практикой, если вы ищете стороннее финансирование.  сторонние инвесторы потребуют доступ к модели, прежде чем принять решение о предоставлении инвестиций. модель должна быть проверяемой: если инвестор не сможет понять и проверить модель, он вряд ли станет финансировать проект. предположения должны быть четко обозначены. внутренним и внешним пользователям может помочь блок-схема или элементарное руководство пользователя.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZdhOyXEnNC" slidebank="false" type="slide">финансовый анализ: основные результаты модель движения денежных средств и финансовый анализ, подготовленные для предварительной технико-экономической оценки проекта муш, позволят получить несколько показателей финансовой эффективности, которые будут использоваться для оценки финансовой рентабельности проекта. хотя на решение об утверждении проекта может повлиять множество факторов, во многих случаях решение будет основано в первую очередь на результатах финансового анализа и доступности рынка для муш.    в таблицах на следующих слайдах представлены основные и вспомогательные финансовые показатели, которые используются для оценки потенциальной финансовой устойчивости проекта муш.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.67EDGk5GvhP" slidebank="false" type="slide">финансовый анализ: ключевые показатели  финансовый показатель что это такое? критерии принятия решений ключевые аспекты чистая приведенная стоимость (npv) текущая стоимость будущих денежных потоков, генерируемых проектом. будущие денежные потоки "дисконтируются" по стоимости капитала организации. если npv &gt; 0, денежные потоки от проекта превысят стоимость инвестиций. отражается в денежном значении. приступить к реализации проекта, если npv больше нуля опирается на прогнозы цен на энергетические и экологические продукты, и темпы инфляции. используется ставка дисконтирования (средневзвешенная стоимость капитала).  внутренняя норма прибыли (irr) внутренняя норма прибыли - это ставка дисконтирования, при которой чистая приведенная стоимость (npv) всех денежных потоков равна нулю в анализе дисконтированных денежных потоков. указывается в процентах. приступить к реализации проекта, если irr превышает установленную организацией "пороговую ставку" - минимально допустимую норму прибыли для разработчика проекта (например, 11 %) в качестве пороговой ставки может использоваться irr до или после налогообложения (важно уточнить). показателю irr, как правило, отдают предпочтение более короткие проекты и проекты с низкими капитальными затратами. если irr и npv показывают противоречивые результаты, предпочтение следует отдать npv. период окупаемости период времени, необходимый для выхода проекта на "безубыточность", когда доходы равны расходам. более короткий срок окупаемости более предпочтителен может быть рассчитан и представлен как простой период окупаемости (без дисконтирования) или как дисконтированный период окупаемости, где безубыточность основана на дисконтированных денежных потоках.  сам по себе не используется для принятия инвестиционного решения. представляет более широкую перспективу при использовании с другими показателями.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5e3e276EHzG" slidebank="false" type="slide">финансовый анализ: вспомогательные показатели  финансовый показатель что это такое? критерии принятия решений ключевые аспекты рентабельность инвестиций (roi) вычисляет величину прибыли от определенных инвестиций в конце срока реализации проекта, сравнивая чистый доход с затратами на инвестиции. приступайте к реализации, если рентабельность инвестиций прогнозируется на уровне 10-20 %. использует недисконтированные значения, поэтому не учитывает стоимость денег с учетом доходов будущих периодов. поэтому, для оценки рентабельности проекта лучше использовать показатель npv.  приемлемая рентабельность инвестиций (roi) зависит от многих факторов - допустимого риска, графиков и т. д. индекс рентабельности текущая стоимость будущих денежных потоков проекта, деленная на первоначальные инвестиции.  больше 1 тесно связана с npv. коэффициент будет больше единицы, при положительном npv . чем выше показатель, тем выгоднее проект.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Z7bRpJ0Ap5" slidebank="false" type="slide">монетизация выгоды от сокращения выбросов пг  проекты муш приносят энергетическую и экологическую выгоду. очень важно учитывать экологические преимущества, которые могут являться рыночным или финансовым требованием. проекты муш могут генерировать реализуемые углеродные кредиты и зачетные квоты, которые обеспечивают дополнительный поток доходов для проектов. лучшей практикой является оценка сокращения выбросов пг в течение всего срока реализации проекта. как правило, требуется для отчетов по технико-экономическому обоснованию и предварительной технико-экономической оценке, подготовленных для двустороннего или многостороннего финансирования требуется для всех отчетов по предварительным технико-экономическим оценкам, спонсируемым gmi   если проекты могут получить доступ к рынкам углеродных кредитов или взаимозачетов, владельцам проектов следует ожидать жестких требований по демонстрации прозрачности и точности данных по сокращению выбросов пг.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6eRtJXoqLro" slidebank="false" type="slide">методики оценки выгоды от сокращения выбросов пг методики расчета сокращений выбросов пг могут зависеть от рынка. составителю предварительной технико-экономической оценки следует провести дополнительные исследования, чтобы понять применимые методики для точного расчета сокращений выбросов. количественная оценка сокращения выбросов необходима не только для поддержки финансового анализа, но и подчеркивает благоприятное воздействие проекта на окружающую среду независимо от денежной стоимости кредитов и взаимозачетов по сокращению выбросов.  помимо расчета прямых сокращений выбросов в результате реализации проекта муш, проект может привести к косвенным сокращениям выбросов, которые также могут быть определены количественно.  прямые выбросы - это выбросы метана, которые являются следствием горнодобычных работ; поэтому прямое сокращение выбросов позволяет снижать выбросы метана непосредственно на местах. косвенные выбросы - это выбросы, которые являются следствием деятельности горнодобывающих операторов, но происходят на источниках, принадлежащих или контролируемых другими предприятиями. для проектов муш, косвенное сокращение выбросов диоксида углерода может быть результатом поставки в сеть электроэнергии на основе газового топлива, заменяющего уголь.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Px8VKww8rc" slidebank="false" type="slide">методики оценки выгоды от сокращения выбросов пг (продолжение) для целей предварительной технико-экономической оценки, когда методы расчета и потенциал глобального потепления (пгп) не указаны, прямые и косвенные сокращения выбросов от проектов муш могут рассчитываться на основе опубликованных пгп межправительственной группы экспертов по изменению климата (мгэик).  однако, пгп, используемый для определения денежной стоимости углеродных кредитов/зачетов, генерируемых в результате реализации проекта на основе метана, должен соответствовать 100-летнему периоду пребывания в атмосфере, поскольку большинство углеродных рынков используют 100-летнее значение в качестве эталона.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FvJW3PQStf" slidebank="false" type="slide">расчет выгоды от сокращения выбросов пг:   роль пгп и коэффициента косвенных выбросов при наличии цены на углеродные взаимозачеты, может быть добавлена дополнительная статья доходов. расчет сокращения выбросов основан на следующем: co2 от сжигания метана: при сжигании ch4 образуется co2. при оценке сокращения выбросов по проектам муш необходимо учитывать выделение co2 при расчете чистого сокращения выбросов. на каждую тонну сожженного ch4 выделяется 2,75 т co2, в результате чего чистое сокращение выбросов составляет 22,25 т эквивалента co2 на тонну утилизированного ch4. пгп метана: в настоящее время, на большинстве углеродных рынков применяется показатель пгп, равный 25, что означает, что выброс 1 метрической тонны ch4 в атмосферу равен воздействию 25 метрических тонн co2. это значение взято из четвертого оценочного отчета мгэик (ipcc, 2007); однако оно изменялось в каждом оценочном отчете. разработчик должен подтвердить значение пгп принятое на рынке, на котором он намерен работать, чтобы точно рассчитать стоимость зачетов сокращенных выбросов муш, которые он намерен продать.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6JeoEluvCrX" slidebank="false" type="slide">количественная оценка сопутствующей выгоды проектов муш количественная оценка сокращения выбросов других загрязняющих веществ позволит выявить важные сопутствующие выгоды проекта и может обеспечить дополнительный доход для проекта. таким образом, расчет сокращения выбросов этих загрязнителей может оказаться дополнительным преимуществом.  наиболее распространенными загрязнителями являются диоксид серы, закись азота, твердые частицы и ртуть. на региональном или местном уровне требуются надежные коэффициенты выбросов от электросети. данные показатели могут иметь практическое значение только для крупных проектов в области электроэнергетики или теплоснабжения.   почему выгодно количественно оценивать сокращения выбросов других загрязнителей?     этого может быть необходимо по законодательству. может существовать рынок для сокращения выбросов таких загрязняющих веществ, формирующий денежную стоимость их сокращения. указание на сокращение таких выбросов в предварительной технико-экономической оценке подчеркивает сопутствующие экологические преимущества проекта.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.656eLededPy" slidebank="false" type="slide">финансовый анализ: учет неопределенности каждый проект сталкивается с неопределенностями, такими как отставание от графика, изменение цен на оборудование, колебания отпускных цен, неожиданные изменения в составе и расходе газа.  финансовый анализ должен учитывать эти и прочие факторы неопределенности.    учет неопределенности может быть осуществлен путем включения в анализ следующих элементов: создайте диапазон (базовый, высокий и низкий сценарии) потенциальных результатов. включите анализ чувствительности в финансовый анализ. включите в финансовый анализ резерв непредвиденных расходов на капитальные и эксплуатационные затраты. используйте консервативные предположения для вводных значений. избегайте роста доходов по принципу "хоккейной клюшки".   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WhyQmbTwUR" slidebank="false" type="slide">учет неопределенности: предусматривая диапазон потенциальных результатов один из подходов к учету неопределенности заключается в подготовке базового, высокого и низкого сценариев, чтобы показать наиболее реалистичный финансовый результат проекта, а также потенциальные плюсы и минусы, которые проект представил бы инвестору. базовый сценарий – представляет собой ожидаемый результат при сценарии "обычной" работы. высокий сценарий – исходные данные для анализа корректируются таким образом, чтобы приблизить наиболее рациональный вариант развития событий для проекта. в качестве примера можно привести повышение цен на сырьевые товары, снижение капитальных затрат и эксплуатационных расходов, а также снижение процентных ставок.  низкий сценарий – исходные данные для анализа корректируются с целью приближения к наихудшему экономическому сценарию проекта, но не к его провалу. примерами могут служить низкие цены на сырьевые товары, более высокие затраты на финансирование и более низкий, чем ожидалось, уровень добычи газа. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.617jm3vul30" slidebank="false" type="slide">учет неопределенности:  включение анализа чувствительности      для проекта муш обычно проводится анализ чувствительности к изменениям: качества и количества добываемого газа, цен на электроэнергию или газ, цен на углеродном рынке, капитальных и эксплуатационных расходов, а также задержек в строительстве и запуске.  анализ чувствительности будет способствовать разработке базового, высокого и низкого сценариев.   еще один подход к учету неопределенности - включение анализа чувствительности в финансовый анализ. изменяя значения ключевых исходных данных, разработчик проекта сможет понять, какие затраты и доходы оказывают наиболее существенное влияние на проект.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.66WGz4wmNqD" slidebank="false" type="slide">учет неопределенности: включение резерва непредвиденных расходов на капитальные и эксплуатационные затраты  другой подход к учету неопределенности заключается в том, чтобы включить в финансовый анализ резерв непредвиденных расходов на капитальные и эксплуатационные затраты. средства на непредвиденные расходы - это дополнительные средства, зарезервированные на старте проекта для компенсации непредвиденных затрат.  сумма таких средств варьируется в зависимости от: проектных рисков корпоративной политики прочих факторов   резерв непредвиденных расходов зачастую составляет 5-20% от общей суммы ожидаемых капитальных затрат и расходов на эксплуатацию.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jxoMAzpPeY" slidebank="false" type="slide">учет неопределенности: использование консервативных значений исходных данных использование консервативных значений исходных данных - еще один подход к учету неопределенности.  финансовый анализ должен основываться на реалистичных и консервативных предположениях и исходных данных в целях получения реалистичной оценки финансовой обоснованности проекта.   чрезмерно благоприятные значения исходных данных в виде нереального роста отпускных цен, затрат на оборудование и эксплуатацию ниже рыночных, а также максимального уровня добычи газа, сохраняющейся в течение всего срока реализации проекта, скорее всего, приведут к недостоверному финансовому анализу.   использование нереалистичных исходных данных также является тревожным сигналом для инвесторов проекта, имеющих опыт анализа и оценки финансовых моделей.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62SY0Ljpvct" slidebank="false" type="slide"> учет неопределенности: избегая роста доходов по принципу "хоккейной клюшки" сторонники проектов, стремящиеся получить финансирование, часто прогнозируют кривую роста выручки или прибыли, которая очень медленно растет в первые и средние годы реализации проекта, и в последние годы демонстрирует экспоненциальный рост - так называемая кривая "хоккейной клюшки".  рост по принципу "хоккейной клюшки" - еще один тревожный сигнал для инвесторов, и данные, подтверждающие любую подобную кривую роста, будут тщательно изучаться инвесторами с точки зрения реалистичности.     рост   время  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nT3tLRh14u" slidebank="false" type="slide">предварительная технико-экономическая оценка gmi: извлеченные уроки уроки, извлеченные из предварительных технико-экономических оценок gmi, включают следующее: уточните цели, определения и объема исследования с представителями принимающей шахты. определите ограничения по времени и бюджету (помните, что это не полное технико-экономическое обоснование). ожидайте и учитывайте различия в терминологии, единицах измерения и практике. ожидайте пробелов в доступных данных. допустимо использовать другие источники данных или делать разумные предположения (но это должно указываться в итоговом отчете). существует несколько вариантов прогнозирования добычи газа. изучите все доступные рынки для использования муш, хотя, зачастую, выбор очевиден с самого начала.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6RH8R7miUoi" slidebank="false" type="slide">причины прекращения проекта несмотря на все усилия, рассматриваемый проект может не продвинуться по ряду причин, но чаще всего из-за: неспособности действующего рынка поддержать проект. смены руководства или владельца шахты. изменения в деятельности, например, переориентации ресурсов на профильный бизнес - добычу угля. снижения количества или качества газа. изменения нормативно-правовой базы. недоступности финансирования. неспособности принять проектные риски или управлять ими.  неспособности разработчика проекта и шахты договориться о заключении соглашения по разработке проекта.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">модуль 7 резюме из этого модуля вы узнали: как определить и оценить все потенциальные рынки с помощью детального анализа рынка. об экологических преимуществах, связанных с сокращением выбросов пг за счет развития проекта по добыче шахтного метана. как охарактеризовать различные проектные риски с помощью разнообразных инструментов оценки рисков.  об основных показателях финансового анализа и важности четкой, хорошо структурированной модели. опыт и рекомендации gmi по проведению предварительной технико-экономической оценки.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">спасибо за внимание! вы завершили модуль 7.</slidetext>
+      <slidetext slideid="5z2XRJza9by.6FGcw1aaidP" slidebank="false" type="slide">сводные вопросы по экономическим условиям как обстоят дела в угольной и энергетической отраслях? каково состояние экономики в целом? каковы общие перспективы развития экономики, угольной промышленности и энергетического сектора в частности? демонстрирует ли регион или принимающая страна привлекательный инвестиционный климат? наблюдается ли политическая и гражданская стабильность? насколько значимы прозрачность и верховенство закона и эффективно ли они реализуются?   требуются ли местные партнеры и каков опыт подобного партнерства?  местная валюта и каковы ее показатели по отношению к таким базовым валютам, как доллар сша, фунт стерлингов, евро и швейцарский франк? будет ли рассматриваемый проект первым или в регионе уже имеются другие проекты муш? каковы торговые отношения с соседними странами, на случай, если энергия будет экспортироваться? </slidetext>
+      <slidetext slideid="5z2XRJza9by.6GSWyMQGe6P" slidebank="false" type="slide">расходы на подготовку площадки уплотненный грунт для парковки, оборудования, прокладки коммуникаций и подъезда к площадке ограждение и ворота бетонные основания для контейнерного оборудования подключение коммуникаций мобильные помещения - офис, склады, мастерская экологическое благоустройство (например, отвод ливневых вод) сборы за первоначальные разрешения  </slidetext>
+      <slidetext slideid="5z2XRJza9by.5fIqTDSqVUt" slidebank="false" type="slide">расходы на капитальные работы бурение скважин для мониторинга газа и воды дополнительные работы по герметизации стволов или уклонов дополнительные подземные работы по управлению газом и водой, не предусмотренные шахтой (любое распределение затрат будет предметом переговоров разработчика)</slidetext>
+      <slidetext slideid="5z2XRJza9by.60mQwcUuuvy" slidebank="false" type="slide">капитальные затраты на оборудование kонтейнеры на полозьях насосы для отбора газа оборудование для очистки, осушки и кондиционирования газа поставленное, смонтированное и введенное в эксплуатацию утилизационное оборудование, такое как газовые двигатели и генераторные установки, факельные установки, окислители, котлы  трубопроводы, воздуховоды и запорная арматура электрооборудование и системы управления и мониторинга  учет экспорта и энергоснабжение компрессоры и подключения к сети/газопроводу транспортные средства и безопасность  резерв на непредвиденные расходы, на случай изменения конструкции или спецификации оборудования  расходы на перемещение оборудования, если в течение срока реализации проекта потребуется переместить установку муш для доступа к источнику газа оборотные средства </slidetext>
+      <slidetext slideid="5z2XRJza9by.5fDfZQf4Fof" slidebank="false" type="slide">исходные данные проекта - прогнозируемые объемы извлечения газа</slidetext>
+      <slidetext slideid="5z2XRJza9by.6A8nCWx7WVT" slidebank="false" type="slide">пример сметы капитальных и эксплуатационных затрат и прочие исходные данные по усовершенствованию дегазации физические и финансовые факторы единицы значение концентрация метана в газе дегазации  процентов 98 концентрация метана в газе выработанного пространства  процентов 70 увеличение расходов  процентов 3,0 повышение цены  процентов 3,0 капитальные затраты единицы значение система дегазации          стоимость скважин $/м 100 (в пласт); 130 (горизонтальные скв. в выр.простр.)      вакуум-насосная на поверхности $/вт 1,34      эффективность выкуум-насоса вт/1000м3/сутки 922 система сбора         стоимость трубопровода сбора $/м 75      протяженность трубопровода сбора м/панель лавы 450 эксплуатационные расходы единицы значение использование топлива на местах (газ)  процентов 10 эксплуатация и техобслуживание $/1000м3 17,66</slidetext>
+      <slidetext slideid="5z2XRJza9by.6MjmrKmDR4v" slidebank="false" type="slide">пример сметы капитальных и эксплуатационных затрат и прочих исходных данных по проекту генерации электроэнергии на основе муш физические и финансовые факторы единицы значение кпд генератора  процентов 40  время работы  процентов 65 цена электроэнергии $/квтч 0,10 субсидия на муш $/квтч 0,04 капитальные затраты единицы значение электростанция $/квт 760 эксплуатационные расходы единицы значение эксплуатация и техобслуживание электростанции $/квтч 0,03 сокращения углеродных выбросов  единицы значение потенциал глобального потепления ch4  т.экв.co2 25 co2 от сжигания 1 тонны ch4 т.co2 2,75</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">глобальная инициатива по метану (gmi) — это добровольное многостороннее партнерство, целью которого является сокращение выбросов метана в атмосферу и содействие снижению его воздействия, извлечению и использованию метана в качестве экологически чистого источника энергии. что такое глобальная инициатива по метану? страны партнерыgmi страны партнеры gmi составляют почти 70% от общего объема глобальных антропогенных выбросов метана, что эквивалентно приблизительно 5 000 млн.м.т в эквиваленте co2.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">как перемещаться для просмотра модуля используйте кнопки в правом нижнем углу экрана. вы будете просматривать по одному слайду за раз, хотя в любой момент сможете вернуться к просмотренным слайдам с помощью панели навигации "меню" слева.  если вам нужно выйти из модуля, последний просмотренный слайд будет сохранен, и вы позднее сможете вернуться к нему. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="FIT">Льготный тариф на подачу в сеть</term>
+      <term title="IRR">Внутренняя норма доходности</term>
+      <term title="NPV">Чистая приведенная стоимость</term>
+      <term title="REC">Сертификаты или кредиты на возобновляемые источники энергии</term>
+      <term title="ROI">Рентабельность инвестиций</term>
+      <term title="Агентство по охране окружающей среды США (USEPA)">Агентство по охране окружающей среды - это независимое исполнительное агентство федерального правительства США, занимающееся вопросами охраны окружающей среды.</term>
+      <term title="Анализ рисков">Изучение того, как могут измениться результаты и цели проекта в силу воздействия рискового события. После выявления рисков их анализируют, чтобы определить качественное и количественное влияние риска на проект, чтобы предпринять соответствующие шаги по его снижению.</term>
+      <term title="Бытовой газ">Газообразное топливо, производимое для продажи потребителям и муниципалитетам. Также называется угольным газом.</term>
+      <term title="Выбросы парниковых газов (ПГ)">Выброс парниковых газов и/или их предвестников в атмосферу на определенной территории и в течение определенного периода времени. Может быть обозначен как антропогенный (в результате деятельности человека) или естественный.</term>
+      <term title="Выработанное пространство">Разрушенный, проницаемый грунт, в котором добыча угля прошла с помощью лавы, а кровля имеет свойство обрушаться, что приводит к разрушению и разрядке в пластах выше и, в меньшей степени, ниже разрабатываемого пласта. Термин "gob" обычно используется в Соединенных Штатах; в других странах обычно используется "goaf".</term>
+      <term title="Глобальная инициатива по метану (GMI)">Запущенная в 2004 году, GMI - это международная государственно-частная инициатива, способствующая экономически эффективному, сокращению выбросов метана в краткосрочный период, его извлечению и использованию, в качестве источника чистой энергии, в трех секторах: в качестве биогаза (включая сельское хозяйство, твердые бытовые отходы и сточные воды), на угольных шахтах и нефтегазовых системах. Сосредоточение коллективных усилий на источниках выбросов метана - это экономически эффективный подход к сокращению выбросов парниковых газов (ПГ) и повышению энергетической безопасности, ускорению экономического роста, улучшению качества воздуха и повышению безопасности работников.</term>
+      <term title="Дегазация">Методы, используемые в подземных угольных шахтах, закрытых шахтах, а иногда и на открытых разработках, для улавливания природного газа в угольных пластах, чтобы предотвратить его попадание в выработки шахты. Системы дегазации включают в себя комбинацию дренажных скважин и/или выработок, сеть сбора газа и вакуумные насосы для вывода газа на поверхность. Газ можно извлекать из угольных пластов до начала добычи с помощью методов предварительной дегазации, а из пластов, нарушенных в процессе добычи, с помощью методов последующей дегазации. Данный метод часто называют дренированием метана, если метан является основным газовым компонентом, который необходимо улавливать. Дегазация позволяет получать шахтный метан более высокого качества, чем при вентиляции, обычно в диапазоне 25-100%.</term>
+      <term title="Добыча газа">Объем газа, извлекаемого дренажными скважинами и дренажными выработками до и после добычи угля.</term>
+      <term title="Европейская экономическая комиссия ООН (ЕЭКООН)">Европейская экономическая комиссия Организации Объединенных Наций (ЕЭК или ЕЭКООН) - одна из пяти региональных комиссий, находящихся под юрисдикцией Экономического и Социального Совета ООН. Она была создана с целью содействия экономическому сотрудничеству и интеграции между странами-членами. В состав комиссии входят 56 государств-членов, большинство из которых расположены в Европе, а также несколько за ее пределами. В число ее трансконтинентальных евразийских и неевропейских государств-членов входят: Армения, Азербайджан, Канада, Грузия, Израиль, Казахстан, Кыргызстан, Российская Федерация, Таджикистан, Туркменистан, Соединенные Штаты Америки и Узбекистан.</term>
+      <term title="Затраты на основные средства">Фиксированные, единовременные расходы на приобретение земли, зданий, сооружений и оборудования, используемых в производстве товаров или оказании услуг. Другими словами, это общая стоимость, необходимая для доведения проекта до коммерчески пригодного состояния.</term>
+      <term title="Капитальные расходы (CapEx)">Средства, используемые компанией для приобретения, модернизации и поддержания физических активов, таких как недвижимость, заводы, здания, технологии или оборудование. Капитальные затраты часто используются для реализации новых проектов или инвестиций компании.</term>
+      <term title="Карст">Местность с карстовыми воронками, уходящими под землю ручьями, пещерами и источниками.</term>
+      <term title="Керн">Цилиндрический срез вещества природного происхождения, обычно получаемый путем бурения с помощью полой стальной трубы, называемой керноотборником.</term>
+      <term title="Комбинированная теплоэлектростанция(КТЭС)">Одновременное производство электрической или механической энергии и тепловой энергии из одного источника энергии. Также называется когенерацией</term>
+      <term title="МГЭИК">Межправительственная группа экспертов по изменению климата</term>
+      <term title="Метан">Метан - мощный парниковый газ. Хотя жизненны период метана в атмосфере гораздо короче, чем у углекислого газа (CO2), он в 28 раз эффективнее задерживает радиацию, в течение 100-летнего периода, чем CO2.Метан является основным предвестником загрязнения приземного слоя озоном и, таким образом, влияет на качество воздуха. Метан также является энергетическим ресурсом, который можно улавливать и использовать. Метан в шахтах представляет угрозу безопасности из-за своей взрывоопасности при смешивании с воздухом.</term>
+      <term title="Метан вентиляционной струи (МВС)">МУШ, который удаляется из выработок с помощью вентиляционных систем, использующих вентиляторы для разбавления метана до безопасного уровня путем циркуляции свежего воздуха по шахте. МВС - крупнейший источник выбросов метана из подземных угольных шахт.</term>
+      <term title="Метан закрытых шахт (МЗШ)">Временно или постоянно закрытые угольные шахты, которые производят значительные выбросы метана из диффузных выходов, трещин или скважин.</term>
+      <term title="Метан угольных пластов (МУП)">Метан, добываемый из угольных пластов до начала их разработки по углю.</term>
+      <term title="Метан угольных шахт (МУШ)">Метан, высвобождающийся из угля в результате горных работ. Как и МУП, МУШ является частью метана, содержащегося в угольных пластах, но относится именно к метану, содержащемуся в зонах добычи (например, в рамках плана горных работ), в то время как МУП относится к метану в угольных пластах, которые никогда не будут разрабатываться. Поскольку МУШ будет высвобождаться по ходу горных работ, извлечение и использование МУШ считается предотвращением выбросов.</term>
+      <term title="ПГП (GWP)">Потенциал глобального потепления</term>
+      <term title="Предварительные технико-экономические оценки">Как правило, проводят подробный технический анализ информации о конкретном объекте и рассматривают вопросы финансирования проекта. Предоставляют прогноз извлечения газа и обзор применяемых методов дегазации. Однако эти документы содержат меньше деталей, чем полное технико-экономическое обоснование. Такие документы, как правило, не считаются "приемлемыми для банков".</term>
+      <term title="Скважина">Узкий ствол, пробуренный в шахте в почву или кровлю, вертикально или горизонтально.</term>
+      <term title="Состав газа">Газовый состав любого газа можно охарактеризовать, перечислив содержащиеся в нем чистые вещества и указав для каждого вещества его долю в количестве молекул газовой смеси.</term>
+      <term title="Технико-экономические обоснования">Подробный отчет об экономической и технической целесообразности разработки проекта. Данный документ считается "приемлемым для банков", то есть достаточным для обеспечения финансирования проекта.</term>
+      <term title="Факельное сжигание">Контролируемое сжигание природного газа. Сжигание МУШ на угольной шахте может производиться открытым пламенем, называемым факелом-свечой, либо в закрытом факеле, иногда называемом наземным факелом.</term>
+      <term title="Финансовый анализ">Процесс оценки бизнеса, проектов, бюджетов и прочих операций, связанных с финансами, с целью определения их эффективности и пригодности. Как правило, финансовый анализ используется для определения того, является ли предприятие достаточно стабильным, платежеспособным, ликвидным или прибыльным, чтобы оправдать денежные вложения.</term>
+      <term title="Эксплуатационные расходы (OpEx)">Эксплуатационные расходы - это расходы, которые бизнес несет в ходе своей обычной деятельности. Часто сокращенно называемые OPEX, эксплуатационные расходы включают в себя аренду, оборудование, стоимость товарно-материальных запасов, маркетинг, начисление заработной платы, страхование, скачки затрат, а также средства, выделяемые на НИОКР.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

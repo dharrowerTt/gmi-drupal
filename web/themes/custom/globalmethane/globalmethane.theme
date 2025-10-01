@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * Implements hook_library_info_alter().
+ */
+function globalmethane_library_info_alter(&$libraries, $extension) {
+  // Override jQuery library definition to point to jQuery 3.6.4.
+  if ($extension === 'core' && isset($libraries['jquery'])) {
+    $libraries['jquery']['js'] = [
+      'https://code.jquery.com/jquery-3.6.4.min.js' => [
+        'type' => 'external',
+        'minified' => TRUE,
+        'weight' => -20,
+    ]];
+  }
+}

@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conducting Pre-Feasibility Studies for AMM Projects: Module 5" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\5cwDs3T2IUc_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/6ZXRj5C6uIo.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x262626" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use your arrow keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_view_image">view image</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="AMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting Pre-Feasibility Studies for AMM Projects: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 5" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 5: Mine Closure Design for AMM Production" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="What You Will Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6afrslX6BzA" displaytext="Preparing a Mine for Closure " expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5iPhbH0DN6c" displaytext="Mine Closure and AMM Project Considerations" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6rKJNCYcdaa" displaytext="Pre-closure Engineering Planning for AMM" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6rUbG4olPrG" displaytext="Considerations When Designing Engineering Measures for Mine Closure" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5oAvNS4STeN" displaytext="How Can Engineering Measures at Closure Support an AMM Project?" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6Wv7u4rrmck" displaytext="Engineering Measures for AMM: Prevention of Air Ingress" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6PT06h80OT7" displaytext="Prevention of Air Ingress" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65EDDzwfg13" displaytext="Pathways for Air Ingress " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6d9IdjAxC22" displaytext="Prevention of Air Ingress" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6UQx2Xax0B8" displaytext="Engineering Measures for AMM: Shaft and Drift Treatment for AMM Production" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5XxltAyEw1A" displaytext="Shaft and Drift Treatment for AMM Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6kouPAsRtIK" displaytext="Shaft and Drift Treatment " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ivir4fAXQl" displaytext="Cap Constructed at Rockhead" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6B66V3OSbq7" displaytext="Cap Constructed in Deep Fill" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6W9tQw0tnCb" displaytext="Grout Plug in Deep Fill" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eGyBGVxQJa" displaytext="Service Ducts" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6FuwSmMSmBJ" displaytext="Drift Sealing: Design " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5aqkvUbwuaj" displaytext="Drift Sealing: Construction" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61dTi6ExvXr" displaytext="Filling and Sealing Abandoned Shafts in Old Workings" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6kFIu3ga3T6" displaytext="Photos of Sealed Abandoned Drifts " expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5lPRvkv0MdH" displaytext="Engineering Measures for AMM: Water Management" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6bgEfTBW1qM" displaytext="Water Management" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6UsfWx5D8rU" displaytext="Effective Management of Water Recovery " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BTukd6m9Ro" displaytext="Water Inrush Risk" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6WKbG1QU8Bx" displaytext="Vertical Wells for Water Level Monitoring" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6KgwP8H5TcL" displaytext="AMM Production: Vertical Well Options" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5m2ehvetO05" displaytext="Vertical Well Options " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6LNuiNQqfnW" displaytext="Unfilled Shaft" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QeN5q80Q7P" displaytext="Filled Shaft" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6q6PvpN1zLK" displaytext="Surface Borehole" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6n2MAW57JML" displaytext="Surface Goaf Well" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.61jLsCDqVPb" displaytext="AMM Inclined Production Well Options " expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5b5hLCYvmGY" displaytext="Mine Closure for AMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6AgZeXf79Sq" displaytext="Module 5 Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.62Z1YCbC3iD" displaytext="Module 5 Summary (continued)" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6WrWRvJd9vW" displaytext="Thank you!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conducting pre-feasibility studies  for abandoned mine methane projects training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome the united states environmental protection agency (epa) developed this course in support of the gmi and in conjunction with the united nations economic commission for europe (unece). what is the gmi? this course introduces principles for assessing the potential of developing projects to mitigate abandoned mine methane (amm).   </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> conducting pre-feasibility studies for amm projects:  course modules module 1:	introduction and objectives module 2:	gathering mine information and data module 3:	amm resource assessment module 4:	production forecasting and well testing module 5:	mine closure design for amm production module 6:	market, financial and risk analysis module 7:	amm pre-feasibility case study  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 5 mine closure design for amm production</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">what you will learn in this module, you will learn about: how to prepare a mine for closure how to support an amm project  engineering design considerations sealing of mine shafts and drifts to ensure stability, to prevent air and water ingress, and to protect against hazardous gas emissions underground water management measures production well options   time needed to complete this module: approximately 40 minutes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6afrslX6BzA" slidebank="false" type="slide">preparing a mine for closure  mines are closed once coal reserves are exhausted or if a mine is no longer financially viable to operate. in many coal mining countries, policies require coal mine owners to meet safety, environmental, and land restoration conditions before mines can relinquish their responsibilities.  to meet requirements under policies and regulations, a responsible party typically undertakes various engineering measures, such as: stabilizing mine entries to prevent any future ground movement or collapse. sealing mine entries to prevent public entry, ingress of surface water, and uncontrolled emissions of hazardous gases. plugging shafts and drifts at appropriate depths to protect aquifers from mine water contamination during groundwater recovery. installing gas vents to prevent pressurization of gas and to control gas migration risks, which could lead to hazardous emissions at the surface.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5iPhbH0DN6c" slidebank="false" type="slide">mine closure and amm project considerations good practice policies encourage a mine owner to collaborate with an amm developer to ensure a mine is closed in a way that facilitates amm recovery through an amm project. such projects are likely to reduce overall emissions from coal mining, improve safety, and reduce pollution. when evaluating the potential of a closed or closing mine to host an amm project, project developers need to consider several engineering and geotechnical factors that can “make or break” a project.      engineering measures that are undertaken during coal mine closure can be critical to the feasibility of an amm project. these measures will be considered by the project developer during project evaluation.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rKJNCYcdaa" slidebank="false" type="slide"> pre-closure engineering planning for amm when preparing a closing mine for an amm recovery and mitigation project, a mine owner should undertake the following measures: investigate geotechnical and hydrogeology factors to assess subsurface strata and groundwater sources that could impact the project study surface gas emission risks using surface hazard maps and mine plans, monitoring, and pressure tests locate recorded mine entries (unrecorded mine entries are a risk) treat mine entries to stabilize and seal to minimize air ingress treat service ducts and fan drifts fill shafts/drifts and install amm production pipework   grout shallow workings and unstable ground take measures to minimize ingress of surface water </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rUbG4olPrG" slidebank="false" type="slide">considerations when designing engineering measures for mine closure the table below presents factors that mine owner/operators might consider when designing engineering measures for a closing coal mine. engineering design factors for a closing mine existing infrastructure and shaft/drift construction details depth to rockhead and its geotechnical properties nature and depth of superficial materials removal of shaft furnishings existing and future surface facilities working access around mine entries land ownership and access future land use gas and water monitoring provisions maintenance requirements for any post-closure installations</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oAvNS4STeN" slidebank="false" type="slide">how can engineering measures at closure support an amm project? the success of amm schemes depends on the ability to: minimize air ingress into the abandoned workings to prevent methane dilution  control water flows to reduce the likelihood of reservoir connectivity being reduced by flooding engineering measures that are designed to maximize amm extraction can be incorporated in a coal mine closure program. these same measures will reduce future environmental and safety risks that are associated with abandoned coal mines.   certain measures (see bullets to the right) are only feasible if they are undertaken before closure installing gas production pipework in shafts or drifts prior to sealing installing pipes through low points in main roadways to prevent water blockages and premature loss of amm production sealing treatment is likely to be more effective and less costly if the work is performed before closure rather than attempted after abandonment</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Wv7u4rrmck" slidebank="false" type="slide">engineering measures for amm:  prevention of air ingress</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6PT06h80OT7" slidebank="false" type="slide">prevention of air ingress preventing atmospheric air from being drawn into a mine is key to ensure that mine methane is not diluted, which will help ensure the mine is suitable for project development.   problematic amm development mines are those with underground connections to old, shallow workings, sometimes of unknown extent, with inadequately sealed shafts.  this situation tends to arise in coalfield areas that have been mined for many decades, or even centuries, where mining started at an outcrop and progressed deeper and deeper as mining technology evolved.     air ingress challenge solution any unsealed entry to a mine will allow air ingress during a rise in barometric pressure and emissions of mine gas-air mixtures during falling barometric pressure.  engineering treatment to prevent leakage, or safely vent, will remove the hazard. application of suction for amm production will increase air ingress through any unsealed (or inadequately sealed) entries. gas quality will be negatively impacted unless all entries are effectively sealed.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65EDDzwfg13" slidebank="false" type="slide"> pathways for air ingress  this picture shows how air might be drawn into a deep underground mine through connected old workings, shafts, and drifts (adits).   shallow, easily accessed coal is usually worked first. over many years, mining progresses to deeper seams.  as a result of this process (and the often poor mapping of early workings), connections can exist between deep mines and old shallow workings through which air can be drawn by the ventilation system during mining and by a suction pump after closure.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6d9IdjAxC22" slidebank="false" type="slide"> prevention of air ingress control of air ingress will require the effective sealing of all mine entries connected to the amm scheme, not only those associated with the mine, but any interconnected workings from adjacent mines. mine entries will be either vertical shafts or inclined drifts, ranging from simple excavations with minimal support to sophisticated engineered structures depending on the age of the workings. treatment options must consider not only the need to form an effective gas tight seal, but also ensure ground stability and public safety. it is essential that all entries are identified from mine plans and their surface locations found and examined.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UQx2Xax0B8" slidebank="false" type="slide">engineering measures for amm:  shaft and drift treatment for amm production</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5XxltAyEw1A" slidebank="false" type="slide">shaft and drift treatment for amm production to ensure methane does not leak from a closed mine, mine entries will need to be sealed at, or near, the surface. this will require the construction of shaft seals and cap or a drift stopping.  key factors related to the construction of shaft caps and drift stoppings include: for shaft seals, the most critical design factor is the depth and nature of superficial materials. service ducts and fan drifts should be sealed. a drift stopping should be constructed in competent ground and keyed into the natural strata. pipework passing through any shaft cap or stopping should be gas tight, of constant diameter for its full length with no bends, and installed to prevent the accumulation of water. at least two extraction pipes should be installed through a shaft cap or stopping if these are to be used for amm production. the diameter of pipework should be sufficient to limit pressure drop to a design minimum. safe access to pipework and valves should be provided for monitoring and maintenance.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6kouPAsRtIK" slidebank="false" type="slide">shaft and drift treatment  drifts should be backfilled to the portal and a solid wall constructed to prevent entry.  treatment options for sealing shafts by creating low permeability barriers around caps include:  mass poured concrete bentonite flexible membranes grout curtain low permeability material the following slides provide more details about the options for sealing shafts.  drift backfilling low permeability barrier</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ivir4fAXQl" slidebank="false" type="slide">cap constructed at rockhead considerations applicable where there is a thin cover of superficial deposits need to prepare a suitable founding horizon  shaft cap construction at rockhead has no stability issues cap can be used on open shafts additional low-permeability barrier can be placed around the cap to ensure everything is gas-tight    shaft sealing cap constructed at rockhead</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6B66V3OSbq7" slidebank="false" type="slide">cap constructed in deep fill considerations excavate to rockhead long-term stability achieved by forming the cap on the shaft liner ability to access service ducts cap can be used on open shafts additional low permeability barrier can be placed around the cap   shaft sealing cap constructed in deep fill</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6W9tQw0tnCb" slidebank="false" type="slide">grout plug in deep fill considerations grout plug formed within the shaft fill - cannot be used on an open shaft installation of gas extraction pipework can be difficult and not suitable for amm production due to shaft fill long term stability of grout plug and surrounding ground uncertain not easy to remedy any gas leakage   shaft sealing grout plug in deep fill</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eGyBGVxQJa" slidebank="false" type="slide">service ducts considerations in addition to sealing the shaft, subsurface shaft entries must be sealed and made airtight service ducts, once used for cables and pipework, are grouted fan drift on an upcast shaft is filled and sealed with mass concrete   shaft sealing service ducts</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FuwSmMSmBJ" slidebank="false" type="slide"> drift sealing: design  drift shafts must also be sealed, but there are some differences compared to vertical shafts. key design factors for drifts include: depth to rockhead and nature of superficial material  method of portal construction control of water ingress keying stopping walls to natural strata removal of equipment and loose structures support of the amm extraction pipe to ensure constant inclination </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5aqkvUbwuaj" slidebank="false" type="slide">drift sealing: construction following the design, the owner/operator proceeds with the construction of the seals.  a drift seal consists of two block walls about 10m apart keyed into the natural strata with the space in between infilled with concrete or grout. the drift seal is ideally located at a depth greater than 10x the drift height to reduce the chance of leakage through surface fractures. the amm extraction pipe should be suspended from the roof and properly supported; a water drainage pipe with a u-bend to prevent gas transmission may also be required. all equipment should be removed from the drift prior to infilling.   click to view a diagram of drift seal design and construction. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.61dTi6ExvXr" slidebank="false" type="slide">filling and sealing abandoned shafts in old workings old workings present additional challenges, as old workings can sometimes be of unknown extent, invariably with inadequately sealed shafts.  when old workings are present in a mine, the following measures are advised: the depth of the shaft should be confirmed. insets and pit bottom areas should be stopped-off to prevent fill material from running away or a mass concrete plug placed. fill material should be well-graded with no blocks larger than 1000mm and with more than 25% greater than 30mm. the cap size design is typically 2x the diameter of the shaft.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6kFIu3ga3T6" slidebank="false" type="slide"> photos of sealed abandoned drifts  abandoned drifts must be sealed. these pictures show sealed shafts at abandoned drifts.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lPRvkv0MdH" slidebank="false" type="slide">engineering measures for amm:  water management</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bgEfTBW1qM" slidebank="false" type="slide">water management during mine closure, engineering measures can be designed and installed to minimize the effects of water ingress and to control where water flows.   engineering measures to minimize the effects of water ingress and to control water flow include: measures to minimize surface water ingress through mine entries placement of plugs in the shafts or drifts to restrict water flow into the deeper workings via these routes, and to prevent rising mine water from contaminating any natural aquifers connecting different mining areas via boreholes, pipework, or roadways to control water flow and prevent accumulation and ponding the construction of water monitoring points to allow rate of mine water recovery to be measured</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UsfWx5D8rU" slidebank="false" type="slide">effective management of water recovery  effective management of water recovery involves identifying low points where water may accumulate and blocking transmission of gas from former working areas to the production well. critical locations to protect from ponding are the base of shafts and drifts and main tunnels where a blockage may affect a wide area of workings and significantly reduce amm recovery.   open ended pipe can be installed through these areas to allow gas to flow if the roadway becomes flooded. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BTukd6m9Ro" slidebank="false" type="slide">water inrush risk active mine workings must be protected against water inrush risk. this potentially very serious risk arises where water accumulates in abandoned workings (with increasing hydrostatic head) behind a pillar separating a working mine from an abandoned mine.  sudden failure of the barrier could be catastrophic to the working mine.  inrush occurrences can lead to many fatalities.     precautions for water inrush risk depend on the likely severity and can include:   continuation, or installation, of de-watering facilities (pumping from a shaft or borehole) to prevent water levels rising  construction of water dams capable of withstanding high hydrostatic pressure water level monitoring regimes involving manual dipping or the use of remote pressure or level sensors. these precautions will be taken irrespective of amm development, but any continuation of water pumping will be helpful to amm production.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WKbG1QU8Bx" slidebank="false" type="slide">vertical wells for water level monitoring accessible shafts may be usable for monitoring water level.  in particular, existing pipework within a shaft can be used for monitoring (for example, former compressed air or water ranges).  the installation of suitable monitoring provisions will allow the effects of rising water levels to be assessed and remedial action to be taken, if appropriate. this may involve the drilling of boreholes to specific target horizons.  casing-while-drilling techniques can be used to drill safely through old goaf areas and workings without the loss of fluid or incurring hazardous gas emissions.   casing while drilling</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KgwP8H5TcL" slidebank="false" type="slide">amm production:  vertical well options</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5m2ehvetO05" slidebank="false" type="slide">vertical well options  surface  goaf well surface borehole filled shaft unfilled shaft  once the mine is properly sealed and measures are taken to address potential water ingress (if such threat exists), then the abandoned mine is ready for the installation of producing wells.  there are four vertical well options: unfilled shaft filled shaft surface borehole surface goaf well the four vertical well options will be described on the upcoming slides.   }</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6LNuiNQqfnW" slidebank="false" type="slide">surface  goaf well surface borehole unfilled shaft filled shaft  good for gas production – low resistance. where superficial fill is shallow and the shaft capped at rockhead, easy to strengthen sealing. concern about long-term stability of the shaft lining needs to be addressed – potential costly future liability for filling and sealing. unfilled shaft</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QeN5q80Q7P" slidebank="false" type="slide">unfilled  shaft surface  goaf well surface borehole filled shaft  to use for gas extraction, fill must be permeable and no concrete plug or walls at the base. concern about water erosion of fill (need inspection hatch through shaft cap to check fill depth and add more fill as needed), surcharge of fill and compaction will reduce permeability.  not recommended for amm production. . filled shaft</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6q6PvpN1zLK" slidebank="false" type="slide">filled shaft unfilled  shaft surface  goaf well surface borehole  location can be optimized subject to surface accessibility.  gas flow rate will be limited by the diameter of the borehole. large diameter drilling may not be viable in the mined ground or too costly. drilling multiple boreholes is less risky. surface borehole</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6n2MAW57JML" slidebank="false" type="slide">filled shaft unfilled  shaft surface borehole surface goaf well  drilled to drain gas in operational longwall mines, these should have been sealed once no longer required. however, similar wells could be drilled into abandoned mine goafs.  connectivity to the mine workings and roadway infrastructure is likely to be poor. generally, not a viable option and not recommended.  surface  goaf well</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61jLsCDqVPb" slidebank="false" type="slide">amm inclined production well options  there are additional considerations for design and installation of amm production pipework in inclined shafts or drifts.    these additional considerations include: gas extraction pipework and a water management system are easier to install in a drift than a vertical shaft. once the pipework has been installed and the drift filled and sealed, any future remedial work is difficult and the only viable solution may be to drill a surface borehole. good design and a high level of supervision of the construction and filling works is essential if a successful and lasting installation is to be achieved. this is often the preferred solution for an amm extraction system.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5b5hLCYvmGY" slidebank="false" type="slide">mine closure for amm project development the success of amm schemes depends to a large extent on the execution of engineering measures that are undertaken during mine closure, such as shaft and drift stabilization, and gas and water management. drift engineering works should be carefully supervised to ensure that gas production and water drainage pipework is installed to a high standard. any compromise on engineering design and quality will lead to less than planned amm extraction rates and premature termination of amm production.   all engineering measures that are planned and undertaken prior to or at mine closure should be fully acknowledged and summarized in a pre-feasibility study prepared for an amm project at the mine. doing so results in a more complete, accurate, and transparent study.    proper execution of engineering measures not only helps with the development and longevity of an amm project, but it also reduces the long-term safety and environmental liabilities associated with abandoned mines.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AgZeXf79Sq" slidebank="false" type="slide">module 5 summary in this module, you learned that: developing amm recovery projects at already closed mines entails many risks. not all risks can be eliminated, but some can be managed if they are identified prior to mine closure. one of the major project performance risks is the presence of shallow mine workings and mine entries, whether officially recorded or unrecorded. to investigate the presence or absence of such workings, a thorough review of the geology and mine plans should be undertaken, along with site visits, if necessary.  a necessary part of a project is the design and implementation of engineering measures both underground and at mine entries to manage water flows, minimize air/gas leakages, and facilitate optimized gas production.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62Z1YCbC3iD" slidebank="false" type="slide">module 5 summary (continued) it is important to remember that: engineering measures should be designed to ensure that key gas-transporting roadways do not become blocked by ponded mine water. engineering measures should ensure that abandoned mine entries are properly sealed to prevent air ingress and vents installed as necessary for pressure relief or for connecting an amm extraction system. vents that are not used for amm production can be closed until the amm scheme is abandoned.  the proper design and quality of engineering measures will result in a more successful pre-feasibility study that can help forecast higher amm extraction rates for a longer period of time. in turn, this is more likely to lead to the development of a successful amm project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you! you have completed module 5.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries gmi partner countries account for nearly 70% of total global manmade methane emissions, which is equivalent to approximately 5,000 mmtco2e.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Coal Mine">A mine where the work of all miners has been terminated and production activity and mine ventilation have ceased. Mine shafts might be closed and sealed. For purposes of this document, a coal mine is referred to as “abandoned”, whether or not the mine was closed according to applicable legal requirements. The terms “abandoned mine” and “closed mine” have the same meaning. Abandoned mines are not expected to reopen.</term>
+      <term title="Abandoned Mine Methane (AMM)">The gas remaining, and in some instances newly generated by microbes, in abandoned coal mines held in voids, coal seams and other gas bearing strata that have been disturbed or intercepted by mining operations.</term>
+      <term title="Adit">A horizontal passage leading into a mine for the purposes of access or drainage.</term>
+      <term title="AMM Goaf Borehole">A type of AMM vertical well that uses a borehole drilled for optimal gas extraction from the abandoned mine’s goaf.</term>
+      <term title="Aquifer">An underground layer of water-bearing permeable rock.</term>
+      <term title="Barometric Pressure">The measurement of air pressure in the atmosphere.</term>
+      <term title="Bentonite">An absorbent swelling clay consisting mostly of montmorillonite, which are minerals composed of hydrous aluminum silicates in the form of extremely small particles.</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Capping">The process of sealing or covering a borehole, drift, or shaft.</term>
+      <term title="Casing">A large diameter pipe that is assembled and inserted into a recently drilled section of a borehole. </term>
+      <term title="Closing Mine">A mine that is proceeding to closure for any reason with the intent of permanently ceasing all coal production and sealing all mine entries in accordance with applicable legal requirements.</term>
+      <term title="Coal Bed Methane (CBM)">Methane extracted from coal seams before mining occurs. CBM is also known as virgin coal seam methane or coal seam gas. It is widely considered an "unconventional" source of natural gas.</term>
+      <term title="Coal Seam">A bed of coal usually thick enough to be profitably mined.</term>
+      <term title="Decline Curve Analysis">An estimation technique for reservoir production that was developed to extrapolate trends in the production data from oil and gas wells, first documented by J.J. Arps in 1945. </term>
+      <term title="De-stressed">Relief of pressure concentrations caused by mining or geological factors. </term>
+      <term title="Diffusion">A measure of the mobility of gases from one gradient to another.</term>
+      <term title="Drift">A horizontal or sub-horizontal development opening into the mine.</term>
+      <term title="Feasibility Studies">A type of study for assessing the viability of an AMM project. This type of study is characterized by being thorough and investigating the economic and technical feasibility of project development. A report produced by such a study is considered “bankable”, i.e., documentation is sufficient to secure project financing.</term>
+      <term title="Filled Shaft">A type of AMM vertical well that utilizes a previous mining shaft that has been filled with a permeable material that allows gas to flow up the shaft and to the surface. This type of well is not recommended for AMM production.</term>
+      <term title="Flexible Membrane">A type of semipermeable material or a material that acts as a barrier to prevent the transmission of certain substances.</term>
+      <term title="Founding Horizon">A level horizon of soil or rock that can be utilized when sealing a mine shaft. Components of the seal will be built on this horizon. </term>
+      <term title="Gas Production">The quantity of gas produced by pre-mine drainage and post-mine drainage boreholes and drainage galleries. </term>
+      <term title="Geotechnical">Pertaining to soil and rock behavior in an engineering perspective. </term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf)">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Grout Curtain (Grout Plug)">A barrier that protects from seepage.</term>
+      <term title="Hydrogeological">Pertaining to sources, extent, and flow of groundwater.</term>
+      <term title="Hydrostatic Pressure">Pressure that any fluid in a confined space exerts.</term>
+      <term title="Laminar Flow">Flow in which fluid (gas) travels smoothly or in regular, predictable paths.</term>
+      <term title="Longwall">One of three major underground coal mining methods currently in use. Employs a shearer which is pulled mechanically back and forth across a face of coal that is usually several hundred feet long. This mining method can produce large quantities of coal and gas.  </term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28-35 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="Permeability">The state or quality of a material or membrane that causes it to allow liquids or gases to pass through it.</term>
+      <term title="Pit Bottom Areas">The area immediately around the bottom of a mine shaft.</term>
+      <term title="Ponding">Gathering up of water in a low spot in the mine.</term>
+      <term title="Porosity">The measure of void or pores space present when a solid and is represented by volume percentage of void in the solid. It defines the maximum possible amount of methane that can be retained in the coal. </term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="Roadway">Any mine track used to transport material (coal).</term>
+      <term title="Rock-head">The surface of bedrock beneath soil cover.</term>
+      <term title="Room-and-Pillar">A system of coal mining in which the coal is extracted from large open areas (rooms) with large portions unmined to support (pillars) the overlying rock.</term>
+      <term title="Service Duct">Controlled openings into the mine used to hold cables and pipework.</term>
+      <term title="Shaft">A vertical or near-vertical opening into the mine.</term>
+      <term title="Shaft Liner">The material used to maintain the integrity of the side walls of the mine shaft.</term>
+      <term title="Stopping">A manmade barrier built into the mine to prevent air and gas from moving from one section of the mine to another.</term>
+      <term title="Strata">A layer of sedimentary rock or soil; refers to a layer of coal in this instance.</term>
+      <term title="Suction Pumps (Gas Pump)">A pump used in Petroleum production responsible for drawing out liquids/gasses by means of suction. </term>
+      <term title="Surface Borehole">A type of AMM vertical well that uses a borehole drilled for optimal gas extraction from the coal seam or void.</term>
+      <term title="Unfilled Shaft">A type of AMM vertical well that uses a previous mining shaft to encourage the flow of gas towards the surface. The unfilled shaft allows for the free flow of gas.</term>
+      <term title="United Nations Economic Commission for Europe (UNECE)">The UNECE is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe.</term>
+      <term title="United States Environmental Protection Agency (USEPA)">An independent executive agency of the federal government of the United States federal tasked with protecting human health and the environment.</term>
+      <term title="Upcast Shaft">The shaft up which the ventilating current of air returns to the surface of the fan.</term>
+      <term title="Vent Pipe">Small pipe used in abandoned mines to allow for small amounts of gas to be released. Vent Pipes are installed so that pressure does not build up to dangerous levels.</term>
+      <term title="Ventilation">Controlling the flow of air to change the concentration of methane or other deleterious gases within mine working areas.</term>
+      <term title="Venting">Direct release of natural gas into the atmosphere.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

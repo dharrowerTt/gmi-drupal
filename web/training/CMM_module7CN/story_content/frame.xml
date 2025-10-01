@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="开展CMM项目预可行性研究：单元7" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\68mIGgDxAeK_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/66HHNjQdxI2.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="导航方式" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">缩写词</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">菜单</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="课程介绍" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="1.1煤矿瓦斯项目开发" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="1.2欢迎" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="培训单元" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="2单元7" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="2.1单元7：市场、风险和财务分析" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="2.2学习内容" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5Ys5g024ApN" displaytext="2.3市场分析" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6h3HYbwIASV" displaytext="2.4项目的财务可行性" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jISw7mFtoo" displaytext="评估市场并确定CMM的最终用途方案" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XavjrmAeF4" displaytext=" —概述" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6mQdgWKT8Yu" displaytext="研究" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6VXp16nWlbK" displaytext="评估" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dkND1OJrDp" displaytext="预可行性研究市场分析的步骤— 实施" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5evzQ7Bs68P" displaytext="2.10步骤1概述经济状况" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jwcvi5m0rn" displaytext="2.11步骤2研究能源商品市场" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TpORxtqD4X" displaytext="2.12研究进入能源市场的途经" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5awTbYPy5Pu" displaytext="2.13研究进入能源市场的途经：实体途径" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5tIsgO6byLv" displaytext="2.14研究进入能源市场的途经：技术途径" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6KwCTLcHBvi" displaytext="2.15研究进入能源市场的途经：法律途径" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kI3sELzT1b" displaytext="2.16研究进入能源市场的途经：市场定价" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6N1gvOKOg86" displaytext="步骤3评估环境市场和激励措施" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XCX8sTDQuq" displaytext="市场和激励措施" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6l4SK2jNkSH" displaytext="管制性或履约性碳市场" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZQVA02qt1F" displaytext="自愿碳市场" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.655W9IgOexf" displaytext="2.21可再生能源信用额" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5msHUhwlv1s" displaytext="2.22上网电价" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5tQjLxJKZRX" displaytext="2.23直接补贴" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GDkAZdb3zV" displaytext="税收抵免" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lpyNWGeJ7i" displaytext="“绿色燃气”市场" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DX2Ic9eyrq" displaytext="2.26直接投资" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5rUIls01ovr" displaytext="2.27强制承购" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6H8vRk8cI53" displaytext="研究法律法规" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6H930IDnb5i" displaytext="2.29市场评估示例" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Uqh4IG6L1n" displaytext="CMM市场评估：2个示例" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QELkSu5GFy" displaytext="2.31初步市场研究" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BCvU4WqKUv" displaytext="详细市场研究" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5X2w6Ru5fON" displaytext="2.33确定最佳市场" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6j1SG8qQCVP" displaytext="CMM市场示例#1 –初步评估" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DET0oy5o33" displaytext="CMM市场示例#1 —再次评估" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ZQkYPklipz" displaytext="CMM市场示例#1 — 最终评估" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5vJQbYTxaBH" displaytext="CMM市场示例#2 –初步评估" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Wfsy0nDfW5" displaytext="CMM市场示例#2 —再次评估" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6SVx8ghy212" displaytext="CMM市场示例#2 — 最终评估" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.65l6pKU0MzD" displaytext="2.40风险分析" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5gm2fFpCbYb" displaytext="识别和划定项目风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QtxSzQy2fJ" displaytext="2.42风险分类" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BsfrDrZFfb" displaytext="2.43开发风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5v5pNspccMQ" displaytext="运营风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6U3eQa8COur" displaytext="技术风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eSq0FPpE3V" displaytext="市场风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6M1SZusSY3r" displaytext="财务风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5a0AhjLlDeN" displaytext="2.48法律/政策风险" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61LzQLRvGnl" displaytext="2.49缓解项目风险示例：开发" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5bk5h4NsK9j" displaytext="2.50缓解项目风险示例：运营" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="2.51缓解项目风险示例：技术" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xOE3zzTRXS" displaytext="2.52缓解项目风险示例：市场" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5YyMYYRdFnT" displaytext="2.53缓解项目风险示例：财务" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C9JN7L6aUF" displaytext="2.54缓解项目风险示例：法律/政策" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6hv3q7lS1Tv" displaytext="2.55风险评估工具" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5pYYBYCBo51" displaytext="2.56风险评估工具指示板" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6TOTcukXov0" displaytext="财务分析" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.62RYfcdAhlo" displaytext="2.58财务分析的目标" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65cMYIGObBn" displaytext="2.59财务评估分析" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.60cPBoHKCfr" displaytext="2.60评估方法：财务投入" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6rbg1eR3Xlg" displaytext="2.61评估方法：特定项目投入" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gxkEFzmYqS" displaytext="2.62评估方法：现金流量模型" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6a2T50NOkWv" displaytext="2.63评估方法：财务指标" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5vaPBnfhIE0" displaytext="2.64成本估算和假设" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.690xbYSm5LW" displaytext="财务投入：资本成本" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61ReH0OtyiN" displaytext="2.66财务投入：运营成本" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ajTZM3VVTe" displaytext="财务和项目投入示例" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xQ3IbVCU83" displaytext="2.67选择合适的财务分析模型" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5z5IbDYwkay" displaytext="选择财务模型" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qW7IG7JnlD" displaytext="2.70模型选择的其他考量" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.63JtgfkTDp3" displaytext="2.71财务建模的最佳实践" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.671S9AulDZL" displaytext="财务模型的质量控制" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6AR2tU2kY4K" displaytext="2.73向第三方提供模型" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZdhOyXEnNC" displaytext="2.74财务分析：关键成果" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.67EDGk5GvhP" displaytext="2.75财务分析：关键指标" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5e3e276EHzG" displaytext="2.76财务分析：二级指标" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Z7bRpJ0Ap5" displaytext="2.77温室气体减排的经济收益" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6eRtJXoqLro" displaytext="2.78温室气体减排效益的估算法" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Px8VKww8rc" displaytext="2.79温室气体减排效益的估算法（续）" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6FvJW3PQStf" displaytext="2.79计算温室气体减排效益：全球变暖潜值的作用和间接排放因素" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6JeoEluvCrX" displaytext="2.81量化CMM项目的协同效益" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.656eLededPy" displaytext="2.82财务分析：应对不确定性" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6WhyQmbTwUR" displaytext="2.82应对不确定性：创建潜在结果范围" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.617jm3vul30" displaytext="2.83应对不确定性：合并敏感性分析" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66WGz4wmNqD" displaytext="2.84应对不确定性：将应急基金纳入资本支出和运营费用" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6jxoMAzpPeY" displaytext="2.85应对不确定性：采用保守输入值" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.62SY0Ljpvct" displaytext="2.86应对不确定性：避免“曲棍球杆”式的收益增长" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nT3tLRh14u" displaytext="GMI预可行性研究：经验教训" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6RH8R7miUoi" displaytext="2.89项目中止的原因" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="单元7总结" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">开展煤矿瓦斯项目  预可行性研究 由美国环保局为支持全球甲烷行动倡议（gmi）而提供的培训</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> 欢迎 为支持全球甲烷行动倡议，美国环保局（epa）与联合国欧洲经济委员会（unece）联合制作本课程。 什么是全球甲烷行动倡议（gmi）？ 本课程介绍了煤矿瓦斯（cmm）捕集和/或利用项目开发潜力的评估原则。本课程所介绍的一般方法应以具体煤矿的数据和分析作为基础，并根据具体情况进行调整，以促成项目的开发和实施。  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> 开展cmm项目预可行性研究：  培训单元 单元1：简介和目标 单元2：煤矿背景和评估 单元3：资源评估 单元4：预测瓦斯抽采系统的甲烷产量 单元5：改进瓦斯抽采 单元6：量化改进瓦斯抽采系统的效益 单元7：市场、风险和财务分析 单元8：案例分析—以中国六龙煤矿为例 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">单元7 市场、风险和财务分析</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">学习内容 完成本单元后，您将： 能够确定和分析煤矿瓦斯回收利用项目的潜在市场。 了解量化温室气体（ghg）减排的重要性。 准备好识别和描述特定项目风险。 理解预可行性研究中财务分析的基本概念，包括 用于评估项目可行性的主要财务指标。   完成本单元所需的时间： 约60分钟</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Ys5g024ApN" slidebank="false" type="slide">市场分析</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6h3HYbwIASV" slidebank="false" type="slide">项目的财务可行性 项目的财务可行性取决于项目产生和维持收入的来源，以及该收入源是否能够产生足量现金流维持项目全生命周期内的运营。 项目方通过以下方式获取收益：  销售cmm和/或利用cmm生产加工的能源。 销售环境商品，如减排额度。 通过现场使用cmm来降低成本。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jISw7mFtoo" slidebank="false" type="slide">评估市场并确定cmm的最终用途 预可行性研究的主要目标之一是确定潜在的收入契机。  为了实现这一目标，需研究确定可行的cmm最终用途方案，并评估全部潜在市场。  市场识别、市场评估和  cmm最终用途的评估相互关联。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XavjrmAeF4" slidebank="false" type="slide">预可行性研究市场分析的步骤 — 概述 步骤2：研究  cmm适用的能源商品市场 步骤3：评估环境商品市 场和激励措施 步骤4：研究法律  法规  地方  区域 国家 国际视角（对项目有影响）   步骤1：概述经济状况</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6mQdgWKT8Yu" slidebank="false" type="slide">步骤1： 概述经济状况 预可行性研究市场分析的步骤— 研究 步骤3：评估环境商品市 场和激励措施 步骤4：研究法律  法规   实体途径  法律途径  技术途径 市场定价   步骤2：研究  cmm适用的能源商品市场</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6VXp16nWlbK" slidebank="false" type="slide">步骤1： 概述经济状况 预可行性研究市场分析的步骤— 评估 步骤2：研究  cmm适用的能源商品市场 步骤4：研究法律  法规   市场类型： 碳信用额、可再生能源信用额、上网电价、税收抵免等 自愿框架或监管框架 市场的地位、期限和流动性 cmm项目资格 市场定价 步骤3：评估环境商品 市场和激励措施</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dkND1OJrDp" slidebank="false" type="slide">步骤1： 概述经济状况 预可行性研究市场分析的步骤— 实施 步骤2：研究  cmm适用的能源商品市场 步骤3：评估环境商品市 场和激励措施   适用的激励措施： 补贴、税收抵免、费用减免 煤矿安全和其他法律管辖权 对cmm或通风瓦斯（vam）回收利用的限制 许可和授权时间表  步骤4：研究法律  法规</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5evzQ7Bs68P" slidebank="false" type="slide"> 步骤1 — 概述经济状况 预可行性研究报告中的经济状况为综合概述，着重介绍经济总体情况。 目的是展示经济、政治及投资环境的现状和未来方向。   点击查看概述经济状况时可能需要考虑的相关问题。  国际视角 国家 区域 地方 概述应反映：    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jwcvi5m0rn" slidebank="false" type="slide">步骤2 — 研究能源商品市场 不存在定义“最佳”应用的技术体系。  项目开发商将得到以下指导：  瓦斯质量和气量 市场准入 矿企的优先项目 项目经济学  融资渠道 公共政策优先事项 以下所示为cmm项目在全球的成熟应用。 化工原料 发电 天然气区域销售和出口销售 运输燃料 供冷 热电联产  空燃 工业用途</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TpORxtqD4X" slidebank="false" type="slide">实体途径 研究进入能源市场的路经  技术途径 法律途径 市场定价  尽管cmm可以在不同市场中得到多种应用，但这并不能保证项目成功。 为了取得成功，cmm项目必须能够进入一个财务上可行的市场。  预可行性研究报告应涉及： 实体途径 技术途径 法律途径 商品市场定价</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5awTbYPy5Pu" slidebank="false" type="slide">研究进入能源市场的途经：实体途径 技术途径 法律途径 市场定价  cmm项目所在地区是否有实际存在的市场，可以向市场输送cmm或cmm生产利用的能源？ 示例： 在合理的距离内是否有天然气管道用于售气？离矿区50公里的干线需要匹配50公里的管道支线，经过多级压缩后，支线向干线输气，干线将瓦斯输送到目标市场。支线和压缩的成本并不经济。 如果附近有一条管道，这条管道是否有余力来完成额外输气？  实体途径</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tIsgO6byLv" slidebank="false" type="slide">实际途径 研究进入能源市场的途经： 技术途径 法律途径 市场定价  该项目是否能够达到向市场交付的技术标准？ 示例： 瓦斯质量是否能够满足进入管道的要求？  电网是否允许并网？  用于空燃和发电的瓦斯甲烷平均浓度是否达到25-30%的下限、通风瓦斯的平均甲烷浓度是否至少为0.30%？  技术途径</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KwCTLcHBvi" slidebank="false" type="slide">实体途径 研究进入能源市场的途经： 法律途径 技术途径 市场定价  cmm或cmm生产加工的能源能否合法进入市场，是否存在任何已知的法律障碍禁止其在特定市场使用？ 示例： 谁掌握或控制cmm的所有权 —煤矿所有者/经营者或项目开发方是否有权生产、销售或使用输送到地面的cmm？ 法律条款是否优先或禁止cmm的某些用途？例如，是否允许空燃成为独立业务，还是必须匹配其他业务？ 法律途径</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kI3sELzT1b" slidebank="false" type="slide">实体途径 研究进入能源市场的途经： 市场定价 技术途径 法律途径  市场定价 市场价是否能产生足够现金流来覆盖资本成本和运营成本？ 示例： 提供当前商品价格和未来预测价（如有）。 识别可能影响价格的未来事件。 cmm项目是面向批发市场还是零售市场销售，价格是否反映了正确的市场选择？</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6N1gvOKOg86" slidebank="false" type="slide">步骤3 — 评估环境市场和激励措施 cmm项目的财务回报可以通过以下方式提高：  利用不同的激励措施 参与环境市场  下张幻灯片将根据cmm项目经验罗列适配的环境市场。  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XCX8sTDQuq" slidebank="false" type="slide">市场和激励措施  预可行性研究报告应在可行范围内总结所有潜在的环境市场和激励措施，并逐项提供以下信息： 市场或激励措施的名称和类型  cmm项目的资质 市场或激励措施的现状和其他相关信息，包括开始和结束日期、体量或金额限制及任何资格限制或禁令 特定市场的流动性和参与度 cmm项目的价值主张，包括市场价格或激励价值  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6l4SK2jNkSH" slidebank="false" type="slide"> 管制性或履约性碳市场 碳市场通常由政府主管，设有碳排放上限，允许根据上限产生和交易减排信用额。迄今在大多数碳市场中，煤矿不属于温室气体排放上限的监管源，目前允许cmm项目开发方将信用额度作为补偿额卖给其他行业的管制设施，即“合规买家”。  碳融资可能较难实现，障碍包括：对cmm来源和最终用途的监管限制、验证和确认过程、抵消额公布、价格波动和不确定性以及市场寿命等。   在为预可行性研究制定预测时，通常可以通过监管机构、商品交易所或信息中心查找价格。   市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZQVA02qt1F" slidebank="false" type="slide"> 自愿碳市场 自愿碳市场不受监管，cmm项目卖家可以向买家出售碳排放信用额。但这种信用和交易可能不被政府承认。   销售或是私下进行的“场外”销售，或自愿进行了登记。  合同价格通常不公开。  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.655W9IgOexf" slidebank="false" type="slide"> 可再生能源信用额 一些地区已将cmm列为可再生能源或替代能源， 允许cmm发电项目获得可再生能源证书或信用额（rec）。  对于购电方来说，如果希望部分或全部能源来源构成中包括可再生能源，那么可rec或带来收益。  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5msHUhwlv1s" slidebank="false" type="slide"> 上网电价 上网电价（fits）是一种激励可再生发电技术应用的政策机制。  cmm发电项目的上网电价（美元/千瓦时）通常高于第三方电力供应商的市价。  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tQjLxJKZRX" slidebank="false" type="slide"> 直接补贴 有时为鼓励cmm的回收和使用，政府部门或根据项目开发方每销售一千瓦电力或每利用一立方米纯甲烷进行直接补贴。 市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GDkAZdb3zV" slidebank="false" type="slide"> 税收抵免 为了更好地支持环境可持续技术的应用、鼓励温室气体减排，部分地区针对cmm专门立项或把cmm作为子项目纳入规模较大的环境友好项目中给予税收抵免优惠。  抵免可以根据收入进行减税或免税。除降低成本外， cmm项目开发商还可以利用税收抵免进行税收权益结构融资。  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lpyNWGeJ7i" slidebank="false" type="slide"> “绿色燃气”市场 与可再生能源市场类似，天然气市场可以将部分来源的天然气归类为“绿色燃气”，以实现更具环境可持续性的天然气供应。   通过这类细分，绿色燃气会产生溢价。  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DX2Ic9eyrq" slidebank="false" type="slide"> 直接投资 出于支持市场开发、技术研发、地方经济发展等其他原因，政府、行业团体或其他利益相关方可直接投资于cmm项目。  投资形式包括直接股权投资、附带优惠条款的债务融资或赠款。  市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5rUIls01ovr" slidebank="false" type="slide"> 强制承购 无论当下市场是否需要额外产能，政府和其他主管部门可以要求电网或天然气管网接受cmm项目输送的电力或瓦斯气，并支付费用。  这种方法可大大降低项目的市场风险。   市场和激励措施的类型 管制碳市场 自愿碳市场 可再生能源信用额 上网电价 直接补贴 税收抵免 “绿色燃气”市场 直接投资 强制承购</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6H8vRk8cI53" slidebank="false" type="slide">步骤4 —研究法律法规 cmm项目部分内容或将受到法律和政策的影响。预可行性研究不需进行详细的法律研究，相关研究也无需穷尽法律审核和分析。但如果已知有可能影响本项目的主要法律法规要求，应明确相关内容。  煤矿安全法规，包括与cmm回收和利用相关的许可、登记和监察要求 环境法规，包括空气质量、水质和废物处置标准 温室气体上报、管理和减排要求 土地使用和施工许可  噪音治理 生产和利用cmm的矿权 税费</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6H930IDnb5i" slidebank="false" type="slide">市场评估示例 此模块种包括2个gmi预可研示例，展示了如何通过分析来确定潜在及相关市场。  特征 示例1 示例2 位置 中国贵州省 中国山西省 地形 喀斯特地形 山地 距离最近的市区 3公里 10公里</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Uqh4IG6L1n" slidebank="false" type="slide">cmm市场评估：2个示例 cmm市场评估 步骤3 最佳市场的确定 步骤2 对潜在市场的详细研究 步骤1 对潜在市场的初步研究  两示例遵循了类似评估方法。     </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QELkSu5GFy" slidebank="false" type="slide">市场初步研究 cmm市场评估 步骤3 最佳市场的确定 步骤2 对潜在市场的详细研究 步骤1 对潜在市场的初步研究  根据7个潜在市场初步评估，判断是否需要进行下一步评估。  根据标准排除不适合开展cmm项目的市场。 通过收集相关数据，可以快速完成步骤一。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BCvU4WqKUv" slidebank="false" type="slide">市场详细研究 cmm市场评估 步骤3 最佳市场的确定 步骤2 对潜在市场的详细研究 步骤1 对潜在市场的初步研究  根据现场特定因素对剩余选项进行评估，包括： 进入市场的技术、实体和法律途经 市场价格和大致经济分析 监管约束和企业目标 步骤2进一步排除了大多数选项，剩下的项目将在步骤3中进一步分析。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5X2w6Ru5fON" slidebank="false" type="slide">确定最佳市场 cmm市场评估 步骤3 最佳市场的确定 步骤2 对潜在市场的详细研究 步骤1 对潜在市场的初步研究  最终评估是对项目财务可行性进行的更详细的评估。  最终应用是否得到煤矿管理层和项目开发方的支持？ 尽管项目技术可行，但项目是否能予以实施？ 财务分析是否认为项目能获得积极的财务回报？ 最佳项目有哪些，如何对比最佳项目？  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6j1SG8qQCVP" slidebank="false" type="slide">cmm市场示例#1 –初步评估 市场 评估 继续该选项？ 本地天然气输配 本地输配系统位于该区域内 是 发电：现场利用 煤矿用电需求量大 是 发电：电网销售 可以接入电网和实现电网销售 是 锅炉燃料 煤矿有供热需求 是 天然气输送 该区域无高压输电线接入 否 工业用途 与地面产气点的合理距离内无任何工业用户 否 压缩天然气/液化天然气 可制备压缩天然气；但天然气质量过低，无法制备液化天然气 是 煤矿位置 地形 其他因素 瓦斯质量 靠近城市  喀斯特  环境敏感区  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DET0oy5o33" slidebank="false" type="slide">cmm市场示例#1 —再次评估 市场 评估 继续该选项？ 本地天然气输配 补贴可以改善经济状况，但下列情景不利于盈利：管网超负荷运行；产能闲置多年；煤矿抽采系统与天然气输配系统之间未联通；气价低 否 发电：现场使用 煤矿用电需求：符合公司政策并得到管理层的支持；具有丰富的国内cmm发电项目经验；设计建造能力；经济上具备吸引力；抵消高工业电价；可以获得补贴 是 发电：电网销售 获得补贴：可以接入电网；电网销售的难度可能较大 是 锅炉燃料 由于气候暖和，供热需求有限 否 天然气输送 初步评估已排除 否 工业用 初步评估已排除 否 压缩天然气/液化天然气 压缩天然气/液化天然气不经济  否 煤矿位置 地形 其他因素 瓦斯质量 靠近城市  喀斯特  环境敏感区  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ZQkYPklipz" slidebank="false" type="slide">cmm市场示例#1 — 最终评估 市场 评估 项目优先市场？ 本地天然气输配 第二次评估已排除 否 发电：现场使用 煤矿公司管理层优先考虑；初步分析表明该方案最具经济性 是 发电：电网销售 经济效益良好，但电网销售难度大 否 锅炉燃料 第二次评估已排除 否 天然气输送 初步评估已排除 否 工业用 初步评估已排除 否 压缩天然气/液化天然气 第二次评估已排除 否 煤矿位置 地形 其他因素 瓦斯质量 靠近城市  喀斯特  环境敏感区  30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vJQbYTxaBH" slidebank="false" type="slide">cmm市场示例#2 —初补评估 市场 评估 继续该选项？ 民用燃气 附近城镇没有已建系统或需求 否 发电：现场使用 煤矿通常需要消耗大量电力；现有cmm电厂已有基础设施便于扩展   是 发电：电网销售 可以接入电网和实现电网销售  是 锅炉燃料 煤矿有供热需求 是 天然气输送 该区域无高压输电线 否 工业用 附近建有一家化肥厂，有供热需求 是 压缩天然气/液化天然气 可制备压缩天然气；但天然气质量过低，无法制备液化天然气 是 煤矿位置 地形 瓦斯质量 农村区域 山地 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Wfsy0nDfW5" slidebank="false" type="slide">cmm市场示例#2 —再次评估 市场 评估 继续该选项？ 城市燃气 初步评估已排除 否 发电：现场使用 煤矿额外电力需求：管理层支持；现有cmm电厂 — 煤矿配有基础设施，已积累相应经验和专业知识；减少高成本的电网采购；可以获得补贴 是 发电：电网销售 可以接入电网获得补贴 是 锅炉燃料 煤矿管理层不优先考虑 否 天然气输送 初步评估已排除 否 工业用 向化肥厂售气价格较高，确保了项目的经济吸引力；工厂靠近抽采泵站，可将运输成本降至最低 是 压缩天然气/液化天然气 压缩天然气/液化天然气并不具有经济性  否 煤矿位置 地形 瓦斯质量 农村区域 山地 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6SVx8ghy212" slidebank="false" type="slide">cmm市场示例#2 — 最终评估 市场 评估 项目优先市场？ 民用燃气 初步评估已排除 否 发电：现场使用 管理层优先考虑；初步分析表明，该方案最具经济性 是 发电：电网销售 经济效益良好，但电网销售的难度大 否 锅炉燃料 第二次评估已排除 否 天然气输送 初步评估已排除 否 工业用 初步分析表明，向化肥厂售气可盈利；项目离工厂近，物流管理难度小，不需要进行气体处理和净化 是 压缩天然气/液化天然气 第二次评估中被排除 否 煤矿位置 地形 瓦斯质量 农村区域 山地 30-40% ch4</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65l6pKU0MzD" slidebank="false" type="slide">风险分析</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gm2fFpCbYb" slidebank="false" type="slide">识别和划定项目风险 cmm项目与工业项目类似，会受外部和内部因素影响，影响面涉及项目开发和运营、工人健康和安全、盈利能力，最终影响项目可行性。  所以在项目开发前应尽可能识别、评估和制定计划来管理相关因素或项目风险，这一点至关重要。   这不仅要求项目开发方审慎规划和执行，也需要贷款方和投资者仔细排查和分析，确保分析的可信度，为继续执行完整的可行性研究提供支持。   制定完整的可行性报告需要进行全面的风险评估和管理计划。预可行性研究报告可以接受部分完整的风险评估。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QtxSzQy2fJ" slidebank="false" type="slide">风险分类 预可行性研究报告旨在对已知的 核心风险进行识别和分类。  由于时间和资源有限，预可行性研究中的风险评估或是定性评估。  还可以通过三步展示：确定风险、简单描述风险、提出风险缓解策略。  项目风险通常  分为： 开发风险 运营风险 技术风险  市场风险 财务风险 法律/政策风险 下面几张幻灯片将对各类风险加以讨论。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BsfrDrZFfb" slidebank="false" type="slide">开发风险  开发风险包括： 设计错误 施工延误 设备延误 启动问题  项目风险类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5v5pNspccMQ" slidebank="false" type="slide">运营风险  运营风险包括： 维修超预期 监测系统故障 燃烧效率低于预期 煤矿关闭或所有权变更  项目风险类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6U3eQa8COur" slidebank="false" type="slide">技术风险  技术风险包括： 对瓦斯资源的过高估计 瓦斯质量/气量下降 与煤矿运营方沟通协调不良 无法与市场建立务实联系  项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eSq0FPpE3V" slidebank="false" type="slide">市场风险  市场风险包括： 商品价格或碳价下降 交易成本增加 交易方无力支付供气费用 市场准入被拒  项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6M1SZusSY3r" slidebank="false" type="slide">财务风险  财务风险包括： 开发、运营和资金成本高于预期 没有外部资金 财务成本高于预期  项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5a0AhjLlDeN" slidebank="false" type="slide">法律/政策风险  法律/政策风险包括： 项目受法规禁止或限制 法律或政策变更，对项目造成影响 许可证或授权未发放  项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61LzQLRvGnl" slidebank="false" type="slide">缓解项目风险示例：开发 风险 影响 缓解措施 施工和启动延迟导致开工日期延迟 项目成本增加，收入损失以及延迟交付可能需要向能源和碳承购商支付罚金 制定详细的项目开发计划并定期更新。优化合同条款，鼓励按时施工、调试和启动，同时减少或删除延误交付产生罚金的条款。考虑通过加入收益和成本分担机制来应对提前完工或延迟完工。  项目设计未有效考虑现场特定条件  根据规范设计和建厂产生的额外费用 进行完整的尽职调查，包括评估道路和其他运输要求，测试地基土壤，确定其他可能影响现场作业的因素。 项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5bk5h4NsK9j" slidebank="false" type="slide">缓解项目风险示例：运营 风险 影响 缓解措施 接入电网或管道延迟  收益产生推迟  如果项目可行，可提早协商，或根据cmm布局接入现场已有的管道或网络。通过初步实施空燃等抵消项目获得早期收入。 接入成本增加  利润减少 寻求固定价格合同  项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">缓解项目风险示例：技术 风险 影响 缓解措施 瓦斯供应下降速度比预期快，原因包括可回收的瓦斯源分散，矿井易被水淹，数据分析错误  收入减少，项目提前终止，无法交付合同约定的气量 改进预测：在完整可行性研究中进行深入调查和测试，同时开发更详细的地质和储层衰减模型  生产矿井关闭 采取补救措施前无收入  在（预封闭）井口处安装抽采双管线，或在封井后更换钻孔抽采 瓦斯质量损失 供电或供热减少，甚至终止 煤矿井口密闭整改  设备故障  整改前收入损失 准备详细质保；业务中断保险；按计划维护保养；仅用设备厂商的原装备件 项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xOE3zzTRXS" slidebank="false" type="slide">缓解项目风险示例：市场 风险 影响 缓解措施 唯一客户经营失败 找到新客户前收入源受损  拥有多个客户；探索双重收入来源  电力或工业用气价格下降 收入损失  双重收入来源；只开发高回报投资项目，确保一定灵活性 碳市场不景气  碳收入损失 双重收入来源 项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5YyMYYRdFnT" slidebank="false" type="slide">缓解项目风险示例：财务 风险 影响 缓解措施 贷款方和投资者反对为煤炭相关项目注资  无法融资 强调温室气体减排的积极效益。有条件可以采用碳融资。 碳资产无法交付  市场减排信用额的附加成本 公认的业务风险 项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C9JN7L6aUF" slidebank="false" type="slide">缓解项目风险示例：法律/政策 风险 影响 缓解措施 许可证或授权未发放 项目无法施工 进行彻底的尽职调查，确定必备的许可证和授权，包括地方、省和国家层面有关煤矿安全、环境、建筑、碳市场等全部手续和文件。可以考虑外包给专业团队操作来降低风险。 法律或政策变更对项目造成影响 项目无法施工或继续运营  了解影响项目的地方、省和国家法律，并与相关政府机构取得联系，沟通项目变更对长期运营的影响。 项目风险的类型 开发 运营 技术 市场 财务 法律/政策</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hv3q7lS1Tv" slidebank="false" type="slide">风险评估工具 为了便于进行风险分析，项目开发方可以使用风险评估工具，系统地识别和解决风险。  工具之一是风险登记表： 确定主要风险类别（如法律、市场、技术、运营等） 确定各个类别的特定风险（固有风险）和费率风险 列出各类风险的缓解措施，以减少风险暴露（剩余风险） 主要风险类别 特定风险1 特定风险2 缓解措施 缓解措施 缓解措施       </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5pYYBYCBo51" slidebank="false" type="slide">风险评估工具指示板 详细的项目风险评估工具更适合可行性研究报告，因为预可行性研究报告仅评估有限数量的主要风险。但也可为预可行性研究报告编制简化的风险登记表。  为可行性研究报告准备的  指示板或风险登记表示例</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TOTcukXov0" slidebank="false" type="slide">财务分析</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62RYfcdAhlo" slidebank="false" type="slide">财务分析的目标 在预可行性研究中，财务分析对于预测cmm项目产生的现金流和帮助确定项目的财务可行性至关重要。  预可行性研究的财务分析应向决策者传达哪些项目财务信息？信息包括： 提供项目未来现金流的合理估计 — 收入为正，支出为负。  估算项目的利润（或损失）和投资回报。 量化部分项目风险（财务和技术）。 评估项目产生的能源商品和环境商品。   为预可行性研究报告编制的财务分析，应确保分析内容全面，以便可以评估财务可行性，但现阶段的财务分析一般不视为可以确定项目融资的“投资级”文件。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65cMYIGObBn" slidebank="false" type="slide">财务评估分析 财务评估分析的步骤包括：  步骤1:  确认财务投入。 步骤2:  确定特定项目投入。 步骤3:  构建折现现金流模型。 步骤4:  考虑财务绩效指标，用于项目评估。   接下来的幻灯片将对每个步骤进行详细阐述。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.60cPBoHKCfr" slidebank="false" type="slide">评估方法：财务投入 步骤2：确定特定项目输入值 步骤3：构建折现  现金流量模型 步骤4：考虑财务绩效指标，用于项目评估  项目条款 开发成本 资本成本 运营成本 支出时间 收入源和价值 通货膨胀率、利息、折现率和汇率 步骤1：确认财务投入</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rbg1eR3Xlg" slidebank="false" type="slide">步骤1：确认财务投入 评估方法：特定项目输入值 步骤3：构建折现  现金流量模型 步骤4：考虑财务绩效指标，用于项目评估  甲烷浓度 甲烷流量 钻探计划表 燃烧和发电机效率 项目运行时效（0-100%） 全球变暖潜能值（gwp） 步骤2：确定特定项目输入值</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gxkEFzmYqS" slidebank="false" type="slide">步骤1：确认财务投入 评估方法：现金流模型 步骤2：确定特定项目输入值 步骤4：考虑财务绩效指标，用于项目评估  重新构建或采用现成模型  现金流 利润表 关键财务指标  敏感性分析 步骤3：构建折现  现金流量模型</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a2T50NOkWv" slidebank="false" type="slide">步骤1：确认财务投入 评估方法：财务指标 步骤2：确定特定项目输入值 步骤3：构建折现  现金流量模型  评价项目的关键财务绩效指标包括： 主要指标 净现值（npv） 内部收益率（irr） 回收期（年或月）  次要指标 盈利能力 投资回报率（roi）  步骤4：考虑财务绩效指标，用于项目评估</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vaPBnfhIE0" slidebank="false" type="slide">成本估算和假设  开发cmm项目所需实物和服务的成本估算基于： 当地提供的数据。 本区域类似项目的平均成本。 公开资料。  无需考虑成本和收益投入后的合同值。但预可行性研究的假设应偏保守。  项目进入可行性研究后会进行  更详细的分析。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.690xbYSm5LW" slidebank="false" type="slide">财务投入：资本成本 分析中可能包括的资本成本为：    无法获得成本实际估算值时可以采用预估值，并请在分析中应予以注释。  请点击各类成本查看具体列表。请注意，根据获批预可行性研究报告中的预算和时间表可能无法知晓各成本项的实际估算值。  场地准备成本  基建成本  设备成本</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61ReH0OtyiN" slidebank="false" type="slide">财务投入：运营成本 运营成本是与项目日常维护和管理相关的经常性成本。    运营成本可能包括：  采气成本或采矿权使用费 租用费或租赁费 常规注册费 管理和行政费用 人工成本 维护 仪器校准 备品备件  运输 燃料  水处理和排放 包括项目验证、减排核查和交易等流程的能源及环境商品货币化产生的交易费用 债务利息 纳税</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ajTZM3VVTe" slidebank="false" type="slide">财务和项目投入示例 点击下列链接，查看gmi预可行性研究报告财务分析中采用的投入示例：  中国山西省腾晖煤矿瓦斯抽采利用预可行性研究  项目投入 — 预测采气速度  cmm发电项目的预估资金、运营成本和其他项目投入  cmm项目优化瓦斯抽采的预估资金、运营成本和项目投入</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xQ3IbVCU83" slidebank="false" type="slide"> 选择合适的  财务分析模型 开展预可行性研究的项目开发方可以选择多种财务模型，包括定制模型、稳健模型、一般模型。定制模型 特定项目模型是一种专门为cmm项目设计和建立的定制模型，该模型可以在常规电子表格软件中使用，如ms excel®。模型的建立和测试需要一段时间，但生成的结果最准确和可靠，因为模型专门为特定项目设计，还可以按需调整。该模型也最适合升级成为可行性研究所需的详细、全面模型。 调整或改良模型 项目开发方也可选择现成的通用财务模型。此类模型广泛应用于常规电子表格软件中，不专门针对cmm项目，因此需要改良。此类模型通常不能进行完全定制，建模型所需时间较短，但生成的结果不尽可靠。  公开的标准化模型 最后是采用更通用的公开模型，例如usepa cmop现金流模型（https://www.epa.gov/cmop/cmm-cash-flow-model）。此类模型需要用户主动输入数据后生成附带财务指标的现金流模型，指标包括净现值（npv）和内部收益率（irr）。该模型可为用户提供快速分析和一般结果，不属于 “投资级”模型。该模型灵活性最低，限制了用户为特定项目定制模型的能力。   更具体和更准确 不具体和不准确 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5z5IbDYwkay" slidebank="false" type="slide">选择财务模型 预测项目现金流的财务模型选择  取决于： 预可行性研究的目标  时限 分析深度 数据的可用性和准确性  企业的政策 无论选择哪种模型，项目开发方都应了解模型的结构、准确性和局限，以便有效地解读和应用模型结果。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qW7IG7JnlD" slidebank="false" type="slide">模型选择的其他考量 项目开发方应决定本项目是否涉及债务融资，并据此构建模型。 同时需确定该模型是否为独立模型，还是需要与企业的财务模型结合或兼容。  为确保模型易用、输入和输出简明、审计便利，财务模型的构建和演示应该遵循下一张幻灯片所列的良好实践。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.63JtgfkTDp3" slidebank="false" type="slide"> 财务建模的良好实践 采用金融行业惯例（如，横向列出按时间计算的年/月以及现金流，纵向列出数据类别）。 定义主要假设。 避免采用多层级的复杂模型。 控制公式的复杂度，公式的引用项和从属项。  尽量减少使用宏指令。 确保输入、计算和输出工作表/屏幕干净整洁、条理清晰，易于浏览。 如有可能，按月计算成本、收益和现金流，并将月度总额汇总为年度总额。但预可行性研究报告接受按年计算的现金流。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.671S9AulDZL" slidebank="false" type="slide">财务模型的质控 财务模型是财务分析的基础。由于项目开发方必须为潜在投资人提供模型，所以模型的完整和准确对于分析报告、预可行性研究的可靠性以及项目开发方的成功至关重要。 良好实践包括： 控制模型质量。 定期测试和审核模型。 将计算复核并入模型。 对比 “常识”测试后的模型结果与知情估计的预期值。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AR2tU2kY4K" slidebank="false" type="slide">向第三方提供模型 寻求第三方融资时，可以向第三方提供模型。  提供投资前，第三方投资人要求访问模型。 模型可审计：投资人如果无法理解或操作该模型，就不太可能注资。 明确定义模型假设。 流程图或用户指南可以为内外部用户提供帮助。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZdhOyXEnNC" slidebank="false" type="slide">财务分析：关键成果 为cmm预可行性研究构建的现金流模型和财务分析将生成多种财务绩效指标，用于评估项目的财务可行性。 虽然诸多因素会对项目决策产生影响，但绝大多数情况下，决策主要基于财务分析的结果以及cmm的市场供应状况。    下页幻灯片中的表格展示了评估cmm项目潜在财务可行性的主要和次要财务指标。  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.67EDGk5GvhP" slidebank="false" type="slide">财务分析：关键指标  财务指标 定义 决策标准 关键考虑因素 净现值（npv） 项目产生的未来现金流的现值。未来现金流按照公司资金成本“折现”。如果净现值&gt; 0，项目的现金流将超过投资成本。净现值按货币价值记。 如净现值大于零，项目可以开展。 根据能源和环境商品价格以及通货膨胀率预测。 采用折现率（加权平均资金成本）计算。  内部收益率（irr） 内部收益率即在净现金流分析中将所有现金流净现值（npv）归零时的折现率。按百分比记。 如内部收益率高于公司的“门槛回报率”，即项目开发方可接受的最低回报率（如11%），项目可以开展。 门槛回报率可以是税前或税后的内部收益率（需明确）。 内部收益率更适用短期项目及低资本支出项目。 如内部收益率和净现值矛盾，以净现值为准。 回收期 项目实现“收支平衡”即收益与支出相等所需的时间。 倾向较短回收期 可计算简单回收期（无折现）或折现回收期（根据折现现金流实现收支平衡）。  不能仅根据回收期长短做投资决策。 与其他指标联合使用可以提供更开阔的视角。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5e3e276EHzG" slidebank="false" type="slide">财务分析：二级指标  财务指标 定义 决策标准 关键考虑因素 投资回报率（roi） 通过比较净收益和投资成本来衡量项目结束时特定投资的回报。 预测投资回报率在10-20%间，可以开展项目。 采用非折现值时无需考虑货币的时间价值。此时，净现值是评估项目可行性的最好指标。  可接受的投资回报率取决于多种因素，包括风险承受能力、项目时间表等。 盈利指数 项目未来现金流现值除以初始投资。  大于1 与净现值密切相关。 当净现值为正数时，数值必须大于1。数值越高，项目盈利能力越强。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Z7bRpJ0Ap5" slidebank="false" type="slide">温室气体减排的经济收益  cmm项目可以产生能源和环境效益。环境效益至关重要，可以形成市场或成为一项融资需求。 cmm项目可产生用于交易的碳信用额和碳抵消额，为项目带来额外收益。最好是预估整个项目周期内的温室气体减排量。 双边或多边融资要求的可行性和预可行性研究报告一般要求预估。 gmi赞助的所有预可行性研究报告要求预估。   如果项目进入了碳信用额和碳抵消额市场，项目所有者可能会面临严格核查，证明温室气体减排的透明性和准确性。    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6eRtJXoqLro" slidebank="false" type="slide">温室气体减排收益的估算法 温室气体减排量的计算方法因市场而异。预可行性研究报告编制方应广泛调研，了解适用的方法，准确计算减排量。 不止在财务分析中需要量化减排，无论减排信用额和抵消额的收益高低，量化减排都可以反映项目的环境效益。  除计算cmm项目的直接减排量外，项目还产生了可量化的间接减排量。  直接排放是采矿活动产生的甲烷排放量；直接减排指的是减少作业现场排放的甲烷。 间接排放的减少指采矿作业活动后续产生的减排，排放源为其他实体所有或控制。cmm项目中，瓦斯发电（取代燃煤发电）向电网供电或将间接减排二氧化碳。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Px8VKww8rc" slidebank="false" type="slide">温室气体减排收益的估算法（续） 进行预可行性研究时，如未规定计算方法和全球变暖潜值，可以根据联合国政府间气候变化专门委员会（ipcc）发布的全球变暖潜值计算cmm项目的直接和间接减排量。  确定项目产生碳信用额/抵消额（基于甲烷）的收益为全球变暖潜值，潜值基于100年的时间框架，大多数碳市场也遵循100年的基准框架。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FvJW3PQStf" slidebank="false" type="slide">计算温室气体减排效益：   全球变暖潜值的作用和间接排放因素 设置碳抵消额价格时可额外增设一条收益线。减排量计算如下： 甲烷燃烧产生的二氧化碳：甲烷燃烧会产生二氧化碳，所以估算cmm项目减排量时必须减去燃烧释放的二氧化碳，得到二氧化碳净减排量。燃烧1吨甲烷产生2.75吨二氧化碳，处理1吨甲烷，净减排量为22.25吨二氧化碳当量。 甲烷的全球变暖潜值：目前，大多数碳市场上采用的全球变暖潜值为25，指向大气中排放1公吨甲烷相当于排放25公吨二氧化碳。该数值源自联合国政府间气候变化专门委员会第四次评估报告（ipcc，2007年），此后每份评估报告采用的潜值有所调整。开发方应确认其拟参与市场的参考值，准确计算待售cmm排放抵消额的价值。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6JeoEluvCrX" slidebank="false" type="slide">量化cmm项目的协同效益 量化其他污染物的减排量将有助于确定项目的关键协同效益，同时可能为项目带来额外收益。所以计算污染物的减排量或将产生有益结果。  可考虑二氧化硫、一氧化二氮、颗粒物和汞等最常见污染物。 获取可靠的区域或地方电网排放因子。这类数据通常仅用于大型电力或供暖项目。   为什么需要量化其他污染物？     可能是法定义务。 可能存在这类污染物的减排市场，减排可以创造收益。 注：预可行性报告中的减排更强调项目的环境协同效益。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.656eLededPy" slidebank="false" type="slide">财务分析：应对不确定性 所有项目都会面临不确定性，例如项目延期、设备价格变动、销售价格波动、气体组分和流量变化。  财务分析应考虑上述及其他不确定性。    并通过下列步骤分析不确定性： 创建潜在结果范围（基线、高值和低值）。 将敏感性分析纳入财务分析。 在财务分析的资本支出和运营费用中加入应急基金。 输入值采用保守假设。 避免“曲棍球杆”式收益增长。   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WhyQmbTwUR" slidebank="false" type="slide">应对不确定性：  创建潜在结果范围 应对不确定性的方法包括创建基线、高值和低值，向投资者展示项目最务实的财务结果及波动的上限和下限。 基线 代表常规经营业下的预期结果。 高值 调整分析中的输入值，接近项目最合理上限，如，商品售价高、资本支出和运营费用低及利率低。  低值 调整分析中的输入值以接近除项目失败以外的下限。如，商品销售价低、融资成本高及瓦斯产量低于预期。 </slidetext>
+      <slidetext slideid="6R0OsurKeaO.617jm3vul30" slidebank="false" type="slide">应对不确定性：  合并敏感性分析      cmm项目中，通常基于下列变更进行敏感性分析：瓦斯质量和产量、电力或天然气的销售价格、碳市场价格、资本支出和运营费用，延期施工及启动。  敏感性分析支持建立基线、高值和低值。   另一种应对不确定性的方法是在财务分析中合并敏感性分析。 通过调整关键输入值，项目开发方可以了解对项目影响最大的成本和收益。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.66WGz4wmNqD" slidebank="false" type="slide">应对不确定性：  将应急基金纳入用于资本支出和运营费用  应对不确定性的另一种方法是在财务分析中把应急基金纳入用于资本支出和运营费用。 应急基金是指在项目开始时预留的闲置资金，用于对冲意外成本。基金规模取决于： 项目风险 企业政策 其他因素   应急基金通常为预计资本支出和运营费用总额的5%—20%。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jxoMAzpPeY" slidebank="false" type="slide">应对不确定性：  采用保守输入值 采用保守输入值是应对不确定性的一种方法。  财务分析应基于现实、保守的假设和输入值来进行项目财务可行性的现实评估。   过分夸大的输入值，如售价不现实的增长、设备和运营费低于市场成本及在项目生命周期内持续保持最大产能有可能导致误导性的财务分析。   采用不现实的输入值对于精通财务模型审核和评估的项目投资者来说也是危险信号。   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62SY0Ljpvct" slidebank="false" type="slide"> 应对不确定性：  避免“曲棍球杆”式收益增长 项目支持者在寻求融资的过程中通常会预测收益或利润增长曲线，该曲线在项目早期至中期增长缓慢，在未来几年呈现指数增长， 这就是 “曲棍球杆”式增长曲线。  曲棍球杆式增长对于投资者是另一种危险信号，支持这类增长曲线的基础数据都将被投资者认为“不现实”并仔细审核。     增长   时间  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nT3tLRh14u" slidebank="false" type="slide">gmi预可行性研究：经验教训 从gmi预可行性研究中吸取的经验包括： 配合煤矿明确研究的目的、定义和范围。 了解时限和预算（注：这不是完整的可行性研究）。 预判并规划术语、单位和实践的差异。 预测可用数据的缺口和差异。 允许采用其他数据源或进行合理假设（应在最终报告中说明）。 多种预测产气量的方法可选。 研究全部cmm市场，并在立项之初明确项目市场。  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6RH8R7miUoi" slidebank="false" type="slide">项目中止的原因 尽管尽最大努力，在研项目仍可能出于各种原因无法向前推进，原因包括： 当前市场无法支持该项目。 煤矿管理层或所有权变更。 主营业务调整，如重新聚焦核心业务产煤。 产气量或质量下降。 监管框架变更。 无法获得融资。 不能接受或无法管理项目风险。  项目开发方无法与煤矿达成项目开发协议。   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">单元7 总结 在本单元中，您了解到： 如何通过详细的市场分析识别和评估所有潜在市场。 开发cmm项目，获得减少温室气体排放的环境效益。 采用不同风险评估工具归纳不同项目风险。  财务分析的主要指标以及结构清晰的财务模型的重要性。 gmi在完成预可行性研究方面的经验和建议。</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">谢谢！ 您已经完成了单元7的学习。</slidetext>
+      <slidetext slideid="5z2XRJza9by.6FGcw1aaidP" slidebank="false" type="slide">经济问题汇总 煤炭和能源行业的表现？ 总体经济运行情况？ 未来整体经济预期，以及煤炭产业和能源行业具体展望？ 本地或本国是否提供了有吸引力的投资环境？ 政治和社会环境是否稳定？ 是否重视并实施商业透明和法治？   是否要求有本土合作伙伴，与本土伙伴的合作经验有哪些？  项目所在国的法定货币是什么，相较基准货币包括如美元、英镑、欧元和瑞士法郎的表现如何？ 这是本地的首个cmm项目，还是同时有其他cmm项目？ 如果要出口能源，与邻国的贸易关系如何？ </slidetext>
+      <slidetext slideid="5z2XRJza9by.6GSWyMQGe6P" slidebank="false" type="slide">场地准备成本 压实用于停车、安放设备、材料铺设、项目通道的地基 围墙和大门 集装箱装运设备所需的混凝土垫层 设施连通 便携式建筑 – 办公室、仓库、车间 环境优化（如，雨水调蓄池） 初期许可费用  </slidetext>
+      <slidetext slideid="5z2XRJza9by.5fIqTDSqVUt" slidebank="false" type="slide">基建成本 气水钻孔 井筒或巷道内的额外密封工程 煤矿未满足部分工程要求，需要进行额外的井下气水管理（由开发方协商成本分摊）</slidetext>
+      <slidetext slideid="5z2XRJza9by.60mQwcUuuvy" slidebank="false" type="slide">资本设备成本 撬装式集装箱 抽采泵 瓦斯净化、干燥和处理设备 已交付、安装且调试的应用设备，包括燃气发动机和机组、火炬、氧化剂、锅炉  管线工程、管道工程和阀门 电气系统和监控系统  出口计量和电源供应 压缩机和电网/管线连接 车辆和安全  设计或设备规范变更的应急准备  项目期间需移动cmm设备实现供气的设备迁移成本 运营资金 </slidetext>
+      <slidetext slideid="5z2XRJza9by.5fDfZQf4Fof" slidebank="false" type="slide">输入项 — 预测产气率</slidetext>
+      <slidetext slideid="5z2XRJza9by.6A8nCWx7WVT" slidebank="false" type="slide">示例：优化瓦斯抽采的资本和运营成本估算及其他输入项 物理和财务因素 单位 值 抽采瓦斯的甲烷浓度 百分比 98 采空区瓦斯的甲烷浓度 百分比 70 成本上升 百分比 3.0 价格上升 百分比 3.0 资本支出 单位 值 抽采系统     钻孔成本 美元/米 100（本煤层）；130（hgb） 表面真空站 美元/瓦 1.34 真空泵效率 瓦/1000立方米/天 922 集输系统     集输管道成本 美元/米 75 集输管长度 米/板 450 运营费用 单位 值 现场燃料使用量（瓦斯） 百分比 10 运维 美元/1000立方米 17.66</slidetext>
+      <slidetext slideid="5z2XRJza9by.6MjmrKmDR4v" slidebank="false" type="slide">示例：资本和运营成本估算及cmm发电项目的其他输入项 物理和财务因素 单位 值 发电机效率 百分比 40  运行时间 百分比 65 电价 美元/千瓦时 0.10 cmm项目补贴 美元/千瓦时 0.04 资本支出 单位 值 发电设备 美元/千瓦 760 营业费用 单位 值 发电设备运维 美元/千瓦时 0.03 碳减排量  单位 值 甲烷的全球变暖潜值 吨二氧化碳当量 25 二氧化碳（每燃烧1吨甲烷） 吨二氧化碳 2.75</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">全球甲烷行动倡议（gmi）是一个自愿参与的多边合作伙伴关系，旨在减少甲烷排放，促进甲烷回收和作为清洁能源再利用。 什么是全球甲烷行动倡议？ gmi伙伴国 gmi伙伴国 gmi伙伴国的甲烷排放量占全球人为产生的甲烷排放量的近70%，相当于约5000mtco2排放。</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">如何导航 使用屏幕右下角的按钮可阅览本单元。 每次可阅览一张幻灯片，点击左侧菜单导航窗格可重新阅览。  如您需要离开本单元，最后一张幻灯片将保存，下次可重新回到该位置。 </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="FIT">上网电价</term>
+      <term title="GWP">全球变暖潜值</term>
+      <term title="IPCC">联合国政府间气候变化专门委员会</term>
+      <term title="IRR">内部收益率</term>
+      <term title="NPV">净现值</term>
+      <term title="REC">可再生能源证书或额度</term>
+      <term title="ROI">投资回报率</term>
+      <term title="产气量">采前预抽、采后抽采钻孔和抽采巷道产生的瓦斯气量。</term>
+      <term title="全球甲烷行动（GMI）">全球甲烷行动是一项2004年启动的国际公私合作倡议，旨在推动成本效益高的短期甲烷减排和回收利用，并将甲烷作为清洁能源用于三个领域：沼气（包括农业、城市固体废物和废水）、煤矿和油气行业。聚焦甲烷排放源是减少温室气体（GHG）排放、提高能源安全、促进经济增长、改善空气质量和改善工人安全的一种具有成本效益的方法。</term>
+      <term title="可行性研究">关于调查项目开发的经济和技术可行性的详细报告，该报告视作“银行可担保”级，意味着可确保实现项目融资。</term>
+      <term title="喀斯特">呈现灰岩坑、伏流、洞穴和泉水等地貌。</term>
+      <term title="岩芯">一种天然物质的圆柱形部分，通常通过称为岩芯钻的空钢管钻透地下获得。</term>
+      <term title="废弃矿井瓦斯（AMM）">暂时或永久关闭的煤矿通过通风井、裂隙或钻孔排放大量甲烷。</term>
+      <term title="民用燃气">居民和市政用气，也称煤气。</term>
+      <term title="温室气体排放（GHG）">温室气体和/或其前体在特定区域及特定时段内释放到大气中。温室气体排放可人为引起（源自人类活动）或自然发生。</term>
+      <term title="热电联产（CHP）">从单一能源中同时产生电能或机械能和热能的过程。也称为联合发电。</term>
+      <term title="煤层气（CBM）">采矿前从煤层内抽采的甲烷。</term>
+      <term title="煤矿瓦斯（CMM）">受采矿活动影响而从煤中释放出的甲烷。与煤层气一样，煤矿瓦斯也属于煤层中发现的甲烷的一种，具体指矿区内（例如，在采矿计划内）发现的甲烷，而煤层气指的是永远不开采煤层中的甲烷。由于煤矿瓦斯将通过采矿活动释放，因此避免煤矿瓦斯排放的方法就是对其进行回收利用。</term>
+      <term title="瓦斯抽采">在井工煤矿、废弃矿井以及偶尔在露天矿中采用的抽采方法，目的是捕获煤层产生的瓦斯，避免进入矿井通风巷道。瓦斯抽采系统通过抽采钻孔和/或巷道、集气网和真空泵共同作用将瓦斯抽采至地面。可在开采前使用预抽技术从煤层中抽采瓦斯，并使用采后抽采技术从开采过程中受到干扰的煤层中抽采。所抽采瓦斯的主要成分是甲烷，作业流程也称为甲烷抽采。瓦斯抽采产生的煤矿瓦斯浓度高于通风口，浓度范围一般为25%~100% 。</term>
+      <term title="瓦斯组成">任何瓦斯的组分均可通过列出所含的纯物质，同时说明每种物质在瓦斯混合物分子数中的比例来表征。</term>
+      <term title="甲烷">甲烷是一种烈性温室气体，在大气中的寿命比二氧化碳短得多，但在100年的时间内，甲烷吸收辐射的效率是二氧化碳的28倍。甲烷也是地面臭氧污染的主要前体，影响空气质量。甲烷可采集再利用，但由于甲烷与空气混合时具有爆炸性，矿井中的甲烷存在安全风险。</term>
+      <term title="空燃">天然气受控燃烧。煤矿的CMM空燃可进行明火燃烧，也称高架火炬，或发生在封闭式火炬中，也称地面火炬。</term>
+      <term title="美国环保局（USEPA）">环保局是美国联邦政府下属的独立执行部门，负责开展环保事宜。</term>
+      <term title="联合国欧洲经济委员会（UNECE）">联合国欧洲经济委员会（ECE 或UNECE）是联合国经济及社会理事会下属的五个地区委员会之一，其成立是为了促进成员国之间的经济合作以及一体化。该委员会由56个成员国组成，大多数成员国位于欧洲，少数成员国位于欧洲以外的大洲。其中，欧亚大陆和非欧洲成员国包括：亚美尼亚、阿塞拜疆、加拿大、格鲁吉亚、以色列、哈萨克斯坦、吉尔吉斯斯坦、俄罗斯联邦、塔吉克斯坦、土库曼斯坦、美利坚合众国和乌兹别克斯坦等国家。</term>
+      <term title="财务分析">通过评估业务、项目、预算和其他财务相关交易以确定其绩效以及适用性的过程。通常，财务分析用于分析实体是否稳定、是否具备偿付能力、是否具有流动性或其盈利能力来保障货币投资。</term>
+      <term title="资本支出（CapEx）">是指一家企业用来收购、升级和维持其实物资产的资金，例如，不动产、厂房、房屋、技术或设备。企业通常用资本支出开展新项目或投资。</term>
+      <term title="资金成本">购买用于生产商品或提供服务的土地、房屋、建筑和设备所产生的一次性固定费用。换言之，资本成本就是使项目达到商业运营状态所需的总成本。</term>
+      <term title="运营费用（OpEx）">运营费用缩写为OpEx，指业务正常运营产生的费用，包括租金、设备、仓储、营销、工资、保险、阶梯成本及研发资金。</term>
+      <term title="通风瓦斯（VAM）">通风系统利用通风机使新鲜空气在矿井内循环，将甲烷浓度降至安全水平，排出煤矿瓦斯。VAM是井下煤矿瓦斯最大的排放源。</term>
+      <term title="采空区">通过长壁开采法开采煤炭的破碎、透水地面及可坍塌顶部，迫使煤层上方和下方的地层破裂压力释放。美国常用gob，其他地方常用goaf。</term>
+      <term title="钻孔">在地面进行垂直或水平钻孔的窄竖井。</term>
+      <term title="预可行性研究">通常根据现场特定信息提供详细技术分析，并考虑项目融资。本文件提供产气量预测，回顾当前瓦斯抽采实践。但本文件提供的粒度低于完整可行性研究的要求，所以本文档不视作 “银行可担保”级文件。</term>
+      <term title="风险分析">检查风险事件如何影响并导致项目结果和目的变更。一旦识别出风险，应该马上进行风险分析，确定对项目的定性和定量影响，以便采取适当步骤消除对项目的影响。</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.88.32574.0%0D%0A%0D%0A00:00:00.330%20--%3E%2000:00:04.494%0D%0Asuch%20as%20ethane,%0D%0Apropane,%20butane,%20pentane,%0D%0A%0D%0A00:00:04.495%20--%3E%2000:00:05.664%0D%0Aand%20water%20vapor.%0D%0A%0D%0A"}')

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.88.32574.0%0D%0A%0D%0A00:00:00.240%20--%3E%2000:00:02.040%0D%0AMethane%20is%20emitted%20at%20all%20points%0D%0A%0D%0A00:00:02.041%20--%3E%2000:00:04.290%0D%0Aof%20the%20supply%20chain%20in%20different%20ways.%0D%0A%0D%0A"}')

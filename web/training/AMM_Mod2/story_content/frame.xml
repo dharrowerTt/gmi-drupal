@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conducting Pre-Feasibility Studies for AMM Projects: Module 2" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6AerY94WzTs_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5iLQC7WSYVe.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x262626" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_view_image">view image</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="AMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting Pre-Feasibility Studies for AMM Projects: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 2" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 2: Gathering Mine Information and Data" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="What You Will Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.68ZqKy1fKhN" displaytext="Importance of Coal Mine Background Information" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6WDZIbzzXH8" displaytext="Obtaining Coal Mine Background Information" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6b4InlWegyb" displaytext="Understanding the Policy and Regulatory Environment" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5wFx60EVzkB" displaytext="Assessing AMM Project Potential Pre- and Post-mine Closure" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5VDGJPWRTkL" displaytext="AMM Projects: Planned Pre- or Post-mine Closure" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5oemzv0XPMI" displaytext="Mine Closure and AMM Emissions " expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6XIqXRGaYKE" displaytext="Primary Conduits for AMM Emissions" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6WZHGBwCARX" displaytext="Understanding the Stages of Mine Closure " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6XFTuNeASBy" displaytext="Stage 1. Cessation of coal extraction" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GygC4rDQx4" displaytext="Stage 2. Cessation of main fan ventilation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gMmLzuHAF2" displaytext="Stage 3. Cessation of mine de-watering" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6UbkymgmrD6" displaytext="Stage 4. Sealing of mine entries" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6lRWwcL19fb" displaytext="Information and Data Acquisition: Overview " expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6EaayKfltTr" displaytext="Differences in Assessing AMM Project Potential" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5l217kPevB5" displaytext="Engagement When Assessing AMM Project Potential" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.68dAHdXp6LB" displaytext="Benefits of Recovering AMM" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6dFYs0UHKLe" displaytext="Three Stages of Information and Data Acquisition " expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6pGM9kiotZV" displaytext="Stage 1 Desk Study Research" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6IgSjMDzcOW" displaytext="Desk Study Research" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C2MLPKbXH9" displaytext="Desk Study Research Indicators" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6PCDhurwgFR" displaytext="Stage 2 Gathering Mine-specific Information and Data" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6ZiLXs8HdXc" displaytext="Mine-Specific Information and Data Overview" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5UxguDoOVsb" displaytext="Types of Mine-Specific Information and Data" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qgDJpE2FLK" displaytext="Local Climate Conditions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6O9mHBqHdjB" displaytext="Information about Gas Flows and Sources" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nxfVbghoT7" displaytext="Information about Gas Flows and Sources (continued)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BvNGucD9aq" displaytext="Mine Water Inflow and Mining History" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dOG1KpLq6H" displaytext="Closure Engineering" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6g74FEyjLrN" displaytext="Legal Liabilities" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dPNOxHymar" displaytext="Utilization History" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5iq7pd3iiVE" displaytext="Potential Market for AMM Use" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nja7kg2L93" displaytext="Obtaining Mine-Specific Information at a Mine Prior to Closure " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kWQt3F6AqQ" displaytext="Studies Conducted Prior to Mine Closure" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gIb9JjhxAW" displaytext="Obtaining Data After Mine Closure" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TXCwqtQIeQ" displaytext="Challenges with Data After Mine Closure" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6hC5OTSduqZ" displaytext="Stage 3 Basic Site Investigation" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Objective of the Basic Site Investigation" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5fQeoP2zUAL" displaytext="Site Investigation at a Mine Pre-closure" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.69N8lbZCLLT" displaytext="Site Investigation at a Mine Post-closure" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZnSd9d6HBr" displaytext="Preliminary Data Review" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6DT0QXud6F9" displaytext="Characteristics of Developable AMM Sites" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6AgZeXf79Sq" displaytext="Module 2 Summary" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conducting pre-feasibility studies  for abandoned mine methane projects training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome the united states environmental protection agency (epa) developed this course in support of the gmi and in conjunction with the united nations economic commission for europe (unece). what is the gmi? this course introduces principles for assessing the potential of developing projects to mitigate abandoned mine methane (amm).   </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> conducting pre-feasibility studies for amm projects:  course modules module 1:	introduction and objectives module 2:	gathering mine information and data module 3:	amm resource assessment module 4:	production forecasting and well testing module 5:	mine closure design for amm production module 6:	market, financial and risk analysis module 7:	amm pre-feasibility case study  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 2 gathering mine information and data</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">what you will learn in this module, you will learn about: how to obtain background information about a mine and the region in which it is located, as well as the importance of understanding the policy and regulatory environment. differences in amm pre-feasibility studies that are done before and after a mine is closed. challenges with obtaining data from amm sites that are being studied after the mine is closed.    time needed to complete this module: approximately 30 minutes  you will also learn about a three-stage approach for obtaining information and data required for an amm pre-feasibility study, which includes: desk study of published information gathering mine specific data physical site inspection</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68ZqKy1fKhN" slidebank="false" type="slide">importance of coal mine background information prior to approaching project evaluation and development, it could be helpful to develop an understanding of the abandoned mine and the local economy and population.  a successful project relies on the interplay of favorable mining, geological, and surface factors along with an advantageous market, policy, and social environment. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WDZIbzzXH8" slidebank="false" type="slide">obtaining coal mine background information at a minimum, before a project developer decides to conduct a study, it might be helpful to understand the local market, policy, and social environment and to assess if they present any potential barriers. to help with such evaluation, it is useful to consider the following details: demographics, norms, practices, and culture of the local population local and regional history, such as the historic and current role of the mining industry in the local and regional economy experience with capturing and using cmm or amm other infrastructure and industry in the area scale of economic development and activity in the region roles of government, private enterprises, and not-for-profits in the economy  presence of educational institutions that may support amm project development ownership of natural resources (private or state)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6b4InlWegyb" slidebank="false" type="slide">understanding the policy and regulatory environment early in the assessment process, it is important to determine if there are enabling policies in place to incentivize amm project development and operation, or at least ascertain whether policies will not inhibit or discourage development. an amm project developer should consider if there are policies in place to encourage a mine owner/operator to cooperate with a project developer to launch an amm project: do mine safety regulations encourage the owner/operator to prepare the mine in advance of closure for amm recovery and use? are there other incentives such as tax credits, subsidies, or carbon markets that could support the financing of an amm project and deliver revenue to an owner/operator and the developer?   view additional questions that an amm project developer should consider. if the policy and regulatory environment appear to be favorable, it is a good sign for initiating a study.      </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wFx60EVzkB" slidebank="false" type="slide">assessing amm project potential pre- and post-mine closure amm pre-feasibility studies can be undertaken before or after a mine is closed. if a project developer has a choice, it is always best to assess the project potential before expected mine closure. pre-feasibility studies undertaken before mine closure will be substantially more complete and reliable than those based on post-mine closure investigations, and they will be more likely to lead to feasible amm projects.  closed coal mine in the czech republic</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VDGJPWRTkL" slidebank="false" type="slide">amm projects: planned pre- or post-mine closure as noted on the previous slide, amm projects can be distinguished as: the preferred approach those planned and initiated before mine closure the higher risk approach (higher development risk) those planned and implemented after mine closure  the differences and how to tackle each of these types are explained  and described throughout this course. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oemzv0XPMI" slidebank="false" type="slide">mine closure and amm emissions  as coal seams are mined out, mines are closed and eventually abandoned. during reclamation, abandoned mines are often sealed by filling shafts and drifts with granular material and plugging or capping them with a concrete seal. vent pipes and boreholes may be plugged with cement in a similar manner to oil and gas wells.   some abandoned mines are equipped with vent pipes and boreholes open to the atmosphere to provide a release point for the methane to prevent uncontrolled fugitive emissions. vents may be fitted with one-way valves to prevent air from entering.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XIqXRGaYKE" slidebank="false" type="slide">primary conduits for amm emissions coal mines that were significant methane emitters during active mining will continue to emit methane after closure and abandonment (although at a reduced rate). primary conduits for methane emissions from abandoned mines are: old entries vent pipes cracks and fissures in the overlying strata thousands of abandoned coal mines worldwide continue to emit methane, which contributes to total global greenhouse gas (ghg) emissions and, in some instances, represents energy resources that could be exploited. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WZHGBwCARX" slidebank="false" type="slide">understanding the stages of mine closure  when preparing for amm recovery and use projects, it is important to understand the key stages of mine closure.  each stage consists of different decommissioning activities with specific operational, geological, and engineering considerations that can impact gas production and safety.    the stages of mine closure include: stage 1:  cessation of coal extraction stage 2:  cessation of main fan ventilation stage 3:  cessation of mine de-watering stage 4:  sealing of mine entries</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XFTuNeASBy" slidebank="false" type="slide">understanding the stages of mine closure – stage 1 stage 2. cessation of main fan ventilation stage 3. cessation of mine de-watering stage 4. sealing of mine entries  total (drained and vam) gas flow starts to decay from this time. stage 1. cessation of  coal extraction</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GygC4rDQx4" slidebank="false" type="slide">stage 1. cessation of  coal extraction understanding the stages of mine closure – stage 2 stage 3. cessation of mine de-watering stage 4. sealing of mine entries  loss of negative ventilation pressure underground. methane free to migrate according to gravity. gas pressure increases. methane concentration will increase in the absence of dilution by ventilation air. variations in atmospheric pressure will lead to intermittent inflow of air during rising barometric pressure conditions, and hence variable gas quality. stage 2. cessation of main fan ventilation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gMmLzuHAF2" slidebank="false" type="slide">stage 1. cessation of  coal extraction understanding the stages of mine closure – stage 3 stage 2. cessation of main fan ventilation stage 4. sealing of mine entries  mine water will start to rise in the workings, unless de-watering is continued to protect a neighboring mine. inflow rate will be equivalent to the recorded pumping rate minus service water usage, but this is not always an exact calculation. recoverable amm will start to decrease from this time at a rate roughly proportional to the rate of flooding. not all mines flood quickly. some may take 20 years or more to totally flood.  stage 3. cessation of mine de-watering</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UbkymgmrD6" slidebank="false" type="slide">stage 1. cessation of  coal extraction understanding the stages of mine closure – stage 4 stage 2. cessation of main fan ventilation stage 3. cessation of mine de-watering  performed to make the site safe and the ground stable. some abandoned mines are equipped with pressure relief vents to prevent uncontrolled fugitive emissions, especially when all potential surface migration paths cannot be identified. vents may be fitted with one-way valves to prevent air from entering. after sealing, methane concentrations will rise due to the reduced influence of atmospheric pressure variations.  this is the stage after which an amm recovery scheme can be implemented, subject to the demonstration of feasibility.  stage 4. sealing of mine entries</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lRWwcL19fb" slidebank="false" type="slide">information and data acquisition: overview  information and data acquisition is the most important, and often the most difficult, part of an amm pre-feasibility study. ultimately, the report is only as good as the data. gathering data for amm studies, even before mine closure, tends to be more difficult than for cmm studies. this is because the mine usually gains little or no benefit from an amm study, and therefore may not be as helpful (unless it has a financial interest in the project). amm appraisals made before mine closure are inherently more reliable than post-mine closure studies due to the greater amount and reliability of data that will be available.     in most amm studies, the data will be incomplete, and the pre-feasibility appraisal will inevitably involve assumptions. these assumptions must be clearly stated and justified based on previous experiences.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6EaayKfltTr" slidebank="false" type="slide">differences in assessing amm project potential before mine closure allows reservoir characteristics to be evaluated based on site observations and field measurements facilitates engineering provision for effective amm extraction   after mine closure fewer data incomplete records: lost, missing, or destroyed uncertain water inflows underground condition unknown quality of former mine entry seals unknown relevant staff dispersed low priority to former mine operator</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5l217kPevB5" slidebank="false" type="slide">engagement when assessing amm project potential before mine closure cooperation by the mining company and the mine manager is essential – this can be difficult unless the mine has some financial interest in the potential project, or the aims of the study assist the mine in complying with its legal obligations at closure with respect to safety and the environment  confirm with the managers of the mine that you will: have their full co-operation obtain access to the site have support from mine staff be a party to the mine closure design be provided with sufficient data  after mine closure mining company will no longer have any involvement in the site the site may have been cleared  records and data may be difficult to track down, or may even have been destroyed confirm that the project owner/principal: has permission to access the land for site inspection visits holds the necessary gas exploration rights insofar as it is applied to amm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68dAHdXp6LB" slidebank="false" type="slide">benefits of recovering amm there are many benefits to recovering amm, such as:   generating a source of local, clean-burning energy. creating an opportunity to mitigate ghg emissions by flaring when commercial energy use is not viable. preventing uncontrolled methane emissions at the surface by maintaining negative underground pressure. creating new jobs and a new revenue stream after mine closure. reducing ghg emissions and improving air quality.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dFYs0UHKLe" slidebank="false" type="slide">three stages of information and data acquisition  these are all relatively low-cost activities, but they must be pursued diligently and, when possible, information and data should be verified through research, comparison to other benchmarks, and common-sense. erroneous data could prove costly if an amm project is initiated. in evaluating amm prospects post-mine closure, greater reliance must be placed on stage 3 (site investigation), which means spending more up front to reduce project risk factors.  information and data are acquired in three stages stage 1 desk study research, which relies on published material stage 2 gathering mine-specific information and data, such as geology, gas, water and mine history, closure plan, and legal obligations stage 3 inspection of the surface site, environment, and infrastructure</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pGM9kiotZV" slidebank="false" type="slide">stage 1 desk study research</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6IgSjMDzcOW" slidebank="false" type="slide"> desk study research sources of data and research include: research publications academic theses geological &amp; mining institutions mining records conference proceedings web searches carbon offset project design documents &amp; registries government publications gmi, unece, epa resources cmm international centres of excellence (ice) and clearinghouses (for example, china, india, and poland)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C2MLPKbXH9" slidebank="false" type="slide">desk study research indicators some encouraging indicators are needed at this stage, before continuing the pre-feasibility study. encouraging indicators could include: high gas emission mines extensive mine workings, resulting in a potentially large amm reservoir low water flooding rates mine closed and sealed less than10 years ago  generally, amm projects are relatively small-scale compared with cmm.   these items are important for any potential amm project, but they are particularly important when preparing a desk study for an amm project after mine closure (due to the limited availability of data). </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6PCDhurwgFR" slidebank="false" type="slide">stage 2 gathering mine-specific information and data</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZiLXs8HdXc" slidebank="false" type="slide">mine-specific information and data overview the objective of this stage is to obtain mine-specific information and data, which should include: mining, geological, and topographic plans climate conditions gas flow and gas resource data mine water and mining history closure engineering legal liabilities utilization history and market information information on whether the amm pre-feasibility study will rely on pre- or post-closure methodology (if prior to closure)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5UxguDoOVsb" slidebank="false" type="slide">types of mine-specific information and data the following are helpful types of mine-specific information: mine plans  extent and depth of workings in each mined-seam remaining unworked coal locations of surface shafts drifts and boreholes pillars and any connections to adjoining mines surface topography maps accessibility of the site potential environment risks geological maps structural features that could affect underground gas and water migration geological sections depth and thickness of individual coal seams  ash or dirt content (some amm reservoir models use clean coal equivalent seam thickness to standardize data)  mine plan gas content vs depth</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qgDJpE2FLK" slidebank="false" type="slide">local climate conditions local climate condition records are needed to indicate the following: how extreme are the conditions?  are any special operational precautions needed due to extreme heat or cold?</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6O9mHBqHdjB" slidebank="false" type="slide"> information about gas flows and sources information about gas flows and sources can be derived from:  mine gas emission rates: total drainage gas flows and gas in ventilation air (vam).  gas sources: any evidence of gas in addition to that from coal seam sources (for example, comparing predicted gas emissions from models with measured flows). coal production rates: historic production rates are used to determine the gassiness of a mine by estimating specific emissions (total gas emitted per tonne of coal extracted).   data that can support an amm pre-feasibility study include emissions data when the mine was active. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nxfVbghoT7" slidebank="false" type="slide"> information about gas flows and sources (continued) information about gas flows and sources can be derived from:  seam gas contents: the amount of gas in situ in each seam before mining. these data are used as a basis for estimating the residual gas content (amm) after the coal bearing strata have been partially degassed as a result of mining operations. ideally, these data are adjusted to ash-free to standardize for modeling purposes (covered in module 3). was any gas extracted from sealed areas at the working mine? mined out areas are often sealed off from the active mine by building robust underground seals.  gas composition and flow tests conducted on such areas will provide an insight into the amm potential of whole mine closure.   total coal thickness distribution  gas content of coal</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BvNGucD9aq" slidebank="false" type="slide">mine water inflow and mining history mine water inflow rates determine how quickly a mine will flood:  mine water inflow in an active mine is comprised of service water (used for cleaning, dust, and ignition suppression) and natural strata water (such as groundwater), which accumulates in mine workings and is pumped out during normal production operations.  mining history can provide useful insights through: reports of gas ignitions and explosions. general gas emission trends over the life of the mine. occurrence and locations of any old workings above and adjacent to the study mine. dates that coal production ceased and the mine was sealed off (actual or planned). time elapsed for amm emissions to decay after the cessation of coal production and sealing of the mine.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dOG1KpLq6H" slidebank="false" type="slide">closure engineering closure engineering, whether implemented or planned, includes: details of shaft and drift filling, capping, and sealing.  sealing of any borehole entries.  any treatment of adjoining old workings, especially shallow old workings with possible unrecorded shafts where air could be drawn in, which could reduce amm quality.  any testing of adjoining old workings by drilling into them and testing for the influence of a negative ventilation pressure (main fan influence) confirming a connection. capping old shafts</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6g74FEyjLrN" slidebank="false" type="slide">legal liabilities legal liabilities can be a deterrent to investment in an amm project: the closure obligations should be examined to ascertain which, if any, legal liabilities might be passed on to an amm recovery project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dPNOxHymar" slidebank="false" type="slide">utilization history utilization history is indicative of the potential for gas use.  details are required about any current or previous cmm projects at the mine involving, for example, on site use, power grid connections, or gas pipelines.  details should be obtained for any emission mitigation projects (for example, flaring).  any remaining infrastructure should be identified as it could be of value to an amm project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5iq7pd3iiVE" slidebank="false" type="slide">potential market for amm use a potential market for amm utilization will require information about:  local customers for power, or medium quality gas for industrial heat use. sufficiently high energy prices that would make amm utilization scheme attractive to customers. price differentials sufficiently large to promote switching to amm-sourced energy.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nja7kg2L93" slidebank="false" type="slide">obtaining mine-specific information at a  mine prior to closure  obtaining the information and data outlined in the previous slides will differ for studies conducted pre- or post-closure, since the mine operator might not be available after closure.  obtaining information from busy mine staff can be difficult.   therefore, it is important to seek the cooperation of the mine by cultivating a working relationship with the manager and senior mine staff. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kWQt3F6AqQ" slidebank="false" type="slide">studies conducted prior to mine closure for studies conducted prior to mine closure, project developers can:  submit a data request to the mine. this is essentially a ‘wish list,’ which if fully completed by mine staff, is extremely helpful to the study.  follow up by conducting personal visits to obtain information and data that is too time consuming for the mine to extract, as well as maps and plans which may require some explanation to ensure correct interpretation. interview key staff to obtain qualitative information when no other information is available. accept that there may be data gaps, which will add some uncertainty to the results of the study. it is important to recognize that similar problems arise in cmm studies.   click to view an example of a working mine data request.       </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gIb9JjhxAW" slidebank="false" type="slide">obtaining data after mine closure when assessing amm project potential after a mine has closed, it can be helpful to: seek archived information and data records from the former mine, but it is possible that they may not have been kept. obtain any current gas and water monitoring data, if available.  interview former mine staff to obtain qualitative information when no other information is available. confirm that there are no continuing legal liabilities that could potentially significantly escalate development project costs.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TXCwqtQIeQ" slidebank="false" type="slide">challenges with data after mine closure experience shows that data and information are invariably incomplete, or even totally absent, for mines that are already abandoned. in some cases, government agencies can serve as sources of data for closed mines. when evaluating amm prospects at mines that have already been closed, greater reliance must be placed on site investigations, which means spending more up front to reduce project risk.   abandoned mine workings in different seams (photo courtesy of d. creedy) </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hC5OTSduqZ" slidebank="false" type="slide">stage 3 basic site investigation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">objective of the basic site investigation the objective of this stage is to gain an understanding of the mine setting and its surface features. it is important to remember the following precautions: mine sites are hazardous areas and visitors must be aware of, and comply with, site rules for health and safety. more stringent precautions will be required when undertaking work on a mine site (however, such work is not envisaged at this stage).  in some countries, visitors must participate in an induction course before entering a site, particularly at working mines.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5fQeoP2zUAL" slidebank="false" type="slide">site investigation at a mine pre-closure site investigation is significantly different for a mine pre-closure than for a mine post-closure. site investigations at a mine pre-closure include: examining the mine layout, access roads, surface features, environmental setting, power grid connections, and other services. assessing potential for waste tip fire and stability hazards, lagoons, and other features by surveying surface facilities and undertaking risk assessments. examining and assessing the quality of the sealing of any old shafts and drifts, including at any adjoining old mines known to be linked, or possibly linked, underground. this could include reviewing records to identify old workings in the area, checking the records of sealing, and visiting and examining the seals if access is allowed.  identifying gas drainage, water, and other service boreholes drilled from the surface using the mine plans and confirm their current status, as well as any plans for sealing.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.69N8lbZCLLT" slidebank="false" type="slide">site investigation at a mine post-closure site investigations at a mine post-closure include: reviewing mine layout, access roads, surface features, environmental setting, power grid connections, and other services. identifying any potential surface hazards.  assessing the quality of sealing of shafts and drifts, including at any adjoining old mines known to be linked, or possibly linked, underground. identifying gas drainage, water, and other service boreholes drilled from the surface and their state of sealing, using mine plans, if available. determining if any boreholes are still accessible for later gas monitoring and water level recording (which will be discussed in module 4) and, if possible, confirm that they are drilled into underground roadways and not the goaf (mined areas that are fully caved and therefore poorly connected with the rest of the mine workings).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZnSd9d6HBr" slidebank="false" type="slide">preliminary data review after obtaining and completing a review of the collected data and other information for the desk study, a project developer should be in a position to make a more informed decision about whether to proceed with the pre-feasibility study (and potentially a full feasibility study, depending on the results of the pre-feasibility study).   modules 3-6 describe in greater detail the steps to be taken in the pre-feasibility study. module 6 also outlines the next steps that should be taken if the developer decides to proceed with a full-feasibility study. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6DT0QXud6F9" slidebank="false" type="slide">characteristics of developable amm sites potentially developable amm sites are likely to have: large volume of un-mined coal in strata above the goaf areas.  high residual gas contents. low water inflow rates. no leakage paths between the target mine workings to the surface or to other mines. thus, high suction can be applied without drawing air in to dilute the methane.  markets for all of the gas that can be produced.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AgZeXf79Sq" slidebank="false" type="slide">module 2 summary this module described: the key differences in assessing project potential before and after a mine is closed. how the information and data are acquired in a three-stage process to ensure a solid basis for analyses in a pre-feasibility study. the importance of recognizing, understanding, and accounting for the potential uncertainties in the data throughout the development of the pre-feasibility study.  it is important to recognize that, while it is ideal to obtain all of the data that was identified in this module, it is rarely feasible to do so.   remember, the analysis and outcomes of a pre-feasibility study are only  as good as the data that underpin the study. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you! you have completed module 2.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries gmi partner countries account for nearly 70% of total global manmade methane emissions, which is equivalent to approximately 5,000 mmtco2e.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+      <slidetext slideid="6i0bPUpTmfp.69LA4Fr2iDe" slidebank="false" type="slide">additional questions an amm project  developer should consider  are policies, laws, or regulations in place to encourage cooperation or resolve disputes between working mines and adjacent amm projects when such situations arise?   does the legal or regulatory framework clearly denote ownership rights to the amm, use of the amm, and control of any energy and environmental commodities associated with use or destruction of the amm?   can ownership or control of the amm be smoothly transferred to a 3rd party (for example, through concessions or leases)? how are resources classified?   does the local jurisdiction use an established and accepted classification system for petroleum and minerals resources, such as committee for mineral reserves international reporting standards (crirsco), society of petroleum engineers petroleum resources management system (spe prms), russian reserves &amp; resources reporting system, or the united nations framework classification (unfc)? is there a transparent, consistent, and reliable system for licensing the exploration, production, and destruction/utilization of amm with policies, procedures, and timelines clearly stated? are construction, environmental, occupational health and safety, and other regulatory requirements codified and consistently implemented and enforced to support compliance? do policies place long-term liabilities on the operator of the amm project (for example, liabilities for fugitive gas emissions and migration of methane into structures, or even potential liabilities unrelated to amm, such as surface subsidence or collapse of spoil piles)?   </slidetext>
+      <slidetext slideid="5myiROYPzd9.5keMQQWtWpu" slidebank="false" type="slide">scroll to view the elements of a working mine data request.  gmi/epa example initial data request 1 name of coal mine 2 physical address (with map and/or satellite photo, if possible) 3 parent company overview 4 name of mine contact/position/telephone and email 5 date coal mine opened 6 coal and gas resources and reserves, if known 7 date coal production ceased or will cease 8 scheduled date for final sealing of the mine  9 coal production capacity (tonnes per year) 10 historical coal production, such as in last 5 years (million tonnes per year) 11 depth of mining below surface 12 general description of topography (flat/rolling, hills, mountains) 13 subject to extreme weather conditions? what conditions and which season(s)? mine gas emissions 14 total ch4 emissions  15 vam share of emissions 16 gas drainage system share of emissions 17 specific emission (m3 ch4 emitted per tonne of coal mined) mine entries 18 number of ventilation shafts in the mine 19 number of drifts and service boreholes entering the mine 20 any known underground connections to other mines or shallow, old workings? 21 sealing status of unused mine entries groundwater 22 scheduled date for cessation of de-watering 23 average water extraction rate (m3/day) 24 what proportion of the mine water comprises service water (piped in for production uses)? post-closure ownerships and obligations 25 after mine closure, who are the various owners of access, land, mineral, and gas rights? 26 what are the remaining legal obligations on the mine post abandonment, if any?  cmm/vam utilization 27 provide a brief description of any current or past cmm project 28 is there demand for power or industrial grade gas for thermal use locally? 29 is access to the electricity grid or any local medium quality gas pipeline possible? 30 average price for electricity and industrial process gas locally 31 carbon market or other incentives available to a cmm project that may also apply to amm 32 are there any mine safety, environmental, or other regulations affecting cmm/amm projects? 33 have any surface gas emission hazards been reported in association with old workings in the area?</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Coal Mine">A mine where the work of all miners has been terminated and production activity and mine ventilation have ceased. Mine shafts might be closed and sealed. For purposes of this document, a coal mine is referred to as “abandoned”, whether or not the mine was closed according to applicable legal requirements. The terms “abandoned mine” and “closed mine” have the same meaning. Abandoned mines are not expected to reopen.</term>
+      <term title="Abandoned Mine Methane (AMM)">The gas remaining, and in some instances newly generated by microbes, in abandoned coal mines held in voids, coal seams and other gas bearing strata that have been disturbed or intercepted by mining operations.</term>
+      <term title="Ash Content">The non-combustible residue left after carbon, oxygen, sulfur, and water has been driven off during combustion. The remaining residue, or ash, is expressed as a percentage of the original coal sample weight.</term>
+      <term title="Barometric Pressure">The measurement of air pressure in the atmosphere.</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Capping">The process of sealing or covering a borehole, drift, or shaft.</term>
+      <term title="Carbon Offsets">The pursuit of compensating for the emissions of carbon dioxide into the atmosphere because of industrial or other human activity.</term>
+      <term title="Clean Coal Thickness">Measured thickness of actual coal with thickness of dirt, ash, and other impurities removed.</term>
+      <term title="Clearinghouse">A designated intermediary between a buyer and a seller in a business transaction. Clearinghouses often have knowledge on a particular topic such as AMM.</term>
+      <term title="Closing Mine">A mine that is proceeding to closure for any reason with the intent of permanently ceasing all coal production and sealing all mine entries in accordance with applicable legal requirements.</term>
+      <term title="Coal Mine Methane (CMM)">Methane released from coal due to mining activities. Like CBM, CMM is a subset of the methane found in coal seams, but it refers specifically to the methane found within mining areas (e.g., within a mining plan), while CBM refers to methane in coal seams that will never be mined. Because CMM would be released through mining activities, recovering and using CMM is considered emissions avoidance.</term>
+      <term title="Coal Seam">A bed of coal usually thick enough to be profitably mined.</term>
+      <term title="Coal Thickness">The measured or approximate thickness of the coal-bearing strata. Measured from the top of the coal-bearing unit to the top of the underlying unit.</term>
+      <term title="Cross-Measure Borehole">A borehole drilled from the mine entry into the coal seam(s).</term>
+      <term title="Desk Study">A type of study for assessing the viability of an AMM project. Desk studies are broad, typically do not involve a field visit, and use basic assumptions and simplistic financial modeling.</term>
+      <term title="Dewatering">The practice of removing groundwater from a mine.</term>
+      <term title="Drainage">See "Gas Drainage."</term>
+      <term title="Drift">A horizontal or sub-horizontal development opening into the mine.</term>
+      <term title="Feasibility Study">A type of study for assessing the viability of an AMM project. This type of study is characterized by being thorough and investigating the economic and technical feasibility of project development. A report produced by such a study is considered “bankable”, i.e., documentation is sufficient to secure project financing.</term>
+      <term title="Flaring">Controlled combustion of natural gas. Flaring CMM at a coal mine can occur in an open flame, otherwise known as a candlestick flare, or in an enclosed flare, sometimes referred to as a ground flare.  </term>
+      <term title="Gas Composition">The gas composition of any gas can be characterized by listing the pure substances it contains and stating for each substance its proportion of the gas mixture's molecule count. </term>
+      <term title="Gas Content">Volume of gas contained in a unit mass of coal and is generally expressed in cubic meters, at standard pressure and temperature conditions, per ton of coal.</term>
+      <term title="Gas Drainage">Degasification methods employed by underground coal mines, abandoned mines, and occasionally surface mines, for capturing the naturally occurring gas in coal seams to prevent it entering mine airways. Gas drainage systems include a combination of drainage boreholes and/or galleries, a gathering network, and vacuum pumps to draw gas to the surface. Gas can be removed from coal seams in advance of mining using pre‐drainage techniques and from coal seams disturbed by the extraction process using post‐drainage techniques. It is often referred to as methane drainage if methane is the main gas component target to be captured. Gas drainage produces coal mine methane of a higher quality than ventilation, generally in the 25 — 100 percent range. </term>
+      <term title="Gas Production">The quantity of gas produced by pre-mine drainage and post-mine drainage boreholes and drainage galleries. </term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf)">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Greenhouse Gas Emissions (GHG)">The release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time. May be labelled as anthropogenic (resulting from human activities) or naturally occurring.</term>
+      <term title="Historical Production">A record of the amount of coal or natural gas produced from a given mine or CMM project. Often used as an analogous CMM project example for forecasting future gas production and emissions during a pre-feasibility study. </term>
+      <term title="In-Seam Borehole">Subsurface boreholes used within a coal seam to encourage gas drainage.</term>
+      <term title="In-Situ">It can mean "locally", "on site", "on the premises", or "in place" to describe where an event takes place and is used in many different contexts. For example, in fields such as physics, geology, chemistry, or biology, in-situ may describe the way a measurement is taken, that is, in the same place the phenomenon is occurring without isolating it from other systems or altering the original conditions of the test. The opposite of in-situ is ex-situ.</term>
+      <term title="International Centres of Excellence on CMM">The International Centres of Excellence on Coal Mine Methane (ICE-CMM) are designed as non-profit entities subject to the national laws of the host Member States and operating under the auspices of the UNECE Group of Experts on Coal Mine Methane. The Centres support capacity-building activities in United Nations Member States and serve as a platform for discussion on safety, environmental and economic aspects of coal mine methane (CMM). In particular, they focus on such issues as effective drainage and use of methane in coal mines and abatement of carbon emissions through cost-effective and socially responsible use or destruction of captured methane.</term>
+      <term title="Lagoons">A waste pond used during coal mining.</term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28-35 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="Residual Gas Content">The quantity of gas remaining in a sample of coal following a period of gas desorption.  </term>
+      <term title="Roadway">Any mine track used to transport material (coal).</term>
+      <term title="Room-and-Pillar">A system of coal mining in which the coal is extracted from large open areas (rooms) with large portions unmined to support (pillars) the overlying rock.</term>
+      <term title="Service Duct">Controlled openings into the mine used to hold cables and pipework.</term>
+      <term title="Shaft">A vertical of near-vertical opening into the mine.</term>
+      <term title="Slope Shaft">An inclined/diagonal access shaft within a coal mine.
+</term>
+      <term title="Specific Emissions">The volume of methane emissions per ton of coal mined.</term>
+      <term title="Strata">A layer of sedimentary rock or soil; refers to a layer of coal in this instance.</term>
+      <term title="United Nations Economic Commission for Europe (UNECE)">The UNECE is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe.</term>
+      <term title="United States Environmental Protection Agency (USEPA)">An independent executive agency of the federal government of the United States federal tasked with protecting human health and the environment.</term>
+      <term title="Upcast Shaft">The shaft up which the ventilating current of air returns to the surface of the fan.
+</term>
+      <term title="Vent Pipe">Small pipe used in abandoned mines to allow for small amounts of gas to be released. Vent Pipes are installed so that pressure does not build up to dangerous levels.
+</term>
+      <term title="Ventilation">Controlling the flow of air to change the concentration of methane or other deleterious gases within mine working areas.</term>
+      <term title="Ventilation Air Methane (VAM)">CMM that is removed via ventilation systems which use fans to dilute the methane to safe levels by circulating fresh air through the mine. VAM is the largest source of methane emissions from underground coal mines. </term>
+      <term title="Venting">Direct release of natural gas into the atmosphere.</term>
+      <term title="Waste Tip">Built up pile of accumulated coal spoil.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

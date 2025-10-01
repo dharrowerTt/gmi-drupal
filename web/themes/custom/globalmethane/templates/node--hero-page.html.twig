@@ -1,0 +1,51 @@
+<!-- DEBUG: using hero_page template FINAL CLEAN -->
+
+<article>
+
+  {% set hero_image_url = '' %}
+  {% if node.field_hero_image.entity is defined %}
+    {% set image_field = node.field_hero_image.entity.field_media_image %}
+    {% if image_field.entity is defined %}
+      {% set hero_image_url = file_url(image_field.entity.uri.value) %}
+    {% endif %}
+  {% endif %}
+
+  {% if hero_image_url %}
+    <section class="section--hero position-relative"
+             style="background-image: url('{{ hero_image_url }}'); background-size: cover; background-position: center; min-height: 400px;">
+      <div class="hero-overlay d-flex align-items-center justify-content-center text-white text-center"
+           style="background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.6)); width: 100%; height: 100%; position: absolute; top: 0; left: 0;">
+        <div class="container position-relative z-index-1">
+          {% if content.field_hero_text %}
+            <div class="display-4 font-weight-bold mb-3">
+              {{ content.field_hero_text['#items'].value|raw }}
+            </div>
+          {% endif %}
+
+          {% if content.field_hero_button_url[0]['#url'] is defined and content.field_hero_button_url[0]['#title'] is defined %}
+            <a href="{{ content.field_hero_button_url[0]['#url'] }}" class="btn btn-primary btn-lg">
+              {{ content.field_hero_button_url[0]['#title'] }}
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+  {% if content.field_section_1 %}
+    <section class="section--white py-5">
+      <div class="container">
+        {{ content.field_section_1 }}
+      </div>
+    </section>
+  {% endif %}
+
+  {% if content.field_section_2 %}
+    <section class="section--gray py-5">
+      <div class="container">
+        {{ content.field_section_2 }}
+      </div>
+    </section>
+  {% endif %}
+
+</article>

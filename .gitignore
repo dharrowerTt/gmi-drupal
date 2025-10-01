@@ -1,0 +1,43 @@
+# Composer
+/vendor/
+/composer.phar
+
+# Drupal runtime & uploads
+/web/sites/*/files/
+/web/sites/*/private/
+/web/sites/*/files/css/
+/web/sites/*/files/js/
+/web/sites/*/files/php/
+/web/sites/*/files/styles/
+/web/sites/*/files/tmp/
+
+# Secrets / local overrides
+/web/sites/*/settings.php
+/web/sites/*/settings.local.php
+/web/sites/*/services.local.yml
+/.env
+/web/.env
+
+# One-off tools (don’t commit these!)
+/web/adminer.php
+/web/dbcheck.php
+
+# Logs & dumps
+*.log
+*.sql
+*.sql.gz
+
+# Big archives you might have grabbed via FTP
+*.zip
+*.tar
+*.tar.gz
+
+# Frontend build artifacts (if any)
+node_modules/
+web/**/node_modules/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

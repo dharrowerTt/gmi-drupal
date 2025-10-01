@@ -1,0 +1,67 @@
+<article class="resource-item container my-5 py-4 border-bottom">
+  <div class="row">
+
+    {# Thumbnail Image (optional) #}
+    {% if node.field_thumbnail.entity.field_media_image.entity.uri.value is defined %}
+      <div class="col-md-4 mb-3">
+        <div class="thumbnail-wrapper">
+          <img src="{{ file_url(node.field_thumbnail.entity.field_media_image.entity.uri.value) }}"
+               alt="{{ node.field_thumbnail.entity.name.value|default('Resource thumbnail') }}"
+               class="img-fluid" />
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="col-md-8">
+      <h2 class="h4 font-weight-bold mb-3">{{ label }}</h2>
+
+      {# Description #}
+      {% if content.field_resource_description %}
+        <div class="mb-4">
+          {{ content.field_resource_description }}
+        </div>
+      {% endif %}
+
+      <dl class="row small mb-3">
+
+        {% if content.field_file_upload|render|trim|length > 0 and content.field_file_upload['#printed'] is not defined %}
+          <dd class="col-sm-4 text-muted">Download</dd>
+          <dd class="col-sm-8">{{ content.field_file_upload }}</dd>
+        {% endif %}
+
+        {% if content.field_external_link|render|trim|length > 0 and content.field_external_link['#printed'] is not defined %}
+          <dd class="col-sm-4 text-muted">External Link</dd>
+          <dd class="col-sm-8">{{ content.field_external_link }}</dd>
+        {% endif %}
+
+        {% if content.field_topic|render|trim|length > 0 and content.field_topic['#printed'] is not defined %}
+          <dd class="col-sm-4 text-muted">Topic</dd>
+          <dd class="col-sm-8">{{ content.field_topic }}</dd>
+        {% endif %}
+
+        {% if content.field_region|render|trim|length > 0 and content.field_region['#printed'] is not defined %}
+          <dd class="col-sm-4 text-muted">Region</dd>
+          <dd class="col-sm-8">{{ content.field_region }}</dd>
+        {% endif %}
+
+        {% if content.field_language|render|trim|length > 0 and content.field_language['#printed'] is not defined %}
+          <dd class="col-sm-4 text-muted">Language</dd>
+          <dd class="col-sm-8">{{ content.field_language }}</dd>
+        {% endif %}
+
+        {% if content.field_publish_date|render|trim|length > 0 and content.field_publish_date['#printed'] is not defined %}
+          <dd class="col-sm-4 text-muted">Publish Date</dd>
+         <dd class="col-sm-8">
+  {{ node.field_publish_date.value|date("d M Y") }}
+</dd>
+
+        {% endif %}
+
+      </dl>
+
+      {# Do NOT render the Featured field ever #}
+      {# {{ content.field_featured }} #}
+
+    </div>
+  </div>
+</article>

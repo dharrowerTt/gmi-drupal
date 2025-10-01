@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x3891A7">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Lato" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Lato" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Lato" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Lato" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Lato" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Lato" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conceptos b&amp;#225;sicos sobre el metano de las minas de carb&amp;#243;n" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" />
+              <option name="html5_logo_url" value="mobile/6jshf4Ng1qN.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="C&amp;#243;mo navegar" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Referencias" />
+                  <property name="data" value="6fKzz1vZwMd" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDCDCDC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x214400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428E00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E5D00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C7C00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x373737" alpha="77" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="1" stop="89" />
+                <color rgb="0x000000" alpha="6" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3891A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3891A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x919191" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3891A7" alpha="30" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use your arrow keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acrónimo/Término</string>
+      <string id="terms">Acrónimo/Término</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menú</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Siguiente</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Atrás</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Introducción al curso" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="Fundamentos del metano de las minas de carbón" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Bienvenida" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5fMwUARbQYZ" displaytext="¿Por qué es importante el metano?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5robsBj2RJs" displaytext="¿Cuál es la diferencia entre CMM y CBM?" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6VfrHvfejpC" displaytext="Beneficios de la captura de MMC" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conceptos básicos de CMM: secciones del curso" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Fundamentos de CMM" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.6iW1nXvfPVH" displaytext="Sección 1 Gas metano en el carbón" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.68ZqKy1fKhN" displaytext="¿Por qué hay metano en el carbón?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6PZb5ZFzcvv" displaytext="El origen del gas en el carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6b4InlWegyb" displaytext="¿Cuáles son los tipos de carbón?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5wFx60EVzkB" displaytext="El metano en las minas" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6Na1L1NV1sw" displaytext="Sección 2 Métodos de producción del carbón" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.68dAHdXp6LB" displaytext="Visión general de la producción de carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6IgSjMDzcOW" displaytext="Ejemplo de minería subterránea" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C2MLPKbXH9" displaytext="Minería subterránea: Minería de cámaras y pilares" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ycFPT7EJsd" displaytext="Explotación subterránea: Minería de tajo largo" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6QFKQ8LGcvN" displaytext="Ejemplo de minería de superficie" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6dycYysBD7I" displaytext="Visión general de la minería de superficie" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qgDJpE2FLK" displaytext="Superficie: Minería a cielo abierto" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6bj0VpsdCxz" displaytext="Formas de minería a cielo abierto" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BvNGucD9aq" displaytext="Superficie: Mina a cielo abierto" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kWQt3F6AqQ" displaytext="Usos del carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5sPA2fbdFcr" displaytext="Cómo afecta el uso del carbón a la producción" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6pA5aXHYsM7" displaytext="Resumen de la producción de carbón" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5kdaJBJuY7w" displaytext="Sección 3 Emisiones de MMC" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5gIb9JjhxAW" displaytext="Ocurrencia de las emisiones" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Liberación de emisiones" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5d9sOiQVqwL" displaytext="Emisiones de metano en las minas de carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6RTB7DQEFvN" displaytext="Emisiones de metano estimadas a nivel mundial en las minas de carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66afqeEJT5n" displaytext="Emisiones de MMC en Estados Unidos en 2019" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6106EkNoHFG" displaytext="Sección 4 Captura de metano" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5dseDF5Ji9z" displaytext="Fuentes de metano de las minas de carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.672w25Vf68G" displaytext="Componentes de las minas de carbón subterráneas" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lcgoIvB7lj" displaytext="Metano del aire de ventilación" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.5Y9XBB80fkT" displaytext="Ventilación de la mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5w79hr75Y08" displaytext="Metano del aire de ventilación" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5ba41FztNxd" displaytext="Usos del VAM" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5b0NbvYLIkf" displaytext="Metano procedente de sistemas de drenaje" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6P4VHofXcUS" displaytext="Ejemplo de metano procedente de sistemas de drenaje" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5k7TbUDZy2C" displaytext="Metano drenado" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6EQiqCjAYIC" displaytext="Beneficios de los sistemas de drenaje de metano" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6px628QqiAS" displaytext="Beneficios de la mejora del drenaje del gas de la mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6EMiiVUpyaE" displaytext="Principios básicos del drenaje de metano" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6LTDxANJiFI" displaytext="Esquema de un sistema de drenaje de gas" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.6oGZOzBdOkQ" displaytext="Drenaje de metano previo a la mina" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6e2d05Oi8vT" displaytext="Drenaje de metano previo a la mina: Perforaciones superficiales" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6MQgbJwq6e5" displaytext="Sondeos horizontales" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5soQ9qGz94f" displaytext="Ventajas de las perforaciones horizontales" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5oxAb9uGRRo" displaytext="Desventajas de las perforaciones horizontales" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5gLOkywhDgO" displaytext="Drenaje de metano después de la mina" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6V4O80sEFEr" displaytext="Ejemplo de drenaje de metano después de la mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5i35KxjubBp" displaytext="Diagramas de drenaje de metano después de la mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5aYO2FGi0vD" displaytext="Configuración de pozos de goteo en superficie" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5XTNr6Krlub" displaytext="Ejemplo de pozos de goteo de superficie" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6AgZeXf79Sq" displaytext="Drenaje de metano después de la mina: Desde la superficie" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5vA8q5i2QWY" displaytext="Ventajas del drenaje post-mina desde la superficie" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6ei6Vh3uOTz" displaytext="Desventajas del drenaje post-mina desde la superficie" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6pXviUtZALA" displaytext="Drenaje de metano después de la mina: Métodos en la mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5fCeY8QgYtS" displaytext="Drenaje horizontal en mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6HCadLGoCeG" displaytext="Esquema del pozo de drenaje de gota perforado direccionalmente" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6NiN0cVqbtb" displaytext="Ventajas del drenaje horizontal en mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6VQAgyfNPRS" displaytext="Desventajas del drenaje horizontal en mina" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6qEdKBRwnUK" displaytext="Drenaje por goteo en pozos de medición cruzada" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5gO1hobQKUW" displaytext="Ventajas de las perforaciones transversales" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5Z1eqhU0ujx" displaytext="Desventajas de las perforaciones transversales" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6nzQg1sRP2Y" displaytext="Calzadas/Galerías" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6a0lxW9Mguu" displaytext="Ventajas de las calzadas/galerías" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5h6dmX3zweX" displaytext="Desventajas de las carreteras/galerías" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5VNe9TFinui" displaytext="Metano de mina de superficie" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6Kez1L8pqCp" displaytext="¿Qué es el metano de las minas de superficie?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5lntFem07RP" displaytext="Desgasificación de las minas de superficie" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6HsWhMh6SPl" displaytext="Pozos laterales antes de la explotación minera" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.6HdBxqLGz0l" displaytext="Metano de minas abandonadas" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.5yfJqPIyNbX" displaytext="¿Qué es el metano de mina abandonada (AMM)?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6jnnu4F6S0b" displaytext="Diagrama de AMM" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5ejTUxkWufm" displaytext="¿Por qué es importante el AMM?" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6IsEl5jOMGo" displaytext="AMM frente a CMM: propósito de la extracción" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6QDM3qJDbIB" displaytext="Sección 5 Usos beneficiosos del metano capturado" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5X5r6Xs1MiU" displaytext="Beneficios de la captura y uso del CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5lWiyn5sf1P" displaytext="Evaluación de la viabilidad del uso de CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5VrT52WWSLQ" displaytext="Opciones de uso final del CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5eXWn06HCNA" displaytext="Base de datos de proyectos internacionales de CMM de la GMI" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gaCSnpRItM" displaytext="Usos de CMM a nivel mundial" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5d45PJxPHx4" displaytext="Ejemplo de proyecto CMM: Mina Duerping" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ZB1YRtaA4N" displaytext="Ejemplo de proyecto CMM: Mina Bailey" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5qO3zjIAeRC" displaytext="Ejemplo de proyecto CMM: Mina Sangzhang" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5wFwFVam8PC" displaytext="Uso final de la CMM: Generación de energía/CHP" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.64mJYsxtVau" displaytext="Uso final de CMM: Calefacción y refrigeración" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.667dwT7ttVz" displaytext="Uso final de CMM: Gas de tubería de alta calidad" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xhTmIe5dDL" displaytext="Uso final de CMM: Ventas regionales y de exportación de gas" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5uHtmY27PRK" displaytext="Uso final de CMM: Gas industrial de calidad media" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6cB2XqVxqYr" displaytext="Uso final de CMM: Uso industrial" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qEGOpiCDbH" displaytext="Uso final de CMM: Materia prima química" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TG7BwNfley" displaytext="Uso final de CMM: Materia prima química" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5lXHYAMz2cZ" displaytext="Usos finales de CMM: Sitio de la mina" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5yRJI384DvD" displaytext="Uso final de CMM: Combustible para el transporte" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5ZZdRbNW3U9" displaytext="Uso final de CMM: Combustible de transporte" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6NqOYqTyhzc" displaytext="Uso final de CMM: Quemado CMM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nKZQpm60rN" displaytext="CMM: Quemado" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6n2YHFxAtjH" displaytext="Uso final de CMM: Oxidación VAM" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.64vJZW1cZzL" displaytext="Tendencias recientes de la MMC en el mundo" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6hTYJqRB8b2" displaytext="Sección 6 Recursos adicionales" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6dZxyOccQvm" displaytext="La Iniciativa Global del Metano" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6HdQqo3aAbg" displaytext="Documentos y herramientas internacionales" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Mbtf6eMXBl" displaytext="Guía de mejores prácticas para el drenaje efectivo de metano" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5W9NZRW5ifp" displaytext="Guía de mejores prácticas para la recuperación efectiva de metano" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5WNPhIJmnMb" displaytext="Programa de divulgación sobre el metano en capas de carbón" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5YnVVSnX8pS" displaytext="Recursos del CMOP" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conceptos básicos del metano de las minas de carbón capacitación de la epa de ee. uu. en apoyo de la iniciativa global de metano (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> bienvenido esta capacitación fue desarrollada por la agencia de protección ambiental de los estados unidos (usepa) en apoyo de las actividades voluntarias para reducir las emisiones de metano en el marco del programa de alcance del metano de capas de carbón (cmop) y la iniciativa global de metano (gmi). iniciativa de metano (gmi). que es el gmi? en este curso aprenderás sobre los siguientes temas: ¿por qué hay metano en el carbón? ¿cuáles son los principales métodos de extracción del carbón? ¿cuáles son las características de las emisiones de metano de las minas de carbón, también conocidas como metano de las minas de carbón (cmm)? ¿cómo se captura el metano usando la ventilación de la mina y el drenaje de gas? ¿cuáles son los usos beneficiosos del metano capturado?</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5fMwUARbQYZ" slidebank="false" type="slide"> ¿por qué es importante el metano? el metano es un potente gas de efecto invernadero (gei). es el segundo gei más abundante después del dióxido de carbono (co2):  potencial de calentamiento global: 28-36 veces la del co2 en 100 años tiempo de vida atmosférico: 12 años  el metano es un gas bien mezclado en la atmósfera. las reducciones en cualquier parte del mundo impactan las concentraciones globales.   el metano en las minas también representa un riesgo para la seguridad debido a su explosividad cuando se mezcla con el aire en concentraciones entre el 5 % y el 17 %. proyecciones globales para 2030 se estima que las emisiones globales de metano de la minería del carbón alcancen los 911 millones de toneladas métricas de co2 equivalente (mmtco2e) en 2030, que representa alrededor del 10 % de las emisiones antropogénicas mundiales de metano.</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5robsBj2RJs" slidebank="false" type="slide">¿cuál es la diferencia entre cmm y cbm? este curso se enfoca en cmm como un gei y un subproducto de la minería. cmm es una oportunidad para reducir las emisiones de metano a través de la recuperación y el uso. metano de mina de carbón (cmm) cmm es gas que se libera, o se liberaría, en las operaciones de la mina como resultado de la producción de carbón. el gas consiste en una mezcla de metano, co2, nitrógeno, otros hidrocarburos y vapor de agua. el cmm se emite desde el trabajo de la mina a través de los sistemas de ventilación y los sistemas de drenaje de gas. la definición de cmm también incluye gas drenado antes de la extracción. la cmm drenada antes de la extracción puede ser de alta pureza, pero solo se considera cmm cuando se extrae el pozo. de lo contrario, se considera metano de capa de carbón (cbm). cmm también se conoce como metano de mina residual y gas de mina de carbón residual.  metano de capa de carbón (cbm) cbm es un término genérico para el gas rico en metano que ocurre naturalmente en las vetas de carbón. por lo general, se compone de 80% a 95% de metano, con proporciones más bajas de etano, nitrógeno y co2. en el uso internacional común, este término se refiere al metano que se recupera de las vetas de carbón no extraídas utilizando pozos de superficie. cbm también se conoce como gas de veta de carbón y metano de veta de carbón.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6VfrHvfejpC" slidebank="false" type="slide">beneficios de la captura cmm los beneficios de recuperar y usar cmm incluyen: generar una fuente de energía local de combustión limpia. mejorar la seguridad de la mina al reducir las concentraciones de metano en el aire de ventilación dentro de la mina. reducir las emisiones de gases de efecto invernadero. creación de puestos de trabajo y desarrollo económico. mejora de la calidad del aire. aumentar la productividad de la mina. creación de ingresos para la mina de carbón a través de la venta de gas.</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide">  fundamentos de cmm: secciones del curso sección 1: gas metano en el carbón sección 2:  métodos de producción de carbón  seccion 3:  emisiones de mmc sección 4:  captura de metano sección 5:  usos beneficiosos del metano capturado sección 6:  recursos adicionales </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6iW1nXvfPVH" slidebank="false" type="slide">sección 1 gas metano en el carbón</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68ZqKy1fKhN" slidebank="false" type="slide">¿por qué hay metano en el carbón? los restos de plantas, como los que se encuentran en los pantanos modernos, se convertirán lentamente en carbón si el material se entierra a una profundidad suficiente y permanece cubierto durante un período de tiempo, a través de un proceso conocido como carbonización. cuanto mayor sea la temperatura, la presión y la duración del entierro del carbón, mayor será la madurez del carbón (también conocida como "rango").  el metano se genera al mismo tiempo que se forma el carbón; cuanto más alto es el rango, más metano se forma. el metano generado durante la carbonificación queda atrapado y almacenado en el propio carbón a través del proceso de sorción. el metano también puede acumularse en capas de rocas porosas adyacentes o en fracturas naturales.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6PZb5ZFzcvv" slidebank="false" type="slide">el origen del gas en el carbón   turba de desechos orgánicos presión   calor subproductos agua metano dióxido de carbono productos residuales carbón metano  durante la transformación de materia orgánica en carbón, se generan y almacenan metano y otros gases en la matriz de carbón y las fracturas o espacios porosos de las vetas de carbón.   tiempo</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6b4InlWegyb" slidebank="false" type="slide">¿cuáles son los tipos de carbón? hay cuatro tipos principales (o rangos) de carbón. la clasificación depende del contenido del depósito de carbón en términos de energía térmica, así como de los tipos y cantidades de carbono. este contenido, a su vez, está determinado por la cantidad de presión y calor que actuó sobre las plantas a lo largo del tiempo.   haga clic en cada uno de los tipos para obtener más información.  antracita anthracite anthracite anthracite anthracite antracita bituminoso bituminoso bituminoso bituminoso bituminoso bituminoso subbituminoso subbituminoso subbituminoso subbituminoso subbituminoso subbituminoso lignito lignito lignito lignito lignito lignito</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wFx60EVzkB" slidebank="false" type="slide">metano en minas el metano en las minas presenta riesgos de seguridad debido a su explosividad cuando se mezcla con el aire. el metano es explosivo en las minas subterráneas en concentraciones de 5 a 17 % en volumen en el aire. los límites reglamentarios para las concentraciones de metano en los pozos de ventilación generalmente oscilan entre 1,0 y 2,0 % y variarán según el país. los rangos de concentraciones de metano que se encuentran típicamente en las minas subterráneas son: pozos de ventilación de la mina: 0 - 2.0% sistemas de drenaje de gas: 25 - 100% se permiten concentraciones más bajas de metano en los sistemas de drenaje de gas en algunos países, pero se deben evitar las concentraciones promedio por debajo del 25% debido a la proximidad al nivel explosivo superior de metano.  haga clic para ver un gráfico que muestra el riesgo de explosión por concentración de metano en minas subterránea.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Na1L1NV1sw" slidebank="false" type="slide">sección 2 métodos de producción de carbón</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68dAHdXp6LB" slidebank="false" type="slide"> descripción general de la producción de carbón el carbón se extrae utilizando dos métodos comerciales: minería subterránea, que es responsible de la gran mayoría de las emisiones de cmm a nivel mundial. mineria subterránea incluye: minería de habitaciones y pilares (también conocida como bord y pilar) minería de tajo largo minería de superficie minería a tajo abierto minería a cielo abierto  la elección del método de extracción está determinada en gran medida por la geología del depósito de carbón, que incluye: profundidad de entierro grosor de la veta de carbón estructura geológica y tensiones</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6IgSjMDzcOW" slidebank="false" type="slide">ejemplo de minería subterránea la minería subterránea representa aproximadamente el 60% de la producción mundial de carbón y la gran mayoría de las emisiones globales de cmm.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C2MLPKbXH9" slidebank="false" type="slide">subterráneo: minería de habitaciones y pilares los depósitos de carbón se extraen cortando una red de habitaciones en la veta de carbón y dejando pilares de carbón para sostener el techo de la mina. estos pilares pueden comprender hasta el 40% del carbón total en la veta. los pilares restantes de carbón a veces se pueden recuperar en una etapa posterior. las minas de cámara y pilares representan una parte menor de la producción mundial de carbón subterráneo.   haga clic para ver un video de un minero continuo (deserado mine blue mountain energy).      </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ycFPT7EJsd" slidebank="false" type="slide">subterránea: minería de tajo largo la minería de tajo largo implica la extracción de carbón de una sección de la veta de carbón, o panel, utilizando cizallas mecánicas. un panel de tajo largo requiere una planificación cuidadosa para garantizar que exista una geología favorable en toda la sección antes de que comience el trabajo de desarrollo. el panel de carbón puede variar en ancho de 100 a 500 metros. el soporte de avance automático accionado hidráulicamente sostiene temporalmente el techo mientras se extrae el carbón. cuando se ha extraído carbón del área, se permite que el techo se derrumbe. la minería de tajo largo es más adecuada para vetas de carbón uniformes de altura media, 107-152 centímetros (42-60 pulgadas), pero los métodos de hundimiento de tajo largo se utilizan en vetas de mayor altura. en los estados unidos, la altura de las costuras puede alcanzar las 200 pulgadas (508 cm).   las minas de tajo largo representan la mayor parte de la producción de carbón subterráneo del mundo. en los estados unidos, 33 minas operaron con métodos de minería de tajo largo en 2021.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QFKQ8LGcvN" slidebank="false" type="slide">ejemplo de minería de superficie mina de carbón wyodak a cielo abierto, cuenca del río powder - gillette, wyoming.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dycYysBD7I" slidebank="false" type="slide"> descripción general de la minería de superficie la minería de superficie generalmente se usa cuando las vetas de carbón están a menos de 60 metros (aproximadamente 200 pies) de la superficie. la minería de superficie representa aproximadamente el 40% de la producción mundial de carbón.  hay dos tipos de minas de superficie: minería rayando rayando desmonte de contornos mina a cielo abierto</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qgDJpE2FLK" slidebank="false" type="slide"> haga clic para ver un video de una operación de minería a cielo abierto (mina de carbón black thunder).       superficie: minería a cielo abierto en minería a cielo abierto:  la mina se desarrolla a lo largo de una veta de carbón. la mina se puede desarrollar en niveles o contornos paralelos a la huelga. a medida que se extrae cada franja, la roca estéril se deposita en la excavación producida por la franja anterior.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bj0VpsdCxz" slidebank="false" type="slide">formas de minería a cielo abierto hay dos formas de minería a cielo abierto: pelado de área se usa en terreno bastante plano donde la veta de carbón se sumerge suavemente; el depósito de carbón se extrae en un área grande.  eliminación de contornos consiste en eliminar la sobrecarga por encima de la capa de carbón y cerca del afloramiento en terreno montañoso, donde el afloramiento de la capa suele seguir el contorno del terreno. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BvNGucD9aq" slidebank="false" type="slide">superficie: mina a cielo abierto en una mina a cielo abierto, existen numerosos niveles o bancos (escalonados desde la superficie hasta el fondo del tajo). las paredes del tajo están diseñadas para la estabilidad de taludes y la prevención de caídas de rocas o fallas en las paredes. los caminos de acarreo están ubicados a lo largo del costado del tajo para remover el carbón y la roca estéril. la roca estéril se apila en la superficie cerca del borde del pozo. una vez que cesa la extracción, se devuelve al tajo y se le vuelve a dar forma a los contornos originales aproximados, o se le da forma para facilitar el uso de la tierra después de la extracción.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kWQt3F6AqQ" slidebank="false" type="slide">usos del carbón la gran mayoría del carbón a nivel mundial se utiliza para la producción de calor y electricidad. tal carbón también se conoce como carbón de vapor o térmico. el carbón térmico representa el 85% de la demanda mundial de carbón.  el carbón también se utiliza en la producción de hierro y acero. el carbón utilizado para este fin suele ser de mayor rango y se denomina carbón coquizable o metalúrgico. el carbón metalúrgico representa el 14,5% de la demanda mundial de carbón. además de la generación de electricidad, la calefacción urbana a gran escala y la producción de hierro y acero, otros usos del carbón incluyen: producción de cemento producción de combustibles sintéticos fabricación de fibra de carbono y espumas calefacción doméstica, comercial e industrial</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5sPA2fbdFcr" slidebank="false" type="slide">cómo afecta el uso del carbón a la producción considerar los diferentes usos del carbón es importante porque la producción de carbón puede dirigirse a diferentes mercados y responder a diferentes precios.      de manera similar, los formuladores de políticas podrían desarrollar enfoques separados para los diferentes tipos de carbón. los carbones de rango superior, como la antracita y las vetas de carbón bituminoso, a menudo tienen un mayor contenido de gas y emiten más emisiones de metano cuando se extraen.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pA5aXHYsM7" slidebank="false" type="slide">resumen de la producción de carbón el carbón se produce a partir de minas subterráneas y de superficie.  a nivel mundial, las minas subterráneas representan la mayor parte de la producción de carbón. las minas de tajo largo producen la mayor cantidad de carbón de las minas subterráneas. las minas subterráneas, especialmente las minas de tajo largo de alta producción, emiten la mayor parte del cmm a nivel mundial. las minas de superficie generalmente están diseñadas para recuperar carbón de vetas poco profundas cerca de la superficie. los principales mercados del carbón son la producción de electricidad y calor, así como la fabricación de acero. la planificación de la utilización de cmm durante el desarrollo y el cierre de una mina de carbón puede mejorar el desempeño ambiental.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kdaJBJuY7w" slidebank="false" type="slide">seccion 3 emisiones de mmc</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gIb9JjhxAW" slidebank="false" type="slide">  ocurrencia de emisiones durante la extracción, la veta de carbón se extrae con equipos de minería, que perturban tanto la veta de carbón como los estratos adyacentes. en las minas subterráneas, donde la mina está conectada a la atmósfera por conductos de ventilación y equipos, se reduce la presión hidrostática en la veta de carbón, lo que hace que el metano se desorba y migre hacia las diaclasas de carbón y las fracturas naturales y, finalmente, hacia el funcionamiento de la mina. el gas fluirá hacia las obras donde la zona de perturbación puede extenderse por encima del tajo largo de 160 ma 200 m hacia el techo y por debajo del tajo largo hasta unos 40 ma 70 m hacia el suelo.   indica la migración de metano.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">liberación de emisiones la velocidad y la cantidad de gas liberado depende de varios factores: cantidad inicial de gas contenido en el carbón (contenido de gas) permeabilidad de la veta de carbón distribución y espesor de los mantos de carbón perturbados por la minería resistencia de los estratos carboníferos y de las formaciones suprayacentes y subyacentes geología minera tasa de producción de carbón diseño de la mina</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5d9sOiQVqwL" slidebank="false" type="slide">emisiones de metano en minas de carbón gas drenado gas drenado   también conocido como drenaje de metano o sistema de drenaje de metano. el gas se extrae de las vetas de carbón antes y/o durante la extracción en minas especialmente gaseosas para complementar la ventilación de la mina mediante un sistema de pozos y gasoductos que extraen y transportan el gas a la superficie. gas drenado metano del aire de ventilación (mav) mav   mav los sistemas eliminan el metano en concentraciones muy diluidas a través de los pozos de ventilación de la mina. se estima que el 70% o más de todas las emisiones globales relacionadas con la minería del carbón provienen del aire de ventilación subterráneo. metano del aire de ventilación (mav) metano de mina de superficie metano de mina de superficie   las minas a cielo abierto emiten menos metano que las minas subterráneas, pero debido al gran volumen de producción de carbón, algunas minas a cielo abierto pueden emitir cantidades muy grandes de metano.   metano de mina de superficie post-minería post-minería   las emisiones posteriores a la extracción se producen a partir del almacenamiento, el procesamiento y el transporte del carbón después de la producción, ya que el carbón producido sigue emitiendo pequeñas cantidades de metano.   post-minería el metano se libera durante diferentes aspectos de la minería: el metano se libera durante diferentes aspectos de la minería:  haga clic en cada uno de los aspectos para obtener más información.  metano de mina abandonada metano de mina abandonada   las minas abandonadas aún pueden producir y liberar metano de los estratos perturbados después de que concluyen las actividades mineras.   metano de mina abandonada</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6RTB7DQEFvN" slidebank="false" type="slide">emisiones globales estimadas de metano en minas de carbón  emisiones globales estimadas de cmm para 2025: 942 mmtco2e*  *a nosotros. agencia de protección ambiental. (2019). proyecciones y mitigación de emisiones globales de gases de efecto invernadero no co2: 2015 - 2050. agencia de protección ambiental de ee. uu., oficina de aire y radiación. epa 430-r-19-010, octubre de 2019 emisiones globales estimadas de cmm para 2035: 886,5 mmtco2e* </slidetext>
+      <slidetext slideid="6R0OsurKeaO.66afqeEJT5n" slidebank="false" type="slide">emisiones de cmm de 2019 en los estados unidos fuente: inventario de emisiones y sumideros de gases de efecto invernadero de ee. uu.: 1990-2019. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks emisiones netas de cmm (cmm liberadas menos cmm utilizadas)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6106EkNoHFG" slidebank="false" type="slide">sección 4 captura de metano</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5dseDF5Ji9z" slidebank="false" type="slide">fuentes de metano de las minas de carbón el metano de las minas de carbón se puede capturar de: minas subterraneas mediante: sistemas de ventilación de minas (el gas capturado con este método se denomina metano del aire de ventilación o mav) drenaje de gas mediante pozos de gob, pozos previos a la mina, galerías de drenaje o pozos horizontales minas de superficie minas abandonadas</slidetext>
+      <slidetext slideid="6R0OsurKeaO.672w25Vf68G" slidebank="false" type="slide"> componentes de minas de carbón subterráneas gob (haga clic para ver la descripción) el gob se refiere al área colapsada de estratos producidos por la eliminación de carbón y soportes artificiales detrás de una cara de carbón en funcionamiento; el término goaf, que tiene el mismo significado, se usa en la mayor parte del resto del mundo. los estratos por encima y por debajo de la gota están destensados ​​y fracturados por la actividad minera, creando así una mayor permeabilidad y liberación de gas del carbón y los estratos circundantes. el gas de hidrocarburo que se libera de esta zona perturbada a menudo se denomina gas gob y puede capturarse y eliminarse mediante pozos de drenaje.  sistema de ventilación de minas  (haga clic para ver la descripción) el aire evacuado de los trabajos de la mina. contiene concentraciones diluidas de metano.  povo de gob (haga clic para ver la descripción) pozo´s de gob capturar metano del área de gob, que es la zona colapsada creada después de que ha pasado el tajo largo. los pozos de gota inicialmente producen gas de alta calidad, pero la calidad se degrada rápidamente debido a la intrusión de aire en la gota con el tiempo. los pozos de gob generalmente requieren bombas para proporcionar presión de vacío para extraer el gas a la superficie.   dirección de minería (haga clic para ver la descripción) a medida que avanza el tajo largo, los pozos de drenaje previos a la mina se "minan" y ya no producen gas. después de que pasa el tajo largo, los pozos de gob comienzan a producir gas desde el gob y los estratos destensados. los tajo largos están "avanzando", lo que significa que comienzan en la entrada principal (o rumbo) y continúan hasta el final del panel de tajo largo, o están "retrocediendo", lo que significa que comienzan al final del panel y avanzan hacia la entrada principal (o bóveda).  eje (haga clic para ver la descripción) el aire de ventilación se dirige a través del sistema de ventilación de la mina a través de pozos de ventilación elevados con grandes ventiladores que extraen el aire de ventilación a la superficie. el aire de ventilación se ventila a la atmósfera, lo que genera emisiones de metano o se destruye con oxidantes. además de los pozos verticales hacia arriba, los pozos de ventilación también pueden ser pozos de deriva (horizontales) o pozos inclinados (en ángulo).     haga clic en los iconos para obtener más información.  pozo previo a la mina (haga clic para ver la descripción) los pozos previos a la mina se perforan desde la superficie para producir metano antes de la extracción, en algunos casos, durante 10 años o más antes de que se extraiga la veta de carbón. las concentraciones de metano en los pozos de drenaje previos a la mina son normalmente muy altas y se pueden usar de varias maneras, incluidos los usos finales que requieren gas de muy alta calidad, como la inyección de gas natural en tuberías. más costosos que los pozos de gob, la viabilidad de los pozos de drenaje previos a la mina depende en gran medida del contenido de gas y la permeabilidad de la veta de carbón extraído y del acceso a los mercados para el gas de alta calidad. los pozos de drenaje previos a la mina deben taparse y abandonarse a medida que pasa el tajo largo y el pozo se “mina a través”.    sistema de drenaje de gases (haga clic para ver la descripción) a menudo es necesario complementar la ventilación de la mina con desgasificación o drenaje, que se realiza antes de que comience la minería (drenaje previo a la mina) o durante la minería (drenaje posterior a la mina). los sistemas de drenaje pueden variar desde diseños relativamente simples que emplean un solo pozo vertical perforado antes o después de la extracción, hasta sistemas integrados más complejos que utilizan una combinación de pozos verticales y horizontales. los componentes principales de un sistema de drenaje de gas son: perforaciones (anteriores o posteriores a la mina, perforadas en la mina o desde la superficie), un sistema de tuberías colectoras y una estación de bombeo que extrae el gas a la superficie.  pozo horizontal previo a la mina (haga clic para ver la descripción) una práctica común en todo el mundo es perforar pozos de drenaje pre-mina horizontales dentro de la mina para reducir el contenido de metano de la veta minada. los orificios de perforación horizontales en la costura se pueden perforar perpendicularmente a través del panel de pared larga oa lo largo del panel. los tiempos de drenaje varían y dependen del desarrollo de la mina y la tasa de extracción, pero teóricamente pueden ser de cinco a diez años antes de que se extraiga el tajo largo.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lcgoIvB7lj" slidebank="false" type="slide">ventilación aire metano</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Y9XBB80fkT" slidebank="false" type="slide">ventilación de minas las minas están ventiladas por: ejercer presión positiva en la mina para empujar el aire, o creando presiones negativas para sacar el aire a través de la mina el punto de descarga de los extractores de superficie se denomina evase. el evase se utiliza para dirigir el aire extraído de forma segura lejos de la mina.  grandes volúmenes de aire se mueven a gran velocidad y transportan concentraciones muy bajas de metano.   evase de ventilación en mina subterránea (mina datong, área de songzao, china)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5w79hr75Y08" slidebank="false" type="slide">ventilación aire metano las minas de carbón subterráneas gaseosas emplean sistemas de ventilación a gran escala para introducir aire fresco en la mina. estos sistemas diluyen el metano que se libera en las operaciones de la mina a medida que se extrae el carbón y eliminan el gas de la mina, creando condiciones de trabajo más seguras. los escapes de aire de ventilación contienen concentraciones muy diluidas de metano (normalmente menos del 1 % y, a menudo, menos del 0,5 %).   evase de ventilación en mina subterránea </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ba41FztNxd" slidebank="false" type="slide">usos de mav las opciones para la utilización de vam que están actualmente disponibles y/o en desarrollo incluyen:  combustible principal oxidación, con o sin recuperación de energía (en uso comercial) turbinas de gas: microturbinas (p. ej., 30 kw) y turbinas de tamaño completo (&gt;0,5 mw)  combustible suplementario  (es decir, aire de combustión) motores de combustión interna turbinas calderas utilitarias o industriales horno rotatorio híbrido/turbina de gas</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5b0NbvYLIkf" slidebank="false" type="slide">metano de los sistemas de drenaje</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6P4VHofXcUS" slidebank="false" type="slide">ejemplo de metano de sistemas de drenaje ubicación de perforación de pozo horizontal</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5k7TbUDZy2C" slidebank="false" type="slide">metano drenado el metano drenado (también conocido como metano del sistema de drenaje o gas drenado) se refiere al gas que se captura y transporta (es decir, se drena) a través de un sistema de pozos o galerías de drenaje antes o después de la mina, seguido de la recolección y el movimiento de ese gas a través de una red de tuberías hasta la superficie. el propósito del drenaje de gas es capturar el volumen máximo de metano de alta calidad en su fuente antes de que pueda ingresar a las operaciones de la mina. los sistemas de drenaje de gas se implementan en algunas minas, pero no en todas, para mantener concentraciones seguras de metano en los trabajos de la mina. pueden diferir ampliamente en el diseño según las propiedades de la mina y otros factores. pueden ser tan pequeños como un pozo o una red compleja de múltiples pozos, sistemas de recolección y bombas.  el diseño de los sistemas de drenaje de gas está impulsado por mandatos regulatorios o juicio profesional. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6EQiqCjAYIC" slidebank="false" type="slide"> beneficios de los sistemas de drenaje de metano la inversión en buenas prácticas de drenaje de gas da como resultado: menos tiempo de inactividad debido a las condiciones gaseosas de la mina entornos mineros más seguros  oportunidad de usar gas y reducir las emisiones de metano de la mina costes de ventilación reducidos</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6px628QqiAS" slidebank="false" type="slide">formación y creación de puestos de trabajo cualificados ahorro de costos directos e indirectos para la mina utilización segura de los recursos de gas que de otro modo se desperdiciarían recuperación de energía reducciones de emisiones de gei menos paradas o ralentizaciones en la producción de carbón mantener o aumentar la capacidad de producción concentraciones de ch4 en drenaje de gas de mina ≥ 30% reduce los riesgos de explosión, protegiendo al personal y la infraestructura de la mina beneficios de mejorar el drenaje de gas de mina</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6EMiiVUpyaE" slidebank="false" type="slide">principios básicos del drenaje de metano sistema de drenaje de gases sistema de drenaje de gases   un sistema integrado que combina perforaciones con un sistema de recolección de gas, que consta de tuberías y bombas de vacío o compresores, para transportar gas desde la mina hasta la superficie. sistema de drenaje de gases pozos de drenaje previos a la mina pozos de drenaje previos a la mina   sondeos perforados en la veta minada o en los estratos adyacentes de roca y carbón que contienen gas antes de la extracción para eliminar el metano antes de que ocurra la extracción. pozos de drenaje previos a la mina pozos de drenaje posteriores a la mina pozos de drenaje posteriores a la mina   pozos perforados por encima o por debajo de la veta minada que producen metano de las áreas de gob después de que se extrae la veta de carbón.   pozos de drenaje posteriores a la mina galerías de drenaje galerías de drenaje   una alternativa a los pozos de drenaje posteriores a la mina, estos son caminos existentes o caminos especiales por encima o por debajo de la veta minada que recolectan metano de las áreas de gob.   galerías de drenaje el drenaje de metano incluye los siguientes elementos básicos: sistema de recolección de gas sistema de recolección de gas    un sistema de tuberías, equipos de eliminación de polvo y humedad, y motores primarios (p. ej., bombas de vacío, compresores) que transportan gas desde los pozos hasta la superficie.   sistema de recolección de gas  haga clic en cada uno de los elementos para obtener más información. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6LTDxANJiFI" slidebank="false" type="slide"> esquema de un sistema de drenaje de gas                        </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6oGZOzBdOkQ" slidebank="false" type="slide">drenaje de metano previo  a la mina</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6e2d05Oi8vT" slidebank="false" type="slide">drenaje de metano previo a la mina: pozos de superficie  otra opción para extraer metano antes de la minería es a través de pozos perforados vertical o direccionalmente desde la superficie antes de las operaciones mineras.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6MQgbJwq6e5" slidebank="false" type="slide">pozos horizontales para drenar el metano antes de la extracción, se pueden perforar pozos horizontales en la veta de carbón desde las entradas de desarrollo en la mina, como pasadizos (o caminos) y espacios extraídos (galerías) donde se ubica el equipo.  estos pozos drenan el metano de las áreas no explotadas de la veta de carbón poco antes de la extracción, lo que reduce el flujo de metano hacia la sección de extracción. las perforaciones en la costura pueden realizarse en línea recta, o de forma direccional a través del panel de tajo largo o a lo largo del mismo.  vista en planta de perforaciones en costura de paneles transversales perforadas desde carreteras   vista en planta de pozos perforados direccionalmente en costura perforados desde carreteras  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5soQ9qGz94f" slidebank="false" type="slide"> ventajas de los pozos horizontales ventajas de drenaje de metano a través de pozos horizontales incluyen: el gas se elimina antes de la extracción el gas producido es de alta pureza el drenaje de gas es independiente de las operaciones de extracción de carbón menos costoso que los pozos verticales aplicable en minas profundas, dependiendo de la permeabilidad del carbón puede reducir el riesgo de explosión en las costuras permite altas tasas de desarrollo en rumbos gaseosos elimina el gas que no se puede interceptar durante el drenaje posterior</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oxAb9uGRRo" slidebank="false" type="slide"> desventajas de los pozos horizontales desventajas de drenaje de metano a través de pozos horizontales incluyen: los pozos deben perforarse antes de la minería la veta de carbón debe tener una permeabilidad natural de moderada a alta el uso de pozos horizontales solo reduce las emisiones de gas de la veta trabajada, no de las vetas adyacentes perturbadas por la minería de tajo largo la producción de agua en el pozo, la estabilidad del pozo, el control direccional de la perforación pueden ser problemáticos en algunas ubicaciones de vetas, y el tratamiento y eliminación del agua producida se requiere un equipo subterráneo capacitado de perforadores de grisú (cmm)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gLOkywhDgO" slidebank="false" type="slide">drenaje de metano posterior  a la mina</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6V4O80sEFEr" slidebank="false" type="slide">ejemplo de drenaje de metano posterior a la mina pozo de ventilación gob con bomba de vacío - west virginia, ee. uu.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5i35KxjubBp" slidebank="false" type="slide">diagramas de drenaje de metano posteriores a la mina para el drenaje posterior a la mina, se emplea una variedad de prácticas en minas subterráneas de tajo largo que pueden clasificarse en términos generales como desde la superficie o dentro de la mina. los pozos de drenaje posteriores a la mina se perforan en los estratos de roca por encima o por debajo de una veta de la mina antes de la extracción, lo que permite que los pozos capturen metano después de la extracción cuando el metano se libera en la gota. el gob es el área donde se ha extraído el carbón y se ha permitido que el techo se derrumbe.  la elección de las técnicas depende de muchos factores, como las condiciones geológicas y mineras, las prácticas comunes, la economía y las reglamentaciones.  pozos de drenaje posteriores a la mina zona de fractura de gob de tajo largo</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5aYO2FGi0vD" slidebank="false" type="slide">configuración de pozo de gob de superficie los pozos de gob de superficie se construyen para drenar el metano y recuperarlo del gob después de que se haya extraído el panel de pared largo, excavando los estratos suprayacentes. un pozo de gob de superficie se perfora y se completa por encima de la veta minada antes de que se extraiga el panel de tajo largo, pero en realidad no comienza a producir gas hasta que se extrae el tajo largo debajo de él, liberando gas en el gob.   una configuración típica de pozo de gob consiste en un pozo entubado, un entubado ranurado o una terminación de pozo abierto en el fondo del pozo; una cabeza de pozo; una bomba de vacío (soplador) en la boca del pozo para sacar el gas a la superficie; un respiradero; y posiblemente equipo de utilización de gas, como un motor de gas o una bengala para usar el gas.  esquema de un pozo de drenaje de gob </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5XTNr6Krlub" slidebank="false" type="slide">ejemplo de pozos de gob de superficie instalaciones de superficie de drenaje gob, aspirador y respiradero en la parte frontal</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AgZeXf79Sq" slidebank="false" type="slide">drenaje de metano posterior a la mina: desde la superficie cuando se perfora desde la superficie, el drenaje posterior a la mina se logra mediante perforaciones verticales de ventilación de gob completadas sobre la veta minada. fuente: karacan, c. özgen (2009). pronosticar el rendimiento de la producción de orificios de ventilación de gas gob utilizando métodos informáticos inteligentes para un control óptimo del metano en las minas de carbón de tajo largo. instituto nacional de seguridad y salud en el trabajo. revista internacional de geología del carbón. septiembre de 2009.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vA8q5i2QWY" slidebank="false" type="slide"> ventajas del drenaje posterior a la mina desde la superficie ventajas de drenaje posterior a la mina desde la superficie utilizando pozos de ventilación de gob verticales incluyen: operaciones de drenaje de gas, independientes de las operaciones subterráneas capaz de ventilar flujos sustanciales de metano de la gota de tajo largo método bien probado y rentable a profundidades superficiales a moderadas a menudo se puede obtener gas de pureza moderadamente alta. la vida productiva puede extenderse a varios meses puede responder a los cambios en el plan minero</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ei6Vh3uOTz" slidebank="false" type="slide"> desventajas del drenaje posterior a la mina desde la superficie desventajas de drenaje posterior a la mina desde la superficie utilizando pozos de ventilación de gob verticales incluyen: costoso para vetas de carbón profundas riesgo de entrada de agua donde los principales acuíferos se superponen a las vetas de carbón trabajadas no hay drenaje directo de gas de las costuras en el piso de los trabajos los pozos de gob no se pueden operar hasta que la cara de carbón haya pasado cierta distancia más allá del pozo la recolección de gas para la explotación requiere bombas de vacío y una costosa infraestructura de tuberías de superficie solo aplicable cuando no haya restricciones de acceso a la superficie puede aprovechar y ventilar más gas del que liberaría la minería la calidad del gas puede degradarse rápidamente, lo que puede limitar el uso en aplicaciones que requieren gas de alta calidad, como la inyección en gasoductos</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pXviUtZALA" slidebank="false" type="slide">drenaje de metano posterior a la mina: métodos en la mina el drenaje posterior a la mina dentro de la mina se logra mediante: pozos horizontales perforados direccionalmente perforado en la roca sobre o debajo de la veta minada a lo largo o a lo largo del tajo largo desde un camino de entrada o una entrada principal. perforaciones cruzadas perforado en un ángulo por encima o por debajo de la veta minada desde un camino de entrada adyacente al panel de tajo largo. pozos perforados verticalmente perforado desde una galería subyacente hasta los estratos rocosos debajo de la veta minada. carreteras preexistentes o galerías desarrolladas (pasajes subterráneos horizontales extraídos) sobre la veta minada que captura el metano migratorio cuando está sellado y al vacío. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5fCeY8QgYtS" slidebank="false" type="slide">drenaje de gota horizontal en la mina cuando los pozos de gota se perforan direccionalmente dentro de la mina, se denominan pozos de gota horizontal (esta imagen muestra la perforación de un pozo horizontal en los estados unidos).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HCadLGoCeG" slidebank="false" type="slide"> esquema de pozo de drenaje de gota perforado direccionalmente el siguiente esquema muestra la ubicación del pozo de drenaje de gota perforada direccionalmente. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NiN0cVqbtb" slidebank="false" type="slide"> ventajas del drenaje de goba horizontal en la mina ventajas de drenaje posterior a la mina utilizando pozos horizontales perforados direccionalmente por encima o por debajo de la veta trabajada incluyen: puede usarse en un modo de drenaje previo antes de la minería eficiencia de captura potencialmente más alta que con pozos de medidas cruzadas perforados desde la veta minada las actividades de drenaje de gas están separadas de las actividades de producción de carbón después de que se haya extraído el panel de tajo largo captura gas cerca de los sitios de liberación inicial cerca de la línea de la cara de carbó</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6VQAgyfNPRS" slidebank="false" type="slide"> desventajas del drenaje de gob horizontal en la mina desventajas de drenaje posterior a la mina utilizando pozos horizontales perforados direccionalmente por encima o por debajo de la veta trabajada incluyen: la perforación direccional es relativamente costosa problemático en rocas hinchadas y carbones blandos la reparación de pozos colapsados ​​o dañados es difícil inflexible a los cambios en las operaciones mineras depender en la precisión y la velocidad de la perforación para garantizar que se implemente un sistema satisfactorio antes de que comience la producción de carbón. se necesitan habilidades y equipos de perforación subterránea especializados</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qEdKBRwnUK" slidebank="false" type="slide"> drenaje de gob de pozos de medición cruzada  cuando los pozos de gob se perforan en un ángulo por encima o por debajo de la veta de carbón, se denominan pozos de gob de medida cruzada. los pozos de gob de medida cruzada producen gas del gob a medida que avanza el tajo largo. fuente de las cifras: epa, coal mine methane recovery: a primer. epa-430-r-09-013, 2019. https://www.epa.gov/sites/production/files/2016-03/documents/cmm_primer.pdf. se está perforando un pozo de  medida cruzada esquema que muestra la ubicación de los pozos de medición cruzada en un panel de tajo largo</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gO1hobQKUW" slidebank="false" type="slide"> ventajas de los pozos de medida cruzada ventajas de drenaje posterior a la mina utilizando pozos de medición cruzada incluyen: capturas altas posibles en frentes de carbón de tajo largo que avanzan práctico para trabajos profundos de vetas de carbón corta distancia de perforación a la fuente de gas principal el gas se puede extraer y canalizar a una ubicación de superficie fija común para la explotación comercial o el uso en el sitio de la mina eficaz en vetas de carbón de baja permeabilidad los pozos de piso pueden reducir el riesgo de emisiones repentinas de gas en trabajos susceptibles patrón de perforación flexible y fácilmente modificable menos costoso de los métodos de drenaje de gas</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Z1eqhU0ujx" slidebank="false" type="slide"> desventajas de los pozos de medida cruzada desventajas de drenaje posterior a la mina utilizando pozos de medición cruzada incluyen: altas eficiencias de captura difíciles de mantener en caras de retirada para obtener la máxima eficacia, es necesario taladrar detrás de la cara en los tajos largos de retirada la vida productiva de los pozos es generalmente corta el gas de pureza media a baja se obtiene debido a que el aire de ventilación ingresa al sistema de extracción de gas a través de las rupturas de los estratos inducidas por la minería se requiere un equipo de perforación subterráneo capacitado se necesita infraestructura de tubería subterránea a la superficie o a un lugar seguro de descarga en una carretera de retorno</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nzQg1sRP2Y" slidebank="false" type="slide">carreteras/galerías las galerías de drenaje son caminos preexistentes o pasajes horizontales excavados, generalmente por encima de la veta de la mina, que recolectan el metano que migra desde las áreas de gob a través de estratos de roca y carbón que se han destensado (fracturado) después de que se extrajo el tajo largo.  los caminos/galerías se sellan y se aplica presión de vacío para atraer el gas hacia el camino o galería. luego, el gas se transfiere a la tubería para su transporte a la superficie.  se pueden perforar pozos desde la galería hasta la gota para mejorar las tasas de recuperación de gas.   las galerías de drenaje también se denominan a veces pozos superyacentes. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a0lxW9Mguu" slidebank="false" type="slide"> ventajas de las carreteras/galerías ventajas de drenaje posterior a la mina de galerías subyacentes o suprayacentes incluyen: se puede complementar con taladrado de medidas cruzadas desde la galería eficiencia de captura de gas potencialmente más alta que con pozos de medidas cruzadas perforados desde el horizonte minado las actividades de drenaje de gas están separadas de las actividades de producción de carbón para reducir los costos, a veces se pueden utilizar las carreteras existentes o los trabajos antiguos que están por encima o por debajo del distrito de producción de carbón propuesto generalmente se puede obtener gas de pureza moderadamente alta</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5h6dmX3zweX" slidebank="false" type="slide"> desventajas de las carreteras/galerías desventajas de drenaje posterior a la mina de galerías subyacentes o suprayacentes incluyen: costoso para conducir el acceso desde la costura trabajada hasta el nivel de la galería riesgo de incendio en vetas de carbón propensas a la combustión espontánea por fugas de ventilación costoso a menos que se conduzca en una veta de carbón razonablemente gruesa inflexible a los cambios en las operaciones mineras puede ser ineficaz donde hay estratos fuertes y competentes entre la galería de drenaje y el frente de tajo largo</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VNe9TFinui" slidebank="false" type="slide">metano de mina de superficie</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Kez1L8pqCp" slidebank="false" type="slide">¿qué es el metano de minas superficiales? en las minas a cielo abierto, las vetas de carbón están directamente expuestas a la atmósfera. el metano también podría escapar a la atmósfera a través de fisuras naturales u otras fuentes difusas. el metano de mina de superficie (smm) es metano liberado de las vetas de carbón y los estratos circundantes a medida que el carbón se rompe y se extrae en minas a cielo abierto o a cielo abierto.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lntFem07RP" slidebank="false" type="slide"> desgasificación minas de cielo abierto los pozos verticales antes de la minería son técnicamente factibles en las minas de superficie, pero rara vez se usan porque no son económicamente viables. los pozos se abandonan temporalmente a medida que se acerca la minería o los pozos muestran evidencia de aire en el gas producido. el equipo de superficie y el revestimiento se retiran antes de la extracción. el tiempo es clave, y la producción debería comenzar lo más antes posible de la minería. ejemplo de drenaje previo smm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HsWhMh6SPl" slidebank="false" type="slide"> pozos laterales antes de la minería los pozos laterales antes de la extracción son aplicables a algunas minas a cielo abierto y minas a cielo abierto. dependiendo de la ubicación, los pozos pueden continuar produciendo metano durante y después de la extracción. se puede acceder a más carbón si se utilizan túneles auxiliares más pequeños (desvíos). ejemplo de pozo lateral smm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HdBxqLGz0l" slidebank="false" type="slide">metano de mina abandonada</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5yfJqPIyNbX" slidebank="false" type="slide">¿qué es el metano de minas abandonadas (amm)? cuando las minas subterráneas de carbón ya no funcionan para producir carbón, se conocen como minas cerradas o "abandonadas". a pesar de que ya no existe la minería activa, estas minas cerradas aún pueden producir emisiones significativas de metano a partir de ventilaciones difusas, fisuras o pozos durante muchos años después de que cesa la minería. varios factores afectan la cantidad de metano que se produce en las minas abandonadas, entre ellos: el tiempo transcurrido desde que se cerró la mina si la mina se ha inundado la tasa de inundación qué gaseosa estaba la mina en el momento de su cierre si la mina fue sellada correctamente</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jnnu4F6S0b" slidebank="false" type="slide"> diagrama amm amm es el gas que queda en los estratos que contienen gas después del cierre de la mina de carbón que han sido desestresados ​​por la minería.  en algunos casos, la actividad microbiana reciente puede haber generado metano adicional.  fuente: orientación de mejores prácticas de unece amm, 2020 e ineris, 2019 diagrama amm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ejTUxkWufm" slidebank="false" type="slide">¿por qué es importante amm?  la amm es importante porque la filtración descontrolada de gas a la superficie por encima de los trabajos mineros abandonados puede generar peligros de explosión y asfixia en el entorno construido.  las minas abandonadas son una fuente importante de emisiones de gases de efecto invernadero que pueden y deben mitigarse.  amm es un recurso energético potencial que no se explota ampliamente.   la importancia de utilizar amm aumentará debido a los futuros cierres de minas de carbón a medida que los países cambien el suministro de energía de los combustibles fósiles en respuesta a los compromisos internacionales sobre el cambio climático.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6IsEl5jOMGo" slidebank="false" type="slide">amm vs cmm: propósito de la extracción mina activa el cmm se extrae principalmente por razones de seguridad y la tasa de producción no puede reducirse si el suministro de gas excede la demanda. si no se puede usar el gas, se debe ventilar o quemar. mina abandonada el amm se extrae principalmente como un recurso y, por lo general, existe cierto margen para regular la oferta para que coincida con la demanda. en algunos casos, el amm se extrae por razones de seguridad, para evitar la migración descontrolada de gas a la superficie en áreas construidas.  estación de bombeo, mina en china ventilación amm con parallamas svalbard, noruega</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6QDM3qJDbIB" slidebank="false" type="slide">sección 5 usos beneficiosos del metano capturado</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5X5r6Xs1MiU" slidebank="false" type="slide">  inversión en mejoramiento de drenaje y uso de metano reducción de las emisiones de metano y de los gastos operativos y de capital de ventilación mejora de la gestión y el control del metano mayor seguridad y mayor productividad operaciones menos perjudiciales para el medio ambiente inadecuada inversión en drenaje y uso de metano mayor capital de ventilación y gastos operativos, y emisiones de metano acumulación impredecible e incontrolada de metano mayor peligro y menor productividad operaciones más perjudiciales para el medio ambiente beneficios de capturar y usar cmm la inversión en la captura y el uso de cmm puede beneficiar muchos aspectos de una empresa, como los gastos operativos, la gestión, la seguridad y el desempeño ambiental.  el camino óptimo el camino subóptimo inversión los gastos de explotación administración la seguridad operaciones</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lWiyn5sf1P" slidebank="false" type="slide">evaluación de la viabilidad del uso de cmm para evaluar la viabilidad de la recuperación y el uso de cmm, los desarrolladores de proyectos pueden realizar varios tipos de estudios.  tipo de estudio objetivos características estudio de escritorio análisis de primer orden basado en datos limitados supuestos básicos  modelado financiero simple estudio de prefactibilidad análisis más detallado con información específica del sitio revisión más detallada de los recursos de gas. revisión de drenaje de gas. pronóstico de producción de gas análisis financiero más completo estudio de factibilidad documento financiable informe exhaustivo que investiga la viabilidad económica y técnica del desarrollo del proyecto. documento "financiable" suficiente para la financiación de terceros  ver la apa´s curso realización de estudios de prefactibilidad para proyectos de metano en minas de carbón para más información.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5VrT52WWSLQ" slidebank="false" type="slide">opciones de uso final  de cmm el desarrollador de un proyecto se guiará por los mercados, las prioridades de la empresa minera, los medios financieros y las prioridades de política pública.  no existe una jerarquía para definir la "mejor" tecnología de uso final. las opciones de uso final para cmm son prácticamente las mismas que las del gas natural.   generación de energía calor y energía combinados (chp) calefacción y refrigeración  ventas de gas regionales y de exportación transporte combustible uso industrial materia prima química resplandeciente opciones de uso final de cmm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5eXWn06HCNA" slidebank="false" type="slide">base de datos internacional de proyectos cmm de gmi el gmi base de datos internacional de proyectos cmm es la mejor fuente de información disponible sobre proyectos cmm operativos y anteriores/futuros a nivel mundial. a partir de 2021, la base de datos identificó: 15 países que albergan proyectos de reducción de cmm 328 proyectos conocidos en diversas etapas de operación 260 proyectos operativos: 156 proyectos cmm, incluidos 4 proyectos vam y 104 proyectos amm 36 proyectos que están en desarrollo, y 32 proyectos cerrados/no operativos </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gaCSnpRItM" slidebank="false" type="slide">usos de cmm a nivel mundial para todos los proyectos operativos a nivel mundial:  la mayoría de los proyectos generan calor o electricidad, o ambos (66%). el calor y la electricidad combinados representan el 34% de todos los proyectos la quema de cmm representa el 13% de los proyectos las ventas de gas representan el 12% de los proyectos como subconjunto, los proyectos amm generan calor y electricidad combinados (51%, o 53 proyectos de 104 de proyectos amm operativos). la capacidad nominal de los equipos en las instalaciones chp está en el rango de 30 kw a 55 mw, con un promedio de 5 mw. proporción de proyectos operativos conocidos por conteo</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5d45PJxPHx4" slidebank="false" type="slide">  instalación de grupo electrógeno mwm de 12 mw - tai yuan, china un proyecto cmm de emisiones casi nulas en la mina duerping en china: sistema centralizado de recolección de gases con eliminación de polvo y humedad central eléctrica de 12 mw que utiliza motores de gas que funcionan con gas drenado antorcha cerrada para destruir el exceso de metano sistema de calefacción de aceite de circuito cerrado que utiliza intercambiadores de calor para extraer el exceso de calor de los motores de gas para calentar el aceite que luego se transfiere por tubería al pozo de la mina para proporcionar calefacción en invierno ventilación pasiva en caso de que la planta no pueda aceptar la cmm por algún motivo x ejemplo de proyecto cmm: mina duerping instalación de grupo electrógeno mwm de 12 mw - tai yuan, china uso final de cmm: generación de energía y motores de combustión interna      ver más información      view more information      view more information      view more information      view more information      ver más información </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZB1YRtaA4N" slidebank="false" type="slide">  proyecto cmm de microturbina ingersoll rand - mina bailey este proyecto presenta una microturbina que funcionaba con cmm en la mina bailey en pensilvania como parte de un proyecto de investigación y desarrollo financiado por el gobierno de ee. uu. para evaluar las tecnologías de uso y recuperación de cmm.  x ejemplo de proyecto cmm: mina bailey proyecto cmm de microturbina ingersoll rand - mina bailey condado de washington, pensilvania uso final de cmm: generación de energía; microturbinas/turbinas      ver más información      view more information      view more information      view more information      view more information      ver más información </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5qO3zjIAeRC" slidebank="false" type="slide">  proyecto vam y chp de la mina sangzhang un proyecto de recuperación de energía y oxidación de vam en la mina no. 2 de yanquan coal group en china que produce 15 mw y reduce las emisiones de cmm en 830,000 tco2e anualmente.  x ejemplo de proyecto cmm: mina sangzhang  proyecto vam y chp de la mina sangzhang yangquan, provincia de shanxi, china uso final de cmm: generación de energía; oxidación vam      ver más información      ver más información      ver más información      ver más información      ver más información      ver más información </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wFwFVam8PC" slidebank="false" type="slide">uso final de cmm: generación de energía/chp aplicaciones ventajas desventajas generadores de motor de gas que producen energía para uso minero o exportación a la red; chp permite la recuperación y el uso de energía térmica  tecnología probada chp más eficiente que la producción de energía sola recuperación de calor residual para calentar edificios de minas, baños de mineros y calefacción y refrigeración de pozos salida interrumpible y variable; por lo tanto, puede no ser propicio para la red eléctrica el mantenimiento regular requiere el compromiso del operador de la mina altos costos de capital en la etapa inicial del proyecto usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina combustible de transporte mmc abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.64mJYsxtVau" slidebank="false" type="slide">uso final de cmm: calefacción y refrigeración planta combinada de calor y electricidad de 15 mw que utiliza vapor generado a partir de la destrucción de vam - china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.667dwT7ttVz" slidebank="false" type="slide">uso final de cmm: gas de tubería de alta calidad aplicaciones ventajas desventajas mmc purificada de alta calidad equivalente de gas natural rentable donde los precios del gas son fuertes  buena opción donde existe una sólida infraestructura de tuberías los estándares de pureza de las tuberías son altos y la purificación es costosa solo factible para mmc predrenadas de alta calidad o mmc tratadas requiere un acceso razonable a la tubería usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina combustible de transporte cmm abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xhTmIe5dDL" slidebank="false" type="slide">uso final de cmm: ventas de gas regionales y de exportación planta de eliminación de nitrógeno en vessels coal gas bethlehem mine #33 - ebensburg, pa</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5uHtmY27PRK" slidebank="false" type="slide">uso final de cmm: gas industrial de calidad media aplicaciones ventajas desventajas &gt;30 % de metano para calefacción de distrito residencial local y uso industrial, como hornos de combustión y en la fabricación de fertilizantes fuente de combustible de bajo costo  beneficios localizados puede requerir una limpieza de gas mínima o nula costo del sistema de distribución y mantenimiento calidad y suministro variables se necesitan costosos gasómetros para gestionar los picos de demanda usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina combustible de transporte cmm abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6cB2XqVxqYr" slidebank="false" type="slide">uso final de cmm: uso industrial planta de fertilizantes alimentada por cmm - provincia de shanxi, china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qEGOpiCDbH" slidebank="false" type="slide">uso final de cmm: materia prima química aplicaciones ventajas desventajas gas de alta calidad para la fabricación de negro de carbón, formaldehído, combustibles sintéticos y éter dimetílico (dme) un uso para alto-abandonado suministros de cmm de calidad alto costo de procesamiento potencial muy limitado en mercados de carbono voluntarios o de cumplimiento usos finales de cmm generación de energía/chp gasoducto de alta calidad gas para“ciudad” o industrial de calidad media materia prima química sitio de la mina combustible de transporte cmm abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TG7BwNfley" slidebank="false" type="slide">uso final de cmm: materia prima química planta de metanol</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lXHYAMz2cZ" slidebank="false" type="slide">usos finales de cmm: sitio de mina aplicaciones ventajas desventajas calefacción, cocina, calderas, secado de finos de carbón y residencias de mineros  desplaza el uso del carbón fuente de energía limpia y de bajo costo alto costo de procesamiento puede ser menos beneficioso económicamente para usar en el sitio que fuera del sitio usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina combustible de transporte cmm abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5yRJI384DvD" slidebank="false" type="slide">uso final de cmm: combustible de transporte aplicaciones ventajas desventajas gas purificado de alta calidad predrenado y cbm para gas natural comprimido (gnc) y gas natural licuado (gnl) acceso al mercado para suministros de gas varados la competencia es el combustible diesel de alto precio costos de procesamiento, almacenamiento, manejo y transporte los estándares de purificación son muy altos usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina combustible de transporte mmc abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5ZZdRbNW3U9" slidebank="false" type="slide">uso final de cmm: combustible de transporte estación de servicio de vehículos gnc - shanxi, china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NqOYqTyhzc" slidebank="false" type="slide">uso final de cmm: cmm abocinada aplicaciones ventajas desventajas operación independiente o como parte de una operación integrada opción de bajo costo para reducir las emisiones reembolso rápido en comparación con otras opciones de uso fácil de implementar en la mayoría de los casos puede ser difícil de movilizar en terrenos empinados requiere valor para la reducción de carbono solo destrucción, no utilización usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina transporte combustible cmm abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nKZQpm60rN" slidebank="false" type="slide">cmm: abocardado harworth power en flare, reino unido  motores de gas y una bengala en un  mina abandonada, ee.uu.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6n2YHFxAtjH" slidebank="false" type="slide">uso final de cmm: oxidación de vam aplicaciones ventajas desventajas oxidación del metano del aire de ventilación solo como destrucción o con recuperación de energía para calefacción o producción de energía reducciones de emisiones a gran escala aborda la mayor fuente de emisiones de cmm muy caro en comparación con otras tecnologías requiere un alto valor para las reducciones de carbono y una recuperación más prolongada que otras opciones la generación de energía requiere una concentración de metano constantemente alta, cercana al 1,0 % usos finales de cmm generación de energía/chp gasoducto de alta calidad gas “ciudad” o industrial de calidad media materia prima química sitio de la mina transporte combustible cmm abocinada oxidación vam</slidetext>
+      <slidetext slideid="6R0OsurKeaO.64vJZW1cZzL" slidebank="false" type="slide">tendencias recientes en cmm en todo el mundo según la base de datos de proyectos cmm de gmi:  hay un número creciente de proyectos de quema de cmm y amm en los ee. uu. el desarrollo de proyectos de vam a energía a gran escala está aumentando en china.  los proyectos cmm planificados y desarrollados en china están creciendo, con una capacidad de generación de energía que oscila entre 15 y 66 mw. en 2020-2021, se puso en marcha un nuevo proyecto chp en polonia con 24 mw de capacidad eléctrica y térmica combinadas. el interés en el desarrollo de amm está creciendo.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hTYJqRB8b2" slidebank="false" type="slide">sección 6 recursos adicionales</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dZxyOccQvm" slidebank="false" type="slide"> la iniciativa global de metano los iniciativa global de metano (gmi) es una asociación multilateral voluntaria que tiene como objetivo reducir las emisiones de metano y avanzar en la reducción, recuperación y uso del metano como fuente de energía limpia. el enfoque estratégico de gmi es desarrollar capacidades: evaluaciones de recursos: análisis de oportunidades de metano en países en desarrollo estudios de factibilidad y prefactibilidad: análisis de oportunidades de proyectos específicos desarrollo de herramientas: bases de datos tecnológicas y modelos financieros capacitación y talleres: enseñar a los propietarios y operadores sobre las oportunidades de reducción de metano giras de estudio y cámaras de compensación: llevar a la gente a ver proyectos modelo de metano y establecer centros de información en países en desarrollo  lanzado en 2004 con 14 países socios, gmi cuenta actualmente con 45 países socios, incluida la comisión europea. gmi apunta a tres sectores clave para la reducción de metano, que incluyen minas de carbón, biogás y petróleo y gas. póngase en contacto con la secretaría de gmi países socios de gmi representan aproximadamente el 75% de las emisiones globales estimadas de metano de las actividades humanas. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HdQqo3aAbg" slidebank="false" type="slide">documentos y herramientas internacionales la epa de ee. uu. ha desarrollado una serie de herramientas en apoyo de gmi:  estudios de prefactibilidad en muchos países base de datos de proyectos internacionales de cmm perfiles de países clave de cmm  estudios de mercado de cmm informes analíticos, tales como: estado legal y reglamentario de amm en países seleccionados  estado de propiedad de cmm e incentivos de políticas en países clave curso en línea de desarrollo de proyectos cmm</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Mbtf6eMXBl" slidebank="false" type="slide">guía de mejores prácticas para el drenaje efectivo de metano guía de mejores prácticas para el drenaje y uso efectivo de metano en minas de carbón describe las mejores prácticas internacionales para la recuperación y el uso de cmm en minas activas con estudios de casos. proporciona una guía accesible y comprensible sobre los recursos de metano, las opciones de recuperación de gas y los usos finales destinados a los responsables de la toma de decisiones gubernamentales y de la industria de alto nivel. se aplica únicamente a la minería subterránea. actualizado en diciembre de 2016 (2ª edición). </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5W9NZRW5ifp" slidebank="false" type="slide">guía de mejores prácticas para la recuperación efectiva de metano guía de mejores prácticas para la recuperación y el uso efectivos del metano de las minas de carbón abandonadas lanzado en agosto de 2019. identifica las mejores prácticas para evaluar oportunidades de amm e implementar proyectos de recuperación y uso de amm. incluye estudios de casos.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5WNPhIJmnMb" slidebank="false" type="slide"> programa de divulgación de metano de lecho de carbón misión cmop los programa de divulgación de metano de coalbed carbón (cmop) trabaja en cooperación con la industria minera del carbón en los estados unidos para reducir las emisiones de cmm a través de proyectos de recuperación y uso.  enfoque cmop oportunidades de reducción de emisiones de gei: recuperación del metano que se emite como subproducto de la minería (cmm). a partir de 2019, alrededor del 31 % de cmm de las minas de carbón subterráneas en los estados unidos se recupera y usa/destruye.    póngase en contacto con la cmop</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5YnVVSnX8pS" slidebank="false" type="slide">recursos de la cmop la epa ha desarrollado un conjunto de documentos y herramientas para ayudar en el desarrollo de proyectos, tales como: perfiles de oportunidades de proyectos: identificación de oportunidades para la recuperación de metano de minas de carbón en minas de carbón de ee. uu.: perfiles de minas de carbón subterráneas gaseosas seleccionadas 2002-2016 recuperación de metano de minas de carbón en minas de carbón activas y abandonadas de ee. uu.: proyectos actuales y oportunidades potenciales oportunidades de proyectos de recuperación de metano en minas de carbón de superficie de ee. uu. modelo de flujo de caja cmm guía financiera de cmm  webinars sobre temas de interés conversor de unidades y calculadora de equivalencias de gei</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6MIFxN041Qc" slidebank="false" type="slide">¡gracias! ha completado el curso  curso sobre el metano de las minas de carbón.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">la iniciativa mundial sobre el metano (gmi) es una asociación voluntaria y multilateral cuyo objetivo es reducir las emisiones de metano e impulsar la reducción, recuperación y uso del metano como fuente de energía limpia. ¿qué es la iniciativa global sobre el metano? países socios de la gmi</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">cómo navegar utilice los botones situados en la parte inferior derecha de la pantalla para avanzar por el módulo. avanzará de una en una las diapositivas, aunque puede volver a visitarlas en cualquier momento utilizando el panel de navegación del menú de la izquierda.  si necesita salir del módulo, se guardará la última diapositiva que haya completado, y podrá volver a ese lugar más tarde. </slidetext>
+      <slidetext slideid="6LVzO9764wa.69ss6X6FGi8" slidebank="false" type="slide">antracita la antracita es el rango más alto de la hulla. es un carbón duro, quebradizo y de color negro lustroso, a menudo denominado hulla, que contiene un alto porcentaje de carbono fijo y un bajo porcentaje de materia volátil.  los yacimientos de carbón de antracita pueden contener cmm, y algunos de los mayores proyectos de recuperación de cmm se encuentran en las minas de antracita de china.   </slidetext>
+      <slidetext slideid="6LVzO9764wa.6p9NrNZa7Vd" slidebank="false" type="slide">bituminoso el carbón bituminoso es un carbón de rango medio entre el subbituminoso y el antracita, y también se considera hulla.  el bituminoso suele tener un alto valor calorífico (btu), y es el tipo de carbón más utilizado en la generación de electricidad en estados unidos. las minas de carbón bituminoso producen la mayor parte del cmm en estados unidos.   </slidetext>
+      <slidetext slideid="6LVzO9764wa.5nWZFGOhrZo" slidebank="false" type="slide">lignito el lignito es el carbón de menor calidad y con menor concentración de carbono, y generalmente no se considera una fuente importante de cmm.</slidetext>
+      <slidetext slideid="6LVzO9764wa.5l9ahNBBRGQ" slidebank="false" type="slide">subbituminoso el carbón subbituminoso es de color negro y opaco (no brillante), y tiene un poder calorífico superior al del lignito.  junto con el lignito, se denomina lignito y puede extraerse en minas de superficie o subterráneas.   en algunos países, como turquía, las minas de lignito subterráneas pueden ser gaseosas.</slidetext>
+      <slidetext slideid="6XWClxNU6GM.5bdumBBoDhs" slidebank="false" type="slide">riesgo de explosión por concentración de metano en  minas subterráneas</slidetext>
+      <slidetext slideid="6gsnzyAFCoD.6d1iF8euaVO" slidebank="false" type="slide"> sección 1: el gas metano en el carbón section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal sección 1: el gas metano en el carbón sección 2: métodos de producción de carbón section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production sección 2: métodos de producción de carbón sección 3: emisiones de mmc section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions sección 3: emisiones de mmc sección 4: captura de metano section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture sección 4: captura de metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano  definiciones adaptadas de la comisión económica para europa de las naciones unidas (cepe), 2016. best practice guidance on effective methane drainage &amp; use in coal mines, 2ª edición (2016). https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf. comisión económica para europa de las naciones unidas (cepe), 2016. guía de mejores prácticas sobre el drenaje y uso eficaz del metano en las minas de carbón, 2ª edición. 2016. https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf.    servicio geológico de los estados unidos (usgs). https://www.usgs.gov/faqs/what-are-types-coal?qt-news_science_products=0#qt-news_science_products agencia de protección ambiental de los estados unidos (epa), 2019a. emisiones de gases de efecto invernadero: visión general de los gases de efecto invernadero, emisiones de metano. agencia de protección ambiental de los estados unidos. disponible: https://www.epa.gov/ghgemissions/overview-greenhouse-gases consultado el 15 de julio de 2019. epa de los estados unidos. 2019b. emisiones mundiales de gases de efecto invernadero distintos del co2: 2015-2050. septiembre de 2019. agencia de protección ambiental de los estados unidos. disponible: https://www.epa.gov/sites/production/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf. consultado el 10 de enero de 2020.  epa de los estados unidos. 2019c. preguntas frecuentes sobre el metano de las minas de carbón. agencia de protección ambiental de los estados unidos. disponible: https://www.epa.gov/cmop/frequent-questions#q6 consultado el 23 de junio de 2020. </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.5VMbypOnIV5" slidebank="false" type="slide"> sección 1: el gas metano en el carbón section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal sección 1: el gas metano en el carbón sección 2: métodos de producción de carbón section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production sección 2: métodos de producción de carbón sección 3: emisiones de mmc section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions sección 3: emisiones de mmc sección 4: captura de metano section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture sección 4: captura de metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano  arch coal. haga una visita virtual a la mina de carbón black thunder". https://www.youtube.com/watch?v=2lqwxtm94ps 4:13. publicado: 14 de febrero de 2011. benally, connery. "mina deserado blue mountain energy". https://www.youtube.com/watch?v=mozzornsefq, 4:10. publicado: 15 de agosto de 2015. revista coal age. censo de tajo largo de los estados unidos, 2021. https://www.coalage.com/flipbooks/january-february-2021/ goebel, greg. "surface coal mine detail, gillette, wyoming / 2008" por flickr. cc by-sa 2.0. agencia internacional de la energía (aie). coal 2020:  análisis y previsión hasta 2025. parís, francia. diciembre de 2020 https://iea.blob.core.windows.net/assets/00abf3d2-4599-4353-977c-8f80e9085420/coal_2020.pdf.  kholod, nazar et al. 2020. las emisiones mundiales de metano procedentes de la minería del carbón seguirán aumentando aunque disminuya la producción de carbón. journal of cleaner production. volumen 256. 20 de mayo de 2020. https://www.sciencedirect.com/science/article/pii/s0959652620305369 foto de archivo de raven ridge resources, instalaciones de superficie de una mina subterránea en funcionamiento en estados unidos administración de información energética de los estados unidos. today in energy. disponible: https://www.eia.gov/todayinenergy/detail.php?id=38172 consultado el 15 de julio de 2019. epa de los estados unidos, 2019a. emisiones de gases de efecto invernadero: visión general de los gases de efecto invernadero, emisiones de metano. agencia de protección ambiental de los estados unidos. disponible: https://www.epa.gov/ghgemissions/overview-greenhouse-gases consultado el 15 de julio de 2019. instituto mundial del carbón, s.f. the coal resource a comprehensive overview of coal. instituto mundial del carbón. disponible: https://refman.energytransitionmodel.com/publications/1264 consultado el 15 de julio de 2019. instituto mundial del carbón. la minería del carbón. publicado el 10 de marzo de 2009. disponible: https://www.worldcoal.org/?pageid=92 consultado el 24 de junio de 2020. youtube.  minero continuo: mina deserado - blue mountain energy. https://www.youtube.com/watch?v=mozzornsefq carbón en el mundo. </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.6IksG1e2FyM" slidebank="false" type="slide"> sección 1: el gas metano en el carbón section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal sección 1: el gas metano en el carbón sección 2: métodos de producción de carbón section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production sección 2: métodos de producción de carbón sección 3: emisiones de mmc section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions sección 3: emisiones de mmc sección 4: captura de metano section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture sección 4: captura de metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano  gas research institute, a guide to coalbed methane reservoir engineering, 1996. administración de información energética de los estados unidos. informe anual sobre el carbón. octubre de 2020.  https://www.eia.gov/coal/annual/ law, b e, y rice, d d. 1993. "hidrocarburos del carbón". estados unidos. u.s. epa. 2019d.  global non-co2 greenhouse gas emission projections &amp; mitigation: 2015 - 2050.  agencia de protección ambiental de los estados unidos, oficina de aire y radiación.  epa 430-r-19-010, octubre de 2019. https://www.epa.gov/sites/production/files/2019-09/documents/epa_non-co2_greenhouse_gases_rpt-epa430r19010.pdf consultado el 10 de enero de 2020. epa de los estados unidos. 2019e. recuperación del metano de las minas de carbón: a primer. julio de 2019. washington, d.c. estados unidos. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf u.s. epa. 2021. inventario de emisiones y sumideros de gases de efecto invernadero de estados unidos: 1990-2019 https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.6RLrzNqrXF5" slidebank="false" type="slide"> sección 1: el gas metano en el carbón section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal sección 1: el gas metano en el carbón sección 2: métodos de producción de carbón section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production sección 2: métodos de producción de carbón sección 3: emisiones de mmc section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions sección 3: emisiones de mmc sección 4: captura de metano section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture sección 4: captura de metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano  china national offshore oil corp.  "clariant international ltd: planta de producción de metanol de cnooc kingboard chemical co ltd. (foto: cnooc kingboard chemical ltd)". fuente:  usuario de flickr pressreleasefinder cc by-nc-nd 2.0. butler, neil.  foto de una antorcha cmm en una mina del reino unido.  proyecto desarrollado por harworth power. c. özgen karacan, felicia a. ruiz, michael cotè, sally phipps. coal mine methane: a review of capture and utilization practices with benefits to mining safety and to greenhouse gas reduction, international journal of coal geology, volume 86, issues 2-3, 2011, pages 121-156, issn 0166-5162, https://doi.org/10.1016/j.coal.2011.02.009 global methane initiative.  cmm projects list (https://www.globalmethane.org/resources/details.aspx?resourceid=1981) ingersoll rand. foto de una microturbina alimentada por mmc en la mina bailey, virginia occidental, estados unidos.  proporcionada por joe catina, fotos de archivo de raven ridge resources. estación de abastecimiento de gnc, provincia de shanxi, china. sindicatum sustainable resources (2021). foto y detalle del proyecto mmc de la mina de duerping, provincia de shanxi, china. proporcionado por david creedy. u.s. epa. 2003. foto de motores de gas y antorcha en una mina abandonada en ohio, eeuu. proyecto desarrollado por northwest fuels development inc.  foto tomada en 2003. u.s. epa. 2014. foto de la unidad de eliminación de nitrógeno en el proyecto de metano de mina abandonada cambria 33, pensilvania, estados unidos. proyecto desarrollado por vessels carbon solutions inc.  foto tomada en noviembre de 2014. u.s. epa. 2015. estudio de prefactibilidad para la captura y utilización del metano de las minas de carbón en las minas mahui y pingshang. abril de 2015. washington, dc, estados unidos. https://www.epa.gov/sites/default/files/2016-03/documents/epa_xiyang_china_prefeas_study.pdf u.s. epa. 2019e. recuperación del metano de las minas de carbón: a primer. julio de 2019. washington, d.c. usa. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf u.s. epa. 2019g.  foto del proyecto de oxidación y cogeneración de vam en la mina sangzhang, provincia de shanxi, china. proyecto desarrollado por fortman (beijing) clean energy ltd. foto tomada en diciembre de 2019. u.s. epa. 2019h.  foto de la turbina de vapor de 15 mw que funciona con el vapor generado por la unidad de oxidación vam en el proyecto vam/chp en la mina sangzhang, provincia de shanxi, china. proyecto desarrollado por fortman (beijing) clean energy ltd. foto tomada en diciembre de 2019. </slidetext>
+      <slidetext slideid="6gsnzyAFCoD.64WrWeKCFI5" slidebank="false" type="slide"> sección 1: el gas metano en el carbón section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal section 1: methane gas in coal sección 1: el gas metano en el carbón sección 2: métodos de producción de carbón section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production section 2: methods of coal production sección 2: métodos de producción de carbón sección 3: emisiones de cmm section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions section 3: cmm emissions sección 3: emisiones de cmm sección 4: captura de metano section 4: methane capture section 4: methane capture section 4: methane capture section 4: methane capture sección 4: captura de metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano sección 5: usos beneficiosos del metano   iniciativa global del metano. 2011. "emisiones de metano de minas de superficie y oportunidades de proyectos". iniciativa global del metano y raven ridge resources, octubre de 2011. disponible: https://www.globalmethane.org/documents/events_coal_101411_tech_marshall.pdf consultado el 15 de julio de 2019.  iniciativa global del metano. 2021. realización de estudios de prefactibilidad para proyectos de metano de minas de carbón formación. https://www.globalmethane.org/training/coalminetraining.aspx karacan, c. özgen. 2009. previsión de los rendimientos de la producción de los pozos de gas gob mediante métodos informáticos inteligentes para el control óptimo del metano en las minas de carbón de tajo largo.  instituto nacional de seguridad y salud laboral. revista internacional de geología del carbón. septiembre de 2009.  kravits, steve. 2019. cmm recovery - advantages and disadvantages of surface cbm wells and in-mine horizontal boreholes, presented by steve kravits, target drilling inc., coalbed methane outreach program coal mine methane conference, september, 2007, st. disponible: http://www.targetdrilling.com/ consultado el 15 de julio de 2019. malamisura, rocky. 2007.cbm/cmm extraction: a winning proposition for both gas and coal, presentación de rocky, cnx gas, coalbed methane outreach program coal mine methane conference, septiembre de 2007, st. peacock, mike. 2006. degasification methods at mountain coal company's west elk mine, presentado por mike peacock, coalbed methane outreach program 2nd western states coal mine methane recovery and use workshop, septiembre de 2006, grand junction, colorado. rei drilling, inc. foto del equipo de perforación horizontal en la mina. rei drilling, inc. fotos de pozos de gob. shutterstock.  foto con licencia de un respiradero amm en una mina cerrada en svaldbard, noruega.   unece. 2016. guía de mejores prácticas para el drenaje y uso eficaz del metano en las minas de carbón. unece. diciembre de 2016. https://www.unece.org/fileadmin/dam/energy/cmm/docs/bpg_2017.pdf  unece. 2020. guía de mejores prácticas para la recuperación y el uso eficaz del metano de las minas de carbón abandonadas. unece. enero 2020. https://unece.org/sustainable-energy/publications/best-practice-guidance-effective-methane-recovery-and-use-abandoned epa de los estados unidos. 2005. "identificación de oportunidades para la recuperación de metano en las minas de carbón de estados unidos: profiles of selected gassy underground coal mines 2002 - 2006". agencia de protección ambiental, enero de 2009. disponible: https://www.epa.gov/sites/production/files/2016-03/documents/profiles_2008_final.pdf consultado el 15 de julio de 2019.  epa de los estados unidos. 2013. foto una estación de bombeo en la mina mahui, provincia de shanxi, china.  foto tomada en diciembre de 2013. u.s. epa. 2015. estudio de prefactibilidad para la captura y utilización del metano de las minas de carbón en las minas de mahui y pingshang. abril de 2015. washington, dc, estados unidos. https://www.epa.gov/sites/default/files/2016-03/documents/epa_xiyang_china_prefeas_study.pdf u.s. epa. 2017. "base de datos de oportunidades de metano de minas de carbón abandonadas. agencia de protección ambiental", julio de 2017. disponible: https://www.epa.gov/sites/production/files/2016-03/documents/amm_opportunities_database.pdf consultado el 15 de julio de 2019. epa de los estados unidos. 2019e. recuperación del metano de las minas de carbón: a primer. julio de 2019. washington, d.c. estados unidos. epa-430-r-09-013. https://www.epa.gov/sites/default/files/2016-03/documents/cmm_primer.pdf u.s. epa. 2019f. estudio de prefactibilidad para el drenaje y utilización del metano en la mina de carbón de tenghui, provincia de shanxi, china.  washington, dc usa. publicación 430r19005. marzo de 2019 https://www.epa.gov/sites/default/files/2019-05/documents/epa_gmi_tenghui_05-2-19.pdf u.s. epa. 2021b. dibujos originales: "componentes de un sistema de drenaje de gas" y "galerías de drenaje". epa de los estados unidos y raven ridge resources. fotos de ventiladores de mina, china.</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Agencia de Protección Ambiental de los Estados Unidos (USEPA)">La Agencia de Protección Ambiental es una agencia ejecutiva independiente del gobierno federal de los Estados Unidos encargada de los asuntos de protección ambiental.</term>
+      <term title="Clasificación">Clasificación de los carbones según su grado de metamorfismo, alteración progresiva o coalificación (maduración) en la serie natural que va del lignito a la antracita.</term>
+      <term title="Contenido de gas">Volumen de gas contenido en una unidad de masa de carbón y se expresa generalmente en metros cúbicos, en condiciones estándar de presión y temperatura, por tonelada de carbón.</term>
+      <term title="Drenaje de gas">Métodos empleados por las minas de carbón subterráneas, las minas abandonadas y, ocasionalmente, las minas de superficie, para capturar el gas que se produce naturalmente en los filones de carbón y evitar que entre en las vías respiratorias de la mina. Los sistemas de drenaje de gas incluyen una combinación de perforaciones y/o galerías de drenaje, una red de recolección y bombas de vacío para extraer el gas a la superficie. El gas puede extraerse de los filones de carbón antes de la extracción mediante técnicas de pre-drenaje y de los filones de carbón alterados por el proceso de extracción mediante técnicas de post-drenaje. A menudo se denomina drenaje de metano si el metano es el principal componente de gas que se pretende capturar. El drenaje de gas produce metano de mina de carbón de mayor calidad que la ventilación, generalmente en el rango del 25 al 100 por ciento.</term>
+      <term title="Drenaje posterior a la mina">Perforación de pozos (pozos verticales de gota, pozos de medición transversal, pozos horizontales direccionales o galerías de drenaje de gota) antes de la explotación minera para que estén en su lugar antes de la explotación minera pero produciendo gas durante y después de la explotación del filón.</term>
+      <term title="Drenaje previo a la mina">Perforación de pozos en la veta para extraer el gas de la veta de carbón antes de las operaciones de minería.</term>
+      <term title="Emisiones de gases de efecto invernadero (GEI)">La liberación de gases de efecto invernadero y/o sus precursores a la atmósfera en un área y período de tiempo determinados. Pueden etiquetarse como antropogénicas (resultantes de actividades humanas) o naturales.</term>
+      <term title="Estratos">Capa de roca sedimentaria o suelo; se refiere a una capa de carbón en este caso.</term>
+      <term title="Estudio de gabinete">Un análisis de primer orden basado en datos limitados, hipótesis básicas y una modelización financiera sencilla.</term>
+      <term title="Estudios de prefactibilidad">Suele proporcionar un análisis técnico detallado de la información específica del emplazamiento y considera la financiación del proyecto. Proporciona una previsión de la producción de gas y una revisión de las prácticas actuales de drenaje de gas. Sin embargo, este documento proporciona menos granularidad que un estudio de viabilidad completo. Este documento no suele considerarse un documento "financiable".</term>
+      <term title="Estudios de viabilidad">Informe exhaustivo que investiga la viabilidad económica y técnica del desarrollo del proyecto. Este documento se considera "financiable", es decir, suficiente para garantizar la financiación del proyecto.</term>
+      <term title="Evase">Punto de descarga de los extractores de superficie. El evase se utiliza para dirigir el aire agotado de forma segura fuera de la mina.</term>
+      <term title="Frente de tajo largo">El extremo del panel de tajo largo que está siendo cortado por la cizalladora de tajo largo.</term>
+      <term title="Galerías de drenaje">Vías existentes o vías impulsadas a propósito por encima o por debajo de la veta minera que recogen el metano de las zonas de gota. Las galerías están selladas y se aplica una presión de vacío para extraer el gas de las galerías hacia el sistema de tuberías. A veces también se denominan galerías superpuestas.</term>
+      <term title="Gas de ciudad">Combustible gaseoso fabricado para su venta a consumidores y municipios. También se denomina gas de hulla.</term>
+      <term title="Gas natural comprimido (GNC)">Gas natural compuesto principalmente por metano que se almacena a altas presiones, principalmente como medio de almacenamiento o transporte.</term>
+      <term title="Gob (Goaf)">Terreno roto y permeable en el que se ha extraído el carbón mediante minería de tajo largo y se ha dejado que el techo se derrumbe, fracturando y desestresando los estratos por encima y, en menor medida, por debajo de la veta que se está trabajando. El término gob se utiliza generalmente en Estados Unidos; en otros lugares, se suele utilizar goaf.</term>
+      <term title="Iniciativa Global de Metano (GMI)">Lanzado en 2004, el GMI es una iniciativa público-privada internacional que promueve la reducción y recuperación de metano a corto plazo y rentable y el uso de metano como fuente de energía limpia en tres sectores: biogás (que incluye agricultura, desechos sólidos municipales y aguas residuales). ), minas de carbón y sistemas de petróleo y gas. Centrar los esfuerzos colectivos en las fuentes de emisión de metano es un enfoque rentable para reducir las emisiones de gases de efecto invernadero (GEI) y aumentar la seguridad energética, mejorar el crecimiento económico, mejorar la calidad del aire y mejorar la seguridad de los trabajadores.</term>
+      <term title="Metano">El metano es un potente gas de efecto invernadero. La vida del metano en la atmósfera es mucho más corta que la del dióxido de carbono, pero es 28 veces más eficaz para atrapar la radiación que el CO2 durante un período de 100 años. El metano es el principal precursor de la contaminación por ozono a nivel del suelo, por lo que afecta a la calidad del aire. El metano es también un recurso energético que puede ser capturado y utilizado. El metano en las minas plantea riesgos de seguridad, debido a su explosividad cuando se mezcla con el aire.</term>
+      <term title="Metano adsorbido">Metano acumulado en la superficie del carbón.</term>
+      <term title="Metano de lecho de carbón (CBM)">Metano extraído de las vetas de carbón antes de su extracción. El CBM también se conoce como metano de la veta de carbón virgen o gas de la veta de carbón. Se considera una fuente de gas natural "no convencional".</term>
+      <term title="Metano de mina de carbón (CMM)">Metano liberado del carbón debido a las actividades mineras. Al igual que el CBM, el CMM es un subconjunto del metano que se encuentra en las vetas de carbón, pero se refiere específicamente al metano que se encuentra dentro de las zonas mineras (por ejemplo, dentro de un plan de minería), mientras que el CBM se refiere al metano de las vetas de carbón que nunca se explotarán. Dado que el MMC se liberaría a través de las actividades mineras, la recuperación y el uso del MMC se considera una evitación de emisiones.</term>
+      <term title="Metano de minas abandonadas (AMM)">Minas de carbón cerradas temporal o permanentemente que producen importantes emisiones de metano a partir de respiraderos difusos, fisuras o perforaciones.</term>
+      <term title="Metano del aire de ventilación (VAM)">CMM que se elimina mediante sistemas de ventilación que utilizan ventiladores para diluir el metano hasta niveles seguros haciendo circular aire fresco por la mina. El VAM es la mayor fuente de emisiones de metano de las minas de carbón subterráneas.</term>
+      <term title="Minería de cámaras y pilares">Los yacimientos de carbón se explotan cortando una red de salas en la veta de carbón y dejando los pilares de carbón para sostener el techo de la mina. Estos pilares pueden constituir hasta el 40% del carbón total de la veta. A veces, los pilares restantes pueden recuperarse en una fase posterior. Las minas de cámaras y pilares representan una parte menor de la producción mundial de carbón subterráneo.</term>
+      <term title="Minería de superficie">Forma de explotación minera que se utiliza generalmente cuando los filones de carbón están a menos de 60 metros (aproximadamente 200 pies) de la superficie. Hay dos tipos principales de minas de superficie: las minas a cielo abierto y las minas a cielo abierto. La minería a cielo abierto consiste en la eliminación de la tierra y la roca (sobrecarga) por encima de una capa o veta (especialmente de carbón), seguida de la eliminación del mineral expuesto. es una técnica de minería de superficie que consiste en extraer roca o minerales de la tierra desde un pozo a cielo abierto, a veces conocido como préstamo. Esta forma de minería se diferencia de los métodos de extracción que requieren la realización de túneles en la tierra, como la minería de paredes largas. Se aplica a los minerales o rocas que se encuentran en la superficie porque la sobrecarga es relativamente delgada o el material de interés es estructuralmente inadecuado para la excavación de túneles.</term>
+      <term title="Panel de tajo largo">Grandes bloques de carbón que se extraen con una cizalla de tajo largo.</term>
+      <term title="Perforaciones de drenaje posteriores a la explotación minera">Sondeos perforados por encima o por debajo de la veta minada que producen metano de las zonas de gota después de la explotación de la veta de carbón. Los pozos de drenaje post-mina pueden ser perforados desde la superficie o dentro de la mina. Inicialmente, las concentraciones de metano pueden ser elevadas, pero las concentraciones disminuyen con relativa rapidez a medida que el aire de la zona de gota se introduce en los pozos. También se suelen denominar sondeos de postdrenaje.</term>
+      <term title="Perforaciones de drenaje previas a la mina">Perforaciones realizadas en el filón minado o en la roca adyacente portadora de gas y en los estratos de carbón antes de la explotación para extraer el metano antes de que se produzca la explotación. Las perforaciones de drenaje previas a la explotación pueden realizarse desde la superficie o dentro de la mina. El gas se produce en las perforaciones antes de que se extraiga la veta de carbón. Una vez extraído, la producción de gas cesa. Las concentraciones de metano pueden ser muy elevadas y los pozos pueden producir gas durante muchos años antes de la explotación. También se denominan comúnmente sondeos previos al drenaje.</term>
+      <term title="Permeabilidad">Estado o cualidad de un material o membrana que hace que permita el paso de líquidos o gases a través de él.</term>
+      <term title="Pozo de sondeo">Un pozo estrecho perforado en el suelo, ya sea vertical u horizontalmente.</term>
+      <term title="Quemado">Combustión controlada de gas natural. La quema de CMM en una mina de carbón puede producirse en una llama abierta, también conocida como antorcha de candelabro, o en una antorcha cerrada, a veces denominada antorcha de tierra.</term>
+      <term title="Sistema de captación de gas">Un sistema de tuberías, equipos de eliminación de polvo y humedad, y motores primarios (p. ej., bombas de vacío, compresores) que transportan gas desde los pozos hasta la superficie.</term>
+      <term title="Tajo largo">Uno de los tres principales métodos de extracción subterránea de carbón que se utilizan actualmente. Utiliza una cizalla que se arrastra mecánicamente de un lado a otro de un frente de carbón que suele tener varios cientos de metros de longitud. Este método de extracción puede producir grandes cantidades de carbón y gas.</term>
+      <term title="Térmica directa">El uso del metano de las minas de carbón en tecnologías de combustión directa distintas de la quema en antorcha, más comúnmente en calderas, quemadores industriales y aplicaciones similares.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>

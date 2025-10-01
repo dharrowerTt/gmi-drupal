@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conducting Pre-Feasibility Studies for CMM Projects: Module 8" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\5ttm4agYKy7_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5w0rub7FMpJ.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="CMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting CMM Project Pre-Feasibility Studies: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 8" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 8  Case Study - Liulong Mine, China" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="What You Will Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5Ys5g024ApN" displaytext="Background and Mine Evaluation" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6h3HYbwIASV" displaytext="Selecting a Study Candidate" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kvpRgRYuaT" displaytext="Candidate Selection" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jISw7mFtoo" displaytext="Selection of the Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5hKqRvFRajv" displaytext="Preparing for Initial Data Request" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5b107PI5lIg" displaytext="Historical Coal Production in China" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5foXJDjw2j1" displaytext="Future of Coal Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nriPb7m02U" displaytext="CMM and CBM in the Guizhou Province" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.61Ivkb9uR71" displaytext="Location of the Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6ApdmWnod7I" displaytext="Mine Location Details" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6AncCJVp0WF" displaytext="Liulong Mine Characteristics" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5w0uAjSbkFu" displaytext="Mine Owner: BMG" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5mFxchQ2T04" displaytext="Profile of the BMG" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65UDHB9eGqx" displaytext="Notable Changes to Mining Operations" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6d0P1tCvlVQ" displaytext="Resource Assessment" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6HaJTGdTKSy" displaytext="Evaluating CMM Resources at the Liulong Coal Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.65i5JYbt9UB" displaytext="Liulong Mine CMM Emissions in 2014" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6YuaL3NIFZ8" displaytext="Historical Liulong Mine CMM Emissions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5kOFDgz1N8b" displaytext="Current Gas Drainage Practices at the Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6K7Ty59OdvC" displaytext="Mine Gas Drainage System " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Pcu8dyueXq" displaytext="CMM Monitoring System at the Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66poazehafw" displaytext="CMM Monitoring System Control Room" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6qoLoIXpjzL" displaytext="Improvements to Gas Drainage" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5oWcqEmwqJB" displaytext="Gas Drainage Options Considered by BMG Before the GMI Team Prepared the Pre-feasibility Study" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6n8ALOpDpm1" displaytext="Improvement Option #1 Considered by the Mine Prior to the Study" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5YXw5r9chvf" displaytext="GMI Systematic Approach to Identify the Preferred Solution to Improve Gas Drainage at the Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6jiGCV9qoed" displaytext="GMI Proposal to Improve Mine Gas Drainage" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.66pRNmohkB2" displaytext="Alternative #1: Steps to Evaluate Directionally Drilled In-Seam Boreholes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5rb4CGcQHIm" displaytext="Alternative #1: In-seam Boreholes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5mCqO8U45ns" displaytext="Alternative #2: Steps to Evaluate Directionally Drilled Horizontal Gob Boreholes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6Xcr8HAQT8r" displaytext="Alternative #2: Horizontal Gob (Goaf) Boreholes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lLF5nrItfU" displaytext="Evaluation of Proposed Alternatives to Improve Gas Drainage" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6UySiSxTB2v" displaytext="Predicting Gas Production from Boreholes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5z92xp1M4YQ" displaytext="Improvement Alternative #1" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6FTgs6ND9s3" displaytext="Alternative #1: Use Numerical Modeling" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.63rQl8na6jX" displaytext="Numerical Modeling of Borehole Spacing" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5Ws4EQdGcUy" displaytext="Numerical Modeling of Borehole Spacing Results" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.651TToo84if" displaytext="Numerical Modeling of Longwall Panel Dimensions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5nXrv2cmzpz" displaytext="Evaluating Impact of Borehole Spacing" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6UGqcmOYLqq" displaytext="Option Layout" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5rRaod5YCmQ" displaytext="Modeling Reduction in Reservoir Gas Pressure: No. 3 Seam " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GFKnT1UlLo" displaytext="Modeling Reduction in Reservoir Gas Pressure: No. 7 Seam" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6D5t7hXdJMS" displaytext="Modeling Residual Gas Content" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6cK3UJdkPpA" displaytext="Modeling Gas Production Rate and Cumulative Gas Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6cjwT8ZzFc7" displaytext="Proposed Improvement Alternative #1 Results" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5wPTV60whsS" displaytext="Improvement Alternative #2" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5XHQQB2hUdT" displaytext="Alternative #2: Horizontal Gob (Goaf) Boreholes" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5WQyyPePzzK" displaytext="Engineering Equation for Alternative #2" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5pU5sG50Vy4" displaytext="Equation Inputs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6GdDMD41EA1" displaytext="Calculated Gob Gas Flow Rates" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6AusOCL9NDQ" displaytext="History Matching for Simulated Gas Prediction" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6Rr4jWoawe3" displaytext="Quantifying the Benefits of Improvements  &amp;amp; Gas Production Forecasting" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6g4vK7zE1A6" displaytext="Quantifying the Benefits of Improvements to Gas Drainage" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6I4lu5rTuuC" displaytext="Forecasting Gas Production: Evaluating Mine-wide Solutions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nKr8O6xYYD" displaytext="Establishing a Mine Plan" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6N45UH5JPTj" displaytext="Mine Production Plan and Conceptual Layout" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6C8u1J9yTCq" displaytext="Mine Layout &amp;amp; Coal Production Plan: &#xD;Solutions 1 and 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5az8hRyNeUO" displaytext="Mine Layout &amp;amp; Coal Production Plan: &#xD;Solution 3" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qTFNxvRJw8" displaytext="Forecasting Gas Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6L8kOkPO4HA" displaytext="Forecasting Gas Production Results" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5UlVARmp8Hw" displaytext="Market, Financial &amp;amp; Risk Analyses " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6NW8AdpkFAn" displaytext="Evaluation of CMM Markets" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5b2R8dvzrjA" displaytext="Initial Evaluation of CMM Markets at Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5m1PVtK0IL8" displaytext="Second Evaluation of CMM Markets at Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6AnVbpFOcyx" displaytext="Final Evaluation of CMM Markets at Liulong Mine" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6a4KIVVL6qh" displaytext="Risk Analysis" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6knCQK0UqX5" displaytext="Risks Evaluated: Technical" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6EQjEL9loWP" displaytext="Risks Evaluated: Market" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6gBzONx4uE3" displaytext="Risks Evaluated: Financial" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5xbMJjdxFAF" displaytext="Financial Analysis Model Inputs" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.636WKz5NW5x" displaytext="Financial Analysis of Drainage Solutions" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6NefnPlg3ep" displaytext="Recommended Next Steps" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="Module 8 Summary" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conducting cmm project  pre-feasibility studies training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome the united states environmental protection agency (epa) developed this course in support of the gmi and in conjunction with the united nations economic commission for europe (unece). what is the gmi? this course introduces principles for assessing the potential of developing projects to capture and/or use coal mine methane (cmm). the general approach described in the course should be underpinned by mine-specific data and analyses, allowing the principles to be tailored to the unique conditions at each mine. ideally, such an assessment will lead to project development and implementation.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> conducting cmm project pre-feasibility studies:  course modules module 1:	introduction and objectives module 2:	mine background information and evaluation module 3:	resource assessment module 4:	forecasting methane production from gas drainage systems module 5:	improvements to gas drainage module 6:	quantifying the benefits of improvements to methane drainage systems module 7:	market, risk, and financial analyses module 8:	case study – liulong mine, china </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 8 case study - liulong mine, china</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">what you will learn after completing this module, you will understand how the concepts presented in modules 1 through 7 are applied when conducting a cmm pre-feasibility study.  the outline of this module follows the steps in a pre-feasibility study, as described in the previous modules of this training: background and mine evaluation (module 2) resource assessment (module 3) gas production forecasting for methane drainage systems (module 4) improvements to gas drainage (module 5) quantifying benefits of improvements (module 6) market, financial &amp; risk analyses (module 7)  time needed to complete this module: approximately 60 minutes users are encouraged to supplement this training by referencing the detailed pre-feasibility study report that gmi prepared for the liulong mine. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Ys5g024ApN" slidebank="false" type="slide">background and mine evaluation</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6h3HYbwIASV" slidebank="false" type="slide"> selecting a study candidate on behalf of gmi, epa has prepared more than 50 pre-feasibility studies in 11 countries to promote methane recovery and use at working underground coal mines.  to select a study candidate, epa considers the following criteria: is the host country a gmi partner? are there available gas resources at the mine and is there realistic potential for a cmm project? will a successful cmm project serve as a catalyst for additional cmm projects in the region or country of study? does the project have the support of in-country partners?</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kvpRgRYuaT" slidebank="false" type="slide">candidate selection in 2015, epa agreed with the baise mining group (bmg), a mine owner/operator in china, to conduct a pre-feasibility study for the liulong mine in guizhou province, china, in support of gmi activities.  guizhou province</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jISw7mFtoo" slidebank="false" type="slide">selection of the liulong mine epa considered the liulong mine to be a good candidate for the study because:  the government of china and the guizhou provincial government have made cmm drainage a very high safety priority in the province. the central government of china and the guizhou provincial government have placed a high priority on cmm utilization.   regional authorities and the mine owner and operator sought technical assistance. early development of successful gas drainage and utilization projects can lead to sector-wide growth.    initial efforts at gas capture and use in the current mine working will be expanded to a much larger operation when coal and gas reserves are added through a reserve addition, resulting in greater emission reductions. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5hKqRvFRajv" slidebank="false" type="slide"> preparing for initial data request epa formed a gmi team to conduct the study, which included the china coal information institute (ccii), highlighting the importance of having in-country experts. to begin, the gmi team submitted an initial data request to bmg to obtain basic information about the mine, including details about the mine owner/operator, mine operations, and methane resources. based on bmg’s responses to the initial data request, the gmi team prepared and sent two additional data requests that facilitated an informed initial evaluation.  following the initial data requests, epa and ccii conducted a site visit to the mine to meet with mine management, obtain additional data, and survey the site.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5b107PI5lIg" slidebank="false" type="slide">historical coal production in china the gmi team gathered national data on coal production, coal consumption, and local and national policies in order to: better understand the near-term and longer-term trends in coal production and in the coal sector. assess the overall health of the industry and china’s approach to coal production and use. provide a more informed perspective on whether working mines are likely to continue operations sufficient to sustain a cmm project over its life.     coal consumption and output data</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5foXJDjw2j1" slidebank="false" type="slide">future of coal production the national level overview of coal production and the review of policies showed that, even with declining production and consumption in recent years, annual decreases in production were relatively small and that coal production would continue on a large scale for many years to come.   based on the review, it was determined that it was unlikely that the liulong mine would cease production and close due to declining coal demand and/or government policy. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nriPb7m02U" slidebank="false" type="slide">cmm and cbm in the guizhou province the gmi team collected data on regional cmm reserves and current cmm utilization rates and types to understand current trends in the area of the mine.     regional experience with cmm capture and use can increase the odds for successful cmm projects because technical expertise, experience, and equipment are more likely to be available and accessible.  the data showed: cmm reserve estimates in guizhou: 3.15 trillion cubic meters (tcm). 45% of the cmm reserves are in the liupanshui coalfield, where the liulong mine is located. average gas utilization rate: 16% (typically for power generation/civil use).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.61Ivkb9uR71" slidebank="false" type="slide"> location of the liulong mine detailed map of the liuzhi special district in liupanshui city showing the exact location of the mine map of the guizhou province highlighting the liupanshui city   liulong mine</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ApdmWnod7I" slidebank="false" type="slide"> mine location details next, the gmi team compiled background information on the region, regional economy, topography, meteorological conditions, infrastructure, and the mine’s operational facilities. this information helped the team understand local conditions and other factors that might impact cmm capture and utilization. the liuzhi coalfield is one of the three most productive coalfields in guizhou province. the mine portal and mine buildings are located in the small village of mitangtian at an elevation of 1500 m above sea level.   the mining portal is located 8 km from the pingzhai town government, 8 km from the liuzhi railway station, and 8 km away from the an-shui highway. the existing mine boundary covers 7 square kilometers (km2) of surface. following a reserve addition, the mine boundaries will cover 45 km2 of surface.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AncCJVp0WF" slidebank="false" type="slide">liulong mine characteristics the liulong mine is located in karst terrain with undulating topography on the surface and caves and other void spaces below the surface in limestone formations. the mine was classified by regulatory authorities as a coal and gas outburst mine.  the mine obtained a license to produce up to 600,000 tonnes per annum (tpa) of coal and operated in 2 worked seams: no. 3 and no. 7 coal seams.  there is no existing cmm use.  coal reserves include: total reserves: 6.8 million tonnes (mt) recoverable reserves: 5.1 mt gas drainage system characteristics include: ch4 flow in gas drainage: 160 -763 cubic meters per hour (m3/hour) reserve addition (dayong field): +75 mt after dayong addition: expected production was 1.5 million tpa.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5w0uAjSbkFu" slidebank="false" type="slide"> mine owner: bmg a pre-feasibility study should include information about the owner/operator, including details about the corporate structure and operations, financial position, cmm experience, and reputation, because the owner/operator is typically a primary stakeholder in the project.   the gmi team obtained background information about the bmg, who is the owner/operator of the liulong mine. the information was provided by bmg but was also accessed from other public sources.  the owner/operator’s capacity and interest in supporting the project are essential to project success.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5mFxchQ2T04" slidebank="false" type="slide"> profile of the bmg the liulong mine was privately owned until 2014, when the bmg purchased a majority share. bmg company profile state owned enterprise in guangxi assets = cny 8 billion (usd 1.2 billion) 22 enterprises in multiple industries liulong mine is bmg’s 1st investment in guizhou liulong mine is bmg’s 1st gassy mine</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65UDHB9eGqx" slidebank="false" type="slide"> notable changes to mining operations at this stage, it was important to note any changes to mine operations that may impact cmm production. for example, during the data request and mine visit, the gmi team learned that bmg was planning a significant reserve addition to the liulong mine. liulong mine boundaries with dayong addition  the mine was planning to add coal and gas reserves by acquiring the adjoining dayong coalfield. as a result of acquisition, coal reserves were going to increase by 75 mt. annual coal production would increase to 1.5 mt per year. the reserve addition was scheduled to occur in 2018 and would directly impact the planned project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6d0P1tCvlVQ" slidebank="false" type="slide">resource assessment</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6HaJTGdTKSy" slidebank="false" type="slide"> evaluating cmm resources at the liulong coal mine bmg provided data on coal seams and original gas content, which allowed the gmi team to evaluate cmm resources. the table below summarizes the data provided: the pre-feasibility study report, available on the gmi website, includes additional details about the basin and site geology. data provided by bmg showed that: gas content and seam thickness were uniform through the existing mine and the dayong addition. the addition of the dayong coalfield reserve increased methane resources by 2 billion m3. coal seam no.3 no. 7 no. 18* original gas content (m3/t) 12.63 15.06 15.62 *seam 18 is permitted for mining, but is not being currently mined reported gas content of the coal seams in the existing mining area (m3/t)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.65i5JYbt9UB" slidebank="false" type="slide">liulong mine cmm emissions in 2014 bmg provided the following 2014 cmm emissions statistics for the liulong mine: gas drainage volume: 2.76 mm3  methane concentration range: 8% to 30% average methane concentration: 21% coal seam no. working face gas emission rate  (m3/t) tunneling gas emission rate  (m3/min) gas emission rate in the mining area  (m3/t) gas emission rate in the mine q1 q2 q3 q4 specific emissions (m3/t) absolute emissions (m3/min) 3 10.2 21.9 0.66 1.04 37.65 56.47 36.65 7 7.73 0.00 3.50 1.30 25.75 38.63 24.39 the table below shows reported relative emissions (m3/tonne of coal mined) and absolute emissions (m3/min) at the liulong mine in 2014.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6YuaL3NIFZ8" slidebank="false" type="slide">historical liulong mine cmm emissions bmg could not provide extensive historic data on cmm emissions. however, in this case, the multi-year historic data would offer only limited insight because of the recent increase in coal production capacity.  in 2015, coal production capacity increased from 150,000 tpa to 600,000 tpa.  in 2016, a new working face increased gas production to 500,000 m3 per month, effectively doubling the volume of cmm produced. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5kOFDgz1N8b" slidebank="false" type="slide">current gas drainage practices at the liulong mine the mine relied on drainage practices that were characterized as short cross-panel boreholes and were known to have the following issues: problems with borehole stability wide range of gas flow  low methane concentration limited data availability</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6K7Ty59OdvC" slidebank="false" type="slide"> mine gas drainage system  the principal components of the mine's gas drainage system were:  the gmi team was unable to visit and inspect the pump station during the mine visit because it was under repair. the photo above shows a typical pump station at a chinese mine. two 2bec-420 high negative pressure drainage pumps 160 kw of motor power maximum pressure of 16,000 pa  two 2bea-303 low negative pressure drainage pumps  75 kw of motor power maximum pressure of 3,300 pa 400 mm high negative pressure pipe travels from the exhaust rise to a horizontal level of 1,350 m above sea level and to the drive surfaces 400 mm low negative pressure pipe placement in the exhaust airway at the surface with an elevation of 1,033 m above sea level</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Pcu8dyueXq" slidebank="false" type="slide"> cmm monitoring system at the liulong mine the coal mine installed a sophisticated kj90nb cmm monitoring system, which is comprised of two dedicated monitoring computers, along with one standby kj90na system.  the system includes gas sensors, negative pressure transducers, equipment on/off transducers, air velocity transducers, and water level sensors that provide mine staff with real-time continuous monitoring.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.66poazehafw" slidebank="false" type="slide">cmm monitoring system control room mine employees continuously monitored air flow and methane concentration data in a central control room.   in addition to monitors at staff desks, the control room contained a large common screen providing live underground camera feeds, staff positions throughout the mine in real time, and continually updated data on methane concentration and airflow measurements throughout the mine.   alarms are triggered for any measurements outside of expected ranges.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qoLoIXpjzL" slidebank="false" type="slide">improvements to gas drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oWcqEmwqJB" slidebank="false" type="slide">gas drainage options considered by bmg before the gmi team prepared the pre-feasibility study bmg had previously evaluated two options for improving gas drainage at the liulong mine before the pre-feasibility study.  at the time of the study, bmg had not attempted to implement either drainage option.  the two options the mine considered previously had the following limitations: in-seam boreholes drilled vertically from an underlying rock gallery were attempted at several mines in the ghuizhou province were technically challenging tend to be very expensive surface vertical pre-drainage boreholes bmg was allowed to drill boreholes from the surface for mine safety reasons bmg did not own rights to produce gas at the surface for utilization royalties were due to the holder of mineral rights for any gas produced and used 5 years after a surface borehole was drilled</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6n8ALOpDpm1" slidebank="false" type="slide">improvement option #1 considered by the mine prior to the study vertical boreholes drilled upward from an underlying rock gallery are not commonly used. therefore, the gmi team developed a schematic for the pre-feasibility report to help users better understand this method, which has been attempted at some mines in the guizhou province.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5YXw5r9chvf" slidebank="false" type="slide">gmi systematic approach to identify the preferred solution to improve gas drainage at the liulong mine based on data provided by the mine, the gmi team proposed a systematic approach to: identify alternative approaches to improve mine gas drainage using improved borehole design. specify technically feasible options within each alternative approach for further evaluation. develop estimates of gas production for each option using numerical modeling for pre-mine drainage boreholes and engineering equations for gob gas boreholes. distill the list of technically feasible options to the three best solutions to improve gas drainage. perform a risk assessment, market analysis, and financial analysis of the three potential solutions to identify the optimal solution.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jiGCV9qoed" slidebank="false" type="slide">gmi proposal to improve mine gas drainage following discussions with bmg and the evaluation of operational and geologic data at the liulong mine, the gmi team identified two alternatives to improve gas drainage at the mine. gas drainage improvement alternative #1 directionally drilled horizontal in-seam boreholes drilled from the underlying rock gallery below the mined seam. gas drainage improvement alternative #2 directionally drilled horizontal gob boreholes drilled into the rock above the mined seam. these alternatives had not been considered before because: the mine’s coal production and production rates had not warranted more technically advanced alternatives using directional drilling. there was limited experience and expertise in china using these methods.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.66pRNmohkB2" slidebank="false" type="slide"> alternative #1: steps to evaluate directionally drilled in-seam boreholes steps to evaluate directionally drilled in-seam boreholes included: define uniform longwall dimensions in the no. 3 and no. 7 seams for numerical modeling. establish borehole spacings of 10 m and 30 m in the model longwall panel in each seam, thus establishing four options for alternative #1: in-seam directionally drilled boreholes. run numerical simulations to project the reduction in gas pressure in the model panel for each option. model gas production rates and cumulative gas production for individual boreholes. the production rates for individual boreholes will be used later to forecast mine-wide gas production for the life of the project. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5rb4CGcQHIm" slidebank="false" type="slide">  alternative #1: in-seam boreholes in-seam boreholes would be implemented from the rock gallery penetrating into the mining seam at intervals of 30 m and 10 m. this approach: provides additional reach mitigates underlying drainage galleries enables more drainage time in-seam borehole plan view showing distance between boreholes (30 m between laterals, and 20 m between 1st lateral and tailgate) in-seam borehole profile view (30 m borehole penetration into the seam from each lateral)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5mCqO8U45ns" slidebank="false" type="slide"> alternative #2: steps to evaluate directionally drilled horizontal gob boreholes steps to evaluate directionally drilled horizontal gob boreholes included: define uniform longwall dimensions in the no. 3 and no. 7 seams. establish location in gate roads or main entries from which boreholes will be drilled and wellhead will be placed in each seam. determine borehole height and length over mined panel for each borehole.  define three borehole diameters and two vacuum pressures which will be used in an engineering equation to estimate gas production from the boreholes.  with two seams, this results in 12 cases for alternative #2. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Xcr8HAQT8r" slidebank="false" type="slide"> alternative #2: horizontal gob (goaf) boreholes three horizontal gob boreholes (hgb) proposed at varying heights on the up-dip side of the panels along the return airway. in this approach, drilling can  originate out of:  the gate roads mains  this approach provides: potential for higher rates of gas capture greater borehole stability</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lLF5nrItfU" slidebank="false" type="slide">evaluation of proposed alternatives to improve gas drainage to assess the two proposed improvements to gas drainage, the gmi team defined specific options for each alternative that would be subject to further review. the gmi team determined parameters for each option based on: operating conditions at the liulong mine. experience designing and modeling in-seam and horizontal gob boreholes at other mines in china and in other countries with similar conditions. experience drilling in-seam and horizontal gob boreholes and installing, operating, and evaluating gas drainage systems.   click the buttons to view details about the options for each improvement alternative. improvement alternative #1 in-seam boreholes 4 options improvement alternative #1 in-seam boreholes 4 options improvement alternative #1 in-seam boreholes 4 options improvement alternative #1 in-seam boreholes 4 options improvement alternative #1 in-seam boreholes 4 options improvement alternative #1 in-seam boreholes 4 options improvement alternative #2 horizontal gob boreholes 12 options improvement alternative #2 horizontal gob boreholes 12 options improvement alternative #2 horizontal gob boreholes 12 options improvement alternative #2 horizontal gob boreholes 12 options improvement alternative #2 horizontal gob boreholes 12 options improvement alternative #2 horizontal gob boreholes 12 options</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UySiSxTB2v" slidebank="false" type="slide">predicting gas production from boreholes the gmi team used different approaches to predict gas production from boreholes for the two improvement alternatives to current gas drainage practices. improvement alternative #1  in-seam boreholes for this pre-feasibility study, numerical modeling in the form of a reservoir simulation was used to simulate gas production from in-seam boreholes. reservoir simulations can be used for in-seam boreholes whether the boreholes are drilled vertically or horizontally. to perform the simulation, the gmi team used a commercially available reservoir simulation software package developed for unconventional gas reservoirs including coal seams. improvement alternative #2 horizontal gob boreholes recognized engineering equations were used to predict gas flows from gob boreholes.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5z92xp1M4YQ" slidebank="false" type="slide">improvement alternative #1</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FTgs6ND9s3" slidebank="false" type="slide">  alternative #1: use numerical modeling specific data are required to run the numerical model. the more complete the dataset is, the more likely it is that the model will provide accurate results. where possible, mine-specific data were used, but it was necessary to use proxy data for some inputs. the gmi team constructed a series of reservoir models designed to simulate gas production volumes from in-seam pre-drainage boreholes.   the most important model inputs, noted in module 4, were: click the button to view a table of example data inputs for the numerical model. example  numerical modeling data inputs example  numerical modeling data inputs example  numerical modeling data inputs example  numerical modeling data inputs example  numerical modeling data inputs example  numerical modeling data inputs seam thickness gas content  permeability isotherms porosity  pressure</slidetext>
+      <slidetext slideid="6R0OsurKeaO.63rQl8na6jX" slidebank="false" type="slide">  numerical modeling of borehole spacing for improvement alternative #1, the gmi team evaluated gas production for two mined seams, seam no. 3 and seam no. 7, considering two different borehole spacing approaches within each mined seam (10 m and 30 m spacings).     this was required to estimate gas production for four possible options that were then later used to forecast mine-wide gas production. alternative #1, option 1 in-seam boreholes in seam no. 3 would be drilled horizontally from the underlying rock gallery (or other lower elevation gallery) and penetrate up into the mining seam at intervals of 30 m. alternative #1, option 2 in-seam boreholes in seam no. 7 would be drilled horizontally from the underlying rock gallery (or other lower elevation gallery) and penetrate up into the mining seam at intervals of 30 m. alternative #1, option 3 in-seam boreholes in seam no. 3 would be drilled horizontally from the underlying rock gallery (or other lower elevation gallery) and penetrate up into the mining seam at intervals of 10 m. alternative #1, option 4 in-seam boreholes in seam no. 7 would be drilled horizontally from the underlying rock gallery (or other lower elevation gallery) and penetrate up into the mining seam at intervals of 10 m.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5Ws4EQdGcUy" slidebank="false" type="slide"> numerical modeling of borehole spacing results the purpose of developing the four options was to determine if tighter spacings would result in an appreciable increase in gas production from in-seam boreholes. according to the options, all boreholes were to be drilled into a longwall panel with the face dipping at an angle of 29 degrees and were assumed to be 250 m in lateral length. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.651TToo84if" slidebank="false" type="slide"> numerical modeling of longwall panel dimensions based on the mine plans provided by bmg, the gmi team created standardized dimensions for future longwall panels targeting seams no. 3 and no. 7 for the purposes of modeling gas production rates.  the gmi team used a standard longwall panel with a width of 100 m and a length of 250 m covering an aerial extent of 2.5 hectare (ha). the models were run to simulate gas production rates and cumulative production volumes from each seam within a typical longwall panel in the current mining area over a 10-year period. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5nXrv2cmzpz" slidebank="false" type="slide"> evaluating impact of borehole spacing to evaluate the impact of spacing on gas production, the gmi team compared the impact of different 30 m and 10 m borehole spacing on reservoir pressure. it was necessary for the reservoir simulation to establish a uniform longwall panel so that the team could compare the results from different borehole spacing patterns and extrapolate those to the entire mine. uniform longwall dimensions (100 m x 250 m for this study). reservoir simulation models the production of gas from the coal seam only; it normally does not consider gas resources from adjacent rock strata unless those resources are significant. in the case of the liulong mine, the gas resources were concentrated in the no.3 and no. 7 seams.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6UGqcmOYLqq" slidebank="false" type="slide"> option layout the reservoir simulation uses a grid pattern for borehole location.  boreholes were spaced at 30 m and 10 m intervals: example no. 7 seam: 30 m spacing (option 2) example no. 3 seam: 10 m spacing (option 3) no. 3 seam  no. 7 seam planview of longwall panel</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5rRaod5YCmQ" slidebank="false" type="slide">  modeling reduction in reservoir gas pressure: no. 3 seam  next, the gmi team evaluated the impact of gas production in the longwall panel over time: no.3 seam: impact of gas production on gas pressure in the no. 3 seam in years 1, 3, 5 and 10 heat map output: reduction in in-situ gas content over time; red (high) to blue (low) no. 3 seam – 30 m spacing (i.e., option 1) no. 3 seam – 10 m spacing (i.e., option 3)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GFKnT1UlLo" slidebank="false" type="slide">  modeling reduction in reservoir gas pressure: no. 7 seam the gmi team performed the same simulation for the no. 7 seam: no.7 seam: impact of gas production on gas pressure in the no. 7 seam in years 1, 3, 5 and 10 heat map output: reduction in in-situ gas content over time; red (high) to blue (low) no. 7 seam – 10 m spacing (i.e., option 4) no. 7 seam – 30 m spacing (i.e., option 2)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6D5t7hXdJMS" slidebank="false" type="slide">  modeling residual gas content another way to assess the effectiveness of the in-seam borehole patterns in seams no. 3 and no. 7 was to compare gas content in the longwall panels over time.  the charts on this slide show reduction in gas content for each option over 1, 3, 5 and 10 years.  it was clear from the charts that 10 m spacing would have a significant impact in reducing gas content, especially in the no. 3 seam. the gmi team performed the same simulation for the no. 7 seam. no. 3 seam at 30 m spacing (option 1) no. 7 seam at 30 m spacing (option 2) no. 3 seam at 10 m spacing (option 3) no. 7 seam at 10 m spacing (option 4)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6cK3UJdkPpA" slidebank="false" type="slide">  modeling gas production rate and cumulative gas production the gmi team also used reservoir simulation to model panel gas production rates and cumulative gas production under the different implementation paths for in-seam boreholes. no. 3 seam at 30 m  spacing (option 1) no. 7 seam at 30 m  spacing (option 2) no. 3 seam at 10 m  spacing (option 3) no. 7 seam at 10 m  spacing (option 4)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6cjwT8ZzFc7" slidebank="false" type="slide"> proposed improvement alternative #1 results the modeling showed that the optimal technical solution for implementing alternative #1 was to drill in-seam boreholes spacing them at 10 m in seam no. 3 (option 3) and seam no. 7 (option 4), which would result in higher gas production and a much greater reduction of in-situ gas content in the longwall panel over time.  although this was the best technical solution, project feasibility also depends on the financial returns. spacing borehole penetration every 10 m is more expensive than 30 m spacings.  the financial analysis would evaluate whether the benefit of additional gas production outweighs the cost of drilling additional boreholes for the 10 m spacing option versus the 30 m spacing option.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5wPTV60whsS" slidebank="false" type="slide">improvement alternative #2</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5XHQQB2hUdT" slidebank="false" type="slide"> alternative #2: horizontal gob (goaf) boreholes estimating gas production from hgbs can be challenging since gob gas flow rates typically fluctuate over time and vary with borehole length and configuration.  hgb gas flow rates are most influenced by: borehole diameter borehole length wellhead vacuum pressure reservoir pressure contribution  gob gas flow rate can be approximated using the general flow equation, an engineering equation for the steady-state isothermal flow in a gas pipeline which relates the pressure drop along a pipeline with flow rate.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5WQyyPePzzK" slidebank="false" type="slide">  engineering equation for alternative #2 for this study, the gmi team used the basic equation for steady-state isothermal flow in a gas pipeline, as recommended by e. shashi menon, to predict gob gas flow rates. source:  menon, s. e. (2005). gas pipeline hydraulics. boca raton, fl: taylor &amp; francis group, llc.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5pU5sG50Vy4" slidebank="false" type="slide"> equation inputs inputs for the engineering equation were derived from: mine-specific values provided by bmg proxy values based on industry experience methane concentration in the gob gas was assumed to be 70%: modeled methane concentration was much higher than existing methane concentration due to expected improvements in gob gas recovery from installing hgbs for each seam, 12 options were developed for gas drainage alternative #2 (six for each seam) 3 pipe diameters: 96 mm, 121 mm, and 146 mm 2 vacuum pressures: low vacuum (3.3 kpa) and high vacuum (16 kpa) parameter value coefficient of friction, dimensionless 0.0200 base (standard) pressure, kpa no. 3 seam: 1179 no. 7 seam: 1729 base (standard) temperature, k 293 upstream pressure, kpa no. 3 seam: 1179 no. 7 seam: 1729 downstream pressure, kpa calculated based on wellhead vacuum pressure; 3.3 and 16 kpa options investigated gas gravity (air = 1.0) 0.6 average gas flowing temperature, k 293 pipeline length, km 0.25 gas compressibility factor, dimensionless seam no. 3: 0.99 seam no. 7: 0.98 pipe inside diameter, mm 96, 121 and 146 mm options investigated</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GdDMD41EA1" slidebank="false" type="slide">   calculated gob gas flow rates gob gas flow rates were projected for 250 m horizontal gob borehole configurations in the no. 3 seam at low pressure and high pressure wellhead vacuum. gob gas flow rates were projected for 250 m horizontal gob borehole configurations in the no. 7 seam at low pressure and high pressure wellhead vacuum. for improvement to gas drainage alternative #2, each coal seam-wellhead vacuum pressure-pipe diameter combination was an option that the gmi team evaluated. therefore, the gmi team evaluated 12 horizontal gob gas borehole options.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AusOCL9NDQ" slidebank="false" type="slide">  history matching for simulated gas prediction if historic data inputs are available, reservoir simulation and engineering equations can be run using the data as inputs to compare simulation and calculated outputs to actual gas production. this “history matching” can further confirm the validity of the simulated and calculated gas prediction (see module 4 for more information). the analysis prepared for the liulong mine pre-feasibility study report did not include history matching because there were insufficient historic data to input into the model for comparison of modeled results to actual gas production. example of a history matching chart</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Rr4jWoawe3" slidebank="false" type="slide">quantifying the benefits of improvements  &amp; gas production forecasting</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6g4vK7zE1A6" slidebank="false" type="slide">quantifying the benefits of improvements to gas drainage the next step in a pre-feasibility study is normally assessing the benefits of improvements to gas drainage. the level of analysis depends on the extent and effectiveness of the existing gas drainage systems at the mine. in the case of the liulong mine, existing gas drainage was very limited, and given the existing drainage practices, the mine could produce only 600,000 tpa of coal compared to the set target of 1.5 million tpa after acquisition. bmg recognized the need to completely replace the existing mine gas drainage approach. therefore, a quantitative analysis of the improvements comparing existing gas drainage to the recommended alternatives would not provide great value to the study.   instead, this portion of the study was merged with gas production forecasting (as discussed in module 6) to focus on comparing proposed improvements under alternatives #1 and #2.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6I4lu5rTuuC" slidebank="false" type="slide"> forecasting gas production: evaluating mine-wide solutions after evaluating the simulation results for the horizontal in-seam boreholes (alternative #1, options 1-4) and the calculated gas production rates for the horizontal gob boreholes (alternative #2, options 1-12), the gmi team developed mine-wide gas production forecasts, assessed risks, and prepared market and financial analyses for the three best solutions for improving gas drainage. with predicted gas production rates for in-seam boreholes and hgbs  completed for individual longwall panels, the next step was to extrapolate  those production rates across the entire mining operation. solution #1 (alternative #1, options 1 &amp; 2) in-seam pre-mine drainage boreholes penetrating mining seams at intervals of 30 m in seam no. 3 and seam no. 7. solution #2 (alternative #1, options 3 &amp; 4) in-seam pre-mine drainage boreholes penetrating mining seams at intervals of 10 m in seam no. 3 and seam no. 7. solution #3 (alternative #2, options 5 &amp; 11) horizontal gob boreholes placed above mining seams (121 mm at 16 kpa) in seam no. 3 and seam no. 7.    improvement alternative #1:  in-seam pre-mine drainage boreholes  improvement alternative #2:  horizontal gob boreholes</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nKr8O6xYYD" slidebank="false" type="slide">establishing a mine plan the first step to develop long-term gas production forecasts was to establish a mine plan based on: the existing mine layout from bmg, the dimensions of the dayong addition, known advance rates, and other factors.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6N45UH5JPTj" slidebank="false" type="slide">mine production plan and conceptual layout the two diagrams on this slide present: the existing permitted mine production plan for the liulong mine with production from 2017 through 2018. the conceptual mine layout and future development and production plan for longwall panels (in uniform dimensions) from january 2019 through january 2032. the conceptual mine layout was developed specifically to forecast gas production and may change in the future. the conceptual mine layout was used to forecast gas production for all three gas drainage solutions.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6C8u1J9yTCq" slidebank="false" type="slide">mine layout &amp; coal production plan: solutions 1 and 2 with the conceptual mine layout and coal production plan established, the next steps were to establish borehole placement and timing to predict mine-wide gas production.  for in-seam pre-mine drainage boreholes (solutions 1 and 2), the team: established borehole locations using 30 m and 10 m borehole penetration spacing in solutions 1 and 2. assumed boreholes begin gas production upon completion, prior to longwall production.    assumed production from in-seam pre-drainage boreholes would terminate prior to the initiation of mining operations at each panel.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5az8hRyNeUO" slidebank="false" type="slide">mine layout &amp; coal production plan: solution 3 for the horizontal gob boreholes (solution 3), the team assumed that: three hgbs per panel would be drilled, and that drilling and completion would occur prior to commencement of longwall production at each panel. hgbs would be drilled the full length of the panel from the main.  hgbs would not produce gas prior to longwall production. production from hgbs would either extend six months after mining at each panel is completed or terminate once 100 percent of each seams’ gas resource was depleted, whichever occurred first.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qTFNxvRJw8" slidebank="false" type="slide">forecasting gas production once borehole spacing and drilling schedules were established, mine-wide gas production was forecasted using simulated production rates for in-seam boreholes and calculated production rates for hgbs.  annual gas production was forecast from 2017 through 2032.   hgbs were forecast to deliver the highest gas production. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6L8kOkPO4HA" slidebank="false" type="slide"> forecasting gas production results the gmi team forecasted gas production for all three gas drainage solutions for 15 years through 2032 based on the conceptual layout and the coal production plan.  as shown in the chart, solution #3 (horizontal gob boreholes) was the most effective method to recover and produce cmm at the liulong mine.  gob boreholes were not only more effective on an annual basis, but they were also more effective over the life of the project. the three solutions were then evaluated to assess their market access, financial performance, and risk exposure. gas production forecast for drainage solutions</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5UlVARmp8Hw" slidebank="false" type="slide">market, financial &amp; risk analyses </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NW8AdpkFAn" slidebank="false" type="slide">evaluation of cmm markets having assessed cmm resources, evaluated gas drainage practice for improvements, and forecasted gas production, the gmi team then conducted an initial review of cmm markets.  the following slides show the market analysis conducted by the gmi team and bmg including: identification of all potential markets initial assessment of those markets identification of markets with legitimate prospects assessment of the remaining markets preferred market including the basis for choosing that market</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5b2R8dvzrjA" slidebank="false" type="slide">initial evaluation of cmm markets at liulong mine market evaluation continue with option? local natural gas distribution a local distribution system is located in the area yes power generation:  on-site use mines normally have large demand for electricity yes power generation:  grid sales a physical interconnect and sales to the grid are possible yes boiler fuel there is typically demand at mines for hot water and steam yes natural gas transmission there is no access to a high-pressure transmission line in the area no industrial use there are no industrial users within a reasonable distance to the surface gas production site no cng/lng cng could be possible; gas quality is too low for lng production yes seven potential markets were initially identified by the gmi team and bmg; however, two were quickly eliminated based on available information leaving five potential markets for further analysis.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5m1PVtK0IL8" slidebank="false" type="slide">second evaluation of cmm markets at liulong mine market evaluation continue with option? local natural gas distribution subsidy available improving economics, but: system oversubscribed; capacity not available for many years; no existing interconnect from the mine’s drainage system to the gas distribution system; low gas sales price – unlikely to be profitable no power generation:  on-site use demand for power at the mine: in line with corporate policy and has support of management; significant in-country experience with cmm power projects; capacity to design &amp; build; could be economically attractive; offset high industrial electricity price; subsidy available yes power generation:  grid sales subsidy available: physical grid interconnect possible; sales to the grid may be difficult yes boiler fuel limited demand for hot water/heating due to warm climate no natural gas transmission eliminated in first evaluation no industrial use eliminated in first evaluation no cng/lng cng and lng are not economic  no the five remaining markets were further evaluated focusing on technical, logistical, economic, policy, and legal considerations. based on this analysis, two options were identified as being realistic markets for a cmm project at the liulong mine.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AnVbpFOcyx" slidebank="false" type="slide">final evaluation of cmm markets at liulong mine market evaluation preferential market for project? local natural gas distribution eliminated in second evaluation no power generation:  on-site use preferred by mine company management; preliminary analysis indicates option is most economic yes power generation:  grid sales economics are positive, but sales to the grid are difficult no boiler fuel eliminated in second evaluation no natural gas transmission eliminated in first evaluation no industrial use eliminated in first evaluation no cng/lng eliminated in second evaluation no in the final analysis, the gmi team and bmg determined that on-site power generation is the most viable market for a cmm project at the liulong mine due to the demand for power at the mine.  it was also the preferred option by bmg, demonstrating management support for the project.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a4KIVVL6qh" slidebank="false" type="slide">risk analysis the gmi team considered project risks at a high level for this pre-feasibility study. however, the team did not include a discussion of project risks for the pre-feasibility study report due to the public nature of the report.  the following slides summarize the three types of risks evaluated:  technical market financial</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6knCQK0UqX5" slidebank="false" type="slide">risks evaluated: technical risk impact mitigation more rapid decline of gas supply than expected – isolation of sources, more rapid flooding, erroneous interpretation of data  reduced revenue, early project termination, unable to deliver contracted energy supply improve forecasts: conduct in-depth investigations and testing in the full feasibility study and develop more detailed geological and decline reservoir models  failure of a production well no revenue until remedied  install dual production pipes in entries (pre closure) or drill replacement borehole post closure loss of gas quality power or thermal energy supply reduced or in worst case, halted undertake remedial work on mine entry seals  equipment failure  loss of revenue until repaired detailed warranties; business interruption insurance; planned maintenance; use only oem spares</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6EQjEL9loWP" slidebank="false" type="slide">risks evaluated: market risk impact mitigation fall in power prices loss of revenue  dual revenue streams; develop only high roi projects so there is some flexibility carbon market collapses  loss of carbon revenue dual revenue streams</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6gBzONx4uE3" slidebank="false" type="slide">risks evaluated: financial risk impact mitigation carbon assets fail to deliver  additional cost of emission reduction credits from the market business risk (once the contract is signed to deliver emission reductions) subsidies end project unable to deliver expected financial returns engage provincial and central governments to note impact</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5xbMJjdxFAF" slidebank="false" type="slide">financial analysis model inputs epa built a simplified project-specific financial model in ms excel®. the model design was based on more detailed financial models built for full cmm feasibility studies. the end use for the cmm project was on-site power to supply electricity to the mine.   the financial model calculated cash flows and produced financial metrics: net present value (npv), internal rate of return (irr), and simple payback period.  inputs for the model included: gas production from gas production forecasts power plant capacity calculated from available gas volumes commodity pricing and subsidy pricing from the markets values based on professional experience and expertise  click the button to view the inputs that were used in the financial analysis. the inputs were based on information that the mine shared with the team, as well as from expert knowledge and experience of the team.   financial analysis inputs financial analysis inputs financial analysis inputs financial analysis inputs financial analysis inputs financial analysis inputs</slidetext>
+      <slidetext slideid="6R0OsurKeaO.636WKz5NW5x" slidebank="false" type="slide">financial analysis of drainage solutions based on the data provided and evaluation of the three drainage improvement solutions, the recommended gas drainage improvement solution was solution #3 (hgbs). it yielded: the highest methane recovery and largest emission reduction potential the greatest power production potential the most cost-effective results solution description max power plant capacity npv-10 us$000 irr payback year net co2e reductions (million metric tons) co2 1 in-seam boreholes penetrating mining seams at intervals of 30 m 2 mw -5,722 -3% - 0.32 mt 2 in-seam boreholes penetrating mining seams at intervals of 10 m 6 mw +1,278 +12% 8 1.1 mt 3 horizontal gob boreholes placed above mining seams 9 mw +30,054 +43% 3 2.9 mt</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6NefnPlg3ep" slidebank="false" type="slide">recommended next steps the following next steps were recommended in the pre-feasibility study report: develop a clear mine layout for the dayong coalfield with exact panel dimensions and coal production forecasts.   take additional core samples in the dayong coalfield and conduct gas desorption analyses to obtain accurate measure of gas content, permeability, and porosity of the coals.   confirm the ability of the liulong mine to sell excess electricity to the power grid and confirm cost for a grid interconnect.   conduct pilot tests for both types of in-mine degasification technologies proposed in this study to develop more accurate production forecasts. investigate and analyze more thoroughly all utilization options including power production to confirm the economic and technical feasibility of cmm-to-power and the viability of alternatives and their competitiveness with power generation.   begin investigation of financing options to confirm available sources of project finance so that bmg can determine the appropriate sources and mix of financing, including the mix of debt and equity. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">module 8 summary this module demonstrated how the steps in a pre-feasibility study (which were introduced in the previous modules of this training) were applied during the liulong mine case study.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you! you have completed module 8.</slidetext>
+      <slidetext slideid="5cCDnHUmacE.6esj1TQR1Zh" slidebank="false" type="slide">proposed improvements: options evaluated for alternative #2 improvement alternative #2:  horizontal gob boreholes seam vacuum pressure borehole diameter no. 3 no. 7 low high 96 mm 121 mm 146 mm option 1 • • • option 2 • • • option 3 • • • option 4 • • • option 5 • • • option 6 • • • option 7 • • • option 8 • • • option 9 • • • option 10 • • • option 11 • • • option 12 • • •</slidetext>
+      <slidetext slideid="5cCDnHUmacE.63WJHcJwvEW" slidebank="false" type="slide">proposed improvements: options evaluated for alternative #1  improvement alternative #1: in-seam boreholes seam  borehole penetration  no. 3 no. 7 30 m spacing 10 m spacing option 1 • • option 2 • • option 3 • • option 4 • •</slidetext>
+      <slidetext slideid="5cCDnHUmacE.6ifjAozuEmR" slidebank="false" type="slide">example numerical modeling data inputs reservoir parameter value(s) notes seam 3 seam 7 seam elevation (top), m above msl 1496 1420 mine data from area 1; core hole no. 24 coal depth (top), m 80 149 mine data from area 1; core hole no. 24 coal thickness, m 1.3 8.0 mine data from area 1; core hole no. 24 coal density, g/cc 1.62 1.39 mine data pressure gradient, kpa/m3 11.94 9.51 calculated from reservoir pressure and depth initial reservoir pressure, kpa 950 1420 mine data; top of each seam initial water saturation, percent 100 100 assumption langmuir volume, m3/tonne 28.97 28.15 mine data; isotherm analysis langmuir pressure, kpa 1126 1045 mine data; isotherm analysis in situ gas content, m3/tonne 12.63 15.06 mine data desorption pressure, kpa 870 1202 calculated based on in situ gas content and maximum storage capacity from isotherm sorption times, days 10 10 assumption fracture spacing, cm 2.54 2.54 assumption dip angle of face, degrees 29 29 based on area 1 mine data absolute cleat permeability, md 0.55 0.55 mine data; midpoint of range (0.1 to 1 md) cleat porosity, percent 5.55 4.32 mine data relative permeability curve curve assumption; see figure 3‑10 pore volume compressibility, kpa -1 2.76e-03 2.76e-03 assumption matrix shrinkage compressibility, kpa -1 0.00e+00 0.00e+00 none gas gravity 0.6 0.6 assumption water viscosity, (mpa∙s) 0.8 0.8 assumption water formation volume factor, reservoir barrel per stock tank barrel (rb/stb) 1.00 1.00 calculation completion and stimulation assumes skin factor of zero borehole operation in-mine pipeline with surface vacuum station providing vacuum pressure of 16 kpa </slidetext>
+      <slidetext slideid="5cCDnHUmacE.5kTPmhoccPm" slidebank="false" type="slide">financial analysis inputs physical &amp; financial factors units value methane concentration of drained gas  percent 98 methane concentration of gob gas  percent 70 cost escalation  percent 3.0 price escalation  percent 3.0 capital expenditures units value drainage system          borehole cost $/m 100 (in-seam); 130 (hgb)      surface vacuum station $/w 1.34      vacuum pump efficiency w/1000m3/d 922 gathering system          gathering pipe cost $/m 75      gathering pipe length m/panel 450 operating expenses units value field fuel use (gas)  percent 10 o&amp;m $/1000m3 17.66 generator efficiency  percent 40  run time  percent 65 electricity price $/kwh 0.10 cmm subsidy $/kwh 0.04 capital expenditures units value power plant $/kw 760 operating expenses units value power plant o&amp;m $/kwh 0.03 carbon emission reductions  units value global warming potential of ch4  tco2e 25 co2 from combustion of 1 ton ch4 tco2 2.75 </slidetext>
+      <slidetext slideid="5cCDnHUmacE.5VCK6DDyTWE" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries gmi partner countries account for nearly 70% of total global manmade methane emissions, which is equivalent to approximately 5,000 mmtco2e.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6R0OsurKeaO.5kvpRgRYuaT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Image from: https://www.epa.gov/sites/production/files/2017-09/documents/cmop_liulong_cmm_report.pdf" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Mine Methane (AMM)">Coal mines that are temporarily or permanently closed that produce significant methane emissions from diffuse vents, fissures, or boreholes. 
+</term>
+      <term title="Adsorbed Methane">Methane accumulated on the surface of coal. </term>
+      <term title="Adsorption Isotherm">An empirical relation between the concentration of a solute on the surface of an adsorbent to the concentration of the solute in the liquid with which it is in contact.</term>
+      <term title="Anticline">A rock fold that bulges upward in the middle.</term>
+      <term title="Ash Content">The non-combustible residue left after carbon, oxygen, sulfur, and water has been driven off during combustion. The remaining residue or ash is expressed as a percent of the original coal sample weight.</term>
+      <term title="Bankable">Project or proposal that has sufficient collateral, future cashflow, and high probability of success, to be acceptable to institutional lenders for financing.</term>
+      <term title="Behind Shield ">Longwall shearer machines have a protective shield that prevents the floor and roof from collapsing onto the shearer during mining of the longwall panel. The gob area exists behind the shield and is a source of methane emissions into the mine workings.  </term>
+      <term title="Beltways">Pathways within the mine where belt conveyors carrying coal or other products move product.</term>
+      <term title="Bleeder Shaft">A vertical shaft through which gas-laden air from working districts is discharged to the surface. Bleeder shafts are typically not man/material shafts and have higher allowable methane concentrations.</term>
+      <term title="BMG">Baise Mining Group</term>
+      <term title="Booster Fan">An underground ventilation device installed in series with a main surface fan that is used to boost the pressure of the air current passing through it.</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Borehole Spacing ">The measured distance between two or more boreholes drilled for production. </term>
+      <term title="California Cap-and-Trade">The Cap-and-Trade Program is a key element of California’s strategy to reduce greenhouse gas (GHG) emissions. It complements other measures to ensure that California cost-effectively meets its goals for GHG emissions reductions. The Cap-and-Trade Regulation establishes a declining limit on major sources of GHG emissions throughout California, and it creates a powerful economic incentive for significant investment in cleaner, more efficient technologies.</term>
+      <term title="Capillary Pressure">The pressure difference across the interface between two immiscible fluids arising from the capillary forces. These capillary forces are surface tension and interfacial tension.</term>
+      <term title="Capital Cost">Fixed, one-time expenses incurred on the purchase of land, buildings, construction, and equipment used in the production of goods or in the rendering of services. In other words, it is the total cost needed to bring a project to a commercially operable status.</term>
+      <term title="Capital Expenditures (CapEx)">Funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, or equipment. CapEx is often used to undertake new projects or investments by a company.</term>
+      <term title="Carbon Registry">A publicly available system that tracks carbon offset projects and issues offsets for each unit of emission reduction or removal that is verified and certified.</term>
+      <term title="Casing">A large diameter pipe that is assembled and inserted into a recently drilled section of a borehole. </term>
+      <term title="CCII">China Coal Information Institute</term>
+      <term title="Channels">Areas where the coal seam is truncated by noncoal rock. </term>
+      <term title="Clean Development Mechanism">The CDM allows emission-reduction projects in developing countries to earn certified emission reduction (CER) credits, each equivalent to one ton of CO2. These CERs can be traded and sold and used by industrialized countries to a meet a part of their emission reduction targets under the Kyoto Protocol. The mechanism stimulates sustainable development and emission reductions, while giving industrialized countries some flexibility in how they meet their emission reduction limitation targets.</term>
+      <term title="Clean Tons">Coal production from the mine following washing at a coal preparation plant.</term>
+      <term title="Cleats">Naturally occurring orthogonal joints in coal. They occur as two perpendicular sets of fractures. </term>
+      <term title="Coal Depth">The measured or approximate distance to the coal-bearing strata</term>
+      <term title="Coal Mine Methane (CMM)">Methane released from coal due to mining activities. Like CBM, CMM is a subset of the methane found in coal seams, but it refers specifically to the methane found within mining areas (e.g., within a mining plan), while CBM refers to methane in coal seams that will never be mined. Because CMM would be released through mining activities, recovering and using CMM is considered emissions avoidance.</term>
+      <term title="Coal Thickness ">The measured or approximate thickness of the coal-bearing strata. Measured from the top of the coal-bearing unit to the top of the underlying unit.</term>
+      <term title="Coalbed Methane (CBM)">Methane extracted from coal seams before mining occurs. CBM is also known as virgin coal seam methane or coal seam gas. It is widely considered an "unconventional" source of natural gas.</term>
+      <term title="Collar ">A common component of drilling infrastructure that provides weight on bit for drilling. Drill collars are thick-walled tubular pieces machined from solid bars of steel, usually plain carbon steel but sometimes of nonmagnetic nickel-copper alloy or other nonmagnetic premium alloys. </term>
+      <term title="Combined Heat and Power (CHP)">The concurrent production of electricity or mechanical power and thermal energy from a single source of energy. Also referred to as cogeneration.</term>
+      <term title="Completion">The act of installing pipe in a borehole after the drilling operation is completed. </term>
+      <term title="Compressed Natural Gas (CNG)">Natural gas mainly comprised of methane that is stored under high pressures, mainly as a means for storage or transportation.</term>
+      <term title="Concentration Distribution">A spatial representation of various coal mine methane concentrations within a given mine. </term>
+      <term title="Core">A cylindrical section of a naturally occurring substance, typically obtained by drilling through the subsurface with a hollow steel tube called a core drill.</term>
+      <term title="Degasification">The process of removing gases from a coal mine.</term>
+      <term title="Desorption Pressure">A phenomenon whereby a substance is released from or through a surface related to the surrounding pressure of the reservoir.</term>
+      <term title="Destruction Only">A CMM project where the only objective of the project is to destroy methane to reduce greenhouse gas emissions. This contrasts with an energy recovery project which uses CMM to produce useable energy such as electricity or heat.</term>
+      <term title="Diffusion Coefficient ">A measure of the mobility of gases from one gradient to another.</term>
+      <term title="Direct Thermal ">The use of coal mine methane in direct combustion technologies other than flaring, most commonly in boilers, industrial burners, and similar applications.</term>
+      <term title="Drainage Galleries ">Existing roadways or purpose-driven roadways above or below the mined seam that collect methane from gob areas. The galleries are sealed, and vacuum pressure is applied to draw the gas from the galleries into the pipeline system. These are also sometimes referred to as superjacent boreholes. </term>
+      <term title="Emissions Distribution">A spatial representation of various coal mine emissions concentrations within a given mine. </term>
+      <term title="Emissions Factor">A representative value that attempts to relate the quantity of a pollutant released to the atmosphere with an activity associated with the release of that pollutant. These factors are usually expressed as the weight of pollutant divided by a unit weight, volume, distance, or duration of the activity emitting the pollutant.</term>
+      <term title="Extrapolated Cost">An estimation of future costs beyond the original observational range. </term>
+      <term title="Faults">Breaks in the earth’s crust across which movement has occurred.</term>
+      <term title="Feasibility Studies">Thorough report investigating the economic and technical feasibility of project development. This document is considered “bankable”, meaning it is sufficient to secure project financing.</term>
+      <term title="Financial Analysis ">The process of evaluating businesses, projects, budgets, and other finance-related transactions to determine their performance and suitability. Typically, financial analysis is used to analyze whether an entity is stable, solvent, liquid, or profitable enough to warrant a monetary investment.</term>
+      <term title="Flaring">Controlled combustion of natural gas. Flaring CMM at a coal mine can occur in an open flame, otherwise known as a candlestick flare, or in an enclosed flare, sometimes referred to as a ground flare.  </term>
+      <term title="Folding">Bending of rock layers caused by compression of rocks, usually as part of mountain-building when tectonic plates collide.</term>
+      <term title="Fracture Spacing">Spacing of factures measured as the distance between the fractures along a line perpendicular to the average orientation of the fracture set.</term>
+      <term title="Friability">When coal is easy to break or crumble it is said to be friable. This has a significant impact on gas management as gas drainage boreholes drilled in friable coals can easily collapse, thereby inhibiting degasification of the mine.</term>
+      <term title="Gas Composition ">The gas composition of any gas can be characterized by listing the pure substances it contains and stating for each substance its proportion of the gas mixture's molecule count. </term>
+      <term title="Gas Content ">Volume of gas contained in a unit mass of coal and is generally expressed in cubic meters, at standard pressure and temperature conditions, per ton of coal.</term>
+      <term title="Gas Drainage">Methods employed by underground coal mines, abandoned mines, and occasionally surface mines, for capturing the naturally occurring gas in coal seams to prevent it entering mine airways. Gas drainage systems include a combination of drainage boreholes and/or galleries, a gathering network, and vacuum pumps to draw gas to the surface. Gas can be removed from coal seams in advance of mining using pre‐drainage techniques and from coal seams disturbed by the extraction process using post‐drainage techniques. It is often referred to as methane drainage if methane is the main gas component target to be captured. Gas drainage produces coal mine methane of a higher quality than ventilation, generally in the 25 — 100 percent range. </term>
+      <term title="Gas Drainage Efficiency">The volume of methane produced from gas drainage as a share of all methane produced at a mine.  </term>
+      <term title="Gas Gathering System">A system of pipelines, moisture and dust removal equipment, and prime movers (e.g., vacuum pumps, compressors) that transport gas from borehole wellheads to the surface. </term>
+      <term title="Gas Gravity">The ratio of the density of the gas at standard pressure and temperature to the density of air at the same standard pressure and temperature. </term>
+      <term title="Gas Outbursts">An outburst is the sudden and violent ejection of coal, gas and rock from a coal face and surrounding strata in an underground coal mine. When outbursts occur, they can be very serious events, possibly even resulting in fatalities.</term>
+      <term title="Gas Production">The quantity of gas produced by pre-mine drainage and post-mine drainage boreholes and drainage galleries. </term>
+      <term title="Gas Production Forecast">An attempt to predict methane emissions from gas drainage systems using the following methods: basin-wide emission factors; generic gas content vs depth curves; mine-specific emission factors; probabilistic methods; engineering equations; reservoir simulation. </term>
+      <term title="Gas Solubility">The solubility of a gas in a liquid is directly affected by temperature and pressure. As temperature increases solubility decreases; this is described by Le Chatelier’s Principle. As pressure increases solubility increases; this is described by Henry’s Law. </term>
+      <term title="Gas Viscosity">The measure of the resistance to flow; the property that allows gas to be more mobile in a reservoir as the viscosity of gas is magnitudes lower than other fluids within a reservoir. </term>
+      <term title="Gas-In-Place (GIP) ">The volume of gas stored within a specific bulk reservoir rock volume (e.g., coal).</term>
+      <term title="Geophysical Log ">The collection of geological and hydrologic information in wells by lowering and raising probes on a wire. It is typically more useful to employ a suite of different geophysical logs when collecting information.</term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf)">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Greenhouse Gas Emissions (GHG)">The release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time. May be labelled as anthropogenic (resulting from human activities) or naturally occurring.</term>
+      <term title="ha">Hectare</term>
+      <term title="HGB">Horizontal gob boreholes</term>
+      <term title="Historical Emissions">A record of the past volume of methane emissions associated with coal production.</term>
+      <term title="Historical Production ">A record of the amount of coal or natural gas produced from a given mine or CMM project. Often used as an analogous CMM project example for forecasting future gas production and emissions during a pre-feasibility study. </term>
+      <term title="Igneous Intrusions ">Molten magma that rises from the mantle that thrust into existing rock formations. </term>
+      <term title="Infill Drilling">The addition of wells in a field that decreases average well spacing. </term>
+      <term title="Initial Water Saturation">The saturation of an undisturbed reservoir with no prior production from any earlier well.</term>
+      <term title="In-Situ">It can mean "locally", "on site", "on the premises", or "in place" to describe where an event takes place and is used in many different contexts. For example, in fields such as physics, geology, chemistry, or biology, in situ may describe the way a measurement is taken, that is, in the same place the phenomenon is occurring without isolating it from other systems or altering the original conditions of the test. The opposite of in situ is ex situ.</term>
+      <term title="International Centres of Excellence on CMM">The International Centres of Excellence on Coal Mine Methane (ICE-CMM) are designed as non-profit entities subject to the national laws of the host Member States and operating under the auspices of the UNECE Group of Experts on Coal Mine Methane. The Centres support capacity-building activities in United Nations Member States and serve as a platform for discussion on safety, environmental and economic aspects of coal mine methane (CMM). In particular, they focus on such issues as effective drainage and use of methane in coal mines and abatement of carbon emissions through cost-effective and socially responsible use or destruction of captured methane.</term>
+      <term title="IRR">Internal Rate of Return</term>
+      <term title="Karst">Karst topography is dissolution of limestone or dolomite on the surface and subsurface resulting in hills and valleys/canyons on the surface and caves and other voids below the surface.</term>
+      <term title="Langmuir Pressure">The pressure at which storage capacity equals one half of Langmuir volume. Also known as the critical desorption pressure, where gas is released from the surface of a substance. </term>
+      <term title="Langmuir Volume">The total adsorption capacity of a substance. The maximum amount of gas that can be adsorbed to coal or shale at infinite pressure.</term>
+      <term title="Longwall">One of three major underground coal mining methods currently in use. Employs a shearer which is pulled mechanically back and forth across a face of coal that is usually several hundred feet long. This mining method can produce large quantities of coal and gas.   </term>
+      <term title="Longwall Face">The end of the longwall panel that is being cut by the longwall shearer. </term>
+      <term title="Longwall Panel ">Large blocks of coal that are mined with a longwall shearer.    </term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="Mineral Matter ">The solid inorganic material in coal.</term>
+      <term title="Mining Seam">A bed of coal lying between a roof and floor.</term>
+      <term title="Monte Carlo Simulation">Used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models. </term>
+      <term title="Mt">million tonnes</term>
+      <term title="NPV">Net Present Value</term>
+      <term title="Operational Expenditures (OpEx) ">An operating expense is an expense a business incurs through its normal business operations. Often abbreviated as OPEX, operating expenses include rent, equipment, inventory costs, marketing, payroll, insurance, step costs, and funds allocated for research and development.</term>
+      <term title="Permeability ">The state or quality of a material or membrane that causes it to allow liquids or gases to pass through it.</term>
+      <term title="Place-In-Box">The pore system connecting the coal matrix and the cleat system plays a key role in the desorption and gas flow rates. </term>
+      <term title="Porosity">The measure of void or pores space present when a solid and is represented by volume percentage of void in the solid. It defines the maximum possible amount of methane that can be retained in the coal. </term>
+      <term title="Post-Mine Drainage ">Drilling boreholes (vertical gob wells, cross-measure boreholes, directional horizontal boreholes, or gob drainage galleries) in advance of mining so that they are in place prior to under-mining but producing gas during and after the seam is being mined. </term>
+      <term title="Post-Mine Drainage Boreholes">Boreholes drilled above or below the mined seam which produce methane from gob areas after the coal seam is mined. Post-mine drainage boreholes can be drilled from the surface or in-mine. Initially, methane concentrations can be high, but concentrations will decline relatively quickly as air from the gob area is drawn into the boreholes. There are also commonly referred to as post-drainage boreholes. </term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="Pre-Mine Drainage">Drilling in-seam boreholes to extract gas from the coal seam in advance of mining operations. </term>
+      <term title="Pre-Mine Drainage Boreholes">Boreholes drilled into the mined seam or adjacent gas-bearing rock and coal strata in advance of mining to remove methane before mining occurs. Pre-mine drainage boreholes can be drilled from the surface or in-mine. Gas is produced in the boreholes before the coal seam is mined. Once mined-through, gas production ceases. Methane concentrations can be very high, and boreholes can produce gas for many years in advance of mining. These are also commonly referred to as pre-drainage boreholes. </term>
+      <term title="Probabilistic Methods">Methods based on the theory of probability or the fact that randomness plays a role in predicting future events.</term>
+      <term title="Production Casing">Production Casing refers to the casing that is run across the reservoir in sections through which the well will be drilling. It is one of the final intervals of the casing which is performed during the casing of a well. The Production Casing is the deepest section of casing in a well just above the producing formation. It is used to isolate the zone which contains gas from other subsurface formations.</term>
+      <term title="Proximate Analysis">An assay of the moisture, volatile matter, fixed carbon, and ash content of a coal sample. </term>
+      <term title="Rank">The classification of coals according to their degree of metamorphism, progressive alteration, or coalification (maturation) in the natural series from lignite to anthracite.</term>
+      <term title="Relative Permeability ">The ratio of effective permeability of a particular fluid at a particular saturation to absolute permeability of that fluid at total saturation. </term>
+      <term title="Reservoir Pressure ">An indication of how much fluid (gas, oil, or water) is remaining in the reservoir. It represents the amount of driving force available to drive the remaining fluid out of the reservoir during a production sequence. </term>
+      <term title="Reservoir Simulation">Provides a consistent and reliable way to account for the complex mechanisms of coal seam gas desorption and diffusion. Also provides the opportunity for field and laboratory data to be integrated into a single geologic/reservoir model to evaluate exploration and development strategies.</term>
+      <term title="Residual Gas Content">The quantity of gas remaining in a sample of coal following a period of gas desorption.  </term>
+      <term title="Risk Analysis">Examining how project outcomes and objectives might change due to the impact of the risk event. Once the risks are identified, they are analyzed to identify the qualitative and quantitative impact of the risk on the project so that appropriate steps can be taken to mitigate them. </term>
+      <term title="ROM">Run of Mine coal production. It is the raw material produced from the mine and delivered to the coal preparation plant. </term>
+      <term title="Sealed Airways">As coal is mined, mine-out districts are sealed off from the active workings to improve ventilation and reduce leakage of methane into the active workings.  </term>
+      <term title="Solubility">The property of a solid, liquid, or gaseous chemical substance called solute to dissolve in a solid, liquid, or gaseous solvent.</term>
+      <term title="Sorption Time">A lumped parameter accounting both for diffusion and desorption time. It controls the rate at which gas molecules are released from micropores into the cleats. The smaller the sorption time the faster sorption/diffusion process.</term>
+      <term title="Specific Emissions">The volume of methane emissions per ton of coal mined.</term>
+      <term title="Spontaneous Combustion">A condition in which oxygen in the air is absorbed into coal during mining and transporting of coal, reacting to some of the hydrocarbon in the coal and being oxidized. The oxidation of hydrocarbons results in combustion.</term>
+      <term title="Standpipe">A system of pipes that connect the components of a gas drainage system.</term>
+      <term title="Strata">A layer of sedimentary rock or soil; refers to a layer of coal in this instance.</term>
+      <term title="Structural Elevation">This refers to the geometry of strata deviating from its original depositional position because of tectonic activity, subsidence, etc. For example, older strata may be brought to a higher point because of thrust faulting. </term>
+      <term title="Subsidence">The sudden sinking or gradual downward settling of the ground's surface with little or no horizontal motion. </term>
+      <term title="Syncline">A rock fold that bulges downward ("sinks") in the middle.</term>
+      <term title="Tailgate">Gate roads are driven to the back of each panel before longwall mining begins. The gate road along one side of the block is called the maingate or headgate; the road on the other side is called the tailgate.
+</term>
+      <term title="TCM">Trillion cubic meters</term>
+      <term title="The Commonwealth Scientific and Industrial Research Organization (CSIRO) ">An Australian Government agency responsible for scientific research. CSIRO works with leading organizations around the world. From its headquarters in Canberra, CSIRO maintains more than 50 sites across Australia and in France, Chile and the United States, employing about 5,500 people.</term>
+      <term title="Town Gas">Manufactured gaseous fuel produced for sale to consumers and municipalities. Also referred to as coal gas.</term>
+      <term title="Unconformity">A buried erosional or non-depositional surface separating two rock masses or strata of different ages, indicating that sediment deposition was not continuous.</term>
+      <term title="United Nations Economic Commission for Europe (UNECE)">The United Nations Economic Commission for Europe (ECE or UNECE) is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe. Its transcontinental Eurasian and non-European member states include: Armenia, Azerbaijan, Canada, Georgia, Israel, Kazakhstan, Kyrgyzstan, the Russian Federation, Tajikistan, Turkmenistan, the United States of America, and Uzbekistan.</term>
+      <term title="United Nations Environment Program (UNEP)">The United Nations Environment Programme (UNEP) is the leading global environmental authority that sets the global environmental agenda, promotes the coherent implementation of the environmental dimension of sustainable development within the United Nations system, and serves as an authoritative advocate for the global environment.</term>
+      <term title="United States Environmental Protection Agency (USEPA)">The Environmental Protection Agency is an independent executive agency of the United States federal government tasked with environmental protection matters.</term>
+      <term title="Ventilation Air Methane (VAM)">CMM that is removed via ventilation systems which use fans to dilute the methane to safe levels by circulating fresh air through the mine. VAM is the largest source of methane emissions from underground coal mines. 
+</term>
+      <term title="Well Drainage Area">The area or volume drained by a single operating well. </term>
+      <term title="Working Seam">The coal seam that is being mined is referred to as the working seam.  Large mines may produce coal from multiple seams and each worked seam will have its own production plan.  </term>
+    </terms>
+  </glossary_data>
+</bwFrame>

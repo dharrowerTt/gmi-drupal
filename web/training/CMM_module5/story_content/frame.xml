@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnabnsnfns01001010011" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="130" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010011" font="Articulate Narrow" controllayout="pxabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npxnabnsnfns01001010011" font="Articulate Narrow" controllayout="npxnabnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="npnxnanbnsnfns01001010011" font="Articulate Narrow" controllayout="npnxnanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pxabnsnfns01001010010" font="Articulate Narrow" controllayout="pxabnsnfns01001010010" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+    <layout name="pnxanbnsnfns01001010011" font="Articulate Narrow" controllayout="pnxanbnsnfns01001010011" colorscheme="npxnabnsnfns01001010011" string_table="npxnabnsnfns01001010011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Conducting Pre-Feasibility Studies for CMM Projects: Module 5" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\5s99rPLTxx2_DX1024_DY1024.jpg" />
+              <option name="html5_logo_url" value="mobile/5rPPZkinw11.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="How to Navigate" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Text Version" />
+                  <property name="data" value="6LImLSOaEyz" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="gmi_logo.jpg" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Calibri" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001010010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001010011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001010011">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBF4FD" alpha="100" stop="0" />
+                <color rgb="0x4DCAF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD0F1FC" alpha="100" stop="0" />
+                <color rgb="0x58CDF5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+                <color rgb="0x016BB6" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x016BB6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001010011">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Meaning</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">Next</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">Back</string>
+      <string id="acc_previous">back</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Narrow">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Course Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="CMM Project Development" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Conducting CMM Project Pre-Feasibility Studies: Course Modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 5" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Module 5  Improvements to Gas Drainage" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.5muguvcTtor" displaytext="What You Will Learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6h3HYbwIASV" displaytext="Overview of Mine Gas Drainage " expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5viFj1NUo1P" displaytext="Mine Gas Drainage System Design" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6XYhe79yNeo" displaytext="Components of a Gas Drainage System" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.68ZqKy1fKhN" displaytext="Schematic of a Gas Drainage System" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6j1SG8qQCVP" displaytext="What is an Effective Gas Drainage System?" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gm2fFpCbYb" displaytext="Methane Reduction Targets for an Effective Drainage System" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6BDt4wyw8l5" displaytext="Calculating Gas Drainage Efficiency" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.62q8YZAZuww" displaytext="Benefits of Improving Mine Gas Drainage" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6hv3q7lS1Tv" displaytext="Opportunities to Improve Gas Drainage in a Pre-feasibility Study" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.60cPBoHKCfr" displaytext="Optimize Gas Production" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6rbg1eR3Xlg" displaytext="Improve Recovered Gas Quality" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5gxkEFzmYqS" displaytext="Optimize Drainage Efficiency" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6a2T50NOkWv" displaytext="Minimize Costs of Gas Production" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5vaPBnfhIE0" displaytext="Overview of Methods to Improve Gas Drainage System Efficiency" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6ajTZM3VVTe" displaytext="Methods to Improve Gas Drainage System Efficiency: Assessment Tools" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nQWUaAMnrH" displaytext="Improving Pre-mine Drainage" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.5lOcrn6MMe6" displaytext="Improving Pre-Mine Gas Drainage: Planning and Designing Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.68YVkIEj68x" displaytext="Improving Pre-Mine Gas Drainage: Design Considerations for Boreholes " expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5yFx8eZKykc" displaytext="Improving Pre-Mine Gas Drainage: Developing Improvement Plans" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6ESPEiN6JoX" displaytext="Improving Gas Drainage at Different Stages: Pre-mine and Post-mine " expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5uaXGjwfCM2" displaytext="Post-Mine Drainage Methods " expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6bbt7IQXpMv" displaytext="Overview of Post-Mine Drainage Methods" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.64mhcjMsvml" displaytext="Understanding Gob Gas Drainage Geomechanics" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6icNvAnEhlt" displaytext="Understanding Gob Zone Characteristics for Modeling Improvements " expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6nsIqmeIX2s" displaytext="Improving Post-Mine Gas Drainage: &#xD;Optimizing Gob Gas Drainage" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6TSeBc7hf8d" displaytext="Considerations for Gob Borehole Planning and Design" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.69mwzsLs487" displaytext="Planning and Designing Gob Gas Boreholes" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6FkRTHXgQQ9" displaytext="Methane Concentration of Gob Gas" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5cEqwmyE8Eg" displaytext="Develop Plans for Future Implementation of Gob Boreholes" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+                <slidelink slideid="_player.6R0OsurKeaO.5lRjleaqnUc" displaytext="Optimizing Gas Collection" expand="false" type="slide">
+                  <links>
+                    <slidelink slideid="_player.6R0OsurKeaO.6mHWe2Q5V40" displaytext="Optimizing Gas Collection Pipelines and their Operation" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5q1W6u2ZY2o" displaytext="Considerations for Pipeline Construction" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.5hgWWyKc3jD" displaytext="Pipeline Layout" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6AImrEHYTk9" displaytext="Pipeline Layout Best Practices" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6LFbsRbQ2oy" displaytext="Pipeline Monitoring and Control" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6cyEwcBeCbe" displaytext="Pipeline Vacuum Pressure Estimation" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6k8Ew9KiIsv" displaytext="Additional Pipeline Monitoring for System Performance" expand="false" type="slide" />
+                    <slidelink slideid="_player.6R0OsurKeaO.6MJA8UyuvVA" displaytext="Maintaining Vacuum Station" expand="false" type="slide" />
+                  </links>
+                </slidelink>
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.68MYvx377n6" displaytext="Module 5 Summary" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">conducting cmm project  pre-feasibility studies training by the u.s. epa in support of the global methane initiative (gmi)</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome the united states environmental protection agency (epa) developed this course in support of the gmi and in conjunction with the united nations economic commission for europe (unece). what is the gmi? this course introduces principles for assessing the potential of developing projects to capture and/or use coal mine methane (cmm). the general approach described in the course should be underpinned by mine-specific data and analyses, allowing the principles to be tailored to the unique conditions at each mine. ideally, such an assessment will lead to project development and implementation.  </slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> conducting cmm project pre-feasibility studies:  course modules module 1:	introduction and objectives module 2:	mine background information and evaluation module 3:	resource assessment module 4:	forecasting methane production from gas drainage systems module 5:	improvements to gas drainage module 6:	quantifying the benefits of improvements to methane drainage systems module 7:	market, risk, and financial analyses module 8:	case study – liulong mine, china </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 5 improvements to gas drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5muguvcTtor" slidebank="false" type="slide">what you will learn in this module, you will learn about: what makes an effective gas drainage system. how to calculate gas drainage efficiency. benefits of improving the effectiveness of gas drainage systems. methods to improve gas drainage efficiency.   time needed to complete this module: approximately 60 minutes  this module builds on what you learned about gas drainage in module 2: mine background information and evaluation and module 3: resource assessment.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6h3HYbwIASV" slidebank="false" type="slide">overview of mine gas drainage  mine gas drainage refers to the capture and transport of gas, principally methane, through a system of pre-mine and post-mine boreholes or drainage methods, followed by the collection and movement of that gas through a pipeline network to the surface. mine gas drainage systems are developed to prevent methane from entering mine workings.  this mine gas can be diluted to safe levels by the mine's ventilation system.  before proceeding, click to review the definitions of some key terms that will be presented in this module. these definitions are also provided in the glossary. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5viFj1NUo1P" slidebank="false" type="slide">gas drainage systems can differ widely in design depending on the properties of the mine and other factors.  systems can be as small as one well, or they can be a complex network of multiple boreholes, gathering systems, and pumps. mine gas drainage system design gas drainage systems are deployed at some, but not all, mines to maintain safe methane concentrations in the mine workings.  the design of gas drainage systems deployed (see module 2: gas drainage current practices: boreholes) depends on the type of mining (longwall vs. room and pillar) and geologic conditions.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6XYhe79yNeo" slidebank="false" type="slide"> components of a gas drainage system components of a gas drainage system include: boreholes gas pipeline to the surface surface pump station    source:  best practice guidance for effective drainage &amp; use in coal mines.  unece (2016)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68ZqKy1fKhN" slidebank="false" type="slide"> schematic of a gas drainage system                        </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6j1SG8qQCVP" slidebank="false" type="slide"> what is an effective gas drainage system? gas drainage systems are considered to be effective if they produce a significant amount of methane with high gas recovery efficiencies and low air ingress into the drainage system: primary: produce and transport enough gas to ensure that methane concentrations in the ventilation air do not exceed regulatory standards. secondary: maximize gas drainage to achieve enhanced safety, environmental mitigation, and energy recovery.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gm2fFpCbYb" slidebank="false" type="slide">methane reduction targets for an effective drainage system the design of an effective gas drainage system should deliver the following methane emission reductions: 50-80% of gas emissions from a longwall district and 50% of total mine gas emissions ≥ 30% methane concentration by volume for post-mine drainage techniques ≥ 60% methane concentration by volume for pre-mine drainage methods</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BDt4wyw8l5" slidebank="false" type="slide">calculating gas drainage efficiency to measure effectiveness of a gas drainage system, mine operators calculate gas drainage efficiency. during the mine evaluation stage of a pre-feasibility study, the cmm project developer should assess the efficiency of their proposed drainage system improvements. proposed improvements of the gas drainage efficiency should increase gas quantity and quality. gas drainage efficiency is defined as the gas flow produced by the gas drainage system from a location, divided by the total gas produced from that location.   drainage efficiency (%) calculation: + volume of ch4 drained (m3) volume of ch4 in ventilation (m3)  volume of ch4 drained (m3) </slidetext>
+      <slidetext slideid="6R0OsurKeaO.62q8YZAZuww" slidebank="false" type="slide">skilled job training and creation direct and indirect cost savings for the mine  safe utilization of otherwise wasted gas resources energy recovery ghg emission reductions fewer coal production shutdowns or slowdowns maintain or increase production capacity ch4 concentration ≥ 30% reduces explosion risks, protecting mine staff and infrastructure benefits of improving mine gas drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6hv3q7lS1Tv" slidebank="false" type="slide">opportunities to improve gas drainage in a pre-feasibility study in a pre-feasibility study, potential improvements to gas drainage are based on the analysis of available data and a site visit, focusing on the greatest potential impact at a high level. a pre-feasibility study is not intended to present an assessment of all options. a more detailed and comprehensive review is typically undertaken for the full feasibility study.  there are four areas where a mine operator can look for improvements to increase gas drainage at the lowest possible costs: optimize gas production improve recovered gas quality optimize drainage system efficiency minimize costs of gas production these areas are further described on the next few slides.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.60cPBoHKCfr" slidebank="false" type="slide">how to increase gas drainage at lowest cost improve recovered gas quality optimize drainage  system efficiency minimize costs of gas production  ensure underground gas collection systems are maintained and free of water and solids accumulations. ensure the system is designed to accommodate maximum expected produced gas volume (methane + air). balance ventilation air with gas drainage volumes to meet methane concentration targets while effectively managing ventilation and drainage costs. optimize gas production</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6rbg1eR3Xlg" slidebank="false" type="slide">optimize gas production how to increase gas drainage at lowest costs optimize drainage system efficiency minimize costs of gas production  improve borehole standpipe installation to achieve improved seal to minimize air intrusion, particularly when operated under vacuum. regulate gas production based on gas quality at system, district, and borehole level, if possible. regulate vacuum pressure based on gas quality at system, district, and borehole level, if feasible, to prevent dilution of post-mine drainage methane concentration. improve recovered gas quality</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5gxkEFzmYqS" slidebank="false" type="slide">optimize gas production how to increase gas drainage at lowest costs improve recovered gas quality minimize costs of gas production  optimize the number and type of boreholes/galleries based on gas drainage experience and projections of the gas resource: pre-mine/post-mine in-mine/surface directionally drilled, laterally drilled, vertically drilled boreholes underlying/overlying galleries ensure effective location and installation of boreholes and galleries in relation to longwall panels, longwall face, longwall district, development areas, gate roads and mains to maximize gas recovery by building on degasification experience. optimize drainage  system efficiency</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6a2T50NOkWv" slidebank="false" type="slide">optimize gas production how to increase gas drainage at lowest costs improve recovered gas quality optimize drainage  system efficiency  minimize the number of boreholes and cumulative length sufficient to meet gas production targets.  adapt the most effective combination of drilling and completion techniques for coal and rock strata. develop reasonable cost estimates for drilling and completion services (contracted vs. managed in-house). manage system pressures based on recovered gas quality.  minimize costs of gas production</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5vaPBnfhIE0" slidebank="false" type="slide">overview of methods to improve gas drainage system efficiency improving the efficiency of a gas drainage system will directly affect the quality and quantity of gas that is recovered. gas drainage system efficiency can be improved through: pre-mine drainage:  drilling in-seam boreholes in advance of mining. post-mine drainage:  drilling boreholes (vertical gob wells, cross-measure, directional horizontal gob boreholes, or gob drainage galleries) in advance of mining so that they are in place prior to under-mining but producing gas during and after the seam is being mined. optimizing the gas collection system to capture the gas drained from pre- and post-mine boreholes.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ajTZM3VVTe" slidebank="false" type="slide">methods to improve gas drainage system efficiency: assessment tools regardless of the method chosen to optimize gas drainage, the project developer will need to forecast gas drainage system improvements through one of the methods described in module 4: probabilistic methods, analytical methods, or reservoir simulation.  reservoir simulation is an important tool in optimizing drainage efficiency. simulations can help predict gas flow from different borehole placements, spacings, length, and diameters.   to improve confidence in the forecasting of gas drainage improvements, the project developer can correlate (history match) predicted gas production using known inputs in a reservoir simulator (see module 4) against historic gas production as a function of time. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nQWUaAMnrH" slidebank="false" type="slide">improving pre-mine drainage</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lOcrn6MMe6" slidebank="false" type="slide">improving pre-mine gas drainage: planning and designing boreholes pre-mine improvements can include surface or in-mine vertical, horizontal, or directionally drilled wells. directionally drilled wells are becoming more common as a standard good practice, because they can: enable longer reach. initiate drainage with less development. provide for more drainage time.  the optimal solution depends on many factors:  legal access to extract gas from the surface or underground availability of in-country or regional drilling infrastructure geologic, geomechanical, stress, and mining conditions regulations budget regional culture and common practice  karacan, c. ö. 2009</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68YVkIEj68x" slidebank="false" type="slide">improving pre-mine gas drainage: design considerations for boreholes   geologic/ geomechanical coal seam friability igneous intrusions in-situ and mining induced stresses  reservoir gas content diffusion time constant adsorption/gas saturation permeability reservoir pressure, water saturation model simulation outputs borehole spacing vs. drainage gas production projection mining ensure mine operator and gas producer objectives align example output of in-situ gas content reduction using in-seam pre-mine drainage boreholes  example of gas production simulation results</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5yFx8eZKykc" slidebank="false" type="slide"> improving pre-mine gas drainage: developing improvement plans based on the initial reservoir simulation, an initial borehole design is made and a single longwall panel is modeled. after optimizing the design for the single panel, this design is then applied to the remaining longwall districts adjusting for differences in depths/gas contents, panel widths, etc. project developers should prepare a design and installation schedule for the improvements, and specify the length and spacing of the boreholes, pipeline requirements, etc., to allow for preparation of cost estimates.   considerations for future implementation plans align with mine layout and production plan define borehole layout  establish implementation schedule project cmm production through life of the gob boreholes/wells</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ESPEiN6JoX" slidebank="false" type="slide">improving gas drainage at different stages: pre-mine and post-mine  although pre-mine methods can be very effective at producing gas with a high methane content while also reducing the in-situ gas content of the mined seam, they may not always be the most effective gas drainage method. in many of the world’s coal basins, the low permeability of the coal seams (&lt;0.1 millidarcy (md)) and geologic characteristics of the seams (for example, soft coals and faulting) are not conducive to pre-mining techniques.    as shallow reserves are mined out and mining moves to deeper seams with complex geology and lower permeability, post-mine drainage may be necessary to remove gas from the workings.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5uaXGjwfCM2" slidebank="false" type="slide">post-mine drainage methods </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bbt7IQXpMv" slidebank="false" type="slide">overview of post-mine drainage methods gob (goaf) refers to the fractured, permeable ground above where coal has been extracted by longwall mining and the roof has collapsed. where there are one or more coal seams above or below the worked seam, emissions from these seams can contribute to methane emissions into the workings, even potentially exceeding emissions from the mined seam. post-mine drainage methods involve intercepting methane released into the gob area before it can enter a mine airway.   gob gas can be extracted through vertical gob wells at the surface, cross-measure boreholes drilled at an angle above or below the working seam, through overlying or underyling horizontal gob boreholes applied from underground or the surface, or through gob gas drainage galleries. these techniques are successful when operated under vacuum.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.64mhcjMsvml" slidebank="false" type="slide"> understanding gob gas drainage geomechanics understanding all of the geomechanical characteristics is not necessary for a pre-feasibility study, but, if they are available, they can inform a skilled engineer when evaluating and designing improvements to post-mine drainage systems.  depending on the gob gas drainage method, historical gob gas flow and methane concentrations are often sufficient to estimate gob gas emissions in future areas with proposed improvements to drainage for a pre-feasibility study.  however, these characteristics, and the impact of changes to these characteristics, should be evaluated for a full-feasibility study and detailed system design.  optimizing emission control and gas production from gob gas boreholes requires an understanding of the geomechanical characteristics of the surrounding strata and how this strata is affected by mining. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6icNvAnEhlt" slidebank="false" type="slide">understanding gob zone characteristics for modeling improvements  the gob zone in a mined out seam includes critical vs. sub-critical panel width, stress re-distribution, cave height, cave characteristics, and zones where strata is under tension or re-compaction. these parameters are needed for inputs for modeling post-mine drainage improvements. location of gob gas venthole to control strata gas  karacan, c. ö. 1997</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nsIqmeIX2s" slidebank="false" type="slide">improving post-mine gas drainage: optimizing gob gas drainage  free software is available from the u.s. niosh to model gas production from surface gob vent boreholes: https://www.cdc.gov/niosh/mining/works/coversheet1805.html engineering equations are also used to predict gob gas flow from boreholes. available technologies gob gas drainage galleries cross-measure boreholes vertical gob wells  implementation requirements  surface access depth from surface geomechanical characteristics  click to view a gob model layout schematic diagram.  improved technologies surface directional gob wells (angled or parabolic depending on surface access) laterals over longwall panels directionally drilled from the surface horizontal gob boreholes directionally drilled cross-measure boreholes (modified cross-measure boreholes)</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TSeBc7hf8d" slidebank="false" type="slide">considerations for gob borehole planning and design physical considerations number of wells/boreholes lateral and vertical placement diameter collar casing and completion  performance considerations wellhead vacuum production projections anticipated concentration monitoring provisions operational constraints can be addressed to optimize gob gas drainage performance. considerations for gob borehole planning and design include:   click to view data on the number of horizontal gob boreholes (hgb) required for 100 m3/min methane flow (500 m length and 75% ch4 by volume).</slidetext>
+      <slidetext slideid="6R0OsurKeaO.69mwzsLs487" slidebank="false" type="slide"> planning and designing gob gas boreholes gob gas production and recovered gas quality will depend on a number of factors. proper planning and designing of gob gas recovery systems will help ensure mine safety while optimizing gob gas production rate and methane concentration.  the cumulative gas production period and the total quantity of gob gas produced increases as vertical gob wells are under-mined through panel completion.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FkRTHXgQQ9" slidebank="false" type="slide">methane concentration of gob gas as noted on the previous slide, the cumulative gas production period and the total quantity of gob gas produced increases as vertical gob wells are under-mined through panel completion.  however, the concentration of the recovered gob gas from each subsequent under-mined vertical gob well is reduced through panel completion.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5cEqwmyE8Eg" slidebank="false" type="slide"> develop plans for future implementation of gob boreholes similar to pre-mine drainage boreholes, gob wells or boreholes can be designed for the remaining longwall districts based on the mine's development and production plan, and differences in the gob gas resource.  this will allow project developers to prepare an initial design and schedule for the entire system, including the number, length/depth, and diameter of the boreholes/wells.     the initial design provides the basis for the developer to prepare cost estimates for improvements to drainage.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lRjleaqnUc" slidebank="false" type="slide">optimizing gas collection</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6mHWe2Q5V40" slidebank="false" type="slide">optimizing gas collection pipelines and their operation a gas drainage system consists of boreholes to produce the coal mine gas, a collection system of pipelines, and pumps and associated equipment to transport the gas to the surface for utilization or venting.  pipeline construction: materials, connections and layouts monitoring and control vacuum pressure and system monitoring/control pipeline integrity monitoring for safety optimizing the drainage collection system can lead to improved recovery of high-quality gas of commercial value. important considerations with respect to optimizing gas collection system are: hdpe gas collection piping</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5q1W6u2ZY2o" slidebank="false" type="slide">considerations for pipeline construction potential improvements and considerations for improving the gas collection system include: pipe materials steel – especially useful in space-restricted areas or where the pipe may be vulnerable to damage high density polyethylene (hdpe) – requires conductive medium to reduce risk of static discharge connections gasketed flange fused victaulic to flange other considerations handling/installation   underground pipe systems are vulnerable to damage even when using the most optimal systems. the drainage system should be designed and operated with the premise that there is a finite risk of integrity failure.  view more details about gas collection system materials.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5hgWWyKc3jD" slidebank="false" type="slide">pipeline layout the gas pipeline network acts as a gathering system to bring the produced gas to a central collection point on the surface. gathering systems can be on the surface or underground.  if only surface wells are drilled (pre-mine drainage wells or gob wells), gas collection systems will be located on the surface (or buried on the surface).   gas collected from in-mine boreholes (pre-mine drainage or post-mine drainage) will be piped to a gas collection well which leads to the surface.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6AImrEHYTk9" slidebank="false" type="slide">pipeline layout best practices  best practice principles to follow when designing the pipeline layout minimize the length of pipe eliminate underground pipelines as feasible. for example, use horizontal to vertical well intercepts, or localize gas collection wells to surface  benefits of implementing best practices  reduces capital and operating costs improves gas quality reduces risk of pipeline damage from operations</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6LFbsRbQ2oy" slidebank="false" type="slide">pipeline monitoring and control methane utilization efficiency and safety can be significantly enhanced if the methane concentration is accurately measured and controlled. use manual or remote monitoring systems to determine the effectiveness of the gas drainage system. take measurements in a consistent manner at individual wellheads as feasible, in the gas drainage pipe network, and at the surface methane extraction plant.  monitor gas flow rate, methane concentration (directly or indirectly), and gauge pressure. also record barometric pressure, temperature, and moisture content of the gas at central locations to facilitate the standardization of flow data. select monitoring equipment that is capable of correcting for non-methane hydrocarbons to ensure accurate measurements.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6cyEwcBeCbe" slidebank="false" type="slide">pipeline vacuum pressure estimation generally, for a pre-feasibility study, the project developer does not prepare a detailed design of the gas collection system other than identifying pipeline length, diameter and the location of pipeline intercepts.   wellhead vacuum pressures should be estimated when gob boreholes/wells are used to determine capacity and cost of vacuum plants/blowers.    for a pre-feasibility study, estimates are sufficient, but more detailed engineering designs are required for full feasibility studies and future project implementation.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6k8Ew9KiIsv" slidebank="false" type="slide"> additional pipeline monitoring for system performance conducting systematic monitoring of other gas collection system components is good practice.  manage the underground gas pipeline. maintain water separation equipment and ensure that the pipeline is not entrained with water or solids. check operation of the pipeline safety integrity monitoring system, including all sectioning valves. clean and check all sensing/monitoring and actuating equipment on a regular basis. vacuum plant operators can perform routine manual measurements or implement permissible remote monitoring and control systems.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6MJA8UyuvVA" slidebank="false" type="slide">maintaining vacuum station vacuum is the primary means of moving gas from pre-mine drainage and post-mine drainage underground boreholes to the surface. the gas collection system is normally under suction induced by a vacuum pump, which is controlled by a vacuum station.  gas flow rate, methane concentration, pressure and temperature should be measured at the vacuum station to ensure safe operation and to prevent the transport of explosive mixtures of methane from the vacuum station to cmm utilization plants, such as power plants, flares and natural gas pipelines.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MYvx377n6" slidebank="false" type="slide">module 5 summary this module described methods and tools that can be used to improve mine gas drainage. improving mine gas drainage can not only make the mining operation safer, but it can also increase coal production and result in the production of higher quality gas.  it is important to note that the drainage system design may need to be adjusted on a continual basis to ensure that gas production is optimized as the mine develops over time.   looking ahead module 6 will discuss how to quantify the benefits of improvements to methane drainage systems.        </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you! you have completed module 5.</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is a voluntary, multilateral partnership that aims to reduce methane emissions and to advance the abatement, recovery, and use of methane as a clean energy source. what is the global methane initiative? gmi partner countries gmi partner countries account for nearly 70% of total global manmade methane emissions, which is equivalent to approximately 5,000 mmtco2e.</slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left.  if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+      <slidetext slideid="6fgphnmPAaM.638U67WkHuJ" slidebank="false" type="slide">schematic diagram of gob model layout</slidetext>
+      <slidetext slideid="5gzrAMy40BB.6riaukL5YRv" slidebank="false" type="slide">definitions of relevant terms  drainage galleries roadways - either existing or developed specifically for drainage - located above or below the mined seam. galleries may be used for pre-mine or post-mine drainage. pre-mine drainage galleries are driven (i.e., excavated) prior to mining. boreholes are drilled from the gallery into the gas-bearing seams to extract gas prior to mining. for post-mine drainage, galleries are driven above the mined seam (superjacent) to capture migrating gas from gob areas. the galleries are sealed, and vacuum pressure is applied to draw the gas from the galleries into the pipeline system. boreholes may be drilled from the gallery to the gob area to enhance gob gas recovery.    gas drainage system an integrated system that combines boreholes with a gas gathering system consisting of pipelines and vacuum pumps or compressors. the system is designed to transport gas from the mine workings to the surface where the gas is vented or used. gas drainage systems are also referred to as gas capture systems and degasification collection systems. gas gathering system a system of pipelines, water and solids separation equipment, monitoring and control equipment, and prime movers (e.g., vacuum pumps, compressors) that transport gas from borehole wellheads to the surface.  gas production the quantity of gas produced by pre-mine drainage and post-mine drainage systems. post-mine drainage boreholes boreholes drilled above or below the mined seam which produce methane from gob areas after the coal seam is mined. post-mine drainage boreholes can be drilled from the surface or in-mine. initially, methane concentrations can be high, but concentrations will decline relatively quickly as air from the gob area is drawn into the boreholes. these are also commonly referred to as post-mine drainage boreholes. pre-mine drainage boreholes boreholes drilled into the mined seam or adjacent gas-bearing rock and coal strata in advance of mining to remove methane before mining occurs. pre-mine drainage boreholes can be drilled from the surface or in-mine. gas is produced in the boreholes before the coal seam is mined. once mined-through, gas production ceases. methane concentrations can be very high, and boreholes can produce gas for many years in advance of mining. these are also commonly referred to as pre-drainage boreholes.</slidetext>
+      <slidetext slideid="6h8VqTnI9px.650S3NJJYSq" slidebank="false" type="slide">gas collection system materials steel pipe high-density polyethylene pipe advantages disadvantages advantages disadvantages superior mechanical strength connection can corrode and leak over time heavy and difficult to move non-corrosive: resistant to h2s, does not rust lighter and easier to handle than steel, reducing installation and maintenance costs  connections can be fused together, minimizing leaks less mechanical strength than steel some concern about static electricity issues</slidetext>
+      <slidetext slideid="61HwvJNYkn8.6pgYRKNDYkg" slidebank="false" type="slide">borehole performance data borehole diameter vacuum pressure diameter 50 mm hg 100 mm hg 150 mm hg 96 mm 32 23 19 121 mm 18 13 11 146 mm 12 9 7 165 mm 9 6 5 number of hgbs required for 100m3/min methane flow (500m length and 75% ch4). </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Abandoned Mine Methane (AMM)">Coal mines that are temporarily or permanently closed that produce significant methane emissions from diffuse vents, fissures, or boreholes.
+</term>
+      <term title="Borehole">A narrow shaft bored in the ground, either vertically or horizontally.</term>
+      <term title="Borehole Spacing">The measured distance between two or more boreholes drilled for production. </term>
+      <term title="Capital Cost">Fixed, one-time expenses incurred on the purchase of land, buildings, construction, and equipment used in the production of goods or in the rendering of services. In other words, it is the total cost needed to bring a project to a commercially operable status.</term>
+      <term title="Casing">A large diameter pipe that is assembled and inserted into a recently drilled section of a borehole. </term>
+      <term title="Coal Mine Methane (CMM)">Methane released from coal due to mining activities. Like CBM, CMM is a subset of the methane found in coal seams, but it refers specifically to the methane found within mining areas (e.g., within a mining plan), while CBM refers to methane in coal seams that will never be mined. Because CMM would be released through mining activities, recovering and using CMM is considered emissions avoidance.</term>
+      <term title="Collar">A common component of drilling infrastructure that provides weight on bit for drilling. Drill collars are thick-walled tubular pieces machined from solid bars of steel, usually plain carbon steel but sometimes of nonmagnetic nickel-copper alloy or other nonmagnetic premium alloys. </term>
+      <term title="Completion">The act of installing pipe in a borehole after the drilling operation is completed. </term>
+      <term title="Degasification">The process of removing gases from a coal mine.</term>
+      <term title="Drainage Galleries">Existing roadways or purpose-driven roadways above or below the mined seam that collect methane from gob areas. The galleries are sealed, and vacuum pressure is applied to draw the gas from the galleries into the pipeline system. These are also sometimes referred to as superjacent boreholes. </term>
+      <term title="Faults">Breaks in the earth’s crust across which movement has occurred.</term>
+      <term title="Feasibility Studies">Thorough report investigating the economic and technical feasibility of project development. This document is considered “bankable”, meaning it is sufficient to secure project financing.</term>
+      <term title="Friability">When coal is easy to break or crumble it is said to be friable. This has a significant impact on gas management as gas drainage boreholes drilled in friable coals can easily collapse, thereby inhibiting degasification of the mine.</term>
+      <term title="Gas Content">Volume of gas contained in a unit mass of coal and is generally expressed in cubic meters, at standard pressure and temperature conditions, per ton of coal.</term>
+      <term title="Gas Drainage ">Methods employed by underground coal mines, abandoned mines, and occasionally surface mines, for capturing the naturally occurring gas in coal seams to prevent it entering mine airways. Gas drainage systems include a combination of drainage boreholes and/or galleries, a gathering network, and vacuum pumps to draw gas to the surface. Gas can be removed from coal seams in advance of mining using pre‐drainage techniques and from coal seams disturbed by the extraction process using post‐drainage techniques. It is often referred to as methane drainage if methane is the main gas component target to be captured. Gas drainage produces coal mine methane of a higher quality than ventilation, generally in the 25 — 100 percent range. </term>
+      <term title="Gas Drainage Efficiency">The volume of methane produced from gas drainage as a share of all methane produced at a mine. </term>
+      <term title="Gas Gathering System">A system of pipelines, water and solids separation equipment, monitoring and control equipment, and prime movers (e.g., vacuum pumps, compressors) that transport gas from borehole wellheads to the surface.</term>
+      <term title="Gas Production">The quantity of gas produced by pre-mine drainage and post-mine drainage systems.</term>
+      <term title="Global Methane Initiative (GMI)">Launched in 2004, the GMI is an international public-private initiative that advances cost-effective, near-term methane abatement and recovery and use of methane as a clean energy source in three sectors: biogas (including agriculture, municipal solid waste, and wastewater), coal mines, and oil and gas systems. Focusing collective efforts on methane emission sources is a cost-effective approach to reduce greenhouse gas (GHG) emissions and increase energy security, enhance economic growth, improve air quality and improve worker safety.</term>
+      <term title="Gob (Goaf)">Broken, permeable ground where coal has been extracted by longwall coal mining and the roof has been allowed to collapse, thus fracturing and de-stressing strata above and, to a lesser extent, below the seam being worked. The term gob is generally used in the United States; elsewhere, goaf is generally used.</term>
+      <term title="Greenhouse Gas Emissions (GHG)">The release of greenhouse gases and/or their precursors into the atmosphere over a specified area and period of time. May be labelled as anthropogenic (resulting from human activities) or naturally occurring.</term>
+      <term title="Igneous Intrusions">Molten magma that rises from the mantle that thrust into existing rock formations. </term>
+      <term title="In-Situ">It can mean "locally", "on site", "on the premises", or "in place" to describe where an event takes place and is used in many different contexts. For example, in fields such as physics, geology, chemistry, or biology, in situ may describe the way a measurement is taken, that is, in the same place the phenomenon is occurring without isolating it from other systems or altering the original conditions of the test. The opposite of in situ is ex situ.</term>
+      <term title="Longwall">One of three major underground coal mining methods currently in use. Employs a shearer which is pulled mechanically back and forth across a face of coal that is usually several hundred feet long. This mining method can produce large quantities of coal and gas.   </term>
+      <term title="Longwall Face">The end of the longwall panel that is being cut by the longwall shearer. </term>
+      <term title="Longwall Panel">Large blocks of coal that are mined with a longwall shearer.    </term>
+      <term title="Methane">Methane is a potent greenhouse gas. Methane's lifetime in the atmosphere is much shorter than carbon dioxide, but it is 28 times as efficient at trapping radiation than CO2 over a 100-year period. Methane is the main precursor of ground level ozone pollution, and thus affects air quality. Methane is also an energy resource that can be captured and used. Methane in mines poses safety risks, due to its explosiveness when mixed with air.</term>
+      <term title="Permeability">The state or quality of a material or membrane that causes it to allow liquids or gases to pass through it.</term>
+      <term title="Post-Mine Drainage">Drilling boreholes (vertical gob wells, cross-measure boreholes, directional horizontal boreholes, or gob drainage galleries) in advance of mining so that they are in place prior to under-mining but producing gas during and after the seam is being mined. </term>
+      <term title="Post-Mine Drainage Boreholes">Boreholes drilled above or below the mined seam which produce methane from gob areas after the coal seam is mined. Post-mine drainage boreholes can be drilled from the surface or in-mine. Initially, methane concentrations can be high, but concentrations will decline relatively quickly as air from the gob area is drawn into the boreholes. There are also commonly referred to as post-drainage boreholes. </term>
+      <term title="Pre-Feasibility Studies">Typically provide a detailed technical analysis of site-specific information and considers project financing. Provides a gas production forecast and a review of current gas drainage practices. However, this document provides less granularity than a full feasibility study. This document is typically not considered a “bankable” document.</term>
+      <term title="Pre-Mine Drainage">Drilling in-seam boreholes to extract gas from the coal seam in advance of mining operations. </term>
+      <term title="Pre-Mine Drainage Boreholes">Boreholes drilled into the mined seam or adjacent gas-bearing rock and coal strata in advance of mining to remove methane before mining occurs. Pre-mine drainage boreholes can be drilled from the surface or in-mine. Gas is produced in the boreholes before the coal seam is mined. Once mined-through, gas production ceases. Methane concentrations can be very high, and boreholes can produce gas for many years in advance of mining. These are also commonly referred to as pre-drainage boreholes. </term>
+      <term title="Reservoir Pressure">An indication of how much fluid (gas, oil, or water) is remaining in the reservoir. It represents the amount of driving force available to drive the remaining fluid out of the reservoir during a production sequence. </term>
+      <term title="Reservoir Simulation">Provides a consistent and reliable way to account for the complex mechanisms of coal seam gas desorption and diffusion. Also provides the opportunity for field and laboratory data to be integrated into a single geologic/reservoir model to evaluate exploration and development strategies.</term>
+      <term title="Standpipe">A system of pipes that connect the components of a gas drainage system.</term>
+      <term title="Strata">A layer of sedimentary rock or soil; refers to a layer of coal in this instance.</term>
+      <term title="United Nations Economic Commission for Europe (UNECE)">The United Nations Economic Commission for Europe (ECE or UNECE) is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to promote economic cooperation and integrations among its member states. The commission is composed of 56 member states, most of which are based in Europe, as well as a few outside of Europe. Its transcontinental Eurasian and non-European member states include: Armenia, Azerbaijan, Canada, Georgia, Israel, Kazakhstan, Kyrgyzstan, the Russian Federation, Tajikistan, Turkmenistan, the United States of America, and Uzbekistan.</term>
+      <term title="Ventilation Air Methane (VAM)">CMM that is removed via ventilation systems which use fans to dilute the methane to safe levels by circulating fresh air through the mine. VAM is the largest source of methane emissions from underground coal mines.
+</term>
+      <term title="Working Seam ">The coal seam that is being mined is referred to as the working seam.  Large mines may produce coal from multiple seams and each worked seam will have its own production plan.  </term>
+    </terms>
+  </glossary_data>
+</bwFrame>

@@ -1,0 +1,8 @@
+name: 'Feeds EX CSV test'
+type: module
+description: 'CSV source plugin for Feeds extensible parsers - test'
+core_version_requirement: ^10 || ^11
+package: Feeds
+dependencies:
+  - feeds
+  - feeds_ex

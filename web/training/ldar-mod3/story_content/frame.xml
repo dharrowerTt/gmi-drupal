@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="npxnabnsnfns01001000011" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4DCAF5">
+  <layouts>
+    <layout name="npnxnanbsnfns01001000011" font="Lato" controllayout="npnxnanbsnfns01001000011" colorscheme="npxnabnsnfns01001000011" string_table="npxnabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000011" font="Lato" controllayout="pxabnsnfns01001000011" colorscheme="npxnabnsnfns01001000011" string_table="npxnabnsnfns01001000011" />
+    <layout name="npxnabnsnfns01001000011" font="Lato" controllayout="npxnabnsnfns01001000011" colorscheme="npxnabnsnfns01001000011" string_table="npxnabnsnfns01001000011" />
+    <layout name="npnxnanbnsnfns01001000011" font="Lato" controllayout="npnxnanbnsnfns01001000011" colorscheme="npxnabnsnfns01001000011" string_table="npxnabnsnfns01001000011" />
+    <layout name="pxabnsnfns01001000010" font="Lato" controllayout="pxabnsnfns01001000010" colorscheme="npxnabnsnfns01001000011" string_table="npxnabnsnfns01001000011" />
+    <layout name="pnxanbnsnfns01001000011" font="Lato" controllayout="pnxanbnsnfns01001000011" colorscheme="npxnabnsnfns01001000011" string_table="npxnabnsnfns01001000011" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Module 3 | Designing and Managing an LDAR Program" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" />
+              <option name="html5_logo_url" value="mobile/6Hxfe0YcPng.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="HOW TO NAVIGATE" />
+                  <property name="data" value="5juiUx62nUa" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="Global Methane Initiative logo" />
+          <option name="logoAltTextEnabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false" />
+          <option name="settings" value="true" />
+          <option name="playbackSpeedControl" value="false" />
+          <option name="fullScreenToggle" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Lato" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns01001000011">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npxnabnsnfns01001000011">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A2D4D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x252844" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E4372" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x252844" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x252844" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="94" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E4372" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4DCAF5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E4372" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x252844" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A2D4D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A2D4D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A2D4D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x252844" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C7C7C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA2A2A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4DCAF5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E4372" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x252844" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3E4372" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npxnabnsnfns01001000011">
+      <string id="acc_active">active</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_definition">definition</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous">back</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Background audio</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="bio">Bio</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear search</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Meaning</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
+      <string id="glossary">Acronyms/Terms</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="more_info">More info</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next">Next</string>
+      <string id="next_shortcut">Next</string>
+      <string id="outline">Menu</string>
+      <string id="period_key">Period</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">Back</string>
+      <string id="previous_shortcut">Previous</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_list">Question List</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Acronym/Term</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_visited">visited</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="transcript">Narration</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="video_transcript_title">Transcripts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="continue">Continue</string>
+      <string id="outline_container">Menu</string>
+      <string id="invalid_prompt_button">OK</string>
+      <string id="invalid_prompt_message">You must complete the question before submitting.</string>
+      <string id="invalid_prompt_title">Invalid Answer</string>
+      <string id="print_prompt_button">OK</string>
+      <string id="print_prompt_title">Enter name</string>
+      <string id="print_prompt_message">Enter your name in the field below:</string>
+      <string id="timer_prompt_button">OK</string>
+      <string id="timer_prompt_title">Time Limit Exceeded</string>
+      <string id="timer_prompt_message">You have reached the time limit set for the quiz. Press 'OK' to continue.</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6MpSPVyVB6V" displaytext="Introduction" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6MpSPVyVB6V.6YSuU4uUer7" displaytext="Developing and Implementing a Leak Detection and Repair (LDAR) Program to Mitigate Methane Emissions from the Oil and Gas Sector" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6VfmCMPvuPv" displaytext="DISCLAIMER" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.6SmRTabEjgy" displaytext="Welcome" expand="false" type="slide" />
+            <slidelink slideid="_player.6MpSPVyVB6V.5o7ESFm8DaM" displaytext="Course modules" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6R0OsurKeaO" displaytext="Module 3" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6R0OsurKeaO.62mH5vKpwBL" displaytext="Designing and Managing an LDAR Program" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.60vfGaIdLyY" displaytext="What you will learn" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6jkcoarg7kp" displaytext="What are the key considerations in developing an LDAR program?" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.66ZpYhpFbKF" displaytext="Aspects of an LDAR program" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6GfQrI24pe2" displaytext="Basic structure of an LDAR program" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6e557P7MaRU" displaytext="Objective of an LDAR Program" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6L3iMu1d03I" displaytext="Basic workflow for developing an LDAR program" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6ljdr0XhP5q" displaytext="Procedures and plans" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5r8KtY9dFlB" displaytext="Leak definition and screening methods" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5oXNguSWmMV" displaytext="Leak definitions" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5rhFMsgUjty" displaytext="Leak identification and tracking system" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6gYQWy3HVIv" displaytext="Leak tags" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6lvADgygG1v" displaytext="Leak rate quantification" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.68MdBQ1kW2E" displaytext="Qualifications and training" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.67do1qgcu6b" displaytext="Qualifications of the LDAR team" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.62oxcuc1LN8" displaytext="Training of the LDAR team" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6pW69Eb0TPD" displaytext="Leak detection training" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5fjfjPnuuyQ" displaytext="Leak detection training examples" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6iqVnIIUUze" displaytext="Managing data quality" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5qV7jv5xZSj" displaytext="Assessing a team’s performance" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6ZZWVOznYOw" displaytext="Designing an LDAR program to match available resources" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.5lrYihD77Dl" displaytext="Other factors to consider" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TLgnKzVMAS" displaytext="Survey frequency" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5aD0EX0RzOA" displaytext="Surveying higher leak-potential sources" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.60SoaUJyEFb" displaytext="Good practice for survey frequency" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6nlCupsQi2x" displaytext="In-house versus third-party LDAR survey teams" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5mOlYFa8s3z" displaytext="Operational flexibility" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6bKGM7sWRWA" displaytext="Maximizing the potential of LDAR survey teams" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6qasaC97Ts9" displaytext="Conducting supplemental activities while on site" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.5jEA5LHWiFJ" displaytext="LDAR equipment rental vs purchase" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6jL0lFKnf0Y" displaytext="Development of a central database system " expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6BuZkIQItZ7" displaytext="Creating software to compile and process data" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6KAliTgOv83" displaytext="Data processing and reporting" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6KvFlkDfXXa" displaytext="Estimating equipment leaks " expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6TwgB9p4V0K" displaytext="Establish a representative baseline " expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.6dZbf9BO9lh" displaytext="Optimizing the effectiveness of an LDAR program" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6Cn9Kxc2V1Z" displaytext="Evaluating absolute performance" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6R0OsurKeaO.5tX1tQzCkxI" displaytext="Emerging LDAR strategies" expand="false" type="slide" />
+            <slidelink slideid="_player.6R0OsurKeaO.6FIyRHhE37w" displaytext="Summary" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6R0OsurKeaO.6eOn50lLbMw" displaytext="What you have learned" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6J0sFIRD8XM" displaytext="What you have learned (continued)" expand="false" type="slide" />
+                <slidelink slideid="_player.6R0OsurKeaO.6WrWRvJd9vW" displaytext="Thank you!" expand="false" type="slide" />
+              </links>
+            </slidelink>
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6MpSPVyVB6V.6YSuU4uUer7" slidebank="false" type="slide">developing and implementing a leak detection and repair (ldar) program to mitigate methane emissions from the oil and gas sector</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6VfmCMPvuPv" slidebank="false" type="slide">disclaimer this course is not intended to address applicable national, state, tribal, or local ldar regulations.  prior to developing a non-regulatory ldar program, please ensure you understand any relevant ldar regulations that may apply in your jurisdiction.</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.6SmRTabEjgy" slidebank="false" type="slide"> welcome this course was developed in support of the global methane initiative (gmi).  this course explains the concept, objectives, systematic approach, challenges and benefits of a non-regulatory leak detection and repair (ldar) program for managing methane emissions from equipment leaks at oil and natural gas facilities. in addition, it provides specific guidance on designing, implementing, and managing the ldar program.  what is the gmi? what is the gmi? what is the gmi? what is the gmi? what is the gmi? what is the gmi?</slidetext>
+      <slidetext slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide"> up next course modules module 1introduction and objectives module 2 methane leaks from oil and gas equipment module 3 designing and managing an ldar program module 4ldar equipment selection module 5implementing an ldar program</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62mH5vKpwBL" slidebank="false" type="slide">module 3 designing and managing an ldar program</slidetext>
+      <slidetext slideid="6R0OsurKeaO.60vfGaIdLyY" slidebank="false" type="slide">what you will learn in this module, you will learn the following:  what are the key considerations in developing an ldar program?</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jkcoarg7kp" slidebank="false" type="slide">what are the key considerations in developing an ldar program? aspects and basic structure of an ldar program objective of an ldar program basic workflow for developing an ldar program procedures and plans designing an ldar program to match available resources development of a central database system data processing and reporting  optimizing the effectiveness of an ldar program emerging ldar strategies</slidetext>
+      <slidetext slideid="6R0OsurKeaO.66ZpYhpFbKF" slidebank="false" type="slide">aspects of an ldar program the following terms define various aspects of the ldar program structure ldar program the overall plan for managing fugitive equipment leaks across an operator’s asset base.  ldar campaign the performance of ldar surveys across multiple facilities over a specified period. ldar survey the performance of a single ldar survey of a single facility.    </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6GfQrI24pe2" slidebank="false" type="slide">basic structure of an ldar program an ldar program may consist of multiple ldar campaigns, which in turn consist of multiple ldar surveys. it is essential that an ldar program include:  clear performance objectives.  documents outlining procedures, facilities and equipment to be covered, and implementation plans. properly trained ldar survey teams.  properly maintained and calibrated ldar instruments.  a centralized database system to track the ldar survey results, leak repairs and program performance.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6e557P7MaRU" slidebank="false" type="slide">objective of an ldar program the objective of an ldar program is to economically minimize emissions and product losses due to equipment leaks through efficient and strategic ongoing leak detection and repair efforts.  a key aim of the program is to provide early detection and repair of the largest leaks, as even a few large leaks can contribute the most to overall equipment leak emissions. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6L3iMu1d03I" slidebank="false" type="slide"> ldar procedures and plans include: leak definition and screening methods,  a leak identification and tracking system,  considerations for leak-rate quantification, and  quality assurance, including: qualifications of the ldar team. training of the ldar team.                  adjust the program to align with the available resources basic workflow for developing an ldar program y n refine and implement key recommendations for improving the ldar program for the next ldar cycle do the ldar procedures and implementation plans match the available  resources? develop in-house ldar survey capacity or engage a third-party contractor develop a central database for managing, processing, and reporting ldar results establish performance objectives for the ldar program develop and document the ldar procedures and implementation plans      </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ljdr0XhP5q" slidebank="false" type="slide">procedures and plans an ldar program should have well-documented safe work procedures, training programs, and a quality assurance plan. if ldar surveys are performed by an in-house team, then these items should be developed by the in-house team. if the ldar survey is performed by an ldar service provider, then it is strongly recommended they have these items in place. when hiring external ldar service providers, it is important to prioritize the quality of their training program and quality assurance plans, in addition to their pricing. it is recommended that details of the service provider’s plans and procedures be reviewed to ensure they meet the oil and gas company’s requirements. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5r8KtY9dFlB" slidebank="false" type="slide">leak definition and screening methods an ldar program should include a definition of what constitutes a leak, because having such a definition helps identify equipment components that warrant repair or replacement during the ldar survey. procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5oXNguSWmMV" slidebank="false" type="slide">leak definitions facilities could choose one of the following leak definitions according to the leak screening method being applied: if the screening is performed using an organic vapor instrument in accordance with epa method 21, then a leak is defined as a screening concentration equal to or greater than an appropriate concentration-based threshold (for example, ≥ 10,000 ppm or the regulatory value if applicable). in the united states, if the screening is performed using an optical gas imaging (ogi) camera in accordance with appendix k to 40 cfr part 60, then a leak is defined when the emissions are visible by the ogi camera. if national, state, and/or local ldar regulations exist in your jurisdiction, then it is a good practice to choose a leak definition that either meets or is more stringent than the regulatory definition. procedures and plans: method 21 allows components to be screened using bubble tests, but if bubbles occur then the equipment component should be screened using an organic vapor instrument to determine if it meets the leak definition. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5rhFMsgUjty" slidebank="false" type="slide">leak identification and tracking system it is important to have a system for identifying and tracking detected leaks to: enable the maintenance team to find and repair or replace equipment components. allow re-screening of the component following repairs to confirm it has been repaired effectively. potentially identify leaks that often re-occur between ldar surveys. procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6gYQWy3HVIv" slidebank="false" type="slide">leak tags a leak may be identified by attaching a uniquely numbered leak tag to the component and recording sufficient information to describe the component and its location: type of component (valve, connectors, prv, pump seal, open-ended line, etc.). type of service (gas/vapor, light liquid, heavy liquid). component size. process tag number assigned to component or associated equipment package or process unit. process area. global positioning system (gps) coordinates.  sample leak tag procedures and plans: some companies install permanent identification tags on all equipment components for scanning during a leak survey and linking the component and its details in a central database system. databases will be further discussed later in this module.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6lvADgygG1v" slidebank="false" type="slide">leak rate quantification another important consideration when designing an ldar program is quantifying the emission rate from detected leaks. quantification of leaks enables assessment of the environmental impact and economic benefits of the program, which can be tracked over time. quantifying leaks also can help prioritize leak repairs.  if leaks are to be quantified, then the survey team will need suitable instruments to measure the leak rate. module 4 of this training provides more details on quantification instruments.  procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.68MdBQ1kW2E" slidebank="false" type="slide">qualifications and training an ldar program should establish the minimum qualifications and training for the ldar survey teams regardless of whether the teams comprise in-house personnel or third-party service providers. plans for staff qualifications should include the following: qualifications of the ldar team. training of the ldar team.                     procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.67do1qgcu6b" slidebank="false" type="slide">qualifications of the ldar team the individuals selected for ldar field teams should have the following skills, training, and experience: ability to physically climb vessels, as applicable, and perform required work. familiarity with oil and natural gas facilities and ability to recognize and name the different types of equipment components. ability to read site plot plans and process flow diagrams and use them to identify process packages and areas. ability to use and maintain leak detection and leak-rate measurement instruments. an aptitude for repetitive and detail-oriented work. familiarity with company and/or jurisdictional leak detection and repair policies and procedures, which may include local, state, or federal regulations. procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.62oxcuc1LN8" slidebank="false" type="slide">training of the ldar team it is important for ldar teams to have adequate training on: leak detection and quantification methods.  types of leak identification systems (e.g., tagging and tracking). operation, maintenance, and calibration of the ldar survey instruments. recommended measures to improve field data quality. additional training may include: required basic safety training to be able to work at oil and natural gas facilities. these requirements are set by the local government, industry, and/or the operator. introductory, site-specific training to familiarize the ldar team with the process, potential hazards, and emergency response procedures.                                   procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6pW69Eb0TPD" slidebank="false" type="slide">leak detection training leak detection training should include: how to operate the detection technology in accordance with the manufacturer’s procedures. where to look for leaks as well as when to speedup or slowdown during the leak survey. procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5fjfjPnuuyQ" slidebank="false" type="slide">leak detection training examples leak detection methods and practices are normally referenced in the company procedures and plans. some examples can be found in the following documents: epa method 21 establishes leak detection procedures when using organic gas detectors and bubble tests.  epa requirements for using an ogi camera for leak detection alberta energy regulator (aer), fugitive emissions management, section 8.10, directive 60  ogi camera manufacturers offer training on the use of their products. research indicates that six to eight weeks of training on using an ogi camera is needed for an ldar technician to become competent (zimmerle et al, 2020).  to learn more about how to use an ogi camera in leak detection, visit epa issues final requirements for using optical gas imaging in leak detection (appendix k).  procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6iqVnIIUUze" slidebank="false" type="slide">managing data quality the following measures should be considered to minimize data collection errors and improve the confidence/quality of the data: conduct test surveys with different ldar technicians before conducting regularly scheduled ldar surveys. technicians should time themselves surveying the same process area or sub-area and count, but not tag or repair, the detected leaks.  then, compare the survey times and number of detected leaks among technicians. arrange for ldar survey teams to regularly check in with the ldar program manager to report their progress and difficulties encountered. procedures and plans: it is important that leaks should not be repaired during test surveys, as this would decrease leaks/emissions evaluated in a baseline survey, which would lead to underestimates. however, these leaks should be repaired during regularly scheduled ldar surveys. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5qV7jv5xZSj" slidebank="false" type="slide">assessing a team’s performance test surveys help assess a team’s performance in terms of leak detection speed and accuracy.  poor results should be reviewed with the affected team(s). for example, technicians should be able to screen about 30 components per hour using u.s. epa method 21 using an ogi camera.     procedures and plans:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6ZZWVOznYOw" slidebank="false" type="slide">designing an ldar program to match available resources ldar programs should be matched with available financial, logistical, and technical resources. a key factor to consider when designing an ldar program is the cost of engaging a third-party service provider versus developing an in-house team to implement the program.  </slidetext>
+      <slidetext slideid="6R0OsurKeaO.5lrYihD77Dl" slidebank="false" type="slide">other factors to consider other factors to consider when designing the ldar program may include the following: frequency at which ldar campaigns are conducted.   types and sizes of facilities and installations to be targeted during each campaign. scope of the individual site surveys. applied leak detection method. designing an ldar program to match available resources: to help optimize the program, it is recommended that efforts be focused on the facilities most likely to offer significant cost-effective leak control opportunities, with coarse or less frequent screening of other facilities. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TLgnKzVMAS" slidebank="false" type="slide">survey frequency when designing an ldar program, it is important to establish an initial ldar survey frequency based on available resources, which will vary depending on the size and number of facilities to be surveyed as well as types of survey equipment.   after completing an initial survey, the frequency can be adjusted to maximize the benefits achieved and make effective use of additional resources that may become available.   increasing monitoring frequency increases the level of leak control but may provide diminishing returns. when establishing a non-regulatory ldar program, it is recommended to conduct routine ldar monitoring at a frequency that is appropriate for your circumstances.  always ensure you understand any relevant ldar regulations that may apply in your jurisdiction.   designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5aD0EX0RzOA" slidebank="false" type="slide">surveying higher leak-potential sources in addition, oil and gas companies may consider conducting focused surveys that target higher leak-potential sources at more frequent intervals.  determining a relative leak potential (i.e., average leakage rate per component) for each component can be used to assess which components warrant the most attention.   sample leak statistics for gas transmission facilities sample leak statistics for gas transmission facilities sample leak statistics for gas transmission facilities sample leak statistics for gas transmission facilities sample leak statistics for gas transmission facilities sample leak statistics for gas transmission facilities designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.60SoaUJyEFb" slidebank="false" type="slide">good practice for survey frequency oil and natural gas companies have found that it is good practice to perform comprehensive ldar surveys at regular intervals.  the frequency of these surveys should consider the following factors: size, type, and age of the facility.  different facilities may warrant different survey frequencies based on their emission potential.  results of past inspections.  other ongoing maintenance practices.  designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6nlCupsQi2x" slidebank="false" type="slide">in-house versus third-party ldar survey teams hiring staff to perform ldar surveys is only practicable when they can be well utilized throughout the year. also, having an in-house ldar team will require more management effort than using a third-party ldar service provider. key factors to consider when making this decision include the following: operational flexibility. ability to fully utilize and leverage ldar survey teams. feasibility of capital investment &amp; utilization of ldar equipment. contracting a third-party ldar service provider (if such expertise is available) is typically preferable for companies that have fewer numbers of facilities, but even many large operators are opting to use third-party ldar service providers. alternatively, it may be necessary for an oil and gas company to develop this expertise in-house.  designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5mOlYFa8s3z" slidebank="false" type="slide">operational flexibility often, it is beneficial for an operator to focus on its core business activities and be able to easily scale its operations with changing market conditions. engaging third-party service providers for activities such as ldar surveys provides this flexibility. designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6bKGM7sWRWA" slidebank="false" type="slide">maximizing the potential of ldar survey teams an in-house ldar survey team may be preferable, if it is fully utilized, including to perform supplemental value-added activities, such as: repair leaks where the team is adequately equipped and qualified to do so.  conduct environmental and safety inspections. collect process and environmental samples that may be required by the facility for laboratory analysis.  develop equipment inventories (such as pneumatic devices, venting tanks, etc.). perform emission quantification measurements on unmetered process sources. perform combustion efficiency tests on all fossil fuel fired equipment in support of energy management efforts. use the ogi camera to inspect seals on floating roof storage tanks, and check for internal process leakage (e.g., check for leakage past drain valves and compressor recycle valves). designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6qasaC97Ts9" slidebank="false" type="slide">conducting supplemental activities while on site the relative mobilization and demobilization costs of the ldar survey team to a facility can be substantial, especially for smaller and more widely dispersed facilities.  hence, it is good practice to take maximum advantage of the ldar team while it is on site by having them conduct supplemental activities. designing an ldar program to match available resources:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5jEA5LHWiFJ" slidebank="false" type="slide"> purchasing purchasing the equipment provides greater control and flexibility to utilize the equipment when needed and ensure it is in good working condition. renting renting equipment, if that option is available, does not require any initial capital costs. availability to use equipment        purchasing when purchasing the equipment, it is good practice to have spare parts as recommended by the manufacturer and either an in-house service technician or access to a service company to maintain the instruments. renting renting the equipment may not be available at the specific times you require it, or even at all. reserving the equipment well in advance may be required. spare parts        purchasing purchasing the equipment requires regular maintenance and repair. it is the responsibility of the company to properly maintain and calibrate the equipment on a regular basis which adds additional costs. renting it is the responsibility of the rental company to supply equipment that is in good working condition and properly calibrated. maintenance and repair        purchasing purchasing the equipment is cost-effective when the equipment can be well-utilized. for example, if the equipment is shared across many facilities rather than being dedicated to a single facility or used by a dedicated team that travels to multiple facilities. renting renting the equipment is cost-effective when the equipment is desirable for periods of peak demand or for a short-term use. obtaining equipment        purchasing purchasing instruments requires an initial investment (capital cost) which may pose financial challenges for companies. renting renting equipment, if that option is available, does not require any initial capital costs. capital costs        ldar equipment rental vs purchase when implementing an ldar program, the management team sometimes may have the option to either rent or purchase the necessary equipment for the ldar team.  use the buttons to review the pros and cons of purchasing versus renting the equipment based on several considerations. designing an ldar program to match available resources: capital costs capital costs capital costs capital costs capital costs capital costs obtaining equipment obtaining equipment obtaining equipment obtaining equipment obtaining equipment obtaining equipment maintenance and repair maintenance and repair maintenance and repair maintenance and repair maintenance and repair maintenance and repair spare parts spare parts spare parts spare parts spare parts spare parts availability of equipment availability of equipment availability of equipment availability of equipment availability of equipment availability of equipment</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6jL0lFKnf0Y" slidebank="false" type="slide">development of a central database system  a central database system should be developed to manage the data from all ldar campaigns and surveys, as well as to track the related leak repairs.   initially it may be most practical to process and manage data using spreadsheet applications designed to meet a company’s specific needs.  ultimately, as the amount of data increases, consideration should be given to database solutions for more efficient and reliable handling and processing of data. providing a means for daily data uploads to the central database system reduces the risk of data loss and facilitates early data processing and access to the results.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6BuZkIQItZ7" slidebank="false" type="slide">creating software to compile and process data creating a software application (or leveraging existing applications) to compile and process the data and prepare summary reports (e.g., lists of detected leaks for repair by the maintenance team, emissions reports for the environmental department, and cost/benefit analyses for senior management) would improve overall functionality and optimize ldar program performance by identifying where most of the problems are occurring.</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KAliTgOv83" slidebank="false" type="slide">   data processing and reporting specific data processing and reporting needs may include the following: quantifying total fugitive emissions for environmental reporting purposes. establishing key performance indicators for ongoing monitoring and optimization of the ldar program’s effectiveness. benchmarking the results to quantify the benefits being achieved from the ldar program.               </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6KvFlkDfXXa" slidebank="false" type="slide">estimating equipment leaks  estimates of the annual emissions from equipment leaks are typically required for environmental purposes and are also essential for benchmarking leak management performance of individual facilities and quantifying net reductions being achieved. the quantity of emissions from equipment leaks can be estimated by using leak/no-leak emission factors applicable to oil and gas industry segments and the leak screening results, which can be found in the ogmp 2.0 or api reference.  the total amount of leakage is the sum of all leaks detected and measured, multiplied by the leak durations and extrapolated out annually. for a more refined assessment, these values can be added to the estimated emissions from components classified as non-leakers using the no-leak emission factors provided in the ogmp 2.0 or api reference. for guidance on how to perform these calculations, refer to ogmp 2.0, technical guidance document on leaks, or appendix c.1.1 of the api compendium. tools such as gmi’s smart+ tool can be used to process the leak survey data and develop emission inventories.   are leak-rate measurements performed? no yes   data processing and reporting:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6TwgB9p4V0K" slidebank="false" type="slide">establish a representative baseline  tracking the amount of natural gas loss avoided relative to the emissions baseline helps justify the cost of an ldar program and apprise management and stakeholders of the program's effectiveness. potential options for establishing a representative baseline include:  amount of leakage detected in the first year of a facility’s ldar program.  may not be appropriate for new facilities because the lack of wear and tear may result in an artificially low baseline. average baseline developed from previous or current ldar programs for similar facilities (same type and size).  published emission factors applicable to the industry sector.  this may require some involvement of the operator’s environmental department. consider also using the results of the ldar program to help inform maintenance practices (e.g., identify problematic service applications and determine component and packing material specifications that perform best in these situations and disseminate the findings amongst all facilities). emission reductions tend to be most significant in the initial stages of the program.  with an effective ldar program, the total emissions will decrease over time.   data processing and reporting:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6dZbf9BO9lh" slidebank="false" type="slide">optimizing the effectiveness of an ldar program to monitor and optimize the effectiveness of the ldar program year-over-year (yoy), it is good practice to establish appropriate key performance indicators (kpis) and track them over time.  recommended kpis include: number of leaks detected (by component type). leak frequencies by component type (i.e., percentage of the surveyed components determined to be leaking). total amount of leakage by process component, facility, business unit, and company. difference between total emissions and baseline emissions (i.e., on both an absolute and percentage basis). value of avoided losses. analyzing and monitoring trends of the kpis provides a relative indication of the year-over-year performance.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6Cn9Kxc2V1Z" slidebank="false" type="slide">evaluating absolute performance to evaluate absolute performance, it is useful to compare kpi values to industry benchmarks wherever possible. available industry benchmarks and typical expectations for ldar programs include: industry benchmark typical expectations of a well-designed ldar program percentage total emissions reduction ≥70% reduction within the first year or two relative to the historical emissions baseline. leak frequency  ≤2% for most component categories except for pumps and compressor seals, in which case a target of ≤10% or ≤3 pumps or compressors per facility is applied. economic benefit ldar programs are generally expected to be cost-effective when comparing their costs relative to the value of the avoided emissions.  direct costs include costs of the monitoring equipment, supplies, labor and expenses of the survey team, the cost of the leak repairs or component replacements, and the administrative overhead.  emissions reductions will lead to increased natural gas available for sale. the benefit is the market value of the total emissions reduction relative to the baseline.     optimizing the effectiveness of an ldar program:</slidetext>
+      <slidetext slideid="6R0OsurKeaO.5tX1tQzCkxI" slidebank="false" type="slide">emerging ldar strategies remote or top-down monitoring techniques are emerging strategies to screen for high emitting facilities (or areas at those facilities), or large numbers of geographically dispersed facilities, at which to perform ldar surveys. top-down monitoring techniques could include the following steps:  employ satellites, aircrafts, road-vehicle or drone mounted monitoring systems to identify regional hot spots and establish a list of high-emitting facilities. use small-scale monitoring drones to identify high-emitting areas at the facilities identified in step 1. use data from stationary continuous motoring systems installed at facilities to provide early detection of large leaks. conduct ldar survey to pinpoint and fix individual leaks satellite, aircraft, drone and vehicle-based monitoring and quantification technologies can be used to: identify and eliminate facilities that do not have material emissions from further evaluation. reduce the number of facilities that require a comprehensive ldar survey. </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6FIyRHhE37w" slidebank="false" type="slide">module 3 summary</slidetext>
+      <slidetext slideid="6R0OsurKeaO.6eOn50lLbMw" slidebank="false" type="slide">what you have learned in this module, you learned how to design an effective ldar program. it is essential that an ldar program clearly sets performance objectives, develops documents outlining procedures and implementation plans, maintains and calibrates ldar instruments, trains the ldar survey teams, and develops a centralized database system to track the ldar survey results, leak repairs, and program performance.  when designing the ldar program, the cost of engaging a third-party service provider versus developing an in-house team to implement the ldar program should be considered. it is also important to establish an initial ldar survey frequency based on the available resources.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6J0sFIRD8XM" slidebank="false" type="slide">what you have learned (continued) a central database system should be developed to manage the data from all ldar campaigns and surveys as well as for tracking the related leak repairs. if necessary, a software application could be created to process the data and prepare summary reports. to monitor and optimize the effectiveness of the ldar program year-over-year, it is good practice to establish appropriate kpis and track them over time. to evaluate absolute performance, it is useful to compare kpi values to industry benchmarks wherever possible.   </slidetext>
+      <slidetext slideid="6R0OsurKeaO.6WrWRvJd9vW" slidebank="false" type="slide">thank you!  you have completed:  module 3. designing and managing an ldar program</slidetext>
+      <slidetext slideid="5z2XRJza9by.5aZTwl3uPkX" slidebank="false" type="slide">the global methane initiative (gmi) is an international public-private partnership focused on reducing barriers to the recovery and use of methane as a valuable energy source.  what is the global methane initiative?  gmi partner countries gmi partner countries represent nearly 75% of global methane emissions from human activities. globalmethane.org globalmethane.org globalmethane.org globalmethane.org globalmethane.org globalmethane.org</slidetext>
+      <slidetext slideid="5z2XRJza9by.6dNKV24w6SU" slidebank="false" type="slide">scenario 1: compressor unit pressurized </slidetext>
+      <slidetext slideid="5z2XRJza9by.5vBDvinWj2F" slidebank="false" type="slide">scenario 2: compressor unit depressurized </slidetext>
+      <slidetext slideid="5z2XRJza9by.6LfghXkLnj4" slidebank="false" type="slide">example: sample leak statistics for gas transmission facilities in this example, the leak potential for a connector is set to 1, and a relative leak potential is calculated for other components based on their contributions to total emissions. over 145,000 connectors contribute about 4.6% of total emissions.   219 blowdown systems contribute more than 53% of total emissions.   the relative leak potential for each blowdown system is 7,616 times higher than the relative leak potential for each connector. hence, blowdown systems warrant more attention and connectors warrant much less attention.    </slidetext>
+      <slidetext slideid="5rmdM4my1G6.5ov2t7juJZe" slidebank="false" type="slide">how to navigate use the buttons at the bottom right of the screen to proceed through the module. you will proceed one slide at a time, although you can revisit slides at any time using the menu navigation pane on the left. click the menu icon to show or hide the navigation pane. if you need to leave the module, the last slide to be completed will be saved, and you will be able to return to that location later. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="6MpSPVyVB6V.5o7ESFm8DaM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="There are five modules in this course. The first module, Introduction and Objectives, is up next."&gt;
+        &lt;Style FontSize="12" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5z2XRJza9by.6LfghXkLnj4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In this example, the leak potential for a connector is set to 1, and a relative leak potential is calculated for other components based on their contributions to total emissions.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Over 145,000 connectors contribute about 4.6% of total emissions. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="219 blowdown systems contribute more than 53% of total emissions. &amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="The relative leak potential for each blowdown system is 7,616 times higher than the relative leak potential for each connector.&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Hence, blowdown systems warrant more attention and connectors warrant much less attention. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

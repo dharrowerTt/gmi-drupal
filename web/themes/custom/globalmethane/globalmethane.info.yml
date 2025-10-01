@@ -1,0 +1,16 @@
+name: Global Methane Theme
+type: theme
+core_version_requirement: ">=9.2"
+libraries:
+  - globalmethane/global
+
+base theme: false
+regions:
+  header: Header
+  top: Top Bar
+  primary_menu: Primary Navigation
+  carousel: Carousel Section
+  hero: Hero Image Section
+  intro_panel: Intro and Quick Links
+  content: Main Content
+  footer: Footer

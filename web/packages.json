@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "laminas/laminas-feed": {
+      "version": "2.24.0",
+      "name": "laminas/laminas-feed",
+      "type": "library",
+      "install-path": "libraries/laminas-feed"
+    }
+  }
+}
